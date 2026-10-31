@@ -3,7 +3,10 @@
     "id": "scholay-today",
     "spaceId": "academic",
     "name": "今日学术",
-    "languages": ["zh-CN", "en"],
+    "languages": [
+      "zh-CN",
+      "en"
+    ],
     "domain": "学术",
     "origin": "https://today.scholay.com",
     "description": "每日学术资讯、科研日程与学术历史。",
@@ -237,6 +240,10 @@
         "view": "page",
         "service": "guestbook"
       }
+    ],
+    "languages": [
+      "zh-CN",
+      "en"
     ]
   },
   {
@@ -342,6 +349,10 @@
         "href": "/#about",
         "view": "page"
       }
+    ],
+    "languages": [
+      "zh-CN",
+      "en"
     ]
   },
   {
@@ -480,6 +491,10 @@
           "es": "Contacto"
         }
       }
+    ],
+    "languages": [
+      "zh-CN",
+      "en"
     ]
   },
   {
@@ -580,6 +595,10 @@
         "view": "graph",
         "module": "graph"
       }
+    ],
+    "languages": [
+      "zh-CN",
+      "en"
     ]
   },
   {
@@ -610,7 +629,10 @@
     "retainLocal": true,
     "themeId": "journal",
     "name": "犀术智法",
-    "languages": ["zh-CN", "en"],
+    "languages": [
+      "zh-CN",
+      "en"
+    ],
     "origin": "https://legis.wiki",
     "slogan": "法律，是游戏规则的艺术",
     "publicColumns": [
@@ -696,7 +718,10 @@
     "themeId": "journal",
     "name": "研究方法",
     "origin": "https://metho.scholay.com",
-    "languages": ["zh-CN", "en"],
+    "languages": [
+      "zh-CN",
+      "en"
+    ],
     "slogan": "仪式可以模仿，理解无法伪装",
     "publicColumns": [
       "方法百科",
@@ -787,7 +812,10 @@
     "retainLocal": true,
     "themeId": "journal",
     "name": "学术之门",
-    "languages": ["zh-CN", "en"],
+    "languages": [
+      "zh-CN",
+      "en"
+    ],
     "origin": "https://enter.scholay.com",
     "slogan": "学者的智能时代生活指南",
     "publicColumns": [
@@ -886,7 +914,10 @@
     "retainLocal": true,
     "themeId": "journal",
     "name": "犀术国学",
-    "languages": ["zh-CN", "en"],
+    "languages": [
+      "zh-CN",
+      "en"
+    ],
     "origin": "https://xsiching.com",
     "slogan": "心有灵犀，只言见术",
     "publicColumns": [
@@ -978,7 +1009,10 @@
     "retainLocal": true,
     "themeId": "journal",
     "name": "智能学堂",
-    "languages": ["zh-CN", "en"],
+    "languages": [
+      "zh-CN",
+      "en"
+    ],
     "origin": "https://study.scholay.com",
     "slogan": "你的智能时代专属学堂",
     "publicColumns": [
