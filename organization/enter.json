@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "siteId": "enter",
+  "sections": [
+    {
+      "id": "forums",
+      "name": "学术论坛",
+      "description": "学术社区、论坛与讨论入口。",
+      "includes": [
+        "column-1"
+      ]
+    },
+    {
+      "id": "software",
+      "name": "软件网站",
+      "description": "学术软件与网站，按用途阅读。",
+      "includes": [
+        "column-2",
+        "column-3"
+      ]
+    },
+    {
+      "id": "search",
+      "name": "学术检索",
+      "description": "文献、数据与资料检索入口。",
+      "includes": []
+    },
+    {
+      "id": "courses",
+      "name": "课程资源",
+      "description": "课程、培训与学习资源导航。",
+      "includes": [
+        "column-4",
+        "column-5"
+      ]
+    }
+  ],
+  "hubs": [],
+  "bindings": []
+}

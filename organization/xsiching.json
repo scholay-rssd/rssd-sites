@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "siteId": "xsiching",
+  "sections": [
+    {
+      "id": "classics",
+      "name": "国学经典",
+      "description": "经典原文、版本与资料档案。",
+      "includes": [
+        "column-1",
+        "column-5"
+      ]
+    },
+    {
+      "id": "interpretations",
+      "name": "易家之言",
+      "description": "有据可查的解读与研究。",
+      "includes": [
+        "column-2"
+      ]
+    },
+    {
+      "id": "applications",
+      "name": "精品应用",
+      "description": "国学资料工具与应用。",
+      "includes": [
+        "column-3"
+      ]
+    },
+    {
+      "id": "courses",
+      "name": "课程资源",
+      "description": "课程、讲义与学习资料。",
+      "includes": [
+        "column-4"
+      ]
+    }
+  ],
+  "hubs": [],
+  "bindings": []
+}

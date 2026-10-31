@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "siteId": "metho",
+  "sections": [
+    {
+      "id": "methods",
+      "name": "方法百科",
+      "description": "概念、适用条件与方法条目。",
+      "includes": [
+        "column-1",
+        "column-3",
+        "column-5"
+      ]
+    },
+    {
+      "id": "statistics",
+      "name": "统计之美",
+      "description": "统计思维、分析与解释。",
+      "includes": [
+        "column-2"
+      ]
+    },
+    {
+      "id": "experiments",
+      "name": "实验星球",
+      "description": "实验设计、执行与复现。",
+      "includes": [
+        "column-4"
+      ]
+    },
+    {
+      "id": "frontiers",
+      "name": "方法前沿",
+      "description": "研究方法的新进展与讨论。",
+      "includes": []
+    }
+  ],
+  "hubs": [],
+  "bindings": []
+}

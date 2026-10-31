@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>today · pets · RSS 2026-10-13</title>
+  </head>
+  <body>
+    <outline text="宠物资讯" title="宠物资讯">
+      <outline type="rss" text="All Posts – Vet Help Direct" title="All Posts – Vet Help Direct" xmlUrl="https://vethelpdirect.com/vetblog/feed/" />
+      <outline type="rss" text="GlobalPETS" title="GlobalPETS" xmlUrl="https://globalpetindustry.com/feed/" />
+      <outline type="rss" text="Hepper" title="Hepper" xmlUrl="https://www.hepper.com/feed/" />
+      <outline type="rss" text="PetfoodIndustry" title="PetfoodIndustry" xmlUrl="https://www.petfoodindustry.com/rss" />
+    </outline>
+    <outline text="宠物赛事·展会·节日" title="宠物赛事·展会·节日">
+      <outline type="rss" text="The Cat Fanciers' Association" title="The Cat Fanciers' Association" xmlUrl="https://cfa.org/feed/" />
+      <outline type="rss" text="The Westminster Kennel Club" title="The Westminster Kennel Club" xmlUrl="https://www.westminsterkennelclub.org/feed/" />
+    </outline>
+    <outline text="异宠大全" title="异宠大全">
+      <outline type="rss" text="Aquarium Co-Op - Freshwater Aquarium Blog" title="Aquarium Co-Op - Freshwater Aquarium Blog" xmlUrl="https://www.aquariumcoop.com/blogs/aquarium.atom" />
+      <outline type="rss" text="ExoticDirect" title="ExoticDirect" xmlUrl="https://www.exoticdirect.co.uk/feed/" />
+      <outline type="rss" text="Rabbit.org" title="Rabbit.org" xmlUrl="https://rabbit.org/feed/" />
+      <outline type="rss" text="ReptiFiles®" title="ReptiFiles®" xmlUrl="https://reptifiles.com/feed/" />
+    </outline>
+    <outline text="每日一狗" title="每日一狗">
+      <outline type="rss" text="Dogster: Dog Care &amp; Health Guides by Veterinarians &amp; Experts" title="Dogster: Dog Care &amp; Health Guides by Veterinarians &amp; Experts" xmlUrl="https://www.dogster.com/feed/" />
+      <outline type="rss" text="The Dogington Post" title="The Dogington Post" xmlUrl="https://www.dogingtonpost.com/feed/" />
+      <outline type="rss" text="Whole Dog Journal" title="Whole Dog Journal" xmlUrl="https://www.whole-dog-journal.com/feed/" />
+    </outline>
+    <outline text="每日一猫" title="每日一猫">
+      <outline type="rss" text="Cats.com" title="Cats.com" xmlUrl="https://cats.com/feed" />
+      <outline type="rss" text="Catster: Cat Care &amp; Health Guides by Veterinarians &amp; Experts" title="Catster: Cat Care &amp; Health Guides by Veterinarians &amp; Experts" xmlUrl="https://www.catster.com/feed/" />
+      <outline type="rss" text="Love Meow" title="Love Meow" xmlUrl="https://www.lovemeow.com/feeds/feed.rss" />
+      <outline type="rss" text="The Purrington Post" title="The Purrington Post" xmlUrl="https://www.thepurringtonpost.com/feed/" />
+    </outline>
+  </body>
+</opml>

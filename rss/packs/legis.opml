@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>犀术智法订阅</title>
+  </head>
+  <body>
+    <outline text="法律前沿">
+      <outline text="Lawfare 科技与法律" title="Lawfare 科技与法律" type="rss" xmlUrl="https://www.lawfaremedia.org/feeds/cybersecurity-tech" />
+    </outline>
+    <outline text="法律案例">
+      <outline text="Eric Goldman 科技与营销法" title="Eric Goldman 科技与营销法" type="rss" xmlUrl="https://blog.ericgoldman.org/feed" />
+      <outline text="EFF 数字权利" title="EFF 数字权利" type="rss" xmlUrl="https://www.eff.org/rss/updates.xml" />
+    </outline>
+    <outline text="政策法规">
+      <outline text="EPIC 隐私与 AI" title="EPIC 隐私与 AI" type="rss" xmlUrl="https://epic.org/feed/" />
+      <outline text="欧盟数字战略" title="欧盟数字战略" type="rss" xmlUrl="https://digital-strategy.ec.europa.eu/en/rss.xml" />
+    </outline>
+    <outline text="知识产权">
+      <outline text="WIPO 新闻" title="WIPO 新闻" type="rss" xmlUrl="https://www.wipo.int/pressroom/en/rss.xml" />
+    </outline>
+  </body>
+</opml>

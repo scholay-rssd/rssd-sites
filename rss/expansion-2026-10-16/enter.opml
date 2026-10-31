@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>学术门户 · 100 个已验证扩增订阅</title>
+    <dateModified>2026-10-16T15:36:26.393080+00:00</dateModified>
+  </head>
+  <body>
+    <outline text="学术论坛 · 扩增" title="学术论坛 · 扩增">
+      <outline type="rss" text="Center for Open Science · 开放科学博客" title="Center for Open Science · 开放科学博客" xmlUrl="https://www.cos.io/blog/rss.xml" htmlUrl="https://www.cos.io/blog" />
+      <outline type="rss" text="Blog on rOpenSci - open tools for open science" title="Blog on rOpenSci - open tools for open science" xmlUrl="https://ropensci.org/blog/index.xml" htmlUrl="https://ropensci.org/blog/" />
+      <outline type="rss" text="COST" title="COST" xmlUrl="https://www.cost.eu/feed/" htmlUrl="https://www.cost.eu/" />
+      <outline type="rss" text="Calls Swedish Research Council" title="Calls Swedish Research Council" xmlUrl="https://www.vr.se/4.4f3e672a18df2c1c2d21dbef/12.4f3e672a18df2c1c2d21dbff.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" htmlUrl="https://www.vr.se/english/applying-for-funding/calls-and-decisions/calls-as-rss-feed.html" />
+      <outline type="rss" text="DARIAH-EU: News" title="DARIAH-EU: News" xmlUrl="https://www.dariah.eu/feeds/news.xml" htmlUrl="https://www.dariah.eu/news" />
+      <outline type="rss" text="Digital Humanities Now" title="Digital Humanities Now" xmlUrl="https://digitalhumanitiesnow.org/feed/" htmlUrl="https://digitalhumanitiesnow.org" />
+      <outline type="rss" text="Hugging Face Forums" title="Hugging Face Forums" xmlUrl="https://discuss.huggingface.co/latest.rss" htmlUrl="https://discuss.huggingface.co/latest" />
+      <outline type="rss" text="INOSC" title="INOSC" xmlUrl="https://osc-international.com/feed/" htmlUrl="https://osc-international.com" />
+      <outline type="rss" text="Invest in Open Infrastructure" title="Invest in Open Infrastructure" xmlUrl="https://investinopen.org/rss/" htmlUrl="https://investinopen.org" />
+      <outline type="rss" text="Julia Discourse" title="Julia Discourse" xmlUrl="https://discourse.julialang.org/latest.rss" htmlUrl="https://discourse.julialang.org/latest" />
+      <outline type="rss" text="Jupyter Community Forum - Latest topics" title="Jupyter Community Forum - Latest topics" xmlUrl="https://discourse.jupyter.org/latest.rss" htmlUrl="https://discourse.jupyter.org/latest" />
+      <outline type="rss" text="Linguistics SE" title="Linguistics SE" xmlUrl="https://linguistics.stackexchange.com/feeds" htmlUrl="https://linguistics.stackexchange.com/questions" />
+      <outline type="rss" text="MNE Forum" title="MNE Forum" xmlUrl="https://mne.discourse.group/latest.rss" htmlUrl="https://mne.discourse.group/latest" />
+      <outline type="rss" text="Neurostars" title="Neurostars" xmlUrl="https://neurostars.org/latest.rss" htmlUrl="https://neurostars.org/latest" />
+      <outline type="rss" text="OEGlobal" title="OEGlobal" xmlUrl="https://www.oeglobal.org/feed/" htmlUrl="https://www.oeglobal.org" />
+      <outline type="rss" text="OpenRefine - Latest topics" title="OpenRefine - Latest topics" xmlUrl="https://forum.openrefine.org/latest.rss" htmlUrl="https://forum.openrefine.org/latest" />
+      <outline type="rss" text="Posit Community" title="Posit Community" xmlUrl="https://forum.posit.co/latest.rss" htmlUrl="https://forum.posit.co/latest" />
+      <outline type="rss" text="PsychoPy Forum" title="PsychoPy Forum" xmlUrl="https://discourse.psychopy.org/latest.rss" htmlUrl="https://discourse.psychopy.org/latest" />
+      <outline type="rss" text="PyMC Discourse" title="PyMC Discourse" xmlUrl="https://discourse.pymc.io/latest.rss" htmlUrl="https://discourse.pymc.io/latest" />
+      <outline type="rss" text="PyTorch Forums" title="PyTorch Forums" xmlUrl="https://discuss.pytorch.org/latest.rss" htmlUrl="https://discuss.pytorch.org/latest" />
+      <outline type="rss" text="ReproducibiliTea" title="ReproducibiliTea" xmlUrl="https://reproducibilitea.org/feed.xml" htmlUrl="https://reproducibilitea.org/" />
+      <outline type="rss" text="SSHOPENCLOUD" title="SSHOPENCLOUD" xmlUrl="https://sshoc.eu/rss.xml" htmlUrl="https://sshoc.eu" />
+      <outline type="rss" text="Stan Forums" title="Stan Forums" xmlUrl="https://discourse.mc-stan.org/latest.rss" htmlUrl="https://discourse.mc-stan.org/latest" />
+      <outline type="rss" text="TensorFlow Forum" title="TensorFlow Forum" xmlUrl="https://discuss.ai.google.dev/latest.rss" htmlUrl="https://discuss.ai.google.dev/latest" />
+      <outline type="rss" text="rOpenSci - open tools for open science" title="rOpenSci - open tools for open science" xmlUrl="https://ropensci.org/index.xml" htmlUrl="https://ropensci.org/" />
+    </outline>
+    <outline text="软件网站 · 扩增" title="软件网站 · 扩增">
+      <outline type="rss" text="Blog on Posit Open Source" title="Blog on Posit Open Source" xmlUrl="https://quarto.org/docs/blog/index.xml" htmlUrl="https://opensource.posit.co/blog/" />
+      <outline type="rss" text="Obsidian Blog" title="Obsidian Blog" xmlUrl="https://obsidian.md/feed.xml" htmlUrl="https://obsidian.md/" />
+      <outline type="rss" text="AppFlowy-IO/AppFlowy · 版本发布" title="AppFlowy-IO/AppFlowy · 版本发布" xmlUrl="https://github.com/AppFlowy-IO/AppFlowy/releases.atom" htmlUrl="https://github.com/AppFlowy-IO/AppFlowy/releases" />
+      <outline type="rss" text="OpenRefine/OpenRefine · 版本发布" title="OpenRefine/OpenRefine · 版本发布" xmlUrl="https://github.com/OpenRefine/OpenRefine/releases.atom" htmlUrl="https://github.com/OpenRefine/OpenRefine/releases" />
+      <outline type="rss" text="ActivityWatch/activitywatch · 版本发布" title="ActivityWatch/activitywatch · 版本发布" xmlUrl="https://github.com/ActivityWatch/activitywatch/releases.atom" htmlUrl="https://github.com/ActivityWatch/activitywatch/releases" />
+      <outline type="rss" text="excalidraw/excalidraw · 版本发布" title="excalidraw/excalidraw · 版本发布" xmlUrl="https://github.com/excalidraw/excalidraw/releases.atom" htmlUrl="https://github.com/excalidraw/excalidraw/releases" />
+      <outline type="rss" text="jamovi/jamovi · 版本发布" title="jamovi/jamovi · 版本发布" xmlUrl="https://github.com/jamovi/jamovi/releases.atom" htmlUrl="https://github.com/jamovi/jamovi/releases" />
+      <outline type="rss" text="jasp-stats/jasp-desktop · 版本发布" title="jasp-stats/jasp-desktop · 版本发布" xmlUrl="https://github.com/jasp-stats/jasp-desktop/releases.atom" htmlUrl="https://github.com/jasp-stats/jasp-desktop/releases" />
+      <outline type="rss" text="jupyterlab/jupyterlab · 版本发布" title="jupyterlab/jupyterlab · 版本发布" xmlUrl="https://github.com/jupyterlab/jupyterlab/releases.atom" htmlUrl="https://github.com/jupyterlab/jupyterlab/releases" />
+      <outline type="rss" text="logseq/logseq · 版本发布" title="logseq/logseq · 版本发布" xmlUrl="https://github.com/logseq/logseq/releases.atom" htmlUrl="https://github.com/logseq/logseq/releases" />
+      <outline type="rss" text="jupyter/notebook · 版本发布" title="jupyter/notebook · 版本发布" xmlUrl="https://github.com/jupyter/notebook/releases.atom" htmlUrl="https://github.com/jupyter/notebook/releases" />
+      <outline type="rss" text="obsidianmd/obsidian-releases · 版本发布" title="obsidianmd/obsidian-releases · 版本发布" xmlUrl="https://github.com/obsidianmd/obsidian-releases/releases.atom" htmlUrl="https://github.com/obsidianmd/obsidian-releases/releases" />
+      <outline type="rss" text="jgm/pandoc · 版本发布" title="jgm/pandoc · 版本发布" xmlUrl="https://github.com/jgm/pandoc/releases.atom" htmlUrl="https://github.com/jgm/pandoc/releases" />
+      <outline type="rss" text="quarto-dev/quarto-cli · 版本发布" title="quarto-dev/quarto-cli · 版本发布" xmlUrl="https://github.com/quarto-dev/quarto-cli/releases.atom" htmlUrl="https://github.com/quarto-dev/quarto-cli/releases" />
+      <outline type="rss" text="rclone/rclone · 版本发布" title="rclone/rclone · 版本发布" xmlUrl="https://github.com/rclone/rclone/releases.atom" htmlUrl="https://github.com/rclone/rclone/releases" />
+      <outline type="rss" text="restic/restic · 版本发布" title="restic/restic · 版本发布" xmlUrl="https://github.com/restic/restic/releases.atom" htmlUrl="https://github.com/restic/restic/releases" />
+      <outline type="rss" text="rustdesk/rustdesk · 版本发布" title="rustdesk/rustdesk · 版本发布" xmlUrl="https://github.com/rustdesk/rustdesk/releases.atom" htmlUrl="https://github.com/rustdesk/rustdesk/releases" />
+      <outline type="rss" text="syncthing/syncthing · 版本发布" title="syncthing/syncthing · 版本发布" xmlUrl="https://github.com/syncthing/syncthing/releases.atom" htmlUrl="https://github.com/syncthing/syncthing/releases" />
+      <outline type="rss" text="typst/typst · 版本发布" title="typst/typst · 版本发布" xmlUrl="https://github.com/typst/typst/releases.atom" htmlUrl="https://github.com/typst/typst/releases" />
+      <outline type="rss" text="zotero/zotero · 版本发布" title="zotero/zotero · 版本发布" xmlUrl="https://github.com/zotero/zotero/releases.atom" htmlUrl="https://github.com/zotero/zotero/releases" />
+      <outline type="rss" text="jupyterhub/jupyterhub · 项目更新" title="jupyterhub/jupyterhub · 项目更新" xmlUrl="https://github.com/jupyterhub/jupyterhub/commits/HEAD.atom" htmlUrl="https://github.com/jupyterhub/jupyterhub/commits/10c37af3bfe6aad9676c6decde14a6f6b2dd11d0" />
+      <outline type="rss" text="spyder-ide/spyder · 项目更新" title="spyder-ide/spyder · 项目更新" xmlUrl="https://github.com/spyder-ide/spyder/commits/HEAD.atom" htmlUrl="https://github.com/spyder-ide/spyder/commits/2d3e9ff181e78e930d6ee38869bd2da8ed914691" />
+      <outline type="rss" text="zotero/translators · 项目更新" title="zotero/translators · 项目更新" xmlUrl="https://github.com/zotero/translators/commits/HEAD.atom" htmlUrl="https://github.com/zotero/translators/commits/0583a9e1ed4fd9f66da2bfc42ccfb524c1d944b0" />
+      <outline type="rss" text="少数派" title="少数派" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com" />
+      <outline type="rss" text="阮一峰的网络日志" title="阮一峰的网络日志" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml" htmlUrl="http://www.ruanyifeng.com/blog/" />
+    </outline>
+    <outline text="学术检索 · 扩增" title="学术检索 · 扩增">
+      <outline type="rss" text="CORE" title="CORE" xmlUrl="https://blog.core.ac.uk/feed/" htmlUrl="https://blog.core.ac.uk" />
+      <outline type="rss" text="DOAJ Blog" title="DOAJ Blog" xmlUrl="https://blog.doaj.org/feed/" htmlUrl="https://blog.doaj.org" />
+      <outline type="rss" text="DSpace/DSpace · 项目更新" title="DSpace/DSpace · 项目更新" xmlUrl="https://github.com/DSpace/DSpace/commits/HEAD.atom" htmlUrl="https://github.com/DSpace/DSpace/commits/622fc02e14914a990eba0bc175c2f5dfecf702de" />
+      <outline type="rss" text="Internet Archive" title="Internet Archive" xmlUrl="https://blog.archive.org/feed/" htmlUrl="https://blog.archive.org" />
+      <outline type="rss" text="JSTOR Daily" title="JSTOR Daily" xmlUrl="https://daily.jstor.org/feed/" htmlUrl="https://daily.jstor.org/" />
+      <outline type="rss" text="News from arXiv" title="News from arXiv" xmlUrl="https://blog.arxiv.org/feed/" htmlUrl="https://blog.arxiv.org" />
+      <outline type="rss" text="OAPEN" title="OAPEN" xmlUrl="https://oapen.hypotheses.org/feed" htmlUrl="https://oapen.hypotheses.org" />
+      <outline type="rss" text="Open Book Publishers" title="Open Book Publishers" xmlUrl="https://blogs.openbookpublishers.com/rss/" htmlUrl="https://blogs.openbookpublishers.com/" />
+      <outline type="rss" text="Open Knowledge Foundation" title="Open Knowledge Foundation" xmlUrl="https://blog.okfn.org/feed/" htmlUrl="https://blog.okfn.org" />
+      <outline type="rss" text="Open Library" title="Open Library" xmlUrl="https://blog.openlibrary.org/feed/" htmlUrl="https://blog.openlibrary.org" />
+      <outline type="rss" text="OpenAIRE" title="OpenAIRE" xmlUrl="https://www.openaire.eu/blogs?format=feed&amp;type=rss" htmlUrl="https://www.openaire.eu/community/blogs" />
+      <outline type="rss" text="PubMed NCBI Insights" title="PubMed NCBI Insights" xmlUrl="https://ncbiinsights.ncbi.nlm.nih.gov/feed/" htmlUrl="https://ncbiinsights.ncbi.nlm.nih.gov/" />
+      <outline type="rss" text="Public Knowledge Project" title="Public Knowledge Project" xmlUrl="https://pkp.sfu.ca/feed/" htmlUrl="https://pkp.sfu.ca/" />
+      <outline type="rss" text="Sciety" title="Sciety" xmlUrl="https://blog.sciety.org/rss/" htmlUrl="https://blog.sciety.org/" />
+      <outline type="rss" text="Upstream" title="Upstream" xmlUrl="https://upstream.force11.org/latest/rss/" htmlUrl="https://upstream.force11.org/" />
+      <outline type="rss" text="arxiv/arxiv-base · 项目更新" title="arxiv/arxiv-base · 项目更新" xmlUrl="https://github.com/arxiv/arxiv-base/commits/HEAD.atom" htmlUrl="https://github.com/arXiv/arxiv-base/commits/303d6312108cb381dd2d4fc801e534e34e197fa4" />
+      <outline type="rss" text="arxiv/arxiv-search · 项目更新" title="arxiv/arxiv-search · 项目更新" xmlUrl="https://github.com/arxiv/arxiv-search/commits/HEAD.atom" htmlUrl="https://github.com/arXiv/arxiv-search/commits/d1ef66006ca9512cce814d36ea48474f5749373e" />
+      <outline type="rss" text="inveniosoftware/invenio-app-rdm · 项目更新" title="inveniosoftware/invenio-app-rdm · 项目更新" xmlUrl="https://github.com/inveniosoftware/invenio-app-rdm/commits/HEAD.atom" htmlUrl="https://github.com/inveniosoftware/invenio-app-rdm/commits/08f823494763847cd9bffda90bc022dde41f6c6a" />
+      <outline type="rss" text="jannisborn/paperscraper · 项目更新" title="jannisborn/paperscraper · 项目更新" xmlUrl="https://github.com/jannisborn/paperscraper/commits/HEAD.atom" htmlUrl="https://github.com/jannisborn/paperscraper/commits/4fae7f69a6b71cc2d4e188b28d26aa07a2901d07" />
+      <outline type="rss" text="metapub/metapub · 项目更新" title="metapub/metapub · 项目更新" xmlUrl="https://github.com/metapub/metapub/commits/HEAD.atom" htmlUrl="https://github.com/metapub/metapub/commits/d84ce02fe4fa104bb0002470dd06f4c49941c3a1" />
+      <outline type="rss" text="ncbi/datasets · 项目更新" title="ncbi/datasets · 项目更新" xmlUrl="https://github.com/ncbi/datasets/commits/HEAD.atom" htmlUrl="https://github.com/ncbi/datasets/commits/488962028aab2a1bab244dd35def300783cebf69" />
+      <outline type="rss" text="openjournals/joss · 项目更新" title="openjournals/joss · 项目更新" xmlUrl="https://github.com/openjournals/joss/commits/HEAD.atom" htmlUrl="https://github.com/openjournals/joss/commits/e738d274343dc7a9a73cb4880c2bb31633a961c8" />
+      <outline type="rss" text="orcid/ORCID-Source · 项目更新" title="orcid/ORCID-Source · 项目更新" xmlUrl="https://github.com/orcid/ORCID-Source/commits/HEAD.atom" htmlUrl="https://github.com/ORCID/ORCID-Source/commits/247d1e656f5038ff0b6088d6eb9d2e16d4d83102" />
+      <outline type="rss" text="ourresearch/openalex-guts · 项目更新" title="ourresearch/openalex-guts · 项目更新" xmlUrl="https://github.com/ourresearch/openalex-guts/commits/HEAD.atom" htmlUrl="https://github.com/ourresearch/openalex-guts/commits/8b0e87d0589abb75e03b66dbc7e6b6a00896688f" />
+      <outline type="rss" text="pkp/ojs · 项目更新" title="pkp/ojs · 项目更新" xmlUrl="https://github.com/pkp/ojs/commits/HEAD.atom" htmlUrl="https://github.com/pkp/ojs/commits/79c3676d1b91e033e313e454b2d3c4ef17618963" />
+    </outline>
+    <outline text="课程资源 · 扩增" title="课程资源 · 扩增">
+      <outline type="rss" text="Bayesian Spectacles" title="Bayesian Spectacles" xmlUrl="https://www.bayesianspectacles.org/feed/" htmlUrl="https://www.bayesianspectacles.org" />
+      <outline type="rss" text="DARIAH-EU: Events" title="DARIAH-EU: Events" xmlUrl="https://www.dariah.eu/feeds/events.xml" htmlUrl="https://www.dariah.eu/events" />
+      <outline type="rss" text="Data School" title="Data School" xmlUrl="https://www.dataschool.io/rss/" htmlUrl="https://www.dataschool.io/" />
+      <outline type="rss" text="Editage Insights" title="Editage Insights" xmlUrl="https://www.editage.com/insights/feed" htmlUrl="https://www.editage.com/insights/" />
+      <outline type="rss" text="Galaxy Training!" title="Galaxy Training!" xmlUrl="https://training.galaxyproject.org/training-material/feed.xml" htmlUrl="https://training.galaxyproject.org/training-material/" />
+      <outline type="rss" text="LibraryCarpentry/lc-data-intro · 项目更新" title="LibraryCarpentry/lc-data-intro · 项目更新" xmlUrl="https://github.com/LibraryCarpentry/lc-data-intro/commits/HEAD.atom" htmlUrl="https://github.com/LibraryCarpentry/lc-data-intro/commits/93dc7703bebdbb1784e505d92924090bfda8f85b" />
+      <outline type="rss" text="LibraryCarpentry/lc-open-refine · 项目更新" title="LibraryCarpentry/lc-open-refine · 项目更新" xmlUrl="https://github.com/LibraryCarpentry/lc-open-refine/commits/HEAD.atom" htmlUrl="https://github.com/LibraryCarpentry/lc-open-refine/commits/7c9289538cc4c296fc20ebaf1a9ddda893deb37c" />
+      <outline type="rss" text="Methods Blog" title="Methods Blog" xmlUrl="https://methodsblog.com/feed/" htmlUrl="https://methodsblog.com" />
+      <outline type="rss" text="NCRM · 即将举办的科研方法培训" title="NCRM · 即将举办的科研方法培训" xmlUrl="https://www.ncrm.ac.uk/training/rss/rss.php?id=0c06e0c1146738fc23461a5a45cdfc43" htmlUrl="https://www.ncrm.ac.uk/training/" />
+      <outline type="rss" text="Programming Historian" title="Programming Historian" xmlUrl="https://programminghistorian.org/feed.xml" htmlUrl="https://programminghistorian.org" />
+      <outline type="rss" text="R-bloggers" title="R-bloggers" xmlUrl="https://www.r-bloggers.com/feed/" htmlUrl="https://www.r-bloggers.com" />
+      <outline type="rss" text="Statistical Horizons" title="Statistical Horizons" xmlUrl="https://statisticalhorizons.com/feed/" htmlUrl="https://statisticalhorizons.com/" />
+      <outline type="rss" text="Statistical Modeling, Causal Inference, and Social Science" title="Statistical Modeling, Causal Inference, and Social Science" xmlUrl="https://statmodeling.stat.columbia.edu/feed/" htmlUrl="https://statmodeling.stat.columbia.edu" />
+      <outline type="rss" text="Statology" title="Statology" xmlUrl="https://www.statology.org/feed/" htmlUrl="https://www.statology.org/" />
+      <outline type="rss" text="The Stata Blog" title="The Stata Blog" xmlUrl="https://blog.stata.com/feed/" htmlUrl="https://blog.stata.com/" />
+      <outline type="rss" text="carpentries/workbench · 项目更新" title="carpentries/workbench · 项目更新" xmlUrl="https://github.com/carpentries/workbench/commits/HEAD.atom" htmlUrl="https://github.com/carpentries/workbench/commits/0debd0fa5078280facc6c561ad7da95380917cdd" />
+      <outline type="rss" text="data-8/textbook · 项目更新" title="data-8/textbook · 项目更新" xmlUrl="https://github.com/data-8/textbook/commits/HEAD.atom" htmlUrl="https://github.com/data-8/textbook/commits/5235b7653f8dfaeb90e43419b9aa069322f2d60b" />
+      <outline type="rss" text="datacarpentry/R-ecology-lesson · 项目更新" title="datacarpentry/R-ecology-lesson · 项目更新" xmlUrl="https://github.com/datacarpentry/R-ecology-lesson/commits/HEAD.atom" htmlUrl="https://github.com/datacarpentry/R-ecology-lesson/commits/04c8e63f3e3a04db92cb10df19ce26e096bf8f52" />
+      <outline type="rss" text="huggingface/course · 项目更新" title="huggingface/course · 项目更新" xmlUrl="https://github.com/huggingface/course/commits/HEAD.atom" htmlUrl="https://github.com/huggingface/course/commits/8b893f0ede6c781045692a7f892f25a0c92b4805" />
+      <outline type="rss" text="microsoft/AI-For-Beginners · 项目更新" title="microsoft/AI-For-Beginners · 项目更新" xmlUrl="https://github.com/microsoft/AI-For-Beginners/commits/HEAD.atom" htmlUrl="https://github.com/microsoft/AI-For-Beginners/commits/392d0df1b2647cbee104942390551f1ed9e072c8" />
+      <outline type="rss" text="microsoft/Data-Science-For-Beginners · 项目更新" title="microsoft/Data-Science-For-Beginners · 项目更新" xmlUrl="https://github.com/microsoft/Data-Science-For-Beginners/commits/HEAD.atom" htmlUrl="https://github.com/microsoft/Data-Science-For-Beginners/commits/4d2ac427ad6f022e73a75c4f46a28bbb7978ec3f" />
+      <outline type="rss" text="microsoft/ML-For-Beginners · 项目更新" title="microsoft/ML-For-Beginners · 项目更新" xmlUrl="https://github.com/microsoft/ML-For-Beginners/commits/HEAD.atom" htmlUrl="https://github.com/microsoft/ML-For-Beginners/commits/de2d4e12236445198213a0711855e348e7253cd4" />
+      <outline type="rss" text="swcarpentry/python-novice-inflammation · 项目更新" title="swcarpentry/python-novice-inflammation · 项目更新" xmlUrl="https://github.com/swcarpentry/python-novice-inflammation/commits/HEAD.atom" htmlUrl="https://github.com/swcarpentry/python-novice-inflammation/commits/c789bb6f0e5fd719601498515a99380023c62891" />
+      <outline type="rss" text="swcarpentry/r-novice-gapminder · 项目更新" title="swcarpentry/r-novice-gapminder · 项目更新" xmlUrl="https://github.com/swcarpentry/r-novice-gapminder/commits/HEAD.atom" htmlUrl="https://github.com/swcarpentry/r-novice-gapminder/commits/37a66beeddef2b5fc0735bb1abb9ecf9bf1c025d" />
+      <outline type="rss" text="swcarpentry/shell-novice · 项目更新" title="swcarpentry/shell-novice · 项目更新" xmlUrl="https://github.com/swcarpentry/shell-novice/commits/HEAD.atom" htmlUrl="https://github.com/swcarpentry/shell-novice/commits/b91d85b848405a4a2fe0a297d8cedb71d68ab9bd" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,479 @@
+[
+  {
+    "space": "design",
+    "group": "设计日历·主办方与奖项",
+    "url": "https://wdo.org/feed/",
+    "kind": "feed",
+    "checkedAt": "2026-10-14T02:03:38.833426+00:00",
+    "discoveryPage": "https://wdo.org/feed/",
+    "status": "verified",
+    "format": "rss",
+    "title": "WDO",
+    "entries": 8,
+    "sha256": "100ebe1adf1554ad9c44f0a8c13199962d71155b294554c35fc9511fda8d0b84",
+    "samples": [
+      {
+        "title": "Better Design Award 2026 launches global call for entries",
+        "date": "Tue, 13 Oct 2026 17:22:05 +0000"
+      },
+      {
+        "title": "World Design Capital Busan 2028 launches international design competition for WDC Pavilion",
+        "date": "Tue, 13 Oct 2026 16:26:02 +0000"
+      },
+      {
+        "title": "Spread Design publishes Design For Governance White Paper",
+        "date": "Tue, 13 Oct 2026 16:17:56 +0000"
+      }
+    ],
+    "dateRule": "RSS 发布或更新日期只标识通知；日历日期须从原公告、主办方日期或历史证据单独提取。",
+    "coreVerification": {
+      "url": "https://wdo.org/feed/",
+      "passed": true,
+      "result": "VERIFIED https://wdo.org/feed/ 53114 bytes"
+    },
+    "clientCheck": {
+      "url": "https://wdo.org/feed/",
+      "imported": true,
+      "id": 35,
+      "title": "WDO",
+      "error": null,
+      "fetchedAt": "2026-10-14 02:13:46",
+      "articles": 8,
+      "checkedAt": "2026-10-14T02:16:50.289802+00:00"
+    }
+  },
+  {
+    "space": "design",
+    "group": "设计日历·主办方与奖项",
+    "url": "https://tdc.org/feed/",
+    "kind": "feed",
+    "checkedAt": "2026-10-14T02:03:39.132841+00:00",
+    "discoveryPage": "https://tdc.org/feed/",
+    "status": "verified",
+    "format": "rss",
+    "title": "Type Directors Club",
+    "entries": 10,
+    "sha256": "9478b35aeb940036dbffd6e25e02422b026cdb438ec74ba65081d12673485e62",
+    "samples": [
+      {
+        "title": "TDC72 Type-High and Certificate Winners Announced",
+        "date": "Mon, 20 Jul 2026 14:43:39 +0000"
+      },
+      {
+        "title": "TDC72 Finalists from 40 Countries Announced",
+        "date": "Tue, 28 Apr 2026 13:08:45 +0000"
+      },
+      {
+        "title": "Global TDC72 Jury Members Talk Type Trends and Judging",
+        "date": "Wed, 25 Feb 2026 17:11:13 +0000"
+      }
+    ],
+    "dateRule": "RSS 发布或更新日期只标识通知；日历日期须从原公告、主办方日期或历史证据单独提取。",
+    "coreVerification": {
+      "url": "https://tdc.org/feed/",
+      "passed": true,
+      "result": "VERIFIED https://tdc.org/feed/ 9649 bytes"
+    },
+    "clientCheck": {
+      "url": "https://tdc.org/feed/",
+      "imported": true,
+      "id": 36,
+      "title": "Type Directors Club",
+      "error": null,
+      "fetchedAt": "2026-10-14 02:13:36",
+      "articles": 10,
+      "checkedAt": "2026-10-14T02:16:50.289802+00:00"
+    }
+  },
+  {
+    "space": "design",
+    "group": "设计历史·机构档案",
+    "url": "https://letterformarchive.org/feed/",
+    "kind": "feed",
+    "checkedAt": "2026-10-14T02:03:41.347264+00:00",
+    "discoveryPage": "https://letterformarchive.org/feed/",
+    "status": "verified",
+    "format": "rss",
+    "title": "Letterform Archive",
+    "entries": 10,
+    "sha256": "4dfa1b97a9c38d2aa932e452bc16d47b8fc161a75d937eb1b911e4872fcc2c99",
+    "samples": [
+      {
+        "title": "Inside Boutiques Magnifiques",
+        "date": "Tue, 06 Oct 2026 00:18:32 +0000"
+      },
+      {
+        "title": "Type for All! Ten Years of Type West",
+        "date": "Fri, 02 Oct 2026 00:19:40 +0000"
+      },
+      {
+        "title": "Martin Venezky: Process Work",
+        "date": "Tue, 22 Sep 2026 00:06:51 +0000"
+      }
+    ],
+    "dateRule": "RSS 发布或更新日期只标识通知；日历日期须从原公告、主办方日期或历史证据单独提取。",
+    "coreVerification": {
+      "url": "https://letterformarchive.org/feed/",
+      "passed": true,
+      "result": "VERIFIED https://letterformarchive.org/feed/ 371485 bytes"
+    },
+    "clientCheck": {
+      "url": "https://letterformarchive.org/feed/",
+      "imported": true,
+      "id": 37,
+      "title": "Letterform Archive",
+      "error": null,
+      "fetchedAt": "2026-10-14 02:14:19",
+      "articles": 10,
+      "checkedAt": "2026-10-14T02:16:50.289802+00:00"
+    }
+  },
+  {
+    "space": "design",
+    "group": "设计历史·机构档案",
+    "url": "https://posterhouse.org/feed/",
+    "kind": "feed",
+    "checkedAt": "2026-10-14T02:03:41.357830+00:00",
+    "discoveryPage": "https://posterhouse.org/feed/",
+    "status": "verified",
+    "format": "rss",
+    "title": "Poster House",
+    "entries": 10,
+    "sha256": "3a909fab68fb1574b7382b7fd1f24e13111f7a95fa21487cf1b0ea41a75373b8",
+    "samples": [
+      {
+        "title": "The Sicilian Defense",
+        "date": "Thu, 08 Oct 2026 14:54:47 +0000"
+      },
+      {
+        "title": "How Saul Bass Brought a Shine to a Kubrick Classic",
+        "date": "Thu, 24 Sep 2026 13:16:00 +0000"
+      },
+      {
+        "title": "Ben Shahn: The Time Is Ripe",
+        "date": "Thu, 10 Sep 2026 13:43:00 +0000"
+      }
+    ],
+    "dateRule": "RSS 发布或更新日期只标识通知；日历日期须从原公告、主办方日期或历史证据单独提取。",
+    "coreVerification": {
+      "url": "https://posterhouse.org/feed/",
+      "passed": true,
+      "result": "VERIFIED https://posterhouse.org/feed/ 5975 bytes"
+    },
+    "clientCheck": {
+      "url": "https://posterhouse.org/feed/",
+      "imported": true,
+      "id": 38,
+      "title": "Poster House",
+      "error": null,
+      "fetchedAt": "2026-10-14 02:14:18",
+      "articles": 10,
+      "checkedAt": "2026-10-14T02:16:50.289802+00:00"
+    }
+  },
+  {
+    "space": "design",
+    "group": "设计历史·机构档案",
+    "url": "https://feed.podbean.com/designhistorysociety/feed.xml",
+    "kind": "feed",
+    "checkedAt": "2026-10-14T02:03:41.943420+00:00",
+    "discoveryPage": "https://feed.podbean.com/designhistorysociety/feed.xml",
+    "status": "verified",
+    "format": "rss",
+    "title": "Podcasts by the Design History Society",
+    "entries": 34,
+    "sha256": "ae879250cdff0eef4e0cd7dfedd27b8d20dc2bde93a13fc9aec59414e0d389ed",
+    "samples": [
+      {
+        "title": "Routes to Design History: Johanna Agermann Ross",
+        "date": "Tue, 15 Sep 2026 19:25:10 +0200"
+      },
+      {
+        "title": "Routes to Design History: William Seung",
+        "date": "Wed, 15 Jul 2026 18:21:48 +0200"
+      },
+      {
+        "title": "Routes to Design History: Jesse Adams Stein",
+        "date": "Wed, 17 Jun 2026 11:38:46 +0200"
+      }
+    ],
+    "dateRule": "RSS 发布或更新日期只标识通知；日历日期须从原公告、主办方日期或历史证据单独提取。",
+    "coreVerification": {
+      "url": "https://feed.podbean.com/designhistorysociety/feed.xml",
+      "passed": true,
+      "result": "VERIFIED https://feed.podbean.com/designhistorysociety/feed.xml 130384 bytes"
+    },
+    "clientCheck": {
+      "url": "https://feed.podbean.com/designhistorysociety/feed.xml",
+      "imported": true,
+      "id": 39,
+      "title": "Podcasts by the Design History Society",
+      "error": null,
+      "fetchedAt": "2026-10-14 02:09:55",
+      "articles": 34,
+      "checkedAt": "2026-10-14T02:16:50.289802+00:00"
+    }
+  },
+  {
+    "space": "pets",
+    "group": "宠物日历·节日与展赛主办方",
+    "url": "https://www.worldanimalday.org/feed/",
+    "kind": "feed",
+    "checkedAt": "2026-10-14T02:03:41.950238+00:00",
+    "discoveryPage": "https://www.worldanimalday.org/feed/",
+    "status": "verified",
+    "format": "rss",
+    "title": "World Animal Day",
+    "entries": 10,
+    "sha256": "d0fba84f5b66e6bffa1e7b43035b6022d86353424d370e8abe3e8927831f56c4",
+    "samples": [
+      {
+        "title": "Small Hands, Big Hearts: Students in Bulgaria Turn Compassion into Action",
+        "date": "Sun, 04 Oct 2026 13:31:54 +0000"
+      },
+      {
+        "title": "What Happens When You Look at a Community Through the Animals’ Eyes?",
+        "date": "Tue, 29 Sep 2026 14:29:37 +0000"
+      },
+      {
+        "title": "World Animal Day ‘Design a Mug’ Competition Winner!",
+        "date": "Fri, 25 Sep 2026 08:33:05 +0000"
+      }
+    ],
+    "dateRule": "RSS 发布或更新日期只标识通知；日历日期须从原公告、主办方日期或历史证据单独提取。",
+    "coreVerification": {
+      "url": "https://www.worldanimalday.org/feed/",
+      "passed": true,
+      "result": "VERIFIED https://www.worldanimalday.org/feed/ 77262 bytes"
+    },
+    "clientCheck": {
+      "url": "https://www.worldanimalday.org/feed/",
+      "imported": true,
+      "id": 38,
+      "title": "World Animal Day",
+      "error": null,
+      "fetchedAt": "2026-10-14 02:08:48",
+      "articles": 10,
+      "checkedAt": "2026-10-14T02:16:50.289802+00:00"
+    }
+  },
+  {
+    "space": "academic",
+    "group": "课程资源·培训通知",
+    "url": "https://www.ncrm.ac.uk/training/rss/rss.php?id=0c06e0c1146738fc23461a5a45cdfc43",
+    "kind": "feed",
+    "checkedAt": "2026-10-14T02:05:08.004108+00:00",
+    "discoveryPage": "https://www.ncrm.ac.uk/training/index.php?search_type=advanced&show=20",
+    "status": "verified",
+    "format": "rss",
+    "title": "NCRM · 即将举办的科研方法培训",
+    "entries": 108,
+    "sha256": "d399e52cd2a5f3415aa1c48879740412ef16bfded1dd537bfea7a1b2d93d4f8d",
+    "samples": [
+      {
+        "title": "Generative AI in Academic Research: A Critical Introduction - Online (15/10/26)",
+        "date": "Tue, 01 Sep 2026 00:00:00 +0100"
+      },
+      {
+        "title": "Data management and visualisation with REdit (16/10/26)",
+        "date": "Tue, 23 Jun 2026 00:00:00 +0100"
+      },
+      {
+        "title": "Evidence for transformative policymaking: Statistics, microsimulation and public opinion to achieve change (19/10/26)",
+        "date": "Fri, 11 Sep 2026 00:00:00 +0100"
+      }
+    ],
+    "dateRule": "RSS 发布或更新日期只标识通知；日历日期须从原公告、主办方日期或历史证据单独提取。",
+    "note": "RSS 链接来自官网普通超链接；日期在标题和详情中，pubDate 是通知发布日期。",
+    "coreVerification": {
+      "url": "https://www.ncrm.ac.uk/training/rss/rss.php?id=0c06e0c1146738fc23461a5a45cdfc43",
+      "passed": true,
+      "result": "VERIFIED https://www.ncrm.ac.uk/training/rss/rss.php?id=0c06e0c1146738fc23461a5a45cdfc43 282425 bytes"
+    },
+    "clientCheck": {
+      "url": "https://www.ncrm.ac.uk/training/rss/rss.php?id=0c06e0c1146738fc23461a5a45cdfc43",
+      "imported": true,
+      "id": 226,
+      "title": "Research Methods Events",
+      "error": null,
+      "fetchedAt": "2026-10-14 02:11:12",
+      "articles": 108,
+      "checkedAt": "2026-10-14T02:16:50.289802+00:00"
+    }
+  },
+  {
+    "space": "personal",
+    "group": "分享·学术网站项目",
+    "url": "https://ror.org/feed.xml",
+    "kind": "feed",
+    "checkedAt": "2026-10-14T02:05:08.009624+00:00",
+    "discoveryPage": "https://ror.org/feed.xml",
+    "status": "verified",
+    "format": "feed",
+    "title": "Research Organization Registry (ROR)",
+    "entries": 107,
+    "sha256": "4dde3c5e3fcf0eea1dff1727d0d0b37a4a9a48b59c55c70e7e362efd8f6ac4c7",
+    "samples": [
+      {
+        "title": "How TNQTech Matches Affiliation Strings to ROR IDs and Gives Back to ROR",
+        "date": "2026-10-06T11:22:57-04:00"
+      },
+      {
+        "title": "How ABES Became the Second-Largest Provider of ROR IDs in Crossref Metadata",
+        "date": "2026-09-17T11:20:23-04:00"
+      },
+      {
+        "title": "Improving How Funding Connects to Research Outputs",
+        "date": "2026-09-15T12:20:31-04:00"
+      }
+    ],
+    "dateRule": "RSS 发布或更新日期只标识通知；日历日期须从原公告、主办方日期或历史证据单独提取。",
+    "coreVerification": {
+      "url": "https://ror.org/feed.xml",
+      "passed": true,
+      "result": "VERIFIED https://ror.org/feed.xml 1479745 bytes"
+    },
+    "clientCheck": {
+      "url": "https://ror.org/feed.xml",
+      "imported": true,
+      "id": 71,
+      "title": "Research Organization Registry (ROR)",
+      "error": null,
+      "fetchedAt": "2026-10-14 02:09:39",
+      "articles": 107,
+      "checkedAt": "2026-10-14T02:16:50.289802+00:00"
+    }
+  },
+  {
+    "space": "academic",
+    "group": "项目合作·联合资助征集",
+    "url": "https://www.vr.se/4.4f3e672a18df2c1c2d21dbef/12.4f3e672a18df2c1c2d21dbff.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8",
+    "kind": "feed",
+    "note": "资助征集可提供组队背景，不是研究者结伴需求；须核验资格和截止日期。",
+    "checkedAt": "2026-10-14T02:07:10.398793+00:00",
+    "discoveryPage": "https://www.vr.se/4.4f3e672a18df2c1c2d21dbef/12.4f3e672a18df2c1c2d21dbff.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8",
+    "status": "verified",
+    "format": "rss",
+    "title": "Calls Swedish Research Council",
+    "entries": 50,
+    "sha256": "840058c5d679f5b88e840074957c11f78e9cd5461403924935ba8c48fd0a9678",
+    "samples": [
+      {
+        "title": "Project grant for planning or pilot study for a future clinical study in therapy research",
+        "date": "Wed, 30 Sep 2026 11:20:17 +0200"
+      },
+      {
+        "title": "Grant for clinical study within therapy research",
+        "date": "Wed, 30 Sep 2026 11:05:40 +0200"
+      },
+      {
+        "title": "Grant for research infrastructure of national interest",
+        "date": "Thu, 24 Sep 2026 16:36:49 +0200"
+      }
+    ],
+    "dateRule": "RSS 发布或更新日期只标识通知；日历日期须从原公告、主办方日期或历史证据单独提取。",
+    "coreVerification": {
+      "url": "https://www.vr.se/4.4f3e672a18df2c1c2d21dbef/12.4f3e672a18df2c1c2d21dbff.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8",
+      "passed": true,
+      "result": "VERIFIED https://www.vr.se/4.4f3e672a18df2c1c2d21dbef/12.4f3e672a18df2c1c2d21dbff.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8 128478 bytes"
+    },
+    "clientCheck": {
+      "url": "https://www.vr.se/4.4f3e672a18df2c1c2d21dbef/12.4f3e672a18df2c1c2d21dbff.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8",
+      "imported": true,
+      "id": 227,
+      "title": "Calls Swedish Research Council",
+      "error": null,
+      "fetchedAt": "2026-10-14 02:10:57",
+      "articles": 50,
+      "checkedAt": "2026-10-14T02:16:50.289802+00:00"
+    }
+  },
+  {
+    "space": "lingxi",
+    "group": "键盘开团·正式公告",
+    "url": "https://www.keebtalk.com/c/marketplace/group-buys-and-pre-orders/18.rss",
+    "kind": "feed",
+    "checkedAt": "2026-10-14T02:07:10.399042+00:00",
+    "discoveryPage": "https://www.keebtalk.com/c/marketplace/17",
+    "status": "verified",
+    "format": "rss",
+    "title": "Group buys and pre-orders - KeebTalk",
+    "entries": 25,
+    "sha256": "f7b2d138ffbac6519139372ccbdc60ff081096dae8208a377d456c7b54a822e9",
+    "samples": [
+      {
+        "title": "[GB] DSS Drank Round 2 - 40% Monokit",
+        "date": "Sun, 04 Oct 2026 18:39:40 +0000"
+      },
+      {
+        "title": "[GB] MW Jirai (Doubleshot ABS) | (Cancelled)(Update: 2nd Oct 2026)",
+        "date": "Wed, 29 Jul 2026 16:07:32 +0000"
+      },
+      {
+        "title": "[GB] Artisan keycaps - Dragon Balls - Cosmos",
+        "date": "Fri, 26 Jun 2026 02:51:55 +0000"
+      }
+    ],
+    "dateRule": "RSS 发布或更新日期只标识通知；日历日期须从原公告、主办方日期或历史证据单独提取。",
+    "note": "按正确板块 ID 核验。GB 和 IC 分开；IC 不是开团确认，取消/延期须跟踪原帖。",
+    "coreVerification": {
+      "url": "https://www.keebtalk.com/c/marketplace/group-buys-and-pre-orders/18.rss",
+      "passed": true,
+      "result": "VERIFIED https://www.keebtalk.com/c/marketplace/group-buys-and-pre-orders/18.rss 223666 bytes"
+    },
+    "clientCheck": {
+      "url": "https://www.keebtalk.com/c/marketplace/group-buys-and-pre-orders/18.rss",
+      "imported": true,
+      "id": 79,
+      "title": "Group buys and pre-orders - KeebTalk",
+      "error": null,
+      "fetchedAt": "2026-10-14 02:12:17",
+      "articles": 25,
+      "checkedAt": "2026-10-14T02:16:50.289802+00:00"
+    }
+  },
+  {
+    "space": "lingxi",
+    "group": "键盘开团·意向征集",
+    "url": "https://www.keebtalk.com/c/marketplace/interest-checks/19.rss",
+    "kind": "feed",
+    "checkedAt": "2026-10-14T02:07:10.399092+00:00",
+    "discoveryPage": "https://www.keebtalk.com/c/marketplace/17",
+    "status": "verified",
+    "format": "rss",
+    "title": "Interest checks - KeebTalk",
+    "entries": 25,
+    "sha256": "f2081a58ef8508296114c33d065b5f2d6303b79049d3c43d6acc69654aa3f050",
+    "samples": [
+      {
+        "title": "[IC] KBS Flat Out — Motorsport-inspired keycaps by Sectorform",
+        "date": "Thu, 08 Oct 2026 06:36:25 +0000"
+      },
+      {
+        "title": "[IC] KeyMaze Eden Sin 142 Keys Metallic Finish PBT Cherry Profile Keycaps",
+        "date": "Sun, 20 Sep 2026 14:04:04 +0000"
+      },
+      {
+        "title": "SA Lime ISO Nordic interest check",
+        "date": "Thu, 20 Aug 2026 19:36:09 +0000"
+      }
+    ],
+    "dateRule": "RSS 发布或更新日期只标识通知；日历日期须从原公告、主办方日期或历史证据单独提取。",
+    "note": "按正确板块 ID 核验。GB 和 IC 分开；IC 不是开团确认，取消/延期须跟踪原帖。",
+    "coreVerification": {
+      "url": "https://www.keebtalk.com/c/marketplace/interest-checks/19.rss",
+      "passed": true,
+      "result": "VERIFIED https://www.keebtalk.com/c/marketplace/interest-checks/19.rss 257054 bytes"
+    },
+    "clientCheck": {
+      "url": "https://www.keebtalk.com/c/marketplace/interest-checks/19.rss",
+      "imported": true,
+      "id": 80,
+      "title": "Interest checks - KeebTalk",
+      "error": null,
+      "fetchedAt": "2026-10-14 02:12:18",
+      "articles": 25,
+      "checkedAt": "2026-10-14T02:16:50.289802+00:00"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "siteId": "study",
+  "sections": [
+    {
+      "id": "courses",
+      "name": "免费课程",
+      "description": "AI 学习课程与连续学习指南。",
+      "includes": [
+        "column-1"
+      ]
+    },
+    {
+      "id": "models",
+      "name": "模型排行",
+      "description": "带评价依据和更新日期的模型比较。",
+      "includes": [
+        "column-2"
+      ]
+    },
+    {
+      "id": "offers",
+      "name": "福利羊毛",
+      "description": "说明条件、时效与出处的学习权益。",
+      "includes": [
+        "column-3",
+        "column-4"
+      ]
+    },
+    {
+      "id": "certificates",
+      "name": "资质证书",
+      "description": "证书课程、颁发机构与获取条件。",
+      "includes": [
+        "column-5"
+      ]
+    }
+  ],
+  "hubs": [],
+  "bindings": []
+}

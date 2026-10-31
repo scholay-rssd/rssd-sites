@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>研究方法 · 100 个已验证扩增订阅</title>
+    <dateModified>2026-10-16T15:36:26.393080+00:00</dateModified>
+  </head>
+  <body>
+    <outline text="方法百科 · 扩增" title="方法百科 · 扩增">
+      <outline type="rss" text="3ie Impact Evaluation" title="3ie Impact Evaluation" xmlUrl="https://www.3ieimpact.org/rss.xml" htmlUrl="https://www.3ieimpact.org/" />
+      <outline type="rss" text="Bayesian Spectacles" title="Bayesian Spectacles" xmlUrl="https://www.bayesianspectacles.org/feed/" htmlUrl="https://www.bayesianspectacles.org" />
+      <outline type="rss" text="Blog on The Carpentries" title="Blog on The Carpentries" xmlUrl="https://carpentries.org/blog/index.xml" htmlUrl="https://carpentries.org/blog/" />
+      <outline type="rss" text="DARIAH-EU: Events" title="DARIAH-EU: Events" xmlUrl="https://www.dariah.eu/feeds/events.xml" htmlUrl="https://www.dariah.eu/events" />
+      <outline type="rss" text="Data School" title="Data School" xmlUrl="https://www.dataschool.io/rss/" htmlUrl="https://www.dataschool.io/" />
+      <outline type="rss" text="Editage Insights" title="Editage Insights" xmlUrl="https://www.editage.com/insights/feed" htmlUrl="https://www.editage.com/insights/" />
+      <outline type="rss" text="Evaluation and Program Planning" title="Evaluation and Program Planning" xmlUrl="https://rss.sciencedirect.com/publication/science/01497189" htmlUrl="https://www.sciencedirect.com/journal/evaluation-and-program-planning" />
+      <outline type="rss" text="Experimental Psychology" title="Experimental Psychology" xmlUrl="https://econtent.hogrefe.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=zea" htmlUrl="https://econtent.hogrefe.com/loi/zea?af=R" />
+      <outline type="rss" text="Galaxy Training!" title="Galaxy Training!" xmlUrl="https://training.galaxyproject.org/training-material/feed.xml" htmlUrl="https://training.galaxyproject.org/training-material/" />
+      <outline type="rss" text="LSE Impact" title="LSE Impact" xmlUrl="https://blogs.lse.ac.uk/impactofsocialsciences/feed/" htmlUrl="https://blogs.lse.ac.uk/impactofsocialsciences" />
+      <outline type="rss" text="Methods Blog" title="Methods Blog" xmlUrl="https://methodsblog.com/feed/" htmlUrl="https://methodsblog.com" />
+      <outline type="rss" text="NCRM · 即将举办的科研方法培训" title="NCRM · 即将举办的科研方法培训" xmlUrl="https://www.ncrm.ac.uk/training/rss/rss.php?id=0c06e0c1146738fc23461a5a45cdfc43" htmlUrl="https://www.ncrm.ac.uk/training/" />
+      <outline type="rss" text="Nature Human Behaviour" title="Nature Human Behaviour" xmlUrl="https://www.nature.com/nathumbehav.rss" htmlUrl="http://feeds.nature.com/nathumbehav/rss/current" />
+      <outline type="rss" text="Participatory Methods" title="Participatory Methods" xmlUrl="https://www.participatorymethods.org/feed/" htmlUrl="https://www.participatorymethods.org/" />
+      <outline type="rss" text="Programming Historian" title="Programming Historian" xmlUrl="https://programminghistorian.org/feed.xml" htmlUrl="https://programminghistorian.org" />
+      <outline type="rss" text="QualPage" title="QualPage" xmlUrl="https://qualpage.com/feed/" htmlUrl="https://qualpage.com" />
+      <outline type="rss" text="Qualitative Research" title="Qualitative Research" xmlUrl="https://journals.sagepub.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=qrja" htmlUrl="https://journals.sagepub.com/loi/qrja?af=R" />
+      <outline type="rss" text="Research Design Review" title="Research Design Review" xmlUrl="https://researchdesignreview.com/feed/" htmlUrl="https://researchdesignreview.com" />
+      <outline type="rss" text="SAGE Research Methods Community" title="SAGE Research Methods Community" xmlUrl="https://researchmethodscommunity.sagepub.com/blog?format=rss" htmlUrl="https://researchmethodscommunity.sagepub.com/blog/" />
+      <outline type="rss" text="Social Science Space" title="Social Science Space" xmlUrl="https://www.socialsciencespace.com/feed/" htmlUrl="https://www.socialsciencespace.com" />
+      <outline type="rss" text="Sociological Images" title="Sociological Images" xmlUrl="https://thesocietypages.org/socimages/feed/" htmlUrl="https://thesocietypages.org/socimages" />
+      <outline type="rss" text="Sociological Methods and Research" title="Sociological Methods and Research" xmlUrl="https://journals.sagepub.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=smra" htmlUrl="https://journals.sagepub.com/loi/smra?af=R" />
+      <outline type="rss" text="Statology" title="Statology" xmlUrl="https://www.statology.org/feed/" htmlUrl="https://www.statology.org/" />
+      <outline type="rss" text="The Qualitative Report" title="The Qualitative Report" xmlUrl="https://nsuworks.nova.edu/tqr/recent.rss" htmlUrl="https://nsuworks.nova.edu/tqr" />
+      <outline type="rss" text="matheusfacure/python-causality-handbook · 项目更新" title="matheusfacure/python-causality-handbook · 项目更新" xmlUrl="https://github.com/matheusfacure/python-causality-handbook/commits/HEAD.atom" htmlUrl="https://github.com/matheusfacure/python-causality-handbook/commits/4df1445987d3b6f9824d508863a1a2f0a503e888" />
+    </outline>
+    <outline text="统计之美 · 扩增" title="统计之美 · 扩增">
+      <outline type="rss" text="Andrey Akinshin's Blog" title="Andrey Akinshin's Blog" xmlUrl="https://aakinshin.net/posts/index.xml" htmlUrl="https://aakinshin.net/posts/" />
+      <outline type="rss" text="Doing Bayesian Data Analysis" title="Doing Bayesian Data Analysis" xmlUrl="http://doingbayesiandataanalysis.blogspot.com/feeds/posts/default" htmlUrl="http://doingbayesiandataanalysis.blogspot.com/" />
+      <outline type="rss" text="Eran Raviv Blog" title="Eran Raviv Blog" xmlUrl="https://eranraviv.com/category/blog/feed/" htmlUrl="https://eranraviv.com" />
+      <outline type="rss" text="Error Statistics Philosophy" title="Error Statistics Philosophy" xmlUrl="https://errorstatistics.com/feed/" htmlUrl="https://errorstatistics.com" />
+      <outline type="rss" text="FlowingData Blog" title="FlowingData Blog" xmlUrl="https://flowingdata.com/feed/" htmlUrl="https://flowingdata.com" />
+      <outline type="rss" text="Freakonometrics | An Open Lab-Notebook Experiment" title="Freakonometrics | An Open Lab-Notebook Experiment" xmlUrl="https://freakonometrics.hypotheses.org/feed" htmlUrl="https://freakonometrics.hypotheses.org" />
+      <outline type="rss" text="Jeromy Anglim's Blog: Psychology and Statistics" title="Jeromy Anglim's Blog: Psychology and Statistics" xmlUrl="http://feeds.feedburner.com/jeromyanglim" htmlUrl="http://jeromyanglim.blogspot.com/" />
+      <outline type="rss" text="John D. Cook Blog" title="John D. Cook Blog" xmlUrl="https://www.johndcook.com/blog/feed/" htmlUrl="https://www.johndcook.com/blog" />
+      <outline type="rss" text="Not awful ideas for teaching statistics" title="Not awful ideas for teaching statistics" xmlUrl="http://notawfulandboring.blogspot.com/feeds/posts/default" htmlUrl="http://notawfulandboring.blogspot.com/" />
+      <outline type="rss" text="R-statistics blog" title="R-statistics blog" xmlUrl="https://www.r-statistics.com/feed/" htmlUrl="https://www.r-statistics.com" />
+      <outline type="rss" text="Radford Neal's blog" title="Radford Neal's blog" xmlUrl="https://radfordneal.wordpress.com/feed/" htmlUrl="https://radfordneal.wordpress.com" />
+      <outline type="rss" text="Radical Statistics Group Blog" title="Radical Statistics Group Blog" xmlUrl="https://www.radstats.org.uk/blog/feed/" htmlUrl="https://www.radstats.org.uk" />
+      <outline type="rss" text="Robin Ryder's blog | Statistics and other stuff" title="Robin Ryder's blog | Statistics and other stuff" xmlUrl="https://robinryder.wordpress.com/feed/" htmlUrl="https://robinryder.wordpress.com" />
+      <outline type="rss" text="Statistics By Jim" title="Statistics By Jim" xmlUrl="https://statisticsbyjim.com/feed/" htmlUrl="https://statisticsbyjim.com/" />
+      <outline type="rss" text="Statistics.com Blog" title="Statistics.com Blog" xmlUrl="https://www.statistics.com/feed/" htmlUrl="https://www.statistics.com/" />
+      <outline type="rss" text="Stats Chat" title="Stats Chat" xmlUrl="https://feeds.feedburner.com/StatsChat" htmlUrl="https://www.statschat.org.nz" />
+      <outline type="rss" text="Stats With Cats" title="Stats With Cats" xmlUrl="https://statswithcats.net/feed/" htmlUrl="https://statswithcats.net" />
+      <outline type="rss" text="The 20% Statistician" title="The 20% Statistician" xmlUrl="https://daniellakens.blogspot.com/feeds/posts/default" htmlUrl="https://daniellakens.blogspot.com/" />
+      <outline type="rss" text="The Analysis Factor" title="The Analysis Factor" xmlUrl="https://www.theanalysisfactor.com/feed/" htmlUrl="" />
+      <outline type="rss" text="The Stats Guy | A blog about statistics, medicine, science, and other stuff" title="The Stats Guy | A blog about statistics, medicine, science, and other stuff" xmlUrl="http://www.statsguy.co.uk/feed/" htmlUrl="http://www.statsguy.co.uk" />
+      <outline type="rss" text="Xi'an's Og" title="Xi'an's Og" xmlUrl="https://xianblog.wordpress.com/feed/" htmlUrl="https://xianblog.fr" />
+      <outline type="rss" text="bayesianbiologist | Corey Chivers on P(A|B) ∝P(B|A)P(A)" title="bayesianbiologist | Corey Chivers on P(A|B) ∝P(B|A)P(A)" xmlUrl="https://bayesianbiologist.com/feed/" htmlUrl="https://bayesianbiologist.com" />
+      <outline type="rss" text="free range statistics" title="free range statistics" xmlUrl="http://freerangestats.info/feed" htmlUrl="https://freerangestats.info" />
+      <outline type="rss" text="nQuery" title="nQuery" xmlUrl="https://www.statsols.com/articles/rss.xml" htmlUrl="https://www.statsols.com/articles" />
+      <outline type="rss" text="teaching statistics is awesome a blog for statistics teachers" title="teaching statistics is awesome a blog for statistics teachers" xmlUrl="https://teaching.statistics-is-awesome.org/feed/" htmlUrl="https://teaching.statistics-is-awesome.org" />
+    </outline>
+    <outline text="实验星球 · 扩增" title="实验星球 · 扩增">
+      <outline type="rss" text="AllenInstitute/AllenSDK · 项目更新" title="AllenInstitute/AllenSDK · 项目更新" xmlUrl="https://github.com/AllenInstitute/AllenSDK/commits/HEAD.atom" htmlUrl="https://github.com/AllenInstitute/AllenSDK/commits/a56bd8ea7613a812334602b64746cdd30c325a96" />
+      <outline type="rss" text="Blog on rOpenSci - open tools for open science" title="Blog on rOpenSci - open tools for open science" xmlUrl="https://ropensci.org/blog/index.xml" htmlUrl="https://ropensci.org/blog/" />
+      <outline type="rss" text="CenterForOpenScience/osf.io · 项目更新" title="CenterForOpenScience/osf.io · 项目更新" xmlUrl="https://github.com/CenterForOpenScience/osf.io/commits/HEAD.atom" htmlUrl="https://github.com/CenterForOpenScience/osf.io/commits/bc997fb7aed9eee273cb941191d07e25d66024ff" />
+      <outline type="rss" text="DeepLabCut/DeepLabCut · 项目更新" title="DeepLabCut/DeepLabCut · 项目更新" xmlUrl="https://github.com/DeepLabCut/DeepLabCut/commits/HEAD.atom" htmlUrl="https://github.com/DeepLabCut/DeepLabCut/commits/fa5a8c36100c85300b7d4a534deb38d7bd8b2fa8" />
+      <outline type="rss" text="Jupyter Community Forum - Latest topics" title="Jupyter Community Forum - Latest topics" xmlUrl="https://discourse.jupyter.org/latest.rss" htmlUrl="https://discourse.jupyter.org/latest" />
+      <outline type="rss" text="LabStreamingLayer/liblsl · 项目更新" title="LabStreamingLayer/liblsl · 项目更新" xmlUrl="https://github.com/LabStreamingLayer/liblsl/commits/HEAD.atom" htmlUrl="https://github.com/sccn/liblsl/commits/992635a9277bb7cc71b6516e7608182e5e2976f3" />
+      <outline type="rss" text="LabStreamingLayer/pylsl · 项目更新" title="LabStreamingLayer/pylsl · 项目更新" xmlUrl="https://github.com/LabStreamingLayer/pylsl/commits/HEAD.atom" htmlUrl="https://github.com/labstreaminglayer/pylsl/commits/6be4133fbc237fb8edaa4113d112bcc98ff72d92" />
+      <outline type="rss" text="NeuroTechX/eeg-notebooks · 项目更新" title="NeuroTechX/eeg-notebooks · 项目更新" xmlUrl="https://github.com/NeuroTechX/eeg-notebooks/commits/HEAD.atom" htmlUrl="https://github.com/NeuroTechX/EEG-ExPy/commits/ea34f21b690c5f029d9672eb1e41473c340a1401" />
+      <outline type="rss" text="OpenBCI/OpenBCI_GUI · 项目更新" title="OpenBCI/OpenBCI_GUI · 项目更新" xmlUrl="https://github.com/OpenBCI/OpenBCI_GUI/commits/HEAD.atom" htmlUrl="https://github.com/OpenBCI/OpenBCI_GUI/commits/e23869e7b5cc621e733d8fa0d81f05d477264306" />
+      <outline type="rss" text="OpenNeuroOrg/openneuro · 项目更新" title="OpenNeuroOrg/openneuro · 项目更新" xmlUrl="https://github.com/OpenNeuroOrg/openneuro/commits/HEAD.atom" htmlUrl="https://github.com/OpenNeuroOrg/openneuro/commits/021f3ffd8f209eb8f72a99124b2667196cd26e19" />
+      <outline type="rss" text="OpenRefine - Latest topics" title="OpenRefine - Latest topics" xmlUrl="https://forum.openrefine.org/latest.rss" htmlUrl="https://forum.openrefine.org/latest" />
+      <outline type="rss" text="bids-standard/bids-specification · 项目更新" title="bids-standard/bids-specification · 项目更新" xmlUrl="https://github.com/bids-standard/bids-specification/commits/HEAD.atom" htmlUrl="https://github.com/bids-standard/bids-specification/commits/d42dc87b444c1269c5e71ec26fc4848e541983bf" />
+      <outline type="rss" text="datalad/datalad · 项目更新" title="datalad/datalad · 项目更新" xmlUrl="https://github.com/datalad/datalad/commits/HEAD.atom" htmlUrl="https://github.com/datalad/datalad/commits/77de8d9eb4ee6e91f685debb83f6f9b7fe45eef3" />
+      <outline type="rss" text="esdalmaijer/PyGaze · 项目更新" title="esdalmaijer/PyGaze · 项目更新" xmlUrl="https://github.com/esdalmaijer/PyGaze/commits/HEAD.atom" htmlUrl="https://github.com/esdalmaijer/PyGaze/commits/191031731c9d3ec1c6db901fdddc3217f334aadd" />
+      <outline type="rss" text="expfactory/expfactory · 项目更新" title="expfactory/expfactory · 项目更新" xmlUrl="https://github.com/expfactory/expfactory/commits/HEAD.atom" htmlUrl="https://github.com/expfactory/expfactory/commits/885b54583b696762782c7580c7d9ceed40278938" />
+      <outline type="rss" text="expyriment/expyriment · 项目更新" title="expyriment/expyriment · 项目更新" xmlUrl="https://github.com/expyriment/expyriment/commits/HEAD.atom" htmlUrl="https://github.com/expyriment/expyriment/commits/aceda89c611e84136b069981ef642cf84cb25b52" />
+      <outline type="rss" text="jspsych/jsPsych · 项目更新" title="jspsych/jsPsych · 项目更新" xmlUrl="https://github.com/jspsych/jsPsych/commits/HEAD.atom" htmlUrl="https://github.com/jspsych/jsPsych/commits/5887b4a50f71fe4b93254754956ea488b0a0c16e" />
+      <outline type="rss" text="mne-tools/mne-python · 项目更新" title="mne-tools/mne-python · 项目更新" xmlUrl="https://github.com/mne-tools/mne-python/commits/HEAD.atom" htmlUrl="https://github.com/mne-tools/mne-python/commits/8f498626a53704a6a96bcd8a11e22cbd8866efa5" />
+      <outline type="rss" text="nipy/nipype · 项目更新" title="nipy/nipype · 项目更新" xmlUrl="https://github.com/nipy/nipype/commits/HEAD.atom" htmlUrl="https://github.com/nipy/nipype/commits/6e28627d3a616b61bcbbe7040f698b0e5a2c5722" />
+      <outline type="rss" text="poldracklab/fmriprep · 项目更新" title="poldracklab/fmriprep · 项目更新" xmlUrl="https://github.com/poldracklab/fmriprep/commits/HEAD.atom" htmlUrl="https://github.com/nipreps/fmriprep/commits/21a490fb89acee54baca06dd0ca04a2297659e97" />
+      <outline type="rss" text="psych-ds/psych-DS · 项目更新" title="psych-ds/psych-DS · 项目更新" xmlUrl="https://github.com/psych-ds/psych-DS/commits/HEAD.atom" htmlUrl="https://github.com/psych-ds/psych-DS/commits/553531cd434e20caaf7687886f446a27256bf5ed" />
+      <outline type="rss" text="psychopy/psychopy · 项目更新" title="psychopy/psychopy · 项目更新" xmlUrl="https://github.com/psychopy/psychopy/commits/HEAD.atom" htmlUrl="https://github.com/psychopy/psychopy/commits/326fb266728b08811b3d928ab4c926884fc9d5ed" />
+      <outline type="rss" text="psychopy/psychopy-visionscience · 项目更新" title="psychopy/psychopy-visionscience · 项目更新" xmlUrl="https://github.com/psychopy/psychopy-visionscience/commits/HEAD.atom" htmlUrl="https://github.com/psychopy/psychopy-visionscience/commits/64907c834b61d65f8f5cb75cd79e2f58523da1b6" />
+      <outline type="rss" text="sccn/eeglab · 项目更新" title="sccn/eeglab · 项目更新" xmlUrl="https://github.com/sccn/eeglab/commits/HEAD.atom" htmlUrl="https://github.com/sccn/eeglab/commits/8ac485f654d6bbb1a6acb8dc9ef3f2eaf3d409ba" />
+      <outline type="rss" text="smathot/OpenSesame · 项目更新" title="smathot/OpenSesame · 项目更新" xmlUrl="https://github.com/smathot/OpenSesame/commits/HEAD.atom" htmlUrl="https://github.com/open-cogsci/OpenSesame/commits/5b2479d556996a5b628e9526eba4a922196a1d84" />
+    </outline>
+    <outline text="方法前沿 · 扩增" title="方法前沿 · 扩增">
+      <outline type="rss" text="BAIR Blog" title="BAIR Blog" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="http://bair.berkeley.edu/blog/" />
+      <outline type="rss" text="Data Double Confirm" title="Data Double Confirm" xmlUrl="https://projectosyo.wixsite.com/datadoubleconfirm/blog-feed.xml" htmlUrl="https://projectosyo.wixsite.com/datadoubleconfirm/home" />
+      <outline type="rss" text="Data For Science" title="Data For Science" xmlUrl="https://medium.data4sci.com/feed" htmlUrl="https://medium.data4sci.com?source=rss----308c42d11059---4" />
+      <outline type="rss" text="Data Piques" title="Data Piques" xmlUrl="https://www.ethanrosenthal.com/index.xml" htmlUrl="https://www.ethanrosenthal.com/" />
+      <outline type="rss" text="Data Plus Science" title="Data Plus Science" xmlUrl="https://www.dataplusscience.com/RSSfeed.xml" htmlUrl="https://www.dataplusscience.com/insights.html" />
+      <outline type="rss" text="Data Science made in Switzerland" title="Data Science made in Switzerland" xmlUrl="https://blog.zhaw.ch/datascience/feed/" htmlUrl="https://blog.zhaw.ch/datascience/" />
+      <outline type="rss" text="Databricks Blog" title="Databricks Blog" xmlUrl="https://www.databricks.com/feed" htmlUrl="https://www.databricks.com" />
+      <outline type="rss" text="Harvard Data Science Initiative" title="Harvard Data Science Initiative" xmlUrl="https://datascience.harvard.edu/feed/" htmlUrl="https://datascience.harvard.edu" />
+      <outline type="rss" text="Julia Silge Blog" title="Julia Silge Blog" xmlUrl="https://juliasilge.com/blog/index.xml" htmlUrl="https://juliasilge.com/blog/" />
+      <outline type="rss" text="Kaggle Blog" title="Kaggle Blog" xmlUrl="https://medium.com/feed/kaggle-blog" htmlUrl="https://medium.com/kaggle-blog?source=rss----4b0982ce16a3---4" />
+      <outline type="rss" text="Little Miss Data" title="Little Miss Data" xmlUrl="https://www.littlemissdata.com/blog?format=RSS" htmlUrl="https://www.littlemissdata.com/blog/" />
+      <outline type="rss" text="Machine Learning Mastery Blog" title="Machine Learning Mastery Blog" xmlUrl="https://feeds.feedburner.com/MachineLearningMastery" htmlUrl="https://machinelearningmastery.com/" />
+      <outline type="rss" text="Mad (Data) Scientist" title="Mad (Data) Scientist" xmlUrl="https://matloff.wordpress.com/feed/" htmlUrl="https://matloff.wordpress.com" />
+      <outline type="rss" text="NVIDIA Technical Blog » Data Science" title="NVIDIA Technical Blog » Data Science" xmlUrl="https://developer.nvidia.com/blog/category/data-science/feed/" htmlUrl="https://developer.nvidia.com/blog" />
+      <outline type="rss" text="Nina B. Zumel" title="Nina B. Zumel" xmlUrl="https://ninazumel.com/feed.xml" htmlUrl="https://ninazumel.com/" />
+      <outline type="rss" text="O'Reilly" title="O'Reilly" xmlUrl="https://www.oreilly.com/radar/feed/index.xml" htmlUrl="https://www.oreilly.com/radar" />
+      <outline type="rss" text="Pete Warden's Blog" title="Pete Warden's Blog" xmlUrl="https://petewarden.com/feed/" htmlUrl="https://petewarden.com" />
+      <outline type="rss" text="Predictive Hacks" title="Predictive Hacks" xmlUrl="https://predictivehacks.com/feed/" htmlUrl="https://predictivehacks.com" />
+      <outline type="rss" text="R-bloggers" title="R-bloggers" xmlUrl="https://feeds.feedburner.com/RBloggers" htmlUrl="https://www.r-bloggers.com" />
+      <outline type="rss" text="Stats and R" title="Stats and R" xmlUrl="https://statsandr.com/index.xml" htmlUrl="https://statsandr.com/" />
+      <outline type="rss" text="The SAS Data Science Blog" title="The SAS Data Science Blog" xmlUrl="https://blogs.sas.com/content/subconsciousmusings/feed/" htmlUrl="https://blogs.sas.com/content/subconsciousmusings/" />
+      <outline type="rss" text="The Unofficial Google Data Science Blog" title="The Unofficial Google Data Science Blog" xmlUrl="https://www.unofficialgoogledatascience.com/feeds/posts/default?alt=rss" htmlUrl="https://www.unofficialgoogledatascience.com/" />
+      <outline type="rss" text="Towards Data Science" title="Towards Data Science" xmlUrl="https://towardsdatascience.com/feed/" htmlUrl="https://towardsdatascience.com/" />
+      <outline type="rss" text="Win Vector LLC" title="Win Vector LLC" xmlUrl="https://win-vector.com/feed/" htmlUrl="https://win-vector.com" />
+      <outline type="rss" text="Yanir Seroussi" title="Yanir Seroussi" xmlUrl="https://yanirseroussi.com/feed/" htmlUrl="https://yanirseroussi.com/" />
+    </outline>
+  </body>
+</opml>

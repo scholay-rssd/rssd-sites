@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>today / pets / 板块补充</title>
+  </head>
+  <body>
+    <outline text="宠物日历·节日与展赛主办方" title="宠物日历·节日与展赛主办方">
+      <outline text="World Animal Day" title="World Animal Day" type="rss" xmlUrl="https://www.worldanimalday.org/feed/" htmlUrl="https://www.worldanimalday.org/feed/" />
+    </outline>
+  </body>
+</opml>

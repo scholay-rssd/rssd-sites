@@ -1,0 +1,4716 @@
+{
+  "verifiedAt": "2026-10-14T01:47:20.908541+00:00",
+  "scope": "114 added space subscriptions; no automatic writing or publication",
+  "feeds": [
+    {
+      "space": "pets",
+      "group": "异宠大全·专业照护",
+      "url": "https://oxbowanimalhealth.com/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:41:54.519676+00:00",
+      "discoveryPage": "https://oxbowanimalhealth.com/blog/",
+      "declaredFeeds": [
+        "https://oxbowanimalhealth.com/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Oxbow Animal Health",
+      "entries": 12,
+      "sha256": "1ea77f598416a5b88c4f75dbe937da10da2eeb8fa3866557819ab06cba489010",
+      "samples": [
+        {
+          "title": "Forage Wise Receives Industry Recognition Award",
+          "date": "Fri, 06 Dec 2024 21:56:07 +0000"
+        },
+        {
+          "title": "2024 Oxbow Grants to Award More than $35,000 in Rescue Support",
+          "date": "Tue, 19 Nov 2024 14:17:18 +0000"
+        },
+        {
+          "title": "Oxbow’s Complete List of Guinea Pig Breeds",
+          "date": "Wed, 14 Aug 2024 21:20:28 +0000"
+        }
+      ],
+      "note": "Commercial small-pet care reference; latest cached item is from 2024, not a daily-news promise.",
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907369+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Oxbow Animal Health",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 12,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:48:39"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "异宠大全·专业照护",
+      "url": "https://arcprotects.org/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:41:54.528318+00:00",
+      "discoveryPage": "https://arcprotects.org/blog/",
+      "declaredFeeds": [
+        "https://arcprotects.org/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Amphibian and Reptile Conservancy",
+      "entries": 10,
+      "sha256": "d81fbe583c5735ed062350e44077bc92f1b2a5bdc9652634b040321cd95373f0",
+      "samples": [
+        {
+          "title": "Turn Your Backyard Pond Into a Hotbed of Biodiversity, Even in Winter",
+          "date": "Mon, 05 Oct 2026 11:15:00 +0000"
+        },
+        {
+          "title": "Seven Endangered Jemez Mountains Salamanders Collected for First Captive Population",
+          "date": "Thu, 01 Oct 2026 11:43:20 +0000"
+        },
+        {
+          "title": "The Wildlife and Habitats Behind the Art: Meet the Mojave Species. Win the Merch.",
+          "date": "Wed, 30 Sep 2026 23:14:46 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907500+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Amphibian and Reptile Conservancy",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:48:37"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "异宠大全·专业照护",
+      "url": "https://reptilesmagazine.com/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:41:55.312212+00:00",
+      "discoveryPage": "https://reptilesmagazine.com/",
+      "declaredFeeds": [
+        "https://reptilesmagazine.com/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Reptiles Magazine",
+      "entries": 10,
+      "sha256": "47210c4e67edbd7bc24dc369aba02d1ff1af7fcb3fe0b0511eca2ecd6af39baa",
+      "samples": [
+        {
+          "title": "Largest Living Death Adder Recorded Lives At Australian Reptile Park",
+          "date": "Tue, 13 Oct 2026 20:19:41 +0000"
+        },
+        {
+          "title": "Reptile Calming Kit Wins Industry Award At Pet & Aquatics Trade Show 2026",
+          "date": "Thu, 08 Oct 2026 20:15:17 +0000"
+        },
+        {
+          "title": "More Colorful Snakes Are Likely Venomous, Study Says",
+          "date": "Tue, 06 Oct 2026 02:32:22 +0000"
+        }
+      ],
+      "replacesCoverageOf": "https://reptifiles.com/feed/",
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907502+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Reptiles Magazine",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:48:36"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "异宠大全·专业照护",
+      "url": "https://www.tortoisetrust.com/blog-feed.xml",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:41:57.619932+00:00",
+      "discoveryPage": "https://www.tortoisetrust.com/",
+      "declaredFeeds": [
+        "https://www.tortoisetrust.com/blog-feed.xml"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "The Tortoise Trust",
+      "entries": 20,
+      "sha256": "3f787c7addade357e8579718147308a4047e4f22fe1ecefbb96b9623cccde0d1",
+      "samples": [
+        {
+          "title": "Devastating: What a tortoise viral disease really looks like if it enters a group or collection.",
+          "date": "Wed, 26 Aug 2026 08:39:07 GMT"
+        },
+        {
+          "title": "Tortoise Epidemic: Quarantine and Barrier Nursing Techniques",
+          "date": "Mon, 24 Aug 2026 05:08:54 GMT"
+        },
+        {
+          "title": "Centrochelys Sulcata Burrows, Substrates and Natural Habitats: Myth Busters Special Edition (Part One)",
+          "date": "Wed, 19 Aug 2026 15:55:05 GMT"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907504+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "The Tortoise Trust",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:48:37"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "异宠大全·小宠与水族",
+      "url": "https://bunnylady.com/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:41:59.871389+00:00",
+      "discoveryPage": "https://bunnylady.com/",
+      "declaredFeeds": [
+        "https://bunnylady.com/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "The Bunny Lady",
+      "entries": 10,
+      "sha256": "30419ba6673e424838812fa297b5228e4d3360cc459967c4c0f0f98f250d9491",
+      "samples": [
+        {
+          "title": "Read This BEFORE You Get a Rabbit (20 things to know first)",
+          "date": "Tue, 29 Apr 2025 13:45:09 +0000"
+        },
+        {
+          "title": "Why Did My Rabbit Stop Eating?",
+          "date": "Tue, 29 Apr 2025 13:44:04 +0000"
+        },
+        {
+          "title": "How to Trim Your Rabbit’s Nails By Yourself",
+          "date": "Tue, 29 Apr 2025 13:44:04 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907505+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "The Bunny Lady",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:48:37"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "异宠大全·小宠与水族",
+      "url": "https://reefbuilders.com/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:02.651326+00:00",
+      "discoveryPage": "https://www.reefbuilders.com/",
+      "declaredFeeds": [
+        "https://reefbuilders.com/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Reef Builders | The Reef and Saltwater Aquarium Blog",
+      "entries": 10,
+      "sha256": "4332b1065861973a05cf9bb754452f0b1f9e7c23798b84c971440af9f68b5ac8",
+      "samples": [
+        {
+          "title": "Ticket Sales Now Open",
+          "date": "Fri, 02 Oct 2026 13:00:00 +0000"
+        },
+        {
+          "title": "From Aquariumhuis Romberg to the Cover of Reef Hobbyist Magazine: Inside Danny’s Studio Tour",
+          "date": "Tue, 29 Sep 2026 23:14:30 +0000"
+        },
+        {
+          "title": "The Science of Particulate PO4, Rock Marinating, and Heavy Metal Resets: Inside Tropic Marin’s Interzoo Breakthroughs",
+          "date": "Sun, 27 Sep 2026 12:17:19 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907506+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Reef Builders | The Reef and Saltwater Aquarium Blog",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:48:37"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "异宠大全·小宠与水族",
+      "url": "https://www.guineapigmagazine.com/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:03.576993+00:00",
+      "discoveryPage": "https://www.guineapigmagazine.com/",
+      "declaredFeeds": [
+        "https://www.guineapigmagazine.com/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Guinea Pig Magazine",
+      "entries": 10,
+      "sha256": "4c83194bf34bae94fa68de4e5b782721bc4905145a73019878820a8924558fec",
+      "samples": [
+        {
+          "title": "CHARITY URGES BETTER UNDERSTANDING DURING GUINEA PIG AWARENESS WEEK",
+          "date": "Mon, 20 Oct 2025 12:40:37 +0000"
+        },
+        {
+          "title": "No Tricks, Just Treats! Inside Issue 88 🎃",
+          "date": "Fri, 12 Sep 2025 13:11:54 +0000"
+        },
+        {
+          "title": "Pig Brother, Piggy Baths & More! Inside Issue 87",
+          "date": "Fri, 27 Jun 2025 08:37:06 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907507+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Guinea Pig Magazine",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:48:40"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "每日一猫",
+      "url": "https://pawesomecats.com/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:04.303773+00:00",
+      "discoveryPage": "https://pawesomecats.com/",
+      "declaredFeeds": [
+        "https://pawesomecats.com/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Pawesome Cats",
+      "entries": 1,
+      "sha256": "a6cbcd3b90f3323b12c2439ecbbf7775c42de1a1290e801ee56e126e76cf9c0d",
+      "samples": [
+        {
+          "title": "Rotating Raw Proteins: Why Variety is Essential in Your Cat's Diet",
+          "date": "Sat, 03 Jan 2026 14:00:00 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907508+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Pawesome Cats",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 1,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:48:39"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "每日一猫",
+      "url": "https://katzenworld.co.uk/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:04.926891+00:00",
+      "discoveryPage": "https://www.katzenworld.co.uk/",
+      "declaredFeeds": [
+        "https://katzenworld.co.uk/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Katzenworld",
+      "entries": 10,
+      "sha256": "649e6e35af89a6d5db4ca06d9538ce16e6bd0b50c92ccc91e27d95a2e5f54262",
+      "samples": [
+        {
+          "title": "How Much Does a Purebred Cat Really Cost And What Affects the Price [2026 Guide]",
+          "date": "Thu, 06 Aug 2026 16:07:45 +0000"
+        },
+        {
+          "title": "The Purr-fect Outdoor Space for Your Feline Friend",
+          "date": "Wed, 10 Jun 2026 06:00:28 +0000"
+        },
+        {
+          "title": "Easter Pet Safety Tips: How to Protect Dogs, Cats, and Rabbits from Seasonal Hazards",
+          "date": "Fri, 03 Apr 2026 06:00:38 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907509+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Katzenworld",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:48:40"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "每日一猫",
+      "url": "https://felineopines.net/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:05.119838+00:00",
+      "discoveryPage": "https://www.felineopines.net/",
+      "declaredFeeds": [
+        "https://felineopines.net/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Home | felineopines",
+      "entries": 10,
+      "sha256": "561c0014f24fd74ba45bcf3f932357376f1e74634cdd66ce069152859a216c6d",
+      "samples": [
+        {
+          "title": "We’re on the radio!",
+          "date": "Fri, 11 Sep 2026 22:50:35 +0000"
+        },
+        {
+          "title": "Rainbow Bridge Remembrance Day",
+          "date": "Fri, 28 Aug 2026 15:02:26 +0000"
+        },
+        {
+          "title": "International Cat Day",
+          "date": "Sat, 08 Aug 2026 17:11:38 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907510+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Home | felineopines",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:48:38"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "每日一狗",
+      "url": "https://www.patriciamcconnell.com/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:06.940639+00:00",
+      "discoveryPage": "https://www.patriciamcconnell.com/theotherendoftheleash/",
+      "declaredFeeds": [
+        "https://www.patriciamcconnell.com/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "McConnell Publishing Inc.",
+      "entries": 50,
+      "sha256": "9ce3727980938b06f71d49991998b5caf6efcdfd2c814a372690312a8e88df3f",
+      "samples": [
+        {
+          "title": "Unpacking Cues, Markers, Praise & Positive Reinforcements",
+          "date": "Mon, 05 Oct 2026 21:08:27 +0000"
+        },
+        {
+          "title": "Dog Owners? Guardians? Who are we to our dogs?",
+          "date": "Mon, 14 Sep 2026 16:03:24 +0000"
+        },
+        {
+          "title": "Size Matters (When Using Treats as Reinforcement)",
+          "date": "Mon, 17 Aug 2026 19:12:10 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907511+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "McConnell Publishing Inc.",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 50,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:48:41"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "每日一狗",
+      "url": "https://puppyleaks.com/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:10.294223+00:00",
+      "discoveryPage": "https://www.puppyleaks.com/",
+      "declaredFeeds": [
+        "https://puppyleaks.com/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Puppy Leaks",
+      "entries": 10,
+      "sha256": "c39ad205e46975ebfa1517d4bac0401b0ab37139abc6bc5154df0de551035b0e",
+      "samples": [
+        {
+          "title": "5 Cute Halloween Accessories For Dogs",
+          "date": "Thu, 01 Oct 2026 20:00:46 +0000"
+        },
+        {
+          "title": "The Benefits of Fostering to Adopt a Dog",
+          "date": "Mon, 14 Sep 2026 22:52:07 +0000"
+        },
+        {
+          "title": "500 Polish Dog Names",
+          "date": "Tue, 11 Aug 2026 19:17:05 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907512+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Puppy Leaks",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:48:40"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "每日一狗",
+      "url": "https://www.preventivevet.com/dogs/rss.xml",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:10.413607+00:00",
+      "discoveryPage": "https://www.preventivevet.com/dogs",
+      "declaredFeeds": [
+        "https://www.preventivevet.com/dogs/rss.xml"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Dogs",
+      "entries": 10,
+      "sha256": "4219d99d70670f9c2ba73ececca25c627e6719e64b0256e6d48b2edd12f789c3",
+      "samples": [
+        {
+          "title": "Why Letting Your Dog Play in Mud Can Be Risky | Preventive Vet",
+          "date": "Wed, 22 Apr 2026 19:53:30 GMT"
+        },
+        {
+          "title": "Why Is My Dog Licking So Much? Could It Be Pain?",
+          "date": "Wed, 18 Feb 2026 21:24:45 GMT"
+        },
+        {
+          "title": "Restlessness and Pain in Dogs: What to Do",
+          "date": "Wed, 18 Feb 2026 19:56:37 GMT"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907513+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Dogs",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:48:41"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "每日一狗",
+      "url": "https://dogsinc.org/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:10.579044+00:00",
+      "discoveryPage": "https://www.guidedogs.org/blog/",
+      "declaredFeeds": [
+        "https://dogsinc.org/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Dogs Inc",
+      "entries": 10,
+      "sha256": "8dce1822371a68a4f45f0f5aee1dc3cb99cfd90471c8e1820368d5f2f4e8a4f2",
+      "samples": [
+        {
+          "title": "Early Neurological Stimulation in Puppies: Why the First Weeks Matter",
+          "date": "Mon, 22 Jun 2026 18:53:37 +0000"
+        },
+        {
+          "title": "Can You Pet a Service Dog? Service Dog Etiquette Explained",
+          "date": "Thu, 18 Jun 2026 15:14:28 +0000"
+        },
+        {
+          "title": "How Service Dogs Are Trained for Airports, Restaurants, and Crowded Places",
+          "date": "Wed, 17 Jun 2026 14:09:03 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907513+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Dogs Inc",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:48:33"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "项目合作·开放科研社区",
+      "url": "https://www.dariah.eu/feeds/news.xml",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:21.996151+00:00",
+      "discoveryPage": "https://www.dariah.eu/",
+      "declaredFeeds": [
+        "https://www.dariah.eu/feeds/news.xml",
+        "https://www.dariah.eu/feeds/events.xml"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "DARIAH-EU: News",
+      "entries": 20,
+      "sha256": "858c4447bc2139ec9dd8d901454e318c02ddbaab01e4b2e509217deb88221b11",
+      "samples": [
+        {
+          "title": "DARIAH welcomes Isto Huvila as the new chair of the Scientific Advisory Board",
+          "date": "Tue, 13 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "title": "STARDAST kicks off in Heidelberg",
+          "date": "Thu, 08 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Transformations. A DARIAH Journal: Call for Contributions for Special Issue",
+          "date": "Mon, 28 Sep 2026 00:00:00 GMT"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907514+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "DARIAH-EU: News",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:06"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "项目合作·开放科研社区",
+      "url": "https://sshoc.eu/rss.xml",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:23.252558+00:00",
+      "discoveryPage": "https://www.sshopencloud.eu/",
+      "declaredFeeds": [
+        "https://sshoc.eu/rss.xml"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "SSHOPENCLOUD",
+      "entries": 10,
+      "sha256": "e3811a7b6aa0a1fe524cff9b6251e2a52afe42f6e7312c38985d48168d963950",
+      "samples": [
+        {
+          "title": "CESSDA celebrates 50 years of social science data archiving",
+          "date": "Tue, 14 Jul 2026 12:48:24 +0000"
+        },
+        {
+          "title": "SSHOC Announces New 2026 Leadership",
+          "date": "Thu, 22 Jan 2026 14:07:53 +0000"
+        },
+        {
+          "title": "The SSH Open Marketplace Editorial Board is happy to invite you to a series of 8 hands-on workshops to strengthen FAIR and digital research skills",
+          "date": "Thu, 22 Jan 2026 14:03:40 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907515+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "SSHOPENCLOUD",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:06"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "项目合作·开放科研社区",
+      "url": "https://reproducibilitea.org/feed.xml",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:24.772312+00:00",
+      "discoveryPage": "https://reproducibiliTea.org/",
+      "declaredFeeds": [
+        "https://reproducibilitea.org/feed.xml"
+      ],
+      "status": "verified",
+      "format": "feed",
+      "title": "ReproducibiliTea",
+      "entries": 10,
+      "sha256": "54a5aa93619ed6a424901bd021e5fb3f9b3415533e7c1c803a55fb8fcc0a8bfc",
+      "samples": [
+        {
+          "title": "Post-publication review as a digital colloquium",
+          "date": "2026-10-13T09:00:00+00:00"
+        },
+        {
+          "title": "ReproducibiliTea Conference — Free, Online, Sept 25",
+          "date": "2026-06-29T10:00:00+00:00"
+        },
+        {
+          "title": "ReproducibiliTea in 2026",
+          "date": "2026-01-26T07:00:00+00:00"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907516+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "ReproducibiliTea",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:08"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "项目合作·开放科研社区",
+      "url": "https://www.cos.io/blog/rss.xml",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:25.536309+00:00",
+      "discoveryPage": "https://www.cos.io/blog",
+      "declaredFeeds": [
+        "https://www.cos.io/blog/rss.xml"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Blog",
+      "entries": 10,
+      "sha256": "16e42861d195b615140183b2ad1b6b317bd5561615b83ef3cabcf50547e70379",
+      "samples": [
+        {
+          "title": "What is in the Registered Revisions Meta Trial Development and Pilot Report?",
+          "date": "Tue, 29 Sep 2026 12:44:57 GMT"
+        },
+        {
+          "title": "Applications Open: Preregistration and Outcome Reporting Advisory Group",
+          "date": "Thu, 24 Sep 2026 15:38:46 GMT"
+        },
+        {
+          "title": "A New Chapter for COS in Europe",
+          "date": "Thu, 10 Sep 2026 14:46:39 GMT"
+        }
+      ],
+      "displayTitle": "Center for Open Science Blog",
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907517+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:08"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "项目合作·开放科研社区",
+      "url": "https://investinopen.org/rss/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:25.738869+00:00",
+      "discoveryPage": "https://investinopen.org/",
+      "declaredFeeds": [
+        "https://investinopen.org/rss/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Invest in Open Infrastructure",
+      "entries": 15,
+      "sha256": "b0124ca34303554230a4604744cf9034f292799a8e1d6e035240c9d643244d91",
+      "samples": [
+        {
+          "title": "2026 State of Open Infrastructure Data and Methodology",
+          "date": "Wed, 07 Oct 2026 17:47:17 +0000"
+        },
+        {
+          "title": "The 2026 State of Open Infrastructure report: Running to stay in place",
+          "date": "Mon, 05 Oct 2026 11:50:11 +0000"
+        },
+        {
+          "title": "State of Open Infrastructure",
+          "date": "Sun, 04 Oct 2026 10:20:00 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907518+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Invest in Open Infrastructure",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 15,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:06"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "项目合作·开放科研社区",
+      "url": "https://force11.org/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:25.924728+00:00",
+      "discoveryPage": "https://www.force11.org/",
+      "declaredFeeds": [
+        "https://force11.org/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "FORCE11",
+      "entries": 8,
+      "sha256": "bbe0ce587278b3bb3ae2ccc5a59e60dc920b216affab843016c4bdd39ada7c20",
+      "samples": [
+        {
+          "title": "Open Publishing Awards 2026: nominations open, judges and sponsors",
+          "date": "Wed, 16 Sep 2026 16:31:10 +0000"
+        },
+        {
+          "title": "Webinar: Metadata for All with Wikidata",
+          "date": "Wed, 15 Jul 2026 15:31:36 +0000"
+        },
+        {
+          "title": "FORCE11 Turns 15!",
+          "date": "Mon, 15 Jun 2026 17:57:47 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907519+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "FORCE11",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 8,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:08"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "项目合作·开放科研社区",
+      "url": "https://digitalhumanitiesnow.org/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:31.254196+00:00",
+      "discoveryPage": "https://digitalhumanitiesnow.org/",
+      "declaredFeeds": [
+        "https://digitalhumanitiesnow.org/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Digital Humanities Now",
+      "entries": 10,
+      "sha256": "8772f3307099cf7f8cd55aab6417b5bd9b542f6c53c7f8223b4fe25776be5400",
+      "samples": [
+        {
+          "title": "DHNow Newsletter, October 7, 2026",
+          "date": "Wed, 07 Oct 2026 18:15:42 +0000"
+        },
+        {
+          "title": "Weekly Highlight: Digital Library Federation",
+          "date": "Wed, 07 Oct 2026 18:06:40 +0000"
+        },
+        {
+          "title": "Job Announcement: Assistant Professor in Digital Humanities",
+          "date": "Wed, 07 Oct 2026 18:05:22 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907520+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Digital Humanities Now",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:08"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "项目合作·开放科研社区",
+      "url": "https://www.oeglobal.org/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:32.810263+00:00",
+      "discoveryPage": "https://www.oeglobal.org/",
+      "declaredFeeds": [
+        "https://www.oeglobal.org/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "OEGlobal",
+      "entries": 10,
+      "sha256": "6098ece5afcbd7510a45291ea07ac7bebe10b968901770444a319765c5733f04",
+      "samples": [
+        {
+          "title": "Choosing National Priorities for Open Education: Listening Session Hosted by CCCOER & OEA",
+          "date": "Mon, 12 Oct 2026 19:00:00 +0000"
+        },
+        {
+          "title": "OEGlobal 2026 is four weeks away. Here’s what to expect",
+          "date": "Mon, 14 Sep 2026 14:09:20 +0000"
+        },
+        {
+          "title": "Adaptation or “Sanitization”? The Freedoms and Responsibilities of Open",
+          "date": "Tue, 08 Sep 2026 22:15:00 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907521+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "OEGlobal",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:09"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "项目合作·开放科研社区",
+      "url": "https://osc-international.com/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:33.731507+00:00",
+      "discoveryPage": "https://osc-international.com/",
+      "declaredFeeds": [
+        "https://osc-international.com/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "INOSC",
+      "entries": 10,
+      "sha256": "07b25212ea4afe15cb6cac6dfa665a6c9e4b739cd7be99446cd2a5c1a81f4180",
+      "samples": [
+        {
+          "title": "Open Science Community Lisboa promove 2ª edição do Open Science Sunset | The Open Science Community Lisbon is hosting the 2nd edition of Open Science Sunset",
+          "date": "Fri, 19 Jun 2026 10:35:34 +0000"
+        },
+        {
+          "title": "Fourth Annual OSCAWARDS 2026",
+          "date": "Mon, 15 Jun 2026 18:00:00 +0000"
+        },
+        {
+          "title": "MEET-UP SIG OPEN EDUCATION: CONNECTING THE OPENS",
+          "date": "Wed, 10 Jun 2026 13:41:56 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907522+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "INOSC",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:45"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "学术工具·科研服务",
+      "url": "https://blog.openalex.org/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:37.229113+00:00",
+      "discoveryPage": "https://blog.openalex.org/",
+      "declaredFeeds": [
+        "https://blog.openalex.org/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "OpenAlex blog",
+      "entries": 10,
+      "sha256": "a7e582641f36fff3192927a078b372b67124ef8ab7fd6cfa12c0032cd6107102",
+      "samples": [
+        {
+          "title": "Same topics, better assignments: a new topic classifier for OpenAlex",
+          "date": "Wed, 07 Oct 2026 06:38:00 +0000"
+        },
+        {
+          "title": "OpenAlex’s SDG tags are now right 7 times in 10, up from 3",
+          "date": "Sun, 04 Oct 2026 21:00:59 +0000"
+        },
+        {
+          "title": "OpenAlex keywords are finally good",
+          "date": "Sat, 03 Oct 2026 06:21:19 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907523+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "OpenAlex blog",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:06"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "学术工具·科研服务",
+      "url": "https://blog.sciety.org/rss/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:38.161187+00:00",
+      "discoveryPage": "https://blog.sciety.org/",
+      "declaredFeeds": [
+        "https://blog.sciety.org/rss/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Sciety",
+      "entries": 15,
+      "sha256": "aca9f01544cddf6df671f0f17dac3d80c27a5026e03bc107f745b23e0abfb6e1",
+      "samples": [
+        {
+          "title": "Bridging preprints and the Fediverse: Start discussions on Sciety, and continue them everywhere",
+          "date": "Fri, 31 Oct 2025 15:06:53 GMT"
+        },
+        {
+          "title": "Sciety secures funding from NLNet Foundation to help build discourse around preprints",
+          "date": "Fri, 09 May 2025 14:21:15 GMT"
+        },
+        {
+          "title": "2024 Wrapped",
+          "date": "Wed, 18 Dec 2024 12:45:12 GMT"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907524+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Sciety",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 15,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:07"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "学术工具·科研服务",
+      "url": "https://upstream.force11.org/latest/rss/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:38.825049+00:00",
+      "discoveryPage": "https://upstream.force11.org/",
+      "declaredFeeds": [
+        "https://upstream.force11.org/latest/rss/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Upstream",
+      "entries": 15,
+      "sha256": "d7086baa402dc7c936d89ebbc4384f2bcc1409c5e4d2d3d48c9521c52ed371ba",
+      "samples": [
+        {
+          "title": "Open as Antidote – addressing the big challenges facing science",
+          "date": "Tue, 15 Sep 2026 06:47:14 GMT"
+        },
+        {
+          "title": "When Data Meets Review: Reflections on PREreview’s First Open Dataset Review",
+          "date": "Tue, 08 Sep 2026 09:00:23 GMT"
+        },
+        {
+          "title": "Community Peer Review for Resistance and Resilience",
+          "date": "Tue, 04 Aug 2026 12:36:38 GMT"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907525+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Upstream",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 15,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:08"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "学术工具·科研服务",
+      "url": "http://feeds.feedburner.com/zotero/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:40.481061+00:00",
+      "discoveryPage": "https://www.zotero.org/blog/",
+      "declaredFeeds": [
+        "http://feeds.feedburner.com/zotero/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Zotero",
+      "entries": 10,
+      "sha256": "8b9ed7f561b8f7ec368f08f950755ca437f9096a6085960bc742d16eb9aba816",
+      "samples": [
+        {
+          "title": "Read Aloud on iOS",
+          "date": "Mon, 05 Oct 2026 16:34:57 +0000"
+        },
+        {
+          "title": "Zotero 10",
+          "date": "Mon, 17 Aug 2026 17:45:26 +0000"
+        },
+        {
+          "title": "Zotero 9",
+          "date": "Fri, 10 Apr 2026 20:46:17 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907526+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Zotero",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:09"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·品牌与字体",
+      "url": "http://feeds2.feedburner.com/itsnicethat/SlXC",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:44.907777+00:00",
+      "discoveryPage": "https://www.itsnicethat.com/",
+      "declaredFeeds": [
+        "http://feeds2.feedburner.com/itsnicethat/SlXC"
+      ],
+      "status": "verified",
+      "format": "feed",
+      "title": "It's Nice That",
+      "entries": 20,
+      "sha256": "f1187d1586840dd34850587f1e68f0520fca4ee71eec7c63d41ebbe58eb40356",
+      "samples": [
+        {
+          "title": "Joanna Blémont didn’t get to a 2,000 frame animation without doing a few “bad drawings” first",
+          "date": "2026-10-13T09:00:00+00:00"
+        },
+        {
+          "title": "Atelier Bingo puts its own spin on a ten-year-old Tuscan wine",
+          "date": "2026-10-13T09:00:00+00:00"
+        },
+        {
+          "title": "“Less bank, more life”: Barkas gives Nigerian digital bank Kuda an identity with the pace of Lagos",
+          "date": "2026-10-13T08:00:00+00:00"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907527+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "It's Nice That",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:11"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·品牌与字体",
+      "url": "https://www.slanted.de/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:45.530148+00:00",
+      "discoveryPage": "https://www.slanted.de/",
+      "declaredFeeds": [
+        "https://www.slanted.de/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "slanted",
+      "entries": 10,
+      "sha256": "91db06b3babeffe70e7bde0c47c7ea90580ed4ab61eb5221dc409de6e712e9bd",
+      "samples": [
+        {
+          "title": "Foundry Kingdom",
+          "date": "Tue, 13 Oct 2026 09:00:20 +0000"
+        },
+        {
+          "title": "Typodarium 2027",
+          "date": "Mon, 12 Oct 2026 09:00:30 +0000"
+        },
+        {
+          "title": "Unicode Technology Workshop 2026",
+          "date": "Fri, 09 Oct 2026 09:00:22 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907528+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "slanted",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:13"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·品牌与字体",
+      "url": "https://www.typewolf.com/feed",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:46.127523+00:00",
+      "discoveryPage": "https://www.typewolf.com/",
+      "declaredFeeds": [
+        "https://www.typewolf.com/feed"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Typewolf",
+      "entries": 10,
+      "sha256": "0278322d1de7b73ae8745b6d1fc6b17a58db5ad143a022cb16ca9dbe2b26d487",
+      "samples": [
+        {
+          "title": "Daylight",
+          "date": ""
+        },
+        {
+          "title": "Heart & Soil",
+          "date": ""
+        },
+        {
+          "title": "Dirty Vine",
+          "date": ""
+        }
+      ],
+      "note": "Some entries lack publication dates; not automatic calendar evidence.",
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907528+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Typewolf",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:12"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·品牌与字体",
+      "url": "https://www.typotheque.com/rss",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:48.170131+00:00",
+      "discoveryPage": "https://www.typotheque.com/blog/",
+      "declaredFeeds": [
+        "https://www.typotheque.com/rss"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Typotheque",
+      "entries": 602,
+      "sha256": "b7fa850c1a13968600abb98cb852fd5f7ee58caa8aa057b5e1750c977c56848e",
+      "samples": [
+        {
+          "title": "From a trail of type to the Trail of Tears",
+          "date": "Thu, 06 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Typotheque is looking for a Junior Graphic Designer",
+          "date": "Tue, 09 Jun 2026 00:00:00 GMT"
+        },
+        {
+          "title": "New typeface: Chairman",
+          "date": "Mon, 08 Jun 2026 00:00:00 GMT"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907529+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Typotheque",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 578,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:03"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·品牌与字体",
+      "url": "https://typographica.org/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:49.941202+00:00",
+      "discoveryPage": "https://typographica.org/",
+      "declaredFeeds": [
+        "https://typographica.org/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Typographica",
+      "entries": 100,
+      "sha256": "7f58f13738226f4d49e33588f27fea328f5ae12e58bcc9554cef424161004c19",
+      "samples": [
+        {
+          "title": "Jim Parkinson, 1941–2025",
+          "date": "Fri, 27 Jun 2025 02:26:33 +0000"
+        },
+        {
+          "title": "Typographica is Twenty Years Old",
+          "date": "Tue, 12 Jul 2022 07:23:04 +0000"
+        },
+        {
+          "title": "A Grammar of Typography: Classical Book Design in the Digital Age",
+          "date": "Thu, 06 Jan 2022 21:55:39 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907530+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Typographica",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 100,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:04"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·品牌与字体",
+      "url": "https://www.brandingmag.com/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:51.643890+00:00",
+      "discoveryPage": "https://www.brandingmag.com/",
+      "declaredFeeds": [
+        "https://www.brandingmag.com/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Brandingmag",
+      "entries": 20,
+      "sha256": "5664b5ea898db86bc9b45c87adec858dc86b21ad37af6ac41dc7ea957dc8a2d5",
+      "samples": [
+        {
+          "title": "Are We Building Brands for a World That No Longer Exists?",
+          "date": "Mon, 14 Sep 2026 12:31:50 +0000"
+        },
+        {
+          "title": "Sound Decoded: Share of Voice Has a Sound Problem",
+          "date": "Thu, 10 Sep 2026 11:53:40 +0000"
+        },
+        {
+          "title": "Even Amidst AI, Brand Fundamentals Are More Indispensable Than Ever",
+          "date": "Thu, 06 Aug 2026 19:04:17 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907531+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Brandingmag",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:04"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·品牌与字体",
+      "url": "https://identitydesigned.com/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:53.628726+00:00",
+      "discoveryPage": "https://www.identitydesigned.com/",
+      "declaredFeeds": [
+        "https://identitydesigned.com/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Identity Designed",
+      "entries": 10,
+      "sha256": "c344daffe0e7d638f3cd474f5c428c374b0a6c4cd2228333baf219ceba124258",
+      "samples": [
+        {
+          "title": "WHEN",
+          "date": "Mon, 16 Dec 2024 12:15:43 +0000"
+        },
+        {
+          "title": "Mountainview Brewing",
+          "date": "Mon, 04 Nov 2024 16:28:03 +0000"
+        },
+        {
+          "title": "Ashton",
+          "date": "Thu, 11 Jul 2024 15:30:13 +0000"
+        }
+      ],
+      "note": "Branding reference archive; latest cached item is from 2024.",
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907532+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Identity Designed",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:04"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·品牌与字体",
+      "url": "https://www.logodesignlove.com/feed",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:54.920313+00:00",
+      "discoveryPage": "https://www.logodesignlove.com/",
+      "declaredFeeds": [
+        "https://www.logodesignlove.com/feed"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Logo Design Love",
+      "entries": 10,
+      "sha256": "ed8043612c393ed084e018f71e7e3615851ecedfbff2dee1b3f0b51cee6dc233",
+      "samples": [
+        {
+          "title": "Tropical Smoothie Cafe, by JKR",
+          "date": "Tue, 29 Sep 2026 16:16:19 +0000"
+        },
+        {
+          "title": "Yakitoriya, by Art Lebedev",
+          "date": "Fri, 26 Jun 2026 18:07:31 +0000"
+        },
+        {
+          "title": "Super Logo Design",
+          "date": "Thu, 14 Nov 2024 12:48:44 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907533+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Logo Design Love",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:06"
+      }
+    },
+    {
+      "space": "design",
+      "group": "设计历史·展览与赛事",
+      "url": "https://www.swiss-miss.com/feed",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:42:59.714668+00:00",
+      "discoveryPage": "https://www.swiss-miss.com/",
+      "declaredFeeds": [
+        "https://www.swiss-miss.com/feed",
+        "https://www.swiss-miss.com/feed/atom"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "swissmiss",
+      "entries": 40,
+      "sha256": "63c73914f48530ab19c0763070f0e15812ddcb44a0e6764bc9b6e8ba0869ea40",
+      "samples": [
+        {
+          "title": "The Universe Does Not Hand Us Meaning",
+          "date": "Tue, 08 Sep 2026 14:52:01 +0000"
+        },
+        {
+          "title": "Artist Guridi",
+          "date": "Tue, 08 Sep 2026 14:50:30 +0000"
+        },
+        {
+          "title": "Assume misunderstanding",
+          "date": "Tue, 08 Sep 2026 14:45:59 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907534+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "swissmiss",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 40,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:10"
+      }
+    },
+    {
+      "space": "design",
+      "group": "设计历史·展览与赛事",
+      "url": "https://www.itsliquid.com/feed",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:43:00.078875+00:00",
+      "discoveryPage": "https://www.itsliquid.com/",
+      "declaredFeeds": [
+        "https://www.itsliquid.com/feed"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "ITSLIQUID",
+      "entries": 10,
+      "sha256": "e6cb6b6a7d2533cd9eb14f2c621200b98a3eef14aa0d270b34ec3d979aa487c9",
+      "samples": [
+        {
+          "title": "Opening: ANIMA MUNDI – Solo Shows",
+          "date": "Tue, 13 Oct 2026 08:18:16 +0000"
+        },
+        {
+          "title": "TRIGGERED: The Gun Epidemic in America",
+          "date": "Mon, 12 Oct 2026 13:44:41 +0000"
+        },
+        {
+          "title": "CALL FOR ARTISTS: BARCELONA 2026",
+          "date": "Fri, 09 Oct 2026 13:43:00 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907535+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "ITSLIQUID",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:09"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "输入法·方案作者与历史",
+      "url": "https://rime.im/atom.xml",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:43:09.154213+00:00",
+      "discoveryPage": "https://rime.im/blog/",
+      "declaredFeeds": [
+        "https://rime.im/atom.xml"
+      ],
+      "status": "verified",
+      "format": "feed",
+      "title": "RIME | 中州韻輸入法引擎",
+      "entries": 30,
+      "sha256": "65cf5fafced4789d90e3507c5d633c77a437ea2762769a864185f0d698fa47dd",
+      "samples": [
+        {
+          "title": "［音樂專輯］中州曲韻",
+          "date": "2026-07-24T00:00:00+00:00"
+        },
+        {
+          "title": "「心中讚歎怎化鴻篇」｜黃河史詩原創《河之南》",
+          "date": "2026-05-24T00:00:00+00:00"
+        },
+        {
+          "title": "原創詞曲與二胡琴鳴：【式恕堂】音畫合輯",
+          "date": "2026-05-16T00:00:00+00:00"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907536+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "RIME | 中州韻輸入法引擎",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 30,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:19"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "输入法·方案作者与历史",
+      "url": "https://dvel.me/index.xml",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:43:10.264144+00:00",
+      "discoveryPage": "https://dvel.me/",
+      "declaredFeeds": [
+        "https://dvel.me/index.xml"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Dvel's Blog",
+      "entries": 49,
+      "sha256": "99c7776c2d60d9315b49d1a1432a5b3620aa1cf612ad6e480a14da28e5e33ac3",
+      "samples": [
+        {
+          "title": "Rime 全拼双拼混输",
+          "date": "Mon, 20 Nov 2023 00:00:41 +0800"
+        },
+        {
+          "title": "CHD 油猴脚本：每日签到自动答题",
+          "date": "Thu, 16 Mar 2023 00:03:36 +0800"
+        },
+        {
+          "title": "Rime 配置：雾凇拼音",
+          "date": "Fri, 20 Jan 2023 00:33:36 +0800"
+        }
+      ],
+      "note": "Input-scheme maintainer reference archive; latest cached item is from 2023.",
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907537+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Dvel's Blog",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 49,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:21"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "输入法·方案作者与历史",
+      "url": "https://www.mintimate.cn/atom.xml",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:43:10.522826+00:00",
+      "discoveryPage": "https://www.mintimate.cn/",
+      "declaredFeeds": [
+        "https://www.mintimate.cn/atom.xml",
+        "https://www.mintimate.cn/rss2.xml"
+      ],
+      "status": "verified",
+      "format": "feed",
+      "title": "雨月空间站",
+      "entries": 8,
+      "sha256": "48d6057b88ad1ce1dbfe5fe961edfbfbddd26622ff48b0ce27654bdddf25e1e8",
+      "samples": [
+        {
+          "title": "Codex 多账号切换不再折腾：OAuth 配对与 Auth 迁移实践",
+          "date": "2026-08-29T06:42:13.000Z"
+        },
+        {
+          "title": "从 Git 贡献记录到人设画像报告：AI Stats Agent 的一次全栈实践",
+          "date": "2026-07-08T06:10:00.000Z"
+        },
+        {
+          "title": "WorkBuddy 上手：把 Homebrew CN 变成会排障的 Agent",
+          "date": "2026-06-30T08:20:00.000Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907537+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "雨月空间站",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 8,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:19"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "输入法·方案作者与历史",
+      "url": "https://www.v2ex.com/feed/ime.xml",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:43:11.497493+00:00",
+      "discoveryPage": "https://www.v2ex.com/go/ime",
+      "declaredFeeds": [
+        "https://www.v2ex.com/feed/ime.xml"
+      ],
+      "status": "verified",
+      "format": "feed",
+      "title": "输入法",
+      "entries": 50,
+      "sha256": "4f9748792e70c05590b4b6f302d653834cc95dcc9bff817a1c8d48792de960d0",
+      "samples": [
+        {
+          "title": "目前为止，这个完全离线的输入法是我用过最好用的",
+          "date": "2026-10-13T07:39:12Z"
+        },
+        {
+          "title": "微信输入法在 VS Code 里无法输入中文标点右引号",
+          "date": "2026-09-15T06:11:55Z"
+        },
+        {
+          "title": "2026 年过半了，你们现在在用什么输入法？",
+          "date": "2026-07-27T01:10:01Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907540+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "输入法",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 50,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:20"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘·作者与社区",
+      "url": "https://kbd.news/rss.xml",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:43:13.220247+00:00",
+      "discoveryPage": "https://kbd.news/",
+      "declaredFeeds": [
+        "https://kbd.news/rss.xml",
+        "https://kbd.news/rss_weekly.xml"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Keyboard Builders' Digest",
+      "entries": 25,
+      "sha256": "79e77b99b0f8312d3d36a63b9c064d2d0c386928e5acea4e9b012461235947c1",
+      "samples": [
+        {
+          "title": "MelGeek MADE68 Ultra V2 HE review",
+          "date": "Tue, 13 Oct 2026 13:00:00 +0200"
+        },
+        {
+          "title": "Lunakbd",
+          "date": "Tue, 13 Oct 2026 12:30:00 +0200"
+        },
+        {
+          "title": "Meow keyboard",
+          "date": "Tue, 13 Oct 2026 12:00:00 +0200"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907541+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Keyboard Builders' Digest",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 25,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:21"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘·作者与社区",
+      "url": "https://www.theremingoat.com/blog?format=rss",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:43:15.328671+00:00",
+      "discoveryPage": "https://www.theremingoat.com/",
+      "declaredFeeds": [
+        "https://www.theremingoat.com/blog?format=rss"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "ThereminGoat's Switches",
+      "entries": 20,
+      "sha256": "64eb93b27ca93b3be0a611bc24d1b35b166a4e1020bf5373a0a78695599584b7",
+      "samples": [
+        {
+          "title": "Geonworks Strike HE Switch Review",
+          "date": "Sun, 11 Oct 2026 12:45:57 +0000"
+        },
+        {
+          "title": "HMX Cthulhu Switch Review",
+          "date": "Sun, 27 Sep 2026 12:27:27 +0000"
+        },
+        {
+          "title": "Kailh Xuan Switch Review",
+          "date": "Sun, 30 Aug 2026 14:11:04 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907542+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "ThereminGoat's Switches",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:26"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘·作者与社区",
+      "url": "https://blog.zsa.io/posts.rss",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:43:15.358243+00:00",
+      "discoveryPage": "https://blog.zsa.io/",
+      "declaredFeeds": [
+        "https://blog.zsa.io/posts.rss"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "ZSA Blog",
+      "entries": 171,
+      "sha256": "03b66e9258a1d4a0db97342288b67c43a7625a9d6535c92edba0bdc92dae489d",
+      "samples": [
+        {
+          "title": "Introducing Kailh Choc Platypus switches",
+          "date": "Tue, 13 Oct 2026 06:34:00 GMT"
+        },
+        {
+          "title": "Customizable 3D Printable Navigator Shells",
+          "date": "Fri, 09 Oct 2026 06:34:00 GMT"
+        },
+        {
+          "title": "Layout Buffet - Unicode",
+          "date": "Fri, 04 Sep 2026 06:34:00 GMT"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907543+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "ZSA Blog",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 171,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:21"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘·作者与社区",
+      "url": "https://www.thekeyboardco.com/blog/index.php/feed/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:43:17.031730+00:00",
+      "discoveryPage": "https://www.keyboardco.com/blog/",
+      "declaredFeeds": [
+        "https://www.thekeyboardco.com/blog/index.php/feed/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "",
+      "entries": 10,
+      "sha256": "6cb9d2510ba0c533f47c18a3441e639c3c1985e21b3eb8fec43dba384e05e59f",
+      "samples": [
+        {
+          "title": "IBM’s legendary Model M turns 40 this year.",
+          "date": "Mon, 17 Nov 2025 14:43:45 +0000"
+        },
+        {
+          "title": "Black Friday 2025 deals now live.",
+          "date": "Fri, 14 Nov 2025 09:38:58 +0000"
+        },
+        {
+          "title": "Can your keyboard choice improve your luck?",
+          "date": "Thu, 13 Nov 2025 10:20:42 +0000"
+        }
+      ],
+      "displayTitle": "The Keyboard Company Blog",
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907544+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:23"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘·作者与社区",
+      "url": "https://deskthority.net/feed",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:43:18.619831+00:00",
+      "discoveryPage": "https://deskthority.net/",
+      "declaredFeeds": [
+        "https://deskthority.net/feed",
+        "https://deskthority.net/feed/news",
+        "https://deskthority.net/feed/forums",
+        "https://deskthority.net/feed/topics",
+        "https://deskthority.net/feed/topics_active"
+      ],
+      "status": "verified",
+      "format": "feed",
+      "title": "deskthority",
+      "entries": 15,
+      "sha256": "12c3c1f7a0ee882ae331890cd90cd8760a36dd6d8e6ce64f050a0df7571055c6",
+      "samples": [
+        {
+          "title": "Deskthority talk • Re: Core Discussion: &quot;Group Buys&quot; or DPM (DT General Public Moral)",
+          "date": "2026-10-13T21:39:36+02:00"
+        },
+        {
+          "title": "Keyboards • Re: Wang 725-3770 - Need help connecting to PC",
+          "date": "2026-10-13T21:17:34+02:00"
+        },
+        {
+          "title": "Keyboards • Re: Wang 725-3770 - Need help connecting to PC",
+          "date": "2026-10-13T18:11:18+02:00"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907545+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "deskthority",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 15,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:21"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法项目",
+      "url": "https://github.com/fcitx/libime/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:20.051165+00:00",
+      "discoveryPage": "https://github.com/fcitx/libime/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from libime",
+      "entries": 10,
+      "sha256": "1df770581516f55654a5d9d0380856f709f21bebd9f3a5188181c041b01afc31",
+      "samples": [
+        {
+          "title": "1.1.17",
+          "date": "2026-09-24T01:35:08Z"
+        },
+        {
+          "title": "1.1.16",
+          "date": "2026-09-06T02:40:01Z"
+        },
+        {
+          "title": "1.1.15",
+          "date": "2026-06-20T06:34:37Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907546+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "fcitx/libime · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:21"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法项目",
+      "url": "https://github.com/fcitx/fcitx5-chewing/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:20.620759+00:00",
+      "discoveryPage": "https://github.com/fcitx/fcitx5-chewing/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from fcitx5-chewing",
+      "entries": 10,
+      "sha256": "9f31f2cf25be3503393f11dd56e4c751b512eb14a2f44dce1aee7e6cf9cda41b",
+      "samples": [
+        {
+          "title": "5.1.13",
+          "date": "2026-09-06T02:39:52Z"
+        },
+        {
+          "title": "5.1.12",
+          "date": "2026-06-20T04:19:04Z"
+        },
+        {
+          "title": "5.1.11",
+          "date": "2026-03-17T15:20:33Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907549+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "fcitx/fcitx5-chewing · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:22"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法项目",
+      "url": "https://github.com/chewing/libchewing/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:20.817932+00:00",
+      "discoveryPage": "https://github.com/chewing/libchewing/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from libchewing",
+      "entries": 10,
+      "sha256": "13eb3fc8abb9399c8b37dfa8bc60af10b2df202cb30e63aa43328dbf31840393",
+      "samples": [
+        {
+          "title": "v0.12.0",
+          "date": "2026-04-06T13:11:31Z"
+        },
+        {
+          "title": "v0.12.0-alpha.1",
+          "date": "2026-02-07T12:31:55Z"
+        },
+        {
+          "title": "v0.11.0",
+          "date": "2026-01-10T02:08:14Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907551+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "chewing/libchewing · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:23"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法项目",
+      "url": "https://github.com/chewing/ibus-chewing/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:22.159264+00:00",
+      "discoveryPage": "https://github.com/chewing/ibus-chewing/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from ibus-chewing",
+      "entries": 10,
+      "sha256": "16d514289fe7ed5c6090109ca1d6ea353208cacad014880dbd04de0bc2656448",
+      "samples": [
+        {
+          "title": "v2.1.7",
+          "date": "2025-09-05T23:47:44Z"
+        },
+        {
+          "title": "v2.1.6",
+          "date": "2025-08-24T00:10:11Z"
+        },
+        {
+          "title": "v2.1.5",
+          "date": "2025-08-15T22:51:18Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907552+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "chewing/ibus-chewing · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:22"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法项目",
+      "url": "https://github.com/vChewing/vChewing-macOS/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:24.659392+00:00",
+      "discoveryPage": "https://github.com/vChewing/vChewing-macOS/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from vChewing-macOS",
+      "entries": 10,
+      "sha256": "db5d163fe8ae9ddc45180a9fafef534ba998832a52bc5ffdfacf519c630c2328",
+      "samples": [
+        {
+          "title": "4.8.8",
+          "date": "2026-10-11T15:17:26Z"
+        },
+        {
+          "title": "4.8.7",
+          "date": "2026-10-10T19:33:14Z"
+        },
+        {
+          "title": "4.8.6",
+          "date": "2026-09-29T17:39:27Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907554+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "vChewing/vChewing-macOS · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:22"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法项目",
+      "url": "https://github.com/openvanilla/openvanilla/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:24.668648+00:00",
+      "discoveryPage": "https://github.com/openvanilla/openvanilla/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from openvanilla",
+      "entries": 10,
+      "sha256": "3327846ebf7cfbe03182176f88a85b035f989b9acc1ae87f478014d9a3d1d535",
+      "samples": [
+        {
+          "title": "1.8.6",
+          "date": "2026-09-07T16:42:07Z"
+        },
+        {
+          "title": "1.8.5",
+          "date": "2026-08-29T02:02:09Z"
+        },
+        {
+          "title": "1.8.4",
+          "date": "2025-12-05T04:14:21Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907555+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "openvanilla/openvanilla · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:23"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法项目",
+      "url": "https://github.com/fcitx/fcitx5-table-extra/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:24.701536+00:00",
+      "discoveryPage": "https://github.com/fcitx/fcitx5-table-extra/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from fcitx5-table-extra",
+      "entries": 10,
+      "sha256": "3337d30bfbe3bb50912a86c9ef8e13411197b639d0ff4e39bd460c83d129491e",
+      "samples": [
+        {
+          "title": "5.1.13",
+          "date": "2026-09-06T02:39:57Z"
+        },
+        {
+          "title": "5.1.12",
+          "date": "2026-06-20T04:19:08Z"
+        },
+        {
+          "title": "5.1.11",
+          "date": "2026-03-17T15:20:37Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907556+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "fcitx/fcitx5-table-extra · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:23"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入方案",
+      "url": "https://github.com/rime/rime-quick/commits/HEAD.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:25.838149+00:00",
+      "discoveryPage": "https://github.com/rime/rime-quick/commits/HEAD.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-quick:5dcdb9e353d314239e9c8cddc0f42d52da4837bb",
+      "entries": 20,
+      "sha256": "82013834528123c8c5e31d0df3b9d971c8510f52ba13b6d4246a84fd2a55c2b9",
+      "samples": [
+        {
+          "title": "自動加載語言模型",
+          "date": "2026-07-17T03:51:42Z"
+        },
+        {
+          "title": "不限導入詞組長度與詞頻",
+          "date": "2026-07-17T03:29:52Z"
+        },
+        {
+          "title": "中西文簡寫",
+          "date": "2026-06-01T12:43:01Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907557+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "rime/rime-quick · 提交记录",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:23"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入方案",
+      "url": "https://github.com/rime/rime-array/commits/HEAD.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:26.425194+00:00",
+      "discoveryPage": "https://github.com/rime/rime-array/commits/HEAD.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-array:557dbe38381de174fe96e53e9bf8c863a275307c",
+      "entries": 20,
+      "sha256": "8f56b2a01e04463c99a903c6b6ff0ed2e1ca96dff109e74d5d001ab36fa02159",
+      "samples": [
+        {
+          "title": "Merge pull request #10 from leafpool243/patch-fix-4down-preedit",
+          "date": "2024-04-26T04:55:49Z"
+        },
+        {
+          "title": "Fix preedit display for key 4↓",
+          "date": "2023-07-11T19:25:39Z"
+        },
+        {
+          "title": "Merge pull request #8 from jeang-bo-yuan/to-merge",
+          "date": "2022-11-20T10:35:22Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907559+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "rime/rime-array · 提交记录",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:23"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入方案",
+      "url": "https://github.com/rime/rime-stenotype/commits/HEAD.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:26.490078+00:00",
+      "discoveryPage": "https://github.com/rime/rime-stenotype/commits/HEAD.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-stenotype:bef930831ffe97846fa484a81014ad3e465a25c1",
+      "entries": 20,
+      "sha256": "8798c367489a73c2caf3a9b105bf3a32d1efafceba7c32f830198dde1b8796dc",
+      "samples": [
+        {
+          "title": "用方括號換頁",
+          "date": "2025-10-09T04:21:02Z"
+        },
+        {
+          "title": "fix: pinyin <ri> = r",
+          "date": "2019-10-07T10:46:25Z"
+        },
+        {
+          "title": "chore(README.md): use https link",
+          "date": "2019-01-20T14:30:12Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907560+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "rime/rime-stenotype · 提交记录",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:23"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入方案",
+      "url": "https://github.com/rime/rime-pinyin-simp/commits/HEAD.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:26.971979+00:00",
+      "discoveryPage": "https://github.com/rime/rime-pinyin-simp/commits/HEAD.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-pinyin-simp:0c6861ef7420ee780270ca6d993d18d4101049d0",
+      "entries": 20,
+      "sha256": "1d715c00b01ee6ecf7e5e6dd0a03d58da94fcfb38f302c530ba2547ad18f4326",
+      "samples": [
+        {
+          "title": "Update pinyin_simp.dict.yaml",
+          "date": "2024-12-29T09:47:36Z"
+        },
+        {
+          "title": "Merge pull request #25 from ivysrono/master",
+          "date": "2024-07-14T14:45:26Z"
+        },
+        {
+          "title": "add 䶮",
+          "date": "2024-02-17T08:19:36Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907562+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "rime/rime-pinyin-simp · 提交记录",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:23"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘·固件与工具",
+      "url": "https://github.com/joric/nrfmicro/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:28.867376+00:00",
+      "discoveryPage": "https://github.com/joric/nrfmicro/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from nrfmicro",
+      "entries": 8,
+      "sha256": "eb8408d3a2f7ebd0813066c8ed78957817823b67c6d421ccc6e71f2c6ab11da5",
+      "samples": [
+        {
+          "title": "nRFMicro 1.4",
+          "date": "2025-08-04T01:47:40Z"
+        },
+        {
+          "title": "nRFMicro 1.3",
+          "date": "2021-10-05T00:45:26Z"
+        },
+        {
+          "title": "nRFMicro 1.2",
+          "date": "2021-09-21T09:43:48Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907563+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "joric/nrfmicro · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 8,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:23"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘·固件与工具",
+      "url": "https://github.com/ergogen/ergogen/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:29.117542+00:00",
+      "discoveryPage": "https://github.com/ergogen/ergogen/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from ergogen",
+      "entries": 10,
+      "sha256": "842992b7dddf9db8125b4938fae8bbbc98f61793314246fff6dc8fd2a2b62bbc",
+      "samples": [
+        {
+          "title": "v4.2.1",
+          "date": "2025-11-02T16:18:26Z"
+        },
+        {
+          "title": "v4.2.0",
+          "date": "2025-11-01T19:57:23Z"
+        },
+        {
+          "title": "v4.1.0",
+          "date": "2024-04-09T21:19:42Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907564+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "ergogen/ergogen · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:23"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘·固件与工具",
+      "url": "https://github.com/zmkfirmware/zmk-studio/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:29.123517+00:00",
+      "discoveryPage": "https://github.com/zmkfirmware/zmk-studio/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from zmk-studio",
+      "entries": 10,
+      "sha256": "f2c13f291e5971a79f40e4e68a423510d59a907354b07cd74ef9ee6e8923ad32",
+      "samples": [
+        {
+          "title": "v0.3.1",
+          "date": "2025-01-20T22:43:47Z"
+        },
+        {
+          "title": "v0.3.0",
+          "date": "2025-01-20T18:56:57Z"
+        },
+        {
+          "title": "v0.2.4",
+          "date": "2024-11-22T20:51:22Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907565+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "zmkfirmware/zmk-studio · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:24"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘·固件与工具",
+      "url": "https://github.com/k0kubun/xremap/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:30.201435+00:00",
+      "discoveryPage": "https://github.com/k0kubun/xremap/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from xremap",
+      "entries": 10,
+      "sha256": "c05de70dda18fb6837db623d3c60e0b0c3e8d14c20ac87361a544b6017c556bb",
+      "samples": [
+        {
+          "title": "v0.15.14",
+          "date": "2026-09-27T09:39:01Z"
+        },
+        {
+          "title": "v0.15.13",
+          "date": "2026-09-12T11:38:04Z"
+        },
+        {
+          "title": "v0.15.12",
+          "date": "2026-08-27T09:45:50Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907567+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "k0kubun/xremap · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:49:16"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/caddyserver/caddy/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:30.517929+00:00",
+      "discoveryPage": "https://github.com/caddyserver/caddy/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from caddy",
+      "entries": 10,
+      "sha256": "ee681490aa26661562cf21e0c32baf25a73eb2ca07e0405219e94fc09f603730",
+      "samples": [
+        {
+          "title": "v2.11.7",
+          "date": "2026-10-03T05:58:33Z"
+        },
+        {
+          "title": "v2.11.6",
+          "date": "2026-10-01T19:02:27Z"
+        },
+        {
+          "title": "v2.11.5",
+          "date": "2026-09-30T21:27:05Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907568+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "caddyserver/caddy · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:56"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/traefik/traefik/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:30.801361+00:00",
+      "discoveryPage": "https://github.com/traefik/traefik/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from traefik",
+      "entries": 10,
+      "sha256": "8f9f280161dc9f2e97448422a7a57062fb200ab0d8b0a39c8805c043d2c62b8a",
+      "samples": [
+        {
+          "title": "v3.7.14",
+          "date": "2026-10-07T08:48:54Z"
+        },
+        {
+          "title": "v2.11.58",
+          "date": "2026-10-07T08:48:53Z"
+        },
+        {
+          "title": "v3.7.13",
+          "date": "2026-10-07T08:48:55Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907569+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "traefik/traefik · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:48"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/gohugoio/hugo/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:31.166893+00:00",
+      "discoveryPage": "https://github.com/gohugoio/hugo/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from hugo",
+      "entries": 10,
+      "sha256": "7d10e0cc865bc17998865b9a7b06a69bea679ed298c8ea43ae5e195a199d87d5",
+      "samples": [
+        {
+          "title": "v0.168.0",
+          "date": "2026-10-13T17:41:23Z"
+        },
+        {
+          "title": "v0.167.0",
+          "date": "2026-09-28T15:42:14Z"
+        },
+        {
+          "title": "v0.166.0",
+          "date": "2026-09-10T09:22:22Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907570+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "gohugoio/hugo · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:53"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/11ty/eleventy/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:31.202223+00:00",
+      "discoveryPage": "https://github.com/11ty/eleventy/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from buildawesome",
+      "entries": 10,
+      "sha256": "d6031a390e024a0405482f5c7f71a99c5af7db0756b354cb81bcda837d11b527",
+      "samples": [
+        {
+          "title": "Build Awesome (11ty) v4.0.0-alpha.10",
+          "date": "2026-07-02T13:54:12Z"
+        },
+        {
+          "title": "Build Awesome (11ty) v4.0.0-alpha.9",
+          "date": "2026-07-02T13:58:39Z"
+        },
+        {
+          "title": "Build Awesome (11ty) v4.0.0-alpha.8",
+          "date": "2026-07-02T13:55:08Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907572+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "11ty/eleventy · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:54"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/sveltejs/kit/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:31.426058+00:00",
+      "discoveryPage": "https://github.com/sveltejs/kit/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from kit",
+      "entries": 10,
+      "sha256": "a6de163fc76f180523ad87b48f0119ad17d8b0ead86995dadbdaba323f07c70e",
+      "samples": [
+        {
+          "title": "@sveltejs/kit@3.0.1",
+          "date": "2026-10-06T01:32:40Z"
+        },
+        {
+          "title": "@sveltejs/adapter-netlify@7.0.1",
+          "date": "2026-10-06T01:32:37Z"
+        },
+        {
+          "title": "@sveltejs/package@3.0.0",
+          "date": "2026-10-01T17:21:07Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907573+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "sveltejs/kit · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:54"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/nuxt/nuxt/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:31.507719+00:00",
+      "discoveryPage": "https://github.com/nuxt/nuxt/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from nuxt",
+      "entries": 10,
+      "sha256": "19ce6051630dc9fddb7a1441b1e3369ce19536c85c6197055c7db87d0a4edfec",
+      "samples": [
+        {
+          "title": "v4.6.1",
+          "date": "2026-10-09T22:47:35Z"
+        },
+        {
+          "title": "v4.6.0",
+          "date": "2026-10-05T22:11:57Z"
+        },
+        {
+          "title": "v4.5.2",
+          "date": "2026-08-05T16:19:44Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907574+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "nuxt/nuxt · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:55"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/denoland/deno/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:31.941376+00:00",
+      "discoveryPage": "https://github.com/denoland/deno/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from deno",
+      "entries": 10,
+      "sha256": "d457ad1a07948c98ebf4ac4cc3de3a8e1935e869633dfdead5ae52ef294fa3ca",
+      "samples": [
+        {
+          "title": "v2.9.7",
+          "date": "2026-09-17T09:04:55Z"
+        },
+        {
+          "title": "v2.9.6",
+          "date": "2026-08-27T17:29:30Z"
+        },
+        {
+          "title": "v2.9.5",
+          "date": "2026-08-06T15:05:43Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907575+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "denoland/deno · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:57"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/oven-sh/bun/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:32.183708+00:00",
+      "discoveryPage": "https://github.com/oven-sh/bun/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from bun",
+      "entries": 10,
+      "sha256": "cd19b26ccfa9aee3b57460fd204551d20c2f277137a46722a1d7ccdaba3a8fd6",
+      "samples": [
+        {
+          "title": "Bun v1.4.3",
+          "date": "2026-10-10T05:28:41Z"
+        },
+        {
+          "title": "Bun v1.4.2",
+          "date": "2026-09-05T05:57:51Z"
+        },
+        {
+          "title": "Bun v1.4.1",
+          "date": "2026-09-04T08:34:46Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907577+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "oven-sh/bun · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:56"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/rust-lang/rust/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:32.297717+00:00",
+      "discoveryPage": "https://github.com/rust-lang/rust/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from rust",
+      "entries": 10,
+      "sha256": "a60bea4f4045c6ea3ebec7384811a89d50cf3fc3350dd1e24c2a9decbbd5e9f8",
+      "samples": [
+        {
+          "title": "Rust 1.99.0",
+          "date": "2026-10-02T05:00:59Z"
+        },
+        {
+          "title": "Rust 1.98.1",
+          "date": "2026-09-03T13:14:07Z"
+        },
+        {
+          "title": "Rust 1.98.0",
+          "date": "2026-08-29T08:30:50Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907578+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "rust-lang/rust · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:56"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/getzola/zola/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:33.169888+00:00",
+      "discoveryPage": "https://github.com/getzola/zola/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from zola",
+      "entries": 10,
+      "sha256": "654cea819e2b2f7f569d721129536011293a0c7bf26e9368cad9d5dbc0e8be86",
+      "samples": [
+        {
+          "title": "v0.23.6",
+          "date": "2026-09-12T22:06:53Z"
+        },
+        {
+          "title": "v0.23.5",
+          "date": "2026-09-11T22:02:23Z"
+        },
+        {
+          "title": "v0.23.4",
+          "date": "2026-08-20T16:35:44Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907579+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "getzola/zola · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:56"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/sqlc-dev/sqlc/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:33.512214+00:00",
+      "discoveryPage": "https://github.com/sqlc-dev/sqlc/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from sqlc",
+      "entries": 10,
+      "sha256": "ac3a7c5b932cdefb50c24877277cf80909b05c52864bfc2ff3bd291247148935",
+      "samples": [
+        {
+          "title": "v1.31.1",
+          "date": "2026-04-22T15:03:04Z"
+        },
+        {
+          "title": "v1.31.0",
+          "date": "2026-04-20T05:53:49Z"
+        },
+        {
+          "title": "v1.30.0",
+          "date": "2025-09-01T23:49:58Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907580+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "sqlc-dev/sqlc · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:57"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/pocketbase/pocketbase/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:33.797903+00:00",
+      "discoveryPage": "https://github.com/pocketbase/pocketbase/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from pocketbase",
+      "entries": 10,
+      "sha256": "610a2ace0c8ec9c3cb38658d698323a62e0f3389331b10bd1d17ca28ea847856",
+      "samples": [
+        {
+          "title": "v0.40.5 Release",
+          "date": "2026-10-08T16:46:18Z"
+        },
+        {
+          "title": "v0.22.56 Release",
+          "date": "2026-10-08T16:44:22Z"
+        },
+        {
+          "title": "v0.40.4 Release",
+          "date": "2026-09-12T20:06:30Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907581+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "pocketbase/pocketbase · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:55"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/directus/directus/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:33.826386+00:00",
+      "discoveryPage": "https://github.com/directus/directus/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from directus",
+      "entries": 10,
+      "sha256": "2f5ae0cff9d60ea5d07e0705c14f3da2642732f27bd7bb13d39a965c904d92f1",
+      "samples": [
+        {
+          "title": "v12.5.0",
+          "date": "2026-10-07T18:54:34Z"
+        },
+        {
+          "title": "v12.4.1",
+          "date": "2026-09-23T17:00:47Z"
+        },
+        {
+          "title": "v12.4.0",
+          "date": "2026-09-22T18:54:24Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907582+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "directus/directus · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:52:02"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/zotero/zotero/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:34.314828+00:00",
+      "discoveryPage": "https://github.com/zotero/zotero/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from zotero",
+      "entries": 10,
+      "sha256": "7c214e7c679aaabb889c3ec1c41c7bfba81454dd07fe4f598f4de82aed4c55f6",
+      "samples": [
+        {
+          "title": "10.0.6",
+          "date": "2026-10-13T03:13:05Z"
+        },
+        {
+          "title": "10.0.5",
+          "date": "2026-10-01T16:14:25Z"
+        },
+        {
+          "title": "10.0.4",
+          "date": "2026-09-23T17:30:50Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907584+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "zotero/zotero · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:51"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/obsidianmd/obsidian-releases/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:34.543354+00:00",
+      "discoveryPage": "https://github.com/obsidianmd/obsidian-releases/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from obsidian-releases",
+      "entries": 10,
+      "sha256": "199c3debfa9c6cd137eac31478ea966d237391027eae498a18cc87006b6554c6",
+      "samples": [
+        {
+          "title": "1.14.4",
+          "date": "2026-10-05T17:03:28Z"
+        },
+        {
+          "title": "1.13.8",
+          "date": "2026-08-21T13:53:55Z"
+        },
+        {
+          "title": "1.13.7",
+          "date": "2026-08-12T13:57:51Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907586+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "obsidianmd/obsidian-releases · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:57"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/jupyter/notebook/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:34.712845+00:00",
+      "discoveryPage": "https://github.com/jupyter/notebook/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from notebook",
+      "entries": 10,
+      "sha256": "b2f1de72ed96060c49aa0ec81f2b6148e546feec639e987d0671fd0029b1b2a8",
+      "samples": [
+        {
+          "title": "v7.5.8",
+          "date": "2026-10-05T06:23:57Z"
+        },
+        {
+          "title": "@jupyter-notebook/ui-components@7.5.8: Publish 7.5.8",
+          "date": "2026-10-05T06:22:16Z"
+        },
+        {
+          "title": "@jupyter-notebook/tree-extension@7.5.8: Publish 7.5.8",
+          "date": "2026-10-05T06:22:16Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907588+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "jupyter/notebook · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:57"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/OpenRefine/OpenRefine/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:34.717300+00:00",
+      "discoveryPage": "https://github.com/OpenRefine/OpenRefine/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from OpenRefine",
+      "entries": 10,
+      "sha256": "603756340e89636cb3096e687202fc3877b4237c4b270911ceddd37afc48dee5",
+      "samples": [
+        {
+          "title": "OpenRefine 3.10.1",
+          "date": "2026-03-04T21:47:40Z"
+        },
+        {
+          "title": "OpenRefine 3.10.0",
+          "date": "2026-02-27T04:16:47Z"
+        },
+        {
+          "title": "OpenRefine 3.10-beta2",
+          "date": "2026-02-10T22:56:48Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907589+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "OpenRefine/OpenRefine · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:58"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/jamovi/jamovi/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:35.102040+00:00",
+      "discoveryPage": "https://github.com/jamovi/jamovi/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from jamovi",
+      "entries": 10,
+      "sha256": "d8c0c9051666084ac3cee1a920e748d7a80422aa209326dfa5262d5d4100afb5",
+      "samples": [
+        {
+          "title": "v28.9",
+          "date": "2026-10-09T05:03:25Z"
+        },
+        {
+          "title": "v28.8",
+          "date": "2026-10-07T06:42:12Z"
+        },
+        {
+          "title": "v28.5",
+          "date": "2026-09-30T22:34:57Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907590+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "jamovi/jamovi · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:57"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/jasp-stats/jasp-desktop/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:35.220950+00:00",
+      "discoveryPage": "https://github.com/jasp-stats/jasp-desktop/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from jasp-desktop",
+      "entries": 10,
+      "sha256": "5964090dcb3045e1adda0ea0bee46202469582dc17c33c19bf487638447c94b8",
+      "samples": [
+        {
+          "title": "v0.98.8",
+          "date": "2026-10-12T18:42:41Z"
+        },
+        {
+          "title": "v0.98.1",
+          "date": "2026-07-07T12:45:38Z"
+        },
+        {
+          "title": "v0.98.0",
+          "date": "2026-07-01T12:22:13Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907592+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "jasp-stats/jasp-desktop · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:58"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/rapiz1/rathole/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:35.232287+00:00",
+      "discoveryPage": "https://github.com/rapiz1/rathole/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from rathole",
+      "entries": 10,
+      "sha256": "3e252dcdd16a39fd35cea4bb51e90a7cd9e7cf03cc3a6b7ceb2a79c488bd3f06",
+      "samples": [
+        {
+          "title": "Dev build (3ee93f8)",
+          "date": "2026-08-22T20:04:47Z"
+        },
+        {
+          "title": "dev-latest-prev: Bound integration test scenarios (#486)",
+          "date": "2026-08-21T13:26:23Z"
+        },
+        {
+          "title": "v0.5.0",
+          "date": "2023-10-01T10:14:10Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907593+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "rapiz1/rathole · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:58"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/syncthing/syncthing/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:35.466956+00:00",
+      "discoveryPage": "https://github.com/syncthing/syncthing/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from syncthing",
+      "entries": 10,
+      "sha256": "ebe900fe5e31d5d1e9e81a608398776f33958cd740809c09670877c2645a10bc",
+      "samples": [
+        {
+          "title": "v2.1.7-rc.2",
+          "date": "2026-10-13T07:31:50Z"
+        },
+        {
+          "title": "v2.1.7-rc.1",
+          "date": "2026-10-08T07:15:17Z"
+        },
+        {
+          "title": "v2.1.6",
+          "date": "2026-10-06T06:17:38Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907594+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "syncthing/syncthing · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:58"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/restic/restic/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:35.511376+00:00",
+      "discoveryPage": "https://github.com/restic/restic/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from restic",
+      "entries": 10,
+      "sha256": "debf3d21e3fb3f14fba58a326ef71d41a232db2ea585a648721bdf92f48649ba",
+      "samples": [
+        {
+          "title": "restic 0.19.1",
+          "date": "2026-07-05T08:13:33Z"
+        },
+        {
+          "title": "restic 0.19.0",
+          "date": "2026-06-09T17:06:16Z"
+        },
+        {
+          "title": "restic 0.18.1",
+          "date": "2025-09-21T18:24:38Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907596+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "restic/restic · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:59"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/rclone/rclone/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:36.025410+00:00",
+      "discoveryPage": "https://github.com/rclone/rclone/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from rclone",
+      "entries": 10,
+      "sha256": "19fc78de0e1ee406d5710a51cf95789f9a66e1dcff3a19b04bf359c91e6b14bf",
+      "samples": [
+        {
+          "title": "rclone v1.75.2",
+          "date": "2026-10-09T11:03:19Z"
+        },
+        {
+          "title": "rclone v1.75.1",
+          "date": "2026-09-04T17:11:27Z"
+        },
+        {
+          "title": "rclone v1.75.0",
+          "date": "2026-07-31T17:10:19Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907597+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "rclone/rclone · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:56"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:36.624821+00:00",
+      "discoveryPage": "https://github.com/AppFlowy-IO/AppFlowy/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from AppFlowy",
+      "entries": 10,
+      "sha256": "d315a5b89d7993eed2dfc41d9541f8e0876daabebdfe55b6cecaa3da4957d14f",
+      "samples": [
+        {
+          "title": "v0.14.8",
+          "date": "2026-10-13T09:23:59Z"
+        },
+        {
+          "title": "v0.14.7",
+          "date": "2026-10-06T13:05:59Z"
+        },
+        {
+          "title": "v0.14.6",
+          "date": "2026-10-01T09:35:26Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907598+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "AppFlowy-IO/AppFlowy · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:59"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/lapce/lapce/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:36.635916+00:00",
+      "discoveryPage": "https://github.com/lapce/lapce/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from lapce",
+      "entries": 10,
+      "sha256": "8035490092a384e179dfaba648d69c6fbf4d83d405c690ef0cd546892c25850d",
+      "samples": [
+        {
+          "title": "nightly",
+          "date": "2026-10-09T00:41:20Z"
+        },
+        {
+          "title": "v0.4.6",
+          "date": "2026-01-21T21:47:14Z"
+        },
+        {
+          "title": "v0.4.5",
+          "date": "2025-09-05T17:26:54Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907599+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "lapce/lapce · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:59"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/rustdesk/rustdesk/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:37.140882+00:00",
+      "discoveryPage": "https://github.com/rustdesk/rustdesk/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from rustdesk",
+      "entries": 10,
+      "sha256": "b58febb1f1d781afe33e60b9ef0df4d006bd62dcd79bce3412c2186b4f00a595",
+      "samples": [
+        {
+          "title": "1.5.0",
+          "date": "2026-10-02T02:11:34Z"
+        },
+        {
+          "title": "nightly",
+          "date": "2026-10-14T01:32:07Z"
+        },
+        {
+          "title": "1.4.9",
+          "date": "2026-07-06T13:20:12Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907600+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "rustdesk/rustdesk · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:52:00"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/inkstitch/inkstitch/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:37.535166+00:00",
+      "discoveryPage": "https://github.com/inkstitch/inkstitch/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from inkstitch",
+      "entries": 10,
+      "sha256": "df7d94033fb1be9cd6ea3a0af84a3fe96c2d7867c8549c6d295b5ad04acfe6a2",
+      "samples": [
+        {
+          "title": "development build of kgn/dev/uv-tools",
+          "date": "2026-10-13T11:57:30Z"
+        },
+        {
+          "title": "development build of kaalleen/cross-stitch-knockdown",
+          "date": "2026-10-11T14:44:07Z"
+        },
+        {
+          "title": "development build of dev",
+          "date": "2026-10-13T11:45:23Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907602+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "inkstitch/inkstitch · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:58"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/typst/typst/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:37.739688+00:00",
+      "discoveryPage": "https://github.com/typst/typst/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from typst",
+      "entries": 10,
+      "sha256": "13aff018eb3098bea20da61939749d1b5b69fa120555bc1de6aa954ea08337ed",
+      "samples": [
+        {
+          "title": "Version 0.15.1 (July 17, 2026)",
+          "date": "2026-07-17T11:23:08Z"
+        },
+        {
+          "title": "Version 0.15.0 (June 15, 2026)",
+          "date": "2026-06-15T17:19:24Z"
+        },
+        {
+          "title": "Version 0.15.0, Release Candidate 1 (June 9, 2026)",
+          "date": "2026-06-09T18:07:39Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907603+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "typst/typst · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:52:01"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/ActivityWatch/activitywatch/releases.atom",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:43:37.991111+00:00",
+      "discoveryPage": "https://github.com/ActivityWatch/activitywatch/releases.atom",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from activitywatch",
+      "entries": 10,
+      "sha256": "1b4e88eee62eb20a37e925dc4140921d7679d0a8e25bcfd85c0d55ce6bf3dbfb",
+      "samples": [
+        {
+          "title": "v0.14.1",
+          "date": "2026-10-10T19:18:45Z"
+        },
+        {
+          "title": "v0.14.1b1",
+          "date": "2026-10-08T12:05:53Z"
+        },
+        {
+          "title": "v0.14.0",
+          "date": "2026-10-06T13:38:25Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907604+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "ActivityWatch/activitywatch · 发布",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:52:02"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·学术网站项目",
+      "url": "https://blog.sciety.org/rss/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:43:38.331029+00:00",
+      "discoveryPage": "https://blog.sciety.org/",
+      "declaredFeeds": [
+        "https://blog.sciety.org/rss/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Sciety",
+      "entries": 15,
+      "sha256": "aca9f01544cddf6df671f0f17dac3d80c27a5026e03bc107f745b23e0abfb6e1",
+      "samples": [
+        {
+          "title": "Bridging preprints and the Fediverse: Start discussions on Sciety, and continue them everywhere",
+          "date": "Fri, 31 Oct 2025 15:06:53 GMT"
+        },
+        {
+          "title": "Sciety secures funding from NLNet Foundation to help build discourse around preprints",
+          "date": "Fri, 09 May 2025 14:21:15 GMT"
+        },
+        {
+          "title": "2024 Wrapped",
+          "date": "Wed, 18 Dec 2024 12:45:12 GMT"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907605+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Sciety",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 15,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:52:00"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·学术网站项目",
+      "url": "https://upstream.force11.org/latest/rss/",
+      "kind": "page",
+      "checkedAt": "2026-10-14T01:43:39.449687+00:00",
+      "discoveryPage": "https://upstream.force11.org/",
+      "declaredFeeds": [
+        "https://upstream.force11.org/latest/rss/"
+      ],
+      "status": "verified",
+      "format": "rss",
+      "title": "Upstream",
+      "entries": 15,
+      "sha256": "d7086baa402dc7c936d89ebbc4384f2bcc1409c5e4d2d3d48c9521c52ed371ba",
+      "samples": [
+        {
+          "title": "Open as Antidote – addressing the big challenges facing science",
+          "date": "Tue, 15 Sep 2026 06:47:14 GMT"
+        },
+        {
+          "title": "When Data Meets Review: Reflections on PREreview’s First Open Dataset Review",
+          "date": "Tue, 08 Sep 2026 09:00:23 GMT"
+        },
+        {
+          "title": "Community Peer Review for Resistance and Resilience",
+          "date": "Tue, 04 Aug 2026 12:36:38 GMT"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907606+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Upstream",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 15,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:52:02"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "课程资源·数字人文教程与社区",
+      "url": "https://programminghistorian.org/feed.xml",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:18.572112+00:00",
+      "discoveryPage": "https://programminghistorian.org/feed.xml",
+      "status": "verified",
+      "format": "rss",
+      "title": "Programming Historian",
+      "entries": 90,
+      "sha256": "5b4b1a3675f3e7eb2acbd08c22f7774bd9a71768c13873ad49a2d3d3cb9cf875",
+      "samples": [
+        {
+          "title": "Appel à évaluateur·ices (édition française)",
+          "date": "Mon, 14 Sep 2026 00:00:00 +0000"
+        },
+        {
+          "title": "Bulletin // Boletín // Bulletin // Boletim",
+          "date": "Fri, 31 Jul 2026 00:00:00 +0000"
+        },
+        {
+          "title": "Appel à candidatures (édition française)",
+          "date": "Mon, 11 May 2026 00:00:00 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907607+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Programming Historian",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 80,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:09"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "课程资源·科研方法",
+      "url": "https://methodsblog.com/feed/",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:18.581997+00:00",
+      "discoveryPage": "https://methodsblog.com/feed/",
+      "status": "verified",
+      "format": "rss",
+      "title": "Methods Blog",
+      "entries": 10,
+      "sha256": "54b2d59ce0c34bfb600a6ad8bffde76d078a185145c57a9019fef82ea2c1f570",
+      "samples": [
+        {
+          "title": "The roadkill we never see",
+          "date": "Mon, 12 Oct 2026 08:54:04 +0000"
+        },
+        {
+          "title": "Defining species’ ranges in practice, not just in theory",
+          "date": "Mon, 05 Oct 2026 13:59:17 +0000"
+        },
+        {
+          "title": "The photograph you didn’t take: why underwater colour science starts before the shutter",
+          "date": "Wed, 30 Sep 2026 16:29:06 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907608+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Methods Blog",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:05"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "课程资源·科研方法",
+      "url": "https://www.statology.org/feed/",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:18.752072+00:00",
+      "discoveryPage": "https://www.statology.org/feed/",
+      "status": "verified",
+      "format": "rss",
+      "title": "Statology",
+      "entries": 10,
+      "sha256": "fe83d3d9e52029ca3ea6c5febec2f223b942d48466a0db1852054adb5d9cccec",
+      "samples": [
+        {
+          "title": "3 Seaborn Plots That Reveal Hidden Statistical Relationships",
+          "date": "Tue, 13 Oct 2026 12:00:00 +0000"
+        },
+        {
+          "title": "The Epidemiology and Biostatistics Behind an MPH: What Students Calculate and Why Bias Matters",
+          "date": "Sat, 10 Oct 2026 12:02:09 +0000"
+        },
+        {
+          "title": "Statistical Pitfalls in AI Interpretation: Avoiding Misleading Results from Algorithms",
+          "date": "Thu, 08 Oct 2026 12:00:00 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907609+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Statology",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:09"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "学术机构·心理科学",
+      "url": "https://www.psychologicalscience.org/feed",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:19.701094+00:00",
+      "discoveryPage": "https://www.psychologicalscience.org/feed",
+      "status": "verified",
+      "format": "rss",
+      "title": "Association for Psychological Science – APS",
+      "entries": 10,
+      "sha256": "f8a11b734a334d167f5741811b28f629e1517bf75442b8b3563ccf5b546daabc",
+      "samples": [
+        {
+          "title": "Why the Creative Brain Feeds on Movement",
+          "date": "Tue, 06 Oct 2026 13:56:44 +0000"
+        },
+        {
+          "title": "Your Favorite Stories of 2026, So Far",
+          "date": "Mon, 05 Oct 2026 15:37:31 +0000"
+        },
+        {
+          "title": "Should We Ban AI for Kids?",
+          "date": "Mon, 05 Oct 2026 14:23:44 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907610+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Association for Psychological Science – APS",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:09"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "课程资源·数字人文活动与培训",
+      "url": "https://www.dariah.eu/feeds/events.xml",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:20.266297+00:00",
+      "discoveryPage": "https://www.dariah.eu/feeds/events.xml",
+      "status": "verified",
+      "format": "rss",
+      "title": "DARIAH-EU: Events",
+      "entries": 15,
+      "sha256": "7767f6494090bba92b1ef695bb7f79ab6efdd86689aac173126dfbb57320ef4a",
+      "samples": [
+        {
+          "title": "SSH Open Marketplace & FAIR Practices Training Series 2026: Thematic language data",
+          "date": "Wed, 20 May 2026 15:12:43 GMT"
+        },
+        {
+          "title": "Introduction to AI for the Arts and Humanities",
+          "date": "Wed, 26 Aug 2026 06:23:10 GMT"
+        },
+        {
+          "title": "Hack the Pool 2026: Cross-institutional cultural data hackathon",
+          "date": "Mon, 24 Aug 2026 15:25:52 GMT"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907611+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "DARIAH-EU: Events",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 15,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:06"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "项目合作·开放社区与征集",
+      "url": "https://www.cost.eu/feed/",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:21.648646+00:00",
+      "discoveryPage": "https://www.cost.eu/feed/",
+      "status": "verified",
+      "format": "rss",
+      "title": "COST",
+      "entries": 10,
+      "sha256": "12dc5d909be6e1a02d5c0241c215b82d6970c681447df024f658825934e53f28",
+      "samples": [
+        {
+          "title": "ODIN and BAANG for Safer, Greener Skies",
+          "date": "Mon, 12 Oct 2026 10:05:49 +0000"
+        },
+        {
+          "title": "From overlooked disease to global research priority",
+          "date": "Tue, 06 Oct 2026 08:26:04 +0000"
+        },
+        {
+          "title": "COST Action Blog: What is prayer?",
+          "date": "Mon, 28 Sep 2026 07:17:00 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907611+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "COST",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:10"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "科研方法·统计实践",
+      "url": "https://statmodeling.stat.columbia.edu/feed/",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:22.386660+00:00",
+      "discoveryPage": "https://statmodeling.stat.columbia.edu/feed/",
+      "status": "verified",
+      "format": "rss",
+      "title": "Statistical Modeling, Causal Inference, and Social Science",
+      "entries": 50,
+      "sha256": "934a1fece3b5240d74e4295a0d4e0c2d2b5de3cda64fdd8f68819c0b30e38a2a",
+      "samples": [
+        {
+          "title": "Survey Statistics: favorite textbooks ?",
+          "date": "Tue, 13 Oct 2026 20:00:36 +0000"
+        },
+        {
+          "title": "The head and the heart",
+          "date": "Tue, 13 Oct 2026 13:18:55 +0000"
+        },
+        {
+          "title": "JAMA rules of engagement on causal and predictive language",
+          "date": "Mon, 12 Oct 2026 13:18:33 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907612+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Statistical Modeling, Causal Inference, and Social Science",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 50,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:11"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "科研方法·统计实践",
+      "url": "https://www.bayesianspectacles.org/feed/",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:22.911550+00:00",
+      "discoveryPage": "https://www.bayesianspectacles.org/feed/",
+      "status": "verified",
+      "format": "rss",
+      "title": "Bayesian Spectacles",
+      "entries": 8,
+      "sha256": "afa905920b8213830a4198327d017ce4746a74e4c840a6f497cc4c089b6a6447",
+      "samples": [
+        {
+          "title": "Why the One-Sided P-Value Does not Actually Test the Null-Hypothesis",
+          "date": "Wed, 30 Sep 2026 12:40:20 +0000"
+        },
+        {
+          "title": "The Wrath of Psychology",
+          "date": "Fri, 25 Sep 2026 14:57:23 +0000"
+        },
+        {
+          "title": "Why Fair Coins Tend to Land on the Side They Started — A Wobbly Coin Flip Simulator",
+          "date": "Tue, 11 Aug 2026 08:52:46 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907613+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Bayesian Spectacles",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 8,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:54:06"
+      }
+    },
+    {
+      "space": "design",
+      "group": "中文设计观察",
+      "url": "https://www.toodaylab.com/feed",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:24.940708+00:00",
+      "discoveryPage": "https://www.toodaylab.com/feed",
+      "status": "verified",
+      "format": "rss",
+      "title": "理想生活实验室",
+      "entries": 20,
+      "sha256": "f48a46323a5146f274e2391fbc6ba199e71e8c04977c119ee536fc1eb86cc820",
+      "samples": [
+        {
+          "title": "时隔近 20 年，Kim Jones 重启了个人同名品牌，但它还有机会吗？",
+          "date": "Tue, 13 Oct 2026 12:19:01 +0000"
+        },
+        {
+          "title": "家里的迷你洗衣机，正在装下更多人的“贴身安心”",
+          "date": "Tue, 13 Oct 2026 04:33:10 +0000"
+        },
+        {
+          "title": "2026 诺贝尔经济学奖揭晓，两位获奖者的工作让政府的经济稳定政策更加有效",
+          "date": "Mon, 12 Oct 2026 11:18:57 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907614+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "理想生活实验室",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:07"
+      }
+    },
+    {
+      "space": "design",
+      "group": "中文设计观察",
+      "url": "https://www.v2ex.com/feed/design.xml",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:26.032942+00:00",
+      "discoveryPage": "https://www.v2ex.com/feed/design.xml",
+      "status": "verified",
+      "format": "feed",
+      "title": "设计",
+      "entries": 48,
+      "sha256": "0ddaf93d4c6c8d8d31f8f7e2e349c627586c94e43819df6cdb5f40f30e0c64c9",
+      "samples": [
+        {
+          "title": "这种官网算设计得好，还是让人看不懂",
+          "date": "2026-10-07T14:28:20Z"
+        },
+        {
+          "title": "希望这个 Photoshop 插件（标注插件_UXP 架构）不是我空想的需求",
+          "date": "2026-09-21T15:30:49Z"
+        },
+        {
+          "title": "做官网找参考， Awwwards 真的好用吗？分享 12 个我常用的设计站",
+          "date": "2026-08-24T04:59:39Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907615+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "设计",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 48,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:09"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·品牌与字体",
+      "url": "https://www.smashingmagazine.com/feed/",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:26.139389+00:00",
+      "discoveryPage": "https://www.smashingmagazine.com/feed/",
+      "status": "verified",
+      "format": "rss",
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "entries": 40,
+      "sha256": "2c0f2b8ffd88f6865a78ea9b171a3e8ae2b8575a9543f53f3d5b18f64796fa13",
+      "samples": [
+        {
+          "title": "A Practical Guide To Naming Things",
+          "date": "Tue, 06 Oct 2026 10:00:00 GMT"
+        },
+        {
+          "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
+          "date": "Wed, 30 Sep 2026 13:30:00 GMT"
+        },
+        {
+          "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+          "date": "Wed, 16 Sep 2026 13:00:00 GMT"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907616+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 40,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:06"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·品牌与字体",
+      "url": "https://www.creativebloq.com/feeds.xml",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:26.759156+00:00",
+      "discoveryPage": "https://www.creativebloq.com/feeds.xml",
+      "status": "verified",
+      "format": "rss",
+      "title": "Creative Bloq",
+      "entries": 25,
+      "sha256": "5bf487f8f5dc808a875a99ee12fa381f290ca9e3f427612e81ac90529f85f98e",
+      "samples": [
+        {
+          "title": "This tiny portable SSD that transforms iPhone videography has $150 off",
+          "date": "Tue, 13 Oct 2026 18:07:50 +0000"
+        },
+        {
+          "title": "Dragon Quest's creator made a game with AI in 30 minutes, and it’s a bit of a wake-up call",
+          "date": "Tue, 13 Oct 2026 13:03:10 +0000"
+        },
+        {
+          "title": "Everyone's saying the same thing about Epic’s AI-first Disney game – and it's not good",
+          "date": "Tue, 13 Oct 2026 11:10:27 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907617+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Creative Bloq",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 25,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:07"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·品牌与字体",
+      "url": "https://www.behance.net/feeds/projects",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:27.237568+00:00",
+      "discoveryPage": "https://www.behance.net/feeds/projects",
+      "status": "verified",
+      "format": "rss",
+      "title": "Featured Projects",
+      "entries": 36,
+      "sha256": "6d4fbb39eb141c8202bee213abe309d8882bc58cea23cf31736914a4f83679ae",
+      "samples": [
+        {
+          "title": "Instytut Adama Mickiewicza",
+          "date": "Wed, 14 Oct 2026 00:00:04 +0000"
+        },
+        {
+          "title": "Terrifying True Tales",
+          "date": "Tue, 13 Oct 2026 20:00:11 +0000"
+        },
+        {
+          "title": "Infinite Skies: Game",
+          "date": "Tue, 13 Oct 2026 15:31:09 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907618+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Featured Projects",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 36,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:06"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·品牌与字体",
+      "url": "https://www.designer-daily.com/feed",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:27.248129+00:00",
+      "discoveryPage": "https://www.designer-daily.com/feed",
+      "status": "verified",
+      "format": "rss",
+      "title": "Designer Daily: graphic and web design blog",
+      "entries": 10,
+      "sha256": "c24d1394208a179fb8b0e6def7d973144d1185a1785a611df7c7f8c7750a5116",
+      "samples": [
+        {
+          "title": "When a Brand “Optimized” Itself Out of Existence: How Tropicana’s Packaging Redesign Lost $27 Million in Two Months",
+          "date": "Tue, 13 Oct 2026 02:32:12 +0000"
+        },
+        {
+          "title": "The Design System That Outlived the Redesign",
+          "date": "Tue, 13 Oct 2026 02:27:02 +0000"
+        },
+        {
+          "title": "The Window That Wasn’t Meant to Be Opened",
+          "date": "Mon, 12 Oct 2026 07:19:53 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907619+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Designer Daily: graphic and web design blog",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:06"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·品牌与字体",
+      "url": "https://thedieline.com/feed/",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:28.375794+00:00",
+      "discoveryPage": "https://thedieline.com/feed/",
+      "status": "verified",
+      "format": "rss",
+      "title": "DIELINE",
+      "entries": 10,
+      "sha256": "72a4aa9c89ed83eb3a4008b6d4a235de12290f05be76fc0ad3d4c120e8364471",
+      "samples": [
+        {
+          "title": "Caddy Classics Creates Cigarette Packs of Golf Tees, and They’re Undeniably Cool",
+          "date": "Tue, 13 Oct 2026 10:42:16 +0000"
+        },
+        {
+          "title": "Kocktail Elevates the RTD Experience With Reusable Glass Packaging",
+          "date": "Tue, 13 Oct 2026 06:55:00 +0000"
+        },
+        {
+          "title": "APLOMB Sends a Love Letter to Perfume Packaging",
+          "date": "Tue, 13 Oct 2026 03:00:00 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907620+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "DIELINE",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:07"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "异宠大全·专业照护",
+      "url": "https://www.unusualpetvets.com.au/feed/",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:28.679167+00:00",
+      "discoveryPage": "https://www.unusualpetvets.com.au/feed/",
+      "status": "verified",
+      "format": "rss",
+      "title": "The Unusual Pet Vets",
+      "entries": 10,
+      "sha256": "cfb5740223c602b4d45b94dbc4fa4c7f80ee293d3e49eeaf15fcd4f9588cf34c",
+      "samples": [
+        {
+          "title": "Mammal",
+          "date": "Wed, 26 Aug 2026 03:45:23 +0000"
+        },
+        {
+          "title": "HPAI (Bird Flu)",
+          "date": "Mon, 17 Aug 2026 03:49:21 +0000"
+        },
+        {
+          "title": "Species We Treat",
+          "date": "Tue, 14 Jul 2026 07:10:09 +0000"
+        }
+      ],
+      "note": "Professional exotic vet articles; feed also contains site category entries. Review individual materials.",
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907621+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "The Unusual Pet Vets",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:48:41"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·学术网站项目",
+      "url": "https://pkp.sfu.ca/feed/",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:34.499799+00:00",
+      "discoveryPage": "https://pkp.sfu.ca/feed/",
+      "status": "verified",
+      "format": "rss",
+      "title": "Public Knowledge Project",
+      "entries": 10,
+      "sha256": "aec668d0c94c123bc0a9cb9807f535c3aabf1f672a92e01a4334da012b22c491",
+      "samples": [
+        {
+          "title": "Call for participants: a study on Open Peer Review in OJS 3.6",
+          "date": "Tue, 06 Oct 2026 00:54:20 +0000"
+        },
+        {
+          "title": "A Conversation on Openness and Enclosure with Suzanne Beth and Urooj Nizami",
+          "date": "Mon, 28 Sep 2026 21:18:47 +0000"
+        },
+        {
+          "title": "Resource Roundup: 3.5 Resources from Across the Community",
+          "date": "Thu, 24 Sep 2026 19:26:57 +0000"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907622+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Public Knowledge Project",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:51:47"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://blog.cloudflare.com/rss/",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:35.960445+00:00",
+      "discoveryPage": "https://blog.cloudflare.com/rss/",
+      "status": "verified",
+      "format": "rss",
+      "title": "Cloudflare Blog",
+      "entries": 20,
+      "sha256": "0d4d8693ff3cc83eb01b84d8edc1895297087dae7c77b894e0092a06bf537c99",
+      "samples": [
+        {
+          "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
+          "date": "Tue, 13 Oct 2026 16:20:18 GMT"
+        },
+        {
+          "title": "Rewinding the exponential: How we keep hardware usage down",
+          "date": "Tue, 13 Oct 2026 15:51:41 GMT"
+        },
+        {
+          "title": "Filter, reshape, and redact logs before export with Transformers",
+          "date": "Mon, 12 Oct 2026 14:44:59 GMT"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907622+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Cloudflare Blog",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:52:03"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://astro.build/rss.xml",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:36.737732+00:00",
+      "discoveryPage": "https://astro.build/rss.xml",
+      "status": "verified",
+      "format": "rss",
+      "title": "The Astro Blog",
+      "entries": 189,
+      "sha256": "e4ada1680b918a12675ee2469d707f02e8db9056efa892e8f5308323999f1516",
+      "samples": [
+        {
+          "title": "What's new in Astro - September 2026",
+          "date": "Wed, 30 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Affordable and Fast Migration",
+          "date": "Tue, 08 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Astro 7.3",
+          "date": "Thu, 03 Sep 2026 00:00:00 GMT"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907623+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "The Astro Blog",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 189,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:52:02"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://svelte.dev/blog/rss.xml",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:36.929669+00:00",
+      "discoveryPage": "https://svelte.dev/blog/rss.xml",
+      "status": "verified",
+      "format": "rss",
+      "title": "Svelte blog",
+      "entries": 107,
+      "sha256": "013d36cf0457dfae9f97bb60205416ec6f35487172be60f4f4e6e3feb599c413",
+      "samples": [
+        {
+          "title": "What’s new in Svelte: October 2026",
+          "date": "Thu, 01 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "title": "SvelteKit 3 is here",
+          "date": "Thu, 01 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "title": "What’s new in Svelte: September 2026",
+          "date": "Tue, 01 Sep 2026 00:00:00 GMT"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907624+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Svelte blog",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 107,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:52:03"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://blog.rust-lang.org/feed.xml",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:37.412943+00:00",
+      "discoveryPage": "https://blog.rust-lang.org/feed.xml",
+      "status": "verified",
+      "format": "feed",
+      "title": "Rust Blog",
+      "entries": 10,
+      "sha256": "ae4810808d811cfdf08ec8995ef2576500f674f9f3424047b1977fdc5ca69fcd",
+      "samples": [
+        {
+          "title": "Demoting i686 Windows targets to std-only",
+          "date": "2026-10-02T00:00:00+00:00"
+        },
+        {
+          "title": "Announcing Rust 1.99.0",
+          "date": "2026-10-01T00:00:00+00:00"
+        },
+        {
+          "title": "Announcing a Maintainer in Residence: Scott Schafer for the Cargo team",
+          "date": "2026-09-22T00:00:00+00:00"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907625+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Rust Blog",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:52:02"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://deno.com/feed",
+      "kind": "feed",
+      "checkedAt": "2026-10-14T01:44:37.414598+00:00",
+      "discoveryPage": "https://deno.com/feed",
+      "status": "verified",
+      "format": "feed",
+      "title": "Deno",
+      "entries": 250,
+      "sha256": "adab5967f2f02f07910fdf566c8d07032e588cf777a0e71b1daa4e8545b62f83",
+      "samples": [
+        {
+          "title": "Deno is joining Cloudflare",
+          "date": "2026-10-09T15:00:00.000Z"
+        },
+        {
+          "title": "Deno 2.9",
+          "date": "2026-06-25T09:00:00.000Z"
+        },
+        {
+          "title": "Deno 2.8",
+          "date": "2026-05-22T09:00:00.000Z"
+        }
+      ],
+      "coreVerification": {
+        "checkedAt": "2026-10-14T01:47:20.907626+00:00",
+        "passed": true,
+        "method": "papr-core HTTP client and feed parser; no database write"
+      },
+      "displayTitle": "Deno",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:55:09.057234+00:00",
+        "imported": true,
+        "cachedArticles": 250,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:52:04"
+      }
+    }
+  ]
+}

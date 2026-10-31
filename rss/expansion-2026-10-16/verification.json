@@ -1,0 +1,250 @@
+{
+  "completedAt": "2026-10-16T15:36:26.393080+00:00",
+  "totalAddedSubscriptions": 1000,
+  "distinctUrlsAcrossSpaces": 864,
+  "totalLocalSubscriptions": 1191,
+  "newArticles": 44459,
+  "registryPreserved": true,
+  "workspaces": [
+    {
+      "spaceId": "academic",
+      "name": "今日学术",
+      "originalFeeds": 143,
+      "addedFeeds": 100,
+      "totalFeeds": 243,
+      "sections": {
+        "学界犀闻": 25,
+        "学者观察": 25,
+        "学术日历": 25,
+        "学术资源": 25
+      },
+      "nativeFetchedSuccessfully": 100,
+      "fetchErrors": 0,
+      "newArticles": 8798,
+      "originalDataPreserved": {
+        "feeds": true,
+        "folders": true,
+        "articles": true,
+        "settings": true,
+        "library_archived_feeds": true
+      },
+      "databaseIntegrity": "ok"
+    },
+    {
+      "spaceId": "lingxi",
+      "name": "犀术 IME",
+      "originalFeeds": 5,
+      "addedFeeds": 100,
+      "totalFeeds": 105,
+      "sections": {
+        "使用教程": 25,
+        "开发日志": 25,
+        "输入方案": 25,
+        "外观设计": 25
+      },
+      "nativeFetchedSuccessfully": 100,
+      "fetchErrors": 0,
+      "newArticles": 1789,
+      "originalDataPreserved": {
+        "feeds": true,
+        "folders": true,
+        "articles": true,
+        "settings": true,
+        "library_archived_feeds": true
+      },
+      "databaseIntegrity": "ok"
+    },
+    {
+      "spaceId": "design",
+      "name": "小猪盖被",
+      "originalFeeds": 5,
+      "addedFeeds": 100,
+      "totalFeeds": 105,
+      "sections": {
+        "作品系列": 25,
+        "设计资讯": 25,
+        "精美图标": 25,
+        "网页设计": 25
+      },
+      "nativeFetchedSuccessfully": 100,
+      "fetchErrors": 0,
+      "newArticles": 2754,
+      "originalDataPreserved": {
+        "feeds": true,
+        "folders": true,
+        "articles": true,
+        "settings": true,
+        "library_archived_feeds": true
+      },
+      "databaseIntegrity": "ok"
+    },
+    {
+      "spaceId": "personal",
+      "name": "学术海",
+      "originalFeeds": 6,
+      "addedFeeds": 100,
+      "totalFeeds": 106,
+      "sections": {
+        "作品系列": 25,
+        "产品资讯": 25,
+        "产品随想": 25,
+        "学术札记": 25
+      },
+      "nativeFetchedSuccessfully": 100,
+      "fetchErrors": 0,
+      "newArticles": 5389,
+      "originalDataPreserved": {
+        "feeds": true,
+        "folders": true,
+        "articles": true,
+        "settings": true,
+        "library_archived_feeds": true
+      },
+      "databaseIntegrity": "ok"
+    },
+    {
+      "spaceId": "pets",
+      "name": "小猪萌宠",
+      "originalFeeds": 6,
+      "addedFeeds": 100,
+      "totalFeeds": 106,
+      "sections": {
+        "宠物资讯": 25,
+        "每日一猫": 25,
+        "每日一狗": 25,
+        "异宠大全": 25
+      },
+      "nativeFetchedSuccessfully": 100,
+      "fetchErrors": 0,
+      "newArticles": 1687,
+      "originalDataPreserved": {
+        "feeds": true,
+        "folders": true,
+        "articles": true,
+        "settings": true,
+        "library_archived_feeds": true
+      },
+      "databaseIntegrity": "ok"
+    },
+    {
+      "spaceId": "legis",
+      "name": "智能法案",
+      "originalFeeds": 6,
+      "addedFeeds": 100,
+      "totalFeeds": 106,
+      "sections": {
+        "法律前沿": 25,
+        "法律案例": 25,
+        "知识产权": 25,
+        "政策法规": 25
+      },
+      "nativeFetchedSuccessfully": 100,
+      "fetchErrors": 0,
+      "newArticles": 1743,
+      "originalDataPreserved": {
+        "feeds": true,
+        "folders": true,
+        "articles": true,
+        "settings": true,
+        "library_archived_feeds": true
+      },
+      "databaseIntegrity": "ok"
+    },
+    {
+      "spaceId": "metho",
+      "name": "研究方法",
+      "originalFeeds": 5,
+      "addedFeeds": 100,
+      "totalFeeds": 105,
+      "sections": {
+        "方法百科": 25,
+        "统计之美": 25,
+        "实验星球": 25,
+        "方法前沿": 25
+      },
+      "nativeFetchedSuccessfully": 100,
+      "fetchErrors": 0,
+      "newArticles": 6229,
+      "originalDataPreserved": {
+        "feeds": true,
+        "folders": true,
+        "articles": true,
+        "settings": true,
+        "library_archived_feeds": true
+      },
+      "databaseIntegrity": "ok"
+    },
+    {
+      "spaceId": "enter",
+      "name": "学术门户",
+      "originalFeeds": 6,
+      "addedFeeds": 100,
+      "totalFeeds": 106,
+      "sections": {
+        "学术论坛": 25,
+        "软件网站": 25,
+        "学术检索": 25,
+        "课程资源": 25
+      },
+      "nativeFetchedSuccessfully": 100,
+      "fetchErrors": 0,
+      "newArticles": 3836,
+      "originalDataPreserved": {
+        "feeds": true,
+        "folders": true,
+        "articles": true,
+        "settings": true,
+        "library_archived_feeds": true
+      },
+      "databaseIntegrity": "ok"
+    },
+    {
+      "spaceId": "xsiching",
+      "name": "犀术国学",
+      "originalFeeds": 4,
+      "addedFeeds": 100,
+      "totalFeeds": 104,
+      "sections": {
+        "国学经典": 25,
+        "易家之言": 25,
+        "精品应用": 25,
+        "课程资源": 25
+      },
+      "nativeFetchedSuccessfully": 100,
+      "fetchErrors": 0,
+      "newArticles": 5604,
+      "originalDataPreserved": {
+        "feeds": true,
+        "folders": true,
+        "articles": true,
+        "settings": true,
+        "library_archived_feeds": true
+      },
+      "databaseIntegrity": "ok"
+    },
+    {
+      "spaceId": "study",
+      "name": "智能学堂",
+      "originalFeeds": 5,
+      "addedFeeds": 100,
+      "totalFeeds": 105,
+      "sections": {
+        "免费课程": 25,
+        "模型排行": 25,
+        "福利羊毛": 25,
+        "资质证书": 25
+      },
+      "nativeFetchedSuccessfully": 100,
+      "fetchErrors": 0,
+      "newArticles": 6630,
+      "originalDataPreserved": {
+        "feeds": true,
+        "folders": true,
+        "articles": true,
+        "settings": true,
+        "library_archived_feeds": true
+      },
+      "databaseIntegrity": "ok"
+    }
+  ]
+}

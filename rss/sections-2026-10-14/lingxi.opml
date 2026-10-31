@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>today / lingxi / 板块补充</title>
+  </head>
+  <body>
+    <outline text="键盘开团·正式公告" title="键盘开团·正式公告">
+      <outline text="Group buys and pre-orders - KeebTalk" title="Group buys and pre-orders - KeebTalk" type="rss" xmlUrl="https://www.keebtalk.com/c/marketplace/group-buys-and-pre-orders/18.rss" htmlUrl="https://www.keebtalk.com/c/marketplace/17" />
+    </outline>
+    <outline text="键盘开团·意向征集" title="键盘开团·意向征集">
+      <outline text="Interest checks - KeebTalk" title="Interest checks - KeebTalk" type="rss" xmlUrl="https://www.keebtalk.com/c/marketplace/interest-checks/19.rss" htmlUrl="https://www.keebtalk.com/c/marketplace/17" />
+    </outline>
+  </body>
+</opml>

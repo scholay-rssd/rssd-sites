@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>today lingxi RSS 增量 2026-10-14</title>
+  </head>
+  <body>
+    <outline text="输入法·方案作者与历史" title="输入法·方案作者与历史">
+      <outline type="rss" text="RIME | 中州韻輸入法引擎" title="RIME | 中州韻輸入法引擎" xmlUrl="https://rime.im/atom.xml" />
+      <outline type="rss" text="Dvel's Blog" title="Dvel's Blog" xmlUrl="https://dvel.me/index.xml" />
+      <outline type="rss" text="雨月空间站" title="雨月空间站" xmlUrl="https://www.mintimate.cn/atom.xml" />
+      <outline type="rss" text="输入法" title="输入法" xmlUrl="https://www.v2ex.com/feed/ime.xml" />
+    </outline>
+    <outline text="客制化键盘·作者与社区" title="客制化键盘·作者与社区">
+      <outline type="rss" text="Keyboard Builders' Digest" title="Keyboard Builders' Digest" xmlUrl="https://kbd.news/rss.xml" />
+      <outline type="rss" text="ThereminGoat's Switches" title="ThereminGoat's Switches" xmlUrl="https://www.theremingoat.com/blog?format=rss" />
+      <outline type="rss" text="ZSA Blog" title="ZSA Blog" xmlUrl="https://blog.zsa.io/posts.rss" />
+      <outline type="rss" text="The Keyboard Company Blog" title="The Keyboard Company Blog" xmlUrl="https://www.thekeyboardco.com/blog/index.php/feed/" />
+      <outline type="rss" text="deskthority" title="deskthority" xmlUrl="https://deskthority.net/feed" />
+    </outline>
+    <outline text="中文输入法项目" title="中文输入法项目">
+      <outline type="rss" text="fcitx/libime · 发布" title="fcitx/libime · 发布" xmlUrl="https://github.com/fcitx/libime/releases.atom" />
+      <outline type="rss" text="fcitx/fcitx5-chewing · 发布" title="fcitx/fcitx5-chewing · 发布" xmlUrl="https://github.com/fcitx/fcitx5-chewing/releases.atom" />
+      <outline type="rss" text="chewing/libchewing · 发布" title="chewing/libchewing · 发布" xmlUrl="https://github.com/chewing/libchewing/releases.atom" />
+      <outline type="rss" text="chewing/ibus-chewing · 发布" title="chewing/ibus-chewing · 发布" xmlUrl="https://github.com/chewing/ibus-chewing/releases.atom" />
+      <outline type="rss" text="vChewing/vChewing-macOS · 发布" title="vChewing/vChewing-macOS · 发布" xmlUrl="https://github.com/vChewing/vChewing-macOS/releases.atom" />
+      <outline type="rss" text="openvanilla/openvanilla · 发布" title="openvanilla/openvanilla · 发布" xmlUrl="https://github.com/openvanilla/openvanilla/releases.atom" />
+      <outline type="rss" text="fcitx/fcitx5-table-extra · 发布" title="fcitx/fcitx5-table-extra · 发布" xmlUrl="https://github.com/fcitx/fcitx5-table-extra/releases.atom" />
+    </outline>
+    <outline text="中文输入方案" title="中文输入方案">
+      <outline type="rss" text="rime/rime-quick · 提交记录" title="rime/rime-quick · 提交记录" xmlUrl="https://github.com/rime/rime-quick/commits/HEAD.atom" />
+      <outline type="rss" text="rime/rime-array · 提交记录" title="rime/rime-array · 提交记录" xmlUrl="https://github.com/rime/rime-array/commits/HEAD.atom" />
+      <outline type="rss" text="rime/rime-stenotype · 提交记录" title="rime/rime-stenotype · 提交记录" xmlUrl="https://github.com/rime/rime-stenotype/commits/HEAD.atom" />
+      <outline type="rss" text="rime/rime-pinyin-simp · 提交记录" title="rime/rime-pinyin-simp · 提交记录" xmlUrl="https://github.com/rime/rime-pinyin-simp/commits/HEAD.atom" />
+    </outline>
+    <outline text="客制化键盘·固件与工具" title="客制化键盘·固件与工具">
+      <outline type="rss" text="joric/nrfmicro · 发布" title="joric/nrfmicro · 发布" xmlUrl="https://github.com/joric/nrfmicro/releases.atom" />
+      <outline type="rss" text="ergogen/ergogen · 发布" title="ergogen/ergogen · 发布" xmlUrl="https://github.com/ergogen/ergogen/releases.atom" />
+      <outline type="rss" text="zmkfirmware/zmk-studio · 发布" title="zmkfirmware/zmk-studio · 发布" xmlUrl="https://github.com/zmkfirmware/zmk-studio/releases.atom" />
+      <outline type="rss" text="k0kubun/xremap · 发布" title="k0kubun/xremap · 发布" xmlUrl="https://github.com/k0kubun/xremap/releases.atom" />
+    </outline>
+  </body>
+</opml>

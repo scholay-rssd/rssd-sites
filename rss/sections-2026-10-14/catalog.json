@@ -1,0 +1,6327 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-14T02:13:09.168460+00:00",
+  "mode": "non-destructive section overlay; original database folders unchanged",
+  "sections": {
+    "academic": [
+      "学界犀闻",
+      "学者观察",
+      "学术开源",
+      "学术情报·年度日历",
+      "昔日学术·历史日历",
+      "项目合作",
+      "课程资源",
+      "辅助参考"
+    ],
+    "lingxi": [
+      "中文输入法项目",
+      "中文输入方案",
+      "输入法皮肤",
+      "客制化键盘资讯",
+      "速录",
+      "今年键盘开团",
+      "输入与键盘历史",
+      "灵犀今年已做",
+      "灵犀即将做"
+    ],
+    "design": [
+      "设计动态",
+      "创作与视觉参考",
+      "设计资源",
+      "设计日历·年度惯例与活动",
+      "设计历史"
+    ],
+    "personal": [
+      "维护的键盘项目",
+      "维护的输入法项目",
+      "维护的网站服务项目",
+      "分享的开源工具项目",
+      "分享的学术网站项目"
+    ],
+    "pets": [
+      "每日一猫",
+      "每日一狗",
+      "宠物资讯",
+      "异宠大全",
+      "宠物日历·赛事展览节日"
+    ]
+  },
+  "counts": {
+    "academic": {
+      "学界犀闻": 103,
+      "学者观察": 23,
+      "学术开源": 10,
+      "学术情报·年度日历": 51,
+      "昔日学术·历史日历": 0,
+      "项目合作": 15,
+      "课程资源": 14,
+      "辅助参考": 13
+    },
+    "lingxi": {
+      "中文输入法项目": 20,
+      "中文输入方案": 25,
+      "输入法皮肤": 8,
+      "客制化键盘资讯": 24,
+      "速录": 2,
+      "今年键盘开团": 8,
+      "输入与键盘历史": 1,
+      "灵犀今年已做": 2,
+      "灵犀即将做": 0
+    },
+    "design": {
+      "设计动态": 14,
+      "创作与视觉参考": 15,
+      "设计资源": 15,
+      "设计日历·年度惯例与活动": 6,
+      "设计历史": 8
+    },
+    "personal": {
+      "维护的键盘项目": 4,
+      "维护的输入法项目": 7,
+      "维护的网站服务项目": 24,
+      "分享的开源工具项目": 26,
+      "分享的学术网站项目": 10
+    },
+    "pets": {
+      "每日一猫": 11,
+      "每日一狗": 11,
+      "宠物资讯": 5,
+      "异宠大全": 12,
+      "宠物日历·赛事展览节日": 3
+    }
+  },
+  "sources": [
+    {
+      "space": "academic",
+      "title": "香港中文大學新聞稿",
+      "url": "https://apps.cuhk.edu.hk/cuhkwebsite/rss/press-release-rss.aspx?lang=chinese",
+      "originalFolder": "机构动态",
+      "existing": true,
+      "sourceId": 1,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "中央研究院 資訊科學研究所【最新消息】",
+      "url": "https://www.iis.sinica.edu.tw/zh/iis-announcement.xml",
+      "originalFolder": "机构动态",
+      "existing": true,
+      "sourceId": 2,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "國家科學及技術委員會 - 研討會及活動訊息",
+      "url": "https://www.nstc.gov.tw/nstc/rss/events",
+      "originalFolder": "基金活动",
+      "existing": true,
+      "sourceId": 4,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "國家科學及技術委員會 - 最新消息",
+      "url": "https://www.nstc.gov.tw/nstc/rss/news",
+      "originalFolder": "基金活动",
+      "existing": true,
+      "sourceId": 5,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "檔案的資料資訊",
+      "url": "https://data.gov.hk/filestore/feeds/data_rss_tc.xml",
+      "originalFolder": "开放数据",
+      "existing": true,
+      "sourceId": 6,
+      "sections": [
+        "学术开源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "量子位",
+      "url": "https://www.qbitai.com/feed",
+      "originalFolder": "科研传播",
+      "existing": true,
+      "sourceId": 7,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "研之有物 │ 串聯您與中央研究院的橋梁",
+      "url": "https://research.sinica.edu.tw/feed/",
+      "originalFolder": "科研传播",
+      "existing": true,
+      "sourceId": 8,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "PanSci 泛科學",
+      "url": "https://pansci.asia/feed/",
+      "originalFolder": "科研传播",
+      "existing": true,
+      "sourceId": 9,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网新闻RSS——国际快讯",
+      "url": "https://www.sciencenet.cn/xml/news-0.aspx?di=7",
+      "originalFolder": "科研新闻",
+      "existing": true,
+      "sourceId": 10,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网新闻RSS——频道要闻",
+      "url": "https://www.sciencenet.cn/xml/news-0.aspx?di=3",
+      "originalFolder": "科研新闻",
+      "existing": true,
+      "sourceId": 11,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网新闻RSS——新闻评论",
+      "url": "https://www.sciencenet.cn/xml/news-0.aspx?di=6",
+      "originalFolder": "科研新闻",
+      "existing": true,
+      "sourceId": 12,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网新闻RSS——首页头条",
+      "url": "https://www.sciencenet.cn/xml/news-0.aspx?news=0",
+      "originalFolder": "科研新闻",
+      "existing": true,
+      "sourceId": 13,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网新闻RSS——人才高教",
+      "url": "https://www.sciencenet.cn/xml/news-0.aspx?di=9",
+      "originalFolder": "科研新闻",
+      "existing": true,
+      "sourceId": 14,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网新闻RSS——首页要闻",
+      "url": "https://www.sciencenet.cn/xml/news-0.aspx?di=1",
+      "originalFolder": "科研新闻",
+      "existing": true,
+      "sourceId": 15,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网新闻RSS——通知公告",
+      "url": "https://www.sciencenet.cn/xml/news-0.aspx?di=5",
+      "originalFolder": "科研新闻",
+      "existing": true,
+      "sourceId": 16,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网新闻RSS——首页头条",
+      "url": "https://www.sciencenet.cn/xml/news-0.aspx?di=0",
+      "originalFolder": "科研新闻",
+      "existing": true,
+      "sourceId": 17,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网新闻RSS——一般新闻",
+      "url": "https://www.sciencenet.cn/xml/news-0.aspx?di=4",
+      "originalFolder": "科研新闻",
+      "existing": true,
+      "sourceId": 18,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网新闻RSS——HOT论文",
+      "url": "https://www.sciencenet.cn/xml/news-0.aspx?di=8",
+      "originalFolder": "科研新闻",
+      "existing": true,
+      "sourceId": 19,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网招生招聘RSS——工程技术",
+      "url": "https://www.sciencenet.cn/xml/classinfo.aspx?di=8",
+      "originalFolder": "科研招聘",
+      "existing": true,
+      "sourceId": 20,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "科学网招生招聘RSS——基础科学",
+      "url": "https://www.sciencenet.cn/xml/classinfo.aspx?di=7",
+      "originalFolder": "科研招聘",
+      "existing": true,
+      "sourceId": 21,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "科学网招生招聘RSS——前沿交叉",
+      "url": "https://www.sciencenet.cn/xml/classinfo.aspx?di=4",
+      "originalFolder": "科研招聘",
+      "existing": true,
+      "sourceId": 22,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "科学网招生招聘RSS——所有信息",
+      "url": "https://www.sciencenet.cn/xml/classinfo.aspx",
+      "originalFolder": "科研招聘",
+      "existing": true,
+      "sourceId": 23,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "科学网招生招聘RSS——生命科学",
+      "url": "https://www.sciencenet.cn/xml/classinfo.aspx?di=3",
+      "originalFolder": "科研招聘",
+      "existing": true,
+      "sourceId": 24,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "科学网招生招聘RSS——信息科学",
+      "url": "https://www.sciencenet.cn/xml/classinfo.aspx?di=9",
+      "originalFolder": "科研招聘",
+      "existing": true,
+      "sourceId": 25,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "科学网招生招聘RSS——医药健康",
+      "url": "https://www.sciencenet.cn/xml/classinfo.aspx?di=6",
+      "originalFolder": "科研招聘",
+      "existing": true,
+      "sourceId": 26,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "科学网招生招聘RSS——政策管理",
+      "url": "https://www.sciencenet.cn/xml/classinfo.aspx?di=5",
+      "originalFolder": "科研招聘",
+      "existing": true,
+      "sourceId": 27,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "科学网论文RSS——地球科学",
+      "url": "https://www.sciencenet.cn/xml/paper.aspx?di=3",
+      "originalFolder": "论文快讯",
+      "existing": true,
+      "sourceId": 28,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网论文RSS——工程材料",
+      "url": "https://www.sciencenet.cn/xml/paper.aspx?di=5",
+      "originalFolder": "论文快讯",
+      "existing": true,
+      "sourceId": 29,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网论文RSS——管理交叉",
+      "url": "https://www.sciencenet.cn/xml/paper.aspx?di=8",
+      "originalFolder": "论文快讯",
+      "existing": true,
+      "sourceId": 30,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网论文RSS——化学科学",
+      "url": "https://www.sciencenet.cn/xml/paper.aspx?di=4",
+      "originalFolder": "论文快讯",
+      "existing": true,
+      "sourceId": 31,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网论文RSS——所有论文",
+      "url": "https://www.sciencenet.cn/xml/paper.aspx?di=0",
+      "originalFolder": "论文快讯",
+      "existing": true,
+      "sourceId": 32,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网论文RSS——生命科学",
+      "url": "https://www.sciencenet.cn/xml/paper.aspx?di=2",
+      "originalFolder": "论文快讯",
+      "existing": true,
+      "sourceId": 33,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网论文RSS——数理科学",
+      "url": "https://www.sciencenet.cn/xml/paper.aspx?di=7",
+      "originalFolder": "论文快讯",
+      "existing": true,
+      "sourceId": 34,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网论文RSS——信息科学",
+      "url": "https://www.sciencenet.cn/xml/paper.aspx?di=6",
+      "originalFolder": "论文快讯",
+      "existing": true,
+      "sourceId": 35,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网论文RSS——医药健康",
+      "url": "https://www.sciencenet.cn/xml/paper.aspx?di=1",
+      "originalFolder": "论文快讯",
+      "existing": true,
+      "sourceId": 36,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "数据解读",
+      "url": "https://www.stats.gov.cn/sj/sjjd/rss.xml",
+      "originalFolder": "统计数据",
+      "existing": true,
+      "sourceId": 37,
+      "sections": [
+        "学术开源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "数据发布",
+      "url": "https://www.stats.gov.cn/sj/zxfb/rss.xml",
+      "originalFolder": "统计数据",
+      "existing": true,
+      "sourceId": 38,
+      "sections": [
+        "学术开源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "北京大学图书馆新闻",
+      "url": "https://www.lib.pku.edu.cn/portal/feeds/news",
+      "originalFolder": "图书馆资源",
+      "existing": true,
+      "sourceId": 39,
+      "sections": [
+        "学术开源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "北京大学图书馆最新资源",
+      "url": "https://www.lib.pku.edu.cn/portal/feeds/resources",
+      "originalFolder": "图书馆资源",
+      "existing": true,
+      "sourceId": 40,
+      "sections": [
+        "学术开源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学空间|Scientific Spaces",
+      "url": "https://kexue.fm/feed",
+      "originalFolder": "研究博客",
+      "existing": true,
+      "sourceId": 41,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网博客RSS——编辑部推荐",
+      "url": "https://www.sciencenet.cn/xml/blog.aspx?di=20",
+      "originalFolder": "研究博客",
+      "existing": true,
+      "sourceId": 42,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网博客RSS——博客新闻",
+      "url": "https://www.sciencenet.cn/xml/blog.aspx?di=12",
+      "originalFolder": "研究博客",
+      "existing": true,
+      "sourceId": 43,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网博客RSS——观点评述",
+      "url": "https://www.sciencenet.cn/xml/blog.aspx?di=3",
+      "originalFolder": "研究博客",
+      "existing": true,
+      "sourceId": 44,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网博客RSS——海外观察",
+      "url": "https://www.sciencenet.cn/xml/blog.aspx?di=2",
+      "originalFolder": "研究博客",
+      "existing": true,
+      "sourceId": 45,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网博客RSS——教学心得",
+      "url": "https://www.sciencenet.cn/xml/blog.aspx?di=9",
+      "originalFolder": "研究博客",
+      "existing": true,
+      "sourceId": 46,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网博客RSS——科普集锦",
+      "url": "https://www.sciencenet.cn/xml/blog.aspx?di=7",
+      "originalFolder": "研究博客",
+      "existing": true,
+      "sourceId": 47,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网博客RSS——科研笔记",
+      "url": "https://www.sciencenet.cn/xml/blog.aspx?di=1",
+      "originalFolder": "研究博客",
+      "existing": true,
+      "sourceId": 48,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网博客RSS——论文交流",
+      "url": "https://www.sciencenet.cn/xml/blog.aspx?di=11",
+      "originalFolder": "研究博客",
+      "existing": true,
+      "sourceId": 49,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网博客RSS——所有文章",
+      "url": "https://www.sciencenet.cn/xml/blog.aspx?di=0",
+      "originalFolder": "研究博客",
+      "existing": true,
+      "sourceId": 50,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网博客RSS——人文社科",
+      "url": "https://www.sciencenet.cn/xml/blog.aspx?di=10",
+      "originalFolder": "研究博客",
+      "existing": true,
+      "sourceId": 51,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网博客RSS——用户推荐",
+      "url": "https://www.sciencenet.cn/xml/blog.aspx?di=30",
+      "originalFolder": "研究博客",
+      "existing": true,
+      "sourceId": 52,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "统计之都",
+      "url": "https://cosx.org/index.xml",
+      "originalFolder": "研究博客",
+      "existing": true,
+      "sourceId": 53,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "SeisMan",
+      "url": "https://blog.seisman.info/index.xml",
+      "originalFolder": "研究博客",
+      "existing": true,
+      "sourceId": 54,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "北京航空航天大学学报",
+      "url": "https://bhxb.buaa.edu.cn/bhzk/rss/current.xml",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 55,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "地理学报-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/DLXB?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 56,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "地球物理学报-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/DQWX?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 57,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "电子与信息学报",
+      "url": "https://jeit.ac.cn/rss/current.xml",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 58,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "法学研究-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/LAWS?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 59,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "管理世界-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/GLSJ?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 60,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "国际新闻界-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/GJXW?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 61,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "化学学报-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/HXXB?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 62,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "计算机学报-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/JSJX?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 63,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "教育研究-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/JYYJ?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 64,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "近代史研究-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/JDSY?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 65,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "经济学(季刊)-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/JJXU?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 66,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "经济研究-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/JJYJ?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 67,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学通报-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/KXTB?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 68,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "历史研究-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/LSYJ?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 69,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "清史研究-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/QSYJ?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 70,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "社会学研究-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/SHXJ?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 71,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "生态学报-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/STXB?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 72,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "世界经济-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/SJJJ?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 73,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "数量经济技术经济研究-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/SLJY?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 74,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "外国文学评论-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/WGWX?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 75,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "物理学报-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/WLXB?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 76,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "心理学报-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/XLXB?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 77,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "新闻与传播研究-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/YANJ?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 78,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "应用生态学报-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/YYSB?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 79,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "哲学研究-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/ZXYJ?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 80,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "政治学研究-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/POLI?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 81,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "中国法学-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/ZGFX?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 82,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "中国工业经济-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/GGYY?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 83,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Bulletin of Chinese Academy of Sciences (Chinese Version)",
+      "url": "https://bulletinofcas.researchcommons.org/recent.rss",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 84,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "中国农业科学-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/ZNYK?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 85,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "中国软科学-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/ZGRK?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 86,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "中国社会科学-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/ZSHK?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 87,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "中华流行病学杂志-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/ZHLX?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 88,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "中华医学杂志-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/ZHYX?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 89,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "自动化学报-CNKI",
+      "url": "https://rss.cnki.net/knavi/rss/MOTO?pcode=CJFD,CCJD",
+      "originalFolder": "中文期刊",
+      "existing": true,
+      "sourceId": 90,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "少数派",
+      "url": "https://sspai.com/feed",
+      "originalFolder": "日常·数字生活",
+      "existing": true,
+      "sourceId": 91,
+      "sections": [
+        "辅助参考"
+      ],
+      "role": "资讯线索",
+      "limitations": [
+        "保留旧收藏，不作为学术板块的直接覆盖。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "阮一峰的网络日志",
+      "url": "https://www.ruanyifeng.com/blog/atom.xml",
+      "originalFolder": "日常·数字生活",
+      "existing": true,
+      "sourceId": 92,
+      "sections": [
+        "辅助参考"
+      ],
+      "role": "资讯线索",
+      "limitations": [
+        "保留旧收藏，不作为学术板块的直接覆盖。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "潮流周刊",
+      "url": "https://weekly.tw93.fun/rss.xml",
+      "originalFolder": "日常·数字生活",
+      "existing": true,
+      "sourceId": 93,
+      "sections": [
+        "辅助参考"
+      ],
+      "role": "资讯线索",
+      "limitations": [
+        "保留旧收藏，不作为学术板块的直接覆盖。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Taxodium",
+      "url": "https://taxodium.ink/rss.xml",
+      "originalFolder": "日常·数字生活",
+      "existing": true,
+      "sourceId": 94,
+      "sections": [
+        "辅助参考"
+      ],
+      "role": "资讯线索",
+      "limitations": [
+        "保留旧收藏，不作为学术板块的直接覆盖。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Openbook閱讀誌",
+      "url": "https://www.openbook.org.tw/rss.xml",
+      "originalFolder": "书影·文化生活",
+      "existing": true,
+      "sourceId": 95,
+      "sections": [
+        "辅助参考"
+      ],
+      "role": "资讯线索",
+      "limitations": [
+        "保留旧收藏，不作为学术板块的直接覆盖。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "书格",
+      "url": "https://www.shuge.org/feed/",
+      "originalFolder": "书影·文化生活",
+      "existing": true,
+      "sourceId": 96,
+      "sections": [
+        "辅助参考"
+      ],
+      "role": "资讯线索",
+      "limitations": [
+        "保留旧收藏，不作为学术板块的直接覆盖。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "机核",
+      "url": "https://www.gcores.com/rss",
+      "originalFolder": "书影·文化生活",
+      "existing": true,
+      "sourceId": 97,
+      "sections": [
+        "辅助参考"
+      ],
+      "role": "资讯线索",
+      "limitations": [
+        "保留旧收藏，不作为学术板块的直接覆盖。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "釀電影",
+      "url": "https://filmaholic.tw/feed/",
+      "originalFolder": "书影·文化生活",
+      "existing": true,
+      "sourceId": 98,
+      "sections": [
+        "辅助参考"
+      ],
+      "role": "资讯线索",
+      "limitations": [
+        "保留旧收藏，不作为学术板块的直接覆盖。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "非马非牛",
+      "url": "https://www.fmfn.online/feed/audio.xml",
+      "originalFolder": "书影·文化生活",
+      "existing": true,
+      "sourceId": 99,
+      "sections": [
+        "辅助参考"
+      ],
+      "role": "资讯线索",
+      "limitations": [
+        "保留旧收藏，不作为学术板块的直接覆盖。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "虹线",
+      "url": "https://1q43.blog/feed/",
+      "originalFolder": "社会·大众科学",
+      "existing": true,
+      "sourceId": 100,
+      "sections": [
+        "辅助参考"
+      ],
+      "role": "资讯线索",
+      "limitations": [
+        "保留旧收藏，不作为学术板块的直接覆盖。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "報導者",
+      "url": "https://www.twreporter.org/a/rss2.xml",
+      "originalFolder": "社会·大众科学",
+      "existing": true,
+      "sourceId": 101,
+      "sections": [
+        "辅助参考"
+      ],
+      "role": "资讯线索",
+      "limitations": [
+        "保留旧收藏，不作为学术板块的直接覆盖。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "神经现实",
+      "url": "https://neu-reality.com/feed/",
+      "originalFolder": "社会·大众科学",
+      "existing": true,
+      "sourceId": 102,
+      "sections": [
+        "辅助参考"
+      ],
+      "role": "资讯线索",
+      "limitations": [
+        "保留旧收藏，不作为学术板块的直接覆盖。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "对话地球",
+      "url": "https://dialogue.earth/zh/feed/",
+      "originalFolder": "社会·大众科学",
+      "existing": true,
+      "sourceId": 103,
+      "sections": [
+        "辅助参考"
+      ],
+      "role": "资讯线索",
+      "limitations": [
+        "保留旧收藏，不作为学术板块的直接覆盖。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/feed/",
+      "originalFolder": "海外精选·AI翻译",
+      "existing": true,
+      "sourceId": 104,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "JSTOR Daily",
+      "url": "https://daily.jstor.org/feed/",
+      "originalFolder": "海外精选·AI翻译",
+      "existing": true,
+      "sourceId": 105,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Psyche | Know Your Self",
+      "url": "https://psyche.co/feed.rss",
+      "originalFolder": "海外精选·AI翻译",
+      "existing": true,
+      "sourceId": 106,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Atlas Obscura - Latest Articles and Places",
+      "url": "https://www.atlasobscura.com/feeds/latest",
+      "originalFolder": "海外精选·AI翻译",
+      "existing": true,
+      "sourceId": 107,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "NASA Science",
+      "url": "https://earthobservatory.nasa.gov/feeds/earth-observatory.rss",
+      "originalFolder": "海外精选·AI翻译",
+      "existing": true,
+      "sourceId": 108,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "中国大陆·基金申报（官方聚合）",
+      "url": "http://127.0.0.1:8765/funding.xml",
+      "originalFolder": "中国大陆·基金申报",
+      "existing": true,
+      "sourceId": 109,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "学术社交·Reddit 精选",
+      "url": "http://127.0.0.1:8766/reddit-scholar.xml",
+      "originalFolder": "学术社交·公开平台",
+      "existing": true,
+      "sourceId": 110,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "学术社交·Bluesky 学术账号",
+      "url": "http://127.0.0.1:8766/bluesky-scholar.xml",
+      "originalFolder": "学术社交·公开平台",
+      "existing": true,
+      "sourceId": 111,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "学术社交·Mastodon 学术话题",
+      "url": "http://127.0.0.1:8766/mastodon-scholar.xml",
+      "originalFolder": "学术社交·公开平台",
+      "existing": true,
+      "sourceId": 112,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "学术社交·开放科研社区",
+      "url": "http://127.0.0.1:8766/community-scholar.xml",
+      "originalFolder": "学术社交·公开平台",
+      "existing": true,
+      "sourceId": 113,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "知乎·热榜与日常",
+      "url": "http://127.0.0.1:8767/zhihu-hot.xml",
+      "originalFolder": "知乎·知识雷达",
+      "existing": true,
+      "sourceId": 114,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "知乎·科研与学术雷达",
+      "url": "http://127.0.0.1:8767/zhihu-scholar.xml",
+      "originalFolder": "知乎·知识雷达",
+      "existing": true,
+      "sourceId": 115,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "知乎·AI 与科研工具",
+      "url": "http://127.0.0.1:8767/zhihu-ai.xml",
+      "originalFolder": "知乎·知识雷达",
+      "existing": true,
+      "sourceId": 116,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "知识分子",
+      "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_d21f67d094a5.xml",
+      "originalFolder": "微信公众号·科研精选",
+      "existing": true,
+      "sourceId": 117,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "果壳",
+      "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/wxid_5637156371511.xml",
+      "originalFolder": "微信公众号·科研精选",
+      "existing": true,
+      "sourceId": 118,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "环球科学",
+      "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_2657898b5dbf.xml",
+      "originalFolder": "微信公众号·科研精选",
+      "existing": true,
+      "sourceId": 119,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "格致论道讲坛",
+      "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_f8a98419e332.xml",
+      "originalFolder": "微信公众号·科研精选",
+      "existing": true,
+      "sourceId": 120,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "机器之心",
+      "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_dbc0a5474692.xml",
+      "originalFolder": "微信公众号·科研精选",
+      "existing": true,
+      "sourceId": 121,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "微软亚洲研究院",
+      "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_96f9f52be5e3.xml",
+      "originalFolder": "微信公众号·科研精选",
+      "existing": true,
+      "sourceId": 122,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "BioArt",
+      "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_a0a6a4dc7236.xml",
+      "originalFolder": "微信公众号·科研精选",
+      "existing": true,
+      "sourceId": 123,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "丁香园",
+      "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/wxid_9602156020911.xml",
+      "originalFolder": "微信公众号·科研精选",
+      "existing": true,
+      "sourceId": 124,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "热心肠研究院",
+      "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_42bb76643f00.xml",
+      "originalFolder": "微信公众号·科研精选",
+      "existing": true,
+      "sourceId": 125,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "中科院物理所",
+      "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_d00db26cc95c.xml",
+      "originalFolder": "微信公众号·科研精选",
+      "existing": true,
+      "sourceId": 126,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Linvo说宇宙",
+      "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_7875ab87bbc7.xml",
+      "originalFolder": "微信公众号·科研精选",
+      "existing": true,
+      "sourceId": 127,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "国际新闻界",
+      "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_6cbdc2c3ea8f.xml",
+      "originalFolder": "微信公众号·科研精选",
+      "existing": true,
+      "sourceId": 128,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "集智俱乐部",
+      "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_900a436f047a.xml",
+      "originalFolder": "微信公众号·科研精选",
+      "existing": true,
+      "sourceId": 129,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "哈佛商业评论",
+      "url": "https://wechat2rss.bestblogs.dev/feed/205f074dd6b962e0f4de876e9ebfe70a33bd8f66.xml",
+      "originalFolder": "微信公众号·科研精选",
+      "existing": true,
+      "sourceId": 130,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "国家自然科学基金委员会",
+      "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_c1f2e5989666.xml",
+      "originalFolder": "微信公众号·科研精选",
+      "existing": true,
+      "sourceId": 131,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "青塔",
+      "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_9eaf123d0c6f.xml",
+      "originalFolder": "微信公众号·科研精选",
+      "existing": true,
+      "sourceId": 132,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "科学网·会议预告（含商业征稿）",
+      "url": "http://127.0.0.1:8768/sciencenet.xml",
+      "originalFolder": "学术会议·中文",
+      "existing": true,
+      "sourceId": 133,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "中国化学会·会议日历",
+      "url": "http://127.0.0.1:8768/chemsoc.xml",
+      "originalFolder": "学术会议·中文",
+      "existing": true,
+      "sourceId": 134,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "中国社会科学网·会议动态（含往届）",
+      "url": "http://127.0.0.1:8768/cssn.xml",
+      "originalFolder": "学术会议·中文",
+      "existing": true,
+      "sourceId": 135,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "CCF 秀湖·会议日历（含往届）",
+      "url": "http://127.0.0.1:8768/ccf.xml",
+      "originalFolder": "学术会议·中文",
+      "existing": true,
+      "sourceId": 136,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "CFPs on Artificial Intelligence : WikiCFP",
+      "url": "http://www.wikicfp.com/cfp/rss?cat=artificial%20intelligence",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 137,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "CFPs on Computer Science : WikiCFP",
+      "url": "http://www.wikicfp.com/cfp/rss?cat=computer%20science",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 138,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "CFPs on Social Sciences : WikiCFP",
+      "url": "http://www.wikicfp.com/cfp/rss?cat=social%20sciences",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 139,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Calenda",
+      "url": "https://calenda.org/feed.php?f2lang[]=66",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 140,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "NSF Program Announcements and Information",
+      "url": "https://www.nsf.gov/rss/rss_www_funding_pgm_annc_inf.xml",
+      "originalFolder": "国际基金·资助机会",
+      "existing": true,
+      "sourceId": 141,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "NSF Upcoming Due Dates",
+      "url": "https://www.nsf.gov/rss/rss_www_funding-upcoming/rss.xml",
+      "originalFolder": "国际基金·资助机会",
+      "existing": true,
+      "sourceId": 142,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "JSTニュース｜公募情報",
+      "url": "https://www.jst.go.jp/rss/bosyu.xml",
+      "originalFolder": "国际基金·资助机会",
+      "existing": true,
+      "sourceId": 143,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Opportunities – UKRI",
+      "url": "https://www.ukri.org/opportunity/feed/",
+      "originalFolder": "国际基金·资助机会",
+      "existing": true,
+      "sourceId": 144,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "NSF News",
+      "url": "https://www.nsf.gov/rss/rss_www_news.xml",
+      "originalFolder": "国际基金·机构动态",
+      "existing": true,
+      "sourceId": 145,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "News – UKRI",
+      "url": "https://www.ukri.org/news/feed/",
+      "originalFolder": "国际基金·机构动态",
+      "existing": true,
+      "sourceId": 146,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "DFG | Informationen für die Wissenschaft",
+      "url": "https://www.dfg.de/service/rss/de/323556/feed.rss",
+      "originalFolder": "国际基金·资助机会",
+      "existing": true,
+      "sourceId": 147,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "SNF RSS Feed - Call - EN",
+      "url": "https://www.snf.ch/api/rss/en/call/feed.xml",
+      "originalFolder": "国际基金·资助机会",
+      "existing": true,
+      "sourceId": 148,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "SNF RSS Feed - News - EN",
+      "url": "https://www.snf.ch/api/rss/en/news/feed.xml",
+      "originalFolder": "国际基金·机构动态",
+      "existing": true,
+      "sourceId": 149,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "JSTニュース｜トピックス",
+      "url": "https://www.jst.go.jp/rss/topics.xml",
+      "originalFolder": "国际基金·机构动态",
+      "existing": true,
+      "sourceId": 150,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "JSTニュース｜プレスリリース",
+      "url": "https://www.jst.go.jp/rss/press.xml",
+      "originalFolder": "国际基金·机构动态",
+      "existing": true,
+      "sourceId": 151,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Retraction Watch",
+      "url": "https://retractionwatch.com/feed/",
+      "originalFolder": "科研诚信·研究传播",
+      "existing": true,
+      "sourceId": 152,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Phys.org - latest science and technology news stories",
+      "url": "https://phys.org/rss-feed/",
+      "originalFolder": "海外精选·AI翻译",
+      "existing": true,
+      "sourceId": 153,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "DFG | Press Releases (engl.)",
+      "url": "https://www.dfg.de/service/rss/en/324778/feed.rss",
+      "originalFolder": "国际基金·机构动态",
+      "existing": true,
+      "sourceId": 154,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Social Sciences News - Psychology, Sociology",
+      "url": "https://phys.org/rss-feed/science-news/social-sciences/",
+      "originalFolder": "海外精选·AI翻译",
+      "existing": true,
+      "sourceId": 155,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "SNF RSS Feed - Press release - EN",
+      "url": "https://www.snf.ch/api/rss/en/press/feed.xml",
+      "originalFolder": "国际基金·机构动态",
+      "existing": true,
+      "sourceId": 156,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/feed/",
+      "originalFolder": "科研诚信·研究传播",
+      "existing": true,
+      "sourceId": 157,
+      "sections": [
+        "学者观察"
+      ],
+      "role": "观点与社区讨论",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "1",
+      "url": "https://www.sciencedaily.com/rss/top.xml",
+      "originalFolder": "海外精选·AI翻译",
+      "existing": true,
+      "sourceId": 158,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "1",
+      "url": "https://www.sciencedaily.com/rss/all.xml",
+      "originalFolder": "海外精选·AI翻译",
+      "existing": true,
+      "sourceId": 159,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Nature",
+      "url": "https://www.nature.com/nature.rss",
+      "originalFolder": "国际期刊",
+      "existing": true,
+      "sourceId": 160,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Psychology Research News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/rss/mind_brain/psychology.xml",
+      "originalFolder": "海外精选·AI翻译",
+      "existing": true,
+      "sourceId": 161,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Mind & Brain News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
+      "originalFolder": "海外精选·AI翻译",
+      "existing": true,
+      "sourceId": 162,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Nature Communications",
+      "url": "https://www.nature.com/ncomms.rss",
+      "originalFolder": "国际期刊",
+      "existing": true,
+      "sourceId": 163,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Scientific Reports",
+      "url": "https://www.nature.com/srep.rss",
+      "originalFolder": "国际期刊",
+      "existing": true,
+      "sourceId": 164,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "cs.AI updates on arXiv.org",
+      "url": "https://rss.arxiv.org/rss/cs.AI",
+      "originalFolder": "预印本·arXiv",
+      "existing": true,
+      "sourceId": 165,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "cs.CL updates on arXiv.org",
+      "url": "https://rss.arxiv.org/rss/cs.CL",
+      "originalFolder": "预印本·arXiv",
+      "existing": true,
+      "sourceId": 166,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "cs.LG updates on arXiv.org",
+      "url": "https://rss.arxiv.org/rss/cs.LG",
+      "originalFolder": "预印本·arXiv",
+      "existing": true,
+      "sourceId": 167,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "cs.HC updates on arXiv.org",
+      "url": "https://rss.arxiv.org/rss/cs.HC",
+      "originalFolder": "预印本·arXiv",
+      "existing": true,
+      "sourceId": 168,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "cs.CV updates on arXiv.org",
+      "url": "https://rss.arxiv.org/rss/cs.CV",
+      "originalFolder": "预印本·arXiv",
+      "existing": true,
+      "sourceId": 169,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "cs.RO updates on arXiv.org",
+      "url": "https://rss.arxiv.org/rss/cs.RO",
+      "originalFolder": "预印本·arXiv",
+      "existing": true,
+      "sourceId": 170,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "stat.ML updates on arXiv.org",
+      "url": "https://rss.arxiv.org/rss/stat.ML",
+      "originalFolder": "预印本·arXiv",
+      "existing": true,
+      "sourceId": 171,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "q-bio.NC updates on arXiv.org",
+      "url": "https://rss.arxiv.org/rss/q-bio.NC",
+      "originalFolder": "预印本·arXiv",
+      "existing": true,
+      "sourceId": 172,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "math updates on arXiv.org",
+      "url": "https://rss.arxiv.org/rss/math",
+      "originalFolder": "预印本·arXiv",
+      "existing": true,
+      "sourceId": 173,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "stat updates on arXiv.org",
+      "url": "https://rss.arxiv.org/rss/stat",
+      "originalFolder": "预印本·arXiv",
+      "existing": true,
+      "sourceId": 174,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "econ updates on arXiv.org",
+      "url": "https://rss.arxiv.org/rss/econ",
+      "originalFolder": "预印本·arXiv",
+      "existing": true,
+      "sourceId": 175,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "eess updates on arXiv.org",
+      "url": "https://rss.arxiv.org/rss/eess",
+      "originalFolder": "预印本·arXiv",
+      "existing": true,
+      "sourceId": 176,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Calenda - Appel à contribution",
+      "url": "https://calenda.org/feed.php?type=40",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 177,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Calenda - Colloque",
+      "url": "https://calenda.org/feed.php?type=41",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 178,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Calenda - Bourse, prix et emploi",
+      "url": "https://calenda.org/feed.php?type=47",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 179,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Calenda - Psychologie",
+      "url": "https://calenda.org/feed.php?cat=266",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 180,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Calenda - Éducation",
+      "url": "https://calenda.org/feed.php?cat=283",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 181,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Calenda - Sciences cognitives",
+      "url": "https://calenda.org/feed.php?cat=263",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 182,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Calenda - Humanités numériques",
+      "url": "https://calenda.org/feed.php?cat=298",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 183,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "1",
+      "url": "https://philevents.org/search/topic/637?format=rss",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 184,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "1",
+      "url": "https://philevents.org/search/topic/635?format=rss",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 185,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "1",
+      "url": "https://philevents.org/search/topic/599?format=rss",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 186,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "1",
+      "url": "https://philevents.org/search/topic/595?format=rss",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 187,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "1",
+      "url": "https://philevents.org/search/topic/578?format=rss",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 188,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "1",
+      "url": "https://philevents.org/search/topic/613?format=rss",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 189,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "JSTニュース｜イベント情報",
+      "url": "https://www.jst.go.jp/rss/event.xml",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 190,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "NSF Events",
+      "url": "https://www.nsf.gov/rss/rss_www_events.xml",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 191,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Events – UKRI",
+      "url": "https://www.ukri.org/events/feed/",
+      "originalFolder": "学术会议·英文",
+      "existing": true,
+      "sourceId": 192,
+      "sections": [
+        "学术情报·年度日历"
+      ],
+      "role": "活动或申报通知",
+      "limitations": [
+        "须提取活动/截止日期，不采用 RSS pubDate。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "ORCID",
+      "url": "https://info.orcid.org/feed/",
+      "originalFolder": "开放科研·机构动态",
+      "existing": true,
+      "sourceId": 193,
+      "sections": [
+        "学术开源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Blog on The Carpentries",
+      "url": "https://carpentries.org/blog/index.xml",
+      "originalFolder": "课程资源",
+      "existing": true,
+      "sourceId": 194,
+      "sections": [
+        "课程资源"
+      ],
+      "role": "教程与方法参考",
+      "limitations": [
+        "不等于正在招生的付费课程。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Data School",
+      "url": "https://www.dataschool.io/rss/",
+      "originalFolder": "课程资源",
+      "existing": true,
+      "sourceId": 195,
+      "sections": [
+        "课程资源"
+      ],
+      "role": "教程与方法参考",
+      "limitations": [
+        "不等于正在招生的付费课程。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Editage Insights",
+      "url": "https://www.editage.com/insights/feed",
+      "originalFolder": "课程资源",
+      "existing": true,
+      "sourceId": 196,
+      "sections": [
+        "课程资源"
+      ],
+      "role": "教程与方法参考",
+      "limitations": [
+        "不等于正在招生的付费课程。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Galaxy Training!",
+      "url": "https://training.galaxyproject.org/training-material/feed.xml",
+      "originalFolder": "课程资源",
+      "existing": true,
+      "sourceId": 197,
+      "sections": [
+        "课程资源"
+      ],
+      "role": "教程与方法参考",
+      "limitations": [
+        "不等于正在招生的付费课程。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "R-bloggers",
+      "url": "https://www.r-bloggers.com/feed/",
+      "originalFolder": "课程资源",
+      "existing": true,
+      "sourceId": 198,
+      "sections": [
+        "课程资源"
+      ],
+      "role": "教程与方法参考",
+      "limitations": [
+        "不等于正在招生的付费课程。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Statistical Horizons",
+      "url": "https://statisticalhorizons.com/feed/",
+      "originalFolder": "课程资源",
+      "existing": true,
+      "sourceId": 199,
+      "sections": [
+        "课程资源"
+      ],
+      "role": "教程与方法参考",
+      "limitations": [
+        "不等于正在招生的付费课程。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "The Stata Blog",
+      "url": "https://blog.stata.com/feed/",
+      "originalFolder": "课程资源",
+      "existing": true,
+      "sourceId": 200,
+      "sections": [
+        "课程资源"
+      ],
+      "role": "教程与方法参考",
+      "limitations": [
+        "不等于正在招生的付费课程。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Blog on rOpenSci - open tools for open science",
+      "url": "https://ropensci.org/blog/index.xml",
+      "originalFolder": "项目合作·社区线索",
+      "existing": true,
+      "sourceId": 201,
+      "sections": [
+        "项目合作"
+      ],
+      "role": "合作社区线索",
+      "limitations": [
+        "不是已核验的课题结伴需求，须找到具体招募、联系人与参与条件。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Jupyter Community Forum - Latest topics",
+      "url": "https://discourse.jupyter.org/latest.rss",
+      "originalFolder": "项目合作·社区线索",
+      "existing": true,
+      "sourceId": 202,
+      "sections": [
+        "项目合作"
+      ],
+      "role": "合作社区线索",
+      "limitations": [
+        "不是已核验的课题结伴需求，须找到具体招募、联系人与参与条件。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "OpenRefine - Latest topics",
+      "url": "https://forum.openrefine.org/latest.rss",
+      "originalFolder": "项目合作·社区线索",
+      "existing": true,
+      "sourceId": 203,
+      "sections": [
+        "项目合作"
+      ],
+      "role": "合作社区线索",
+      "limitations": [
+        "不是已核验的课题结伴需求，须找到具体招募、联系人与参与条件。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "rOpenSci - open tools for open science",
+      "url": "https://ropensci.org/index.xml",
+      "originalFolder": "项目合作·社区线索",
+      "existing": true,
+      "sourceId": 204,
+      "sections": [
+        "项目合作"
+      ],
+      "role": "合作社区线索",
+      "limitations": [
+        "不是已核验的课题结伴需求，须找到具体招募、联系人与参与条件。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "DARIAH-EU: News",
+      "url": "https://www.dariah.eu/feeds/news.xml",
+      "originalFolder": "项目合作·开放科研社区",
+      "existing": true,
+      "sourceId": 205,
+      "sections": [
+        "项目合作"
+      ],
+      "role": "合作社区线索",
+      "limitations": [
+        "不是已核验的课题结伴需求，须找到具体招募、联系人与参与条件。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "SSHOPENCLOUD",
+      "url": "https://sshoc.eu/rss.xml",
+      "originalFolder": "项目合作·开放科研社区",
+      "existing": true,
+      "sourceId": 206,
+      "sections": [
+        "项目合作"
+      ],
+      "role": "合作社区线索",
+      "limitations": [
+        "不是已核验的课题结伴需求，须找到具体招募、联系人与参与条件。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "ReproducibiliTea",
+      "url": "https://reproducibilitea.org/feed.xml",
+      "originalFolder": "项目合作·开放科研社区",
+      "existing": true,
+      "sourceId": 207,
+      "sections": [
+        "项目合作"
+      ],
+      "role": "合作社区线索",
+      "limitations": [
+        "不是已核验的课题结伴需求，须找到具体招募、联系人与参与条件。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Blog",
+      "url": "https://www.cos.io/blog/rss.xml",
+      "originalFolder": "项目合作·开放科研社区",
+      "existing": true,
+      "sourceId": 208,
+      "sections": [
+        "项目合作"
+      ],
+      "role": "合作社区线索",
+      "limitations": [
+        "不是已核验的课题结伴需求，须找到具体招募、联系人与参与条件。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Invest in Open Infrastructure",
+      "url": "https://investinopen.org/rss/",
+      "originalFolder": "项目合作·开放科研社区",
+      "existing": true,
+      "sourceId": 209,
+      "sections": [
+        "项目合作"
+      ],
+      "role": "合作社区线索",
+      "limitations": [
+        "不是已核验的课题结伴需求，须找到具体招募、联系人与参与条件。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "FORCE11",
+      "url": "https://force11.org/feed/",
+      "originalFolder": "项目合作·开放科研社区",
+      "existing": true,
+      "sourceId": 210,
+      "sections": [
+        "项目合作"
+      ],
+      "role": "合作社区线索",
+      "limitations": [
+        "不是已核验的课题结伴需求，须找到具体招募、联系人与参与条件。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Digital Humanities Now",
+      "url": "https://digitalhumanitiesnow.org/feed/",
+      "originalFolder": "项目合作·开放科研社区",
+      "existing": true,
+      "sourceId": 211,
+      "sections": [
+        "项目合作"
+      ],
+      "role": "合作社区线索",
+      "limitations": [
+        "不是已核验的课题结伴需求，须找到具体招募、联系人与参与条件。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "OEGlobal",
+      "url": "https://www.oeglobal.org/feed/",
+      "originalFolder": "项目合作·开放科研社区",
+      "existing": true,
+      "sourceId": 212,
+      "sections": [
+        "项目合作"
+      ],
+      "role": "合作社区线索",
+      "limitations": [
+        "不是已核验的课题结伴需求，须找到具体招募、联系人与参与条件。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "INOSC",
+      "url": "https://osc-international.com/feed/",
+      "originalFolder": "项目合作·开放科研社区",
+      "existing": true,
+      "sourceId": 213,
+      "sections": [
+        "项目合作"
+      ],
+      "role": "合作社区线索",
+      "limitations": [
+        "不是已核验的课题结伴需求，须找到具体招募、联系人与参与条件。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "OpenAlex blog",
+      "url": "https://blog.openalex.org/feed/",
+      "originalFolder": "学术工具·科研服务",
+      "existing": true,
+      "sourceId": 214,
+      "sections": [
+        "学术开源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Sciety",
+      "url": "https://blog.sciety.org/rss/",
+      "originalFolder": "学术工具·科研服务",
+      "existing": true,
+      "sourceId": 215,
+      "sections": [
+        "学术开源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Upstream",
+      "url": "https://upstream.force11.org/latest/rss/",
+      "originalFolder": "学术工具·科研服务",
+      "existing": true,
+      "sourceId": 216,
+      "sections": [
+        "学术开源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Zotero",
+      "url": "http://feeds.feedburner.com/zotero/",
+      "originalFolder": "学术工具·科研服务",
+      "existing": true,
+      "sourceId": 217,
+      "sections": [
+        "学术开源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Programming Historian",
+      "url": "https://programminghistorian.org/feed.xml",
+      "originalFolder": "课程资源·数字人文教程与社区",
+      "existing": true,
+      "sourceId": 218,
+      "sections": [
+        "课程资源"
+      ],
+      "role": "教程与方法参考",
+      "limitations": [
+        "不等于正在招生的付费课程。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Methods Blog",
+      "url": "https://methodsblog.com/feed/",
+      "originalFolder": "课程资源·科研方法",
+      "existing": true,
+      "sourceId": 219,
+      "sections": [
+        "课程资源"
+      ],
+      "role": "教程与方法参考",
+      "limitations": [
+        "不等于正在招生的付费课程。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Statology",
+      "url": "https://www.statology.org/feed/",
+      "originalFolder": "课程资源·科研方法",
+      "existing": true,
+      "sourceId": 220,
+      "sections": [
+        "课程资源"
+      ],
+      "role": "教程与方法参考",
+      "limitations": [
+        "不等于正在招生的付费课程。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Association for Psychological Science – APS",
+      "url": "https://www.psychologicalscience.org/feed",
+      "originalFolder": "学术机构·心理科学",
+      "existing": true,
+      "sourceId": 221,
+      "sections": [
+        "学界犀闻"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "DARIAH-EU: Events",
+      "url": "https://www.dariah.eu/feeds/events.xml",
+      "originalFolder": "课程资源·数字人文活动与培训",
+      "existing": true,
+      "sourceId": 222,
+      "sections": [
+        "课程资源",
+        "学术情报·年度日历"
+      ],
+      "role": "培训与活动通知",
+      "limitations": [
+        "不等于正在招生的付费课程。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "COST",
+      "url": "https://www.cost.eu/feed/",
+      "originalFolder": "项目合作·开放社区与征集",
+      "existing": true,
+      "sourceId": 223,
+      "sections": [
+        "项目合作"
+      ],
+      "role": "合作社区线索",
+      "limitations": [
+        "不是已核验的课题结伴需求，须找到具体招募、联系人与参与条件。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Statistical Modeling, Causal Inference, and Social Science",
+      "url": "https://statmodeling.stat.columbia.edu/feed/",
+      "originalFolder": "科研方法·统计实践",
+      "existing": true,
+      "sourceId": 224,
+      "sections": [
+        "课程资源"
+      ],
+      "role": "教程与方法参考",
+      "limitations": [
+        "不等于正在招生的付费课程。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "Bayesian Spectacles",
+      "url": "https://www.bayesianspectacles.org/feed/",
+      "originalFolder": "科研方法·统计实践",
+      "existing": true,
+      "sourceId": 225,
+      "sections": [
+        "课程资源"
+      ],
+      "role": "教程与方法参考",
+      "limitations": [
+        "不等于正在招生的付费课程。"
+      ]
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from librime",
+      "url": "https://github.com/rime/librime/releases.atom",
+      "originalFolder": "输入法项目",
+      "existing": true,
+      "sourceId": 1,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from squirrel",
+      "url": "https://github.com/rime/squirrel/releases.atom",
+      "originalFolder": "输入法项目",
+      "existing": true,
+      "sourceId": 2,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from weasel",
+      "url": "https://github.com/rime/weasel/releases.atom",
+      "originalFolder": "输入法项目",
+      "existing": true,
+      "sourceId": 3,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from fcitx5",
+      "url": "https://github.com/fcitx/fcitx5/releases.atom",
+      "originalFolder": "输入法项目",
+      "existing": true,
+      "sourceId": 4,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from trime",
+      "url": "https://github.com/osfans/trime/releases.atom",
+      "originalFolder": "输入法项目",
+      "existing": true,
+      "sourceId": 5,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-ice:main",
+      "url": "https://github.com/iDvel/rime-ice/commits/main.atom",
+      "originalFolder": "方案与词库",
+      "existing": true,
+      "sourceId": 6,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "The Unicode Blog",
+      "url": "https://blog.unicode.org/feeds/posts/default",
+      "originalFolder": "文字与标准",
+      "existing": true,
+      "sourceId": 7,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to oh-my-rime:361b5c0ec2e6fb18e1b34ab32651fdc132e78f10",
+      "url": "https://github.com/Mintimate/oh-my-rime/commits/HEAD.atom",
+      "originalFolder": "中文输入方案",
+      "existing": true,
+      "sourceId": 8,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-wanxiang:a355ffec2f05dd698451b709a5c242be76395a25",
+      "url": "https://github.com/amzxyz/rime_wanxiang/commits/HEAD.atom",
+      "originalFolder": "中文输入方案",
+      "existing": true,
+      "sourceId": 9,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-frost:7fef50466be5f93a6b63c430eed97393c8d22963",
+      "url": "https://github.com/gaboolic/rime-frost/commits/HEAD.atom",
+      "originalFolder": "中文输入方案",
+      "existing": true,
+      "sourceId": 10,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-bopomofo:6085c9a38a4a728047862b33d67eee18aa86f3b9",
+      "url": "https://github.com/rime/rime-bopomofo/commits/HEAD.atom",
+      "originalFolder": "中文输入方案",
+      "existing": true,
+      "sourceId": 11,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-cangjie:52d90a1b1312e74042b38c1cbc8142defbc53171",
+      "url": "https://github.com/rime/rime-cangjie/commits/HEAD.atom",
+      "originalFolder": "中文输入方案",
+      "existing": true,
+      "sourceId": 12,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-double-pinyin:01a13287cbd27819be1c34fa1ddc1b3643d5001b",
+      "url": "https://github.com/rime/rime-double-pinyin/commits/HEAD.atom",
+      "originalFolder": "中文输入方案",
+      "existing": true,
+      "sourceId": 13,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-essay:054920de4f54c9e5994276a96a4fc2a35cb51aa3",
+      "url": "https://github.com/rime/rime-essay/commits/HEAD.atom",
+      "originalFolder": "中文输入方案",
+      "existing": true,
+      "sourceId": 14,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-luna-pinyin:56b934b099dfbeab842320f13aa8b461a6ab3e42",
+      "url": "https://github.com/rime/rime-luna-pinyin/commits/HEAD.atom",
+      "originalFolder": "中文输入方案",
+      "existing": true,
+      "sourceId": 15,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-prelude:082425ea0684bca36474415d4a0e8db9b016487e",
+      "url": "https://github.com/rime/rime-prelude/commits/HEAD.atom",
+      "originalFolder": "中文输入方案",
+      "existing": true,
+      "sourceId": 16,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-stroke:1e8fff9b9494ddec23b0cbc526bcfd8171a6fd48",
+      "url": "https://github.com/rime/rime-stroke/commits/HEAD.atom",
+      "originalFolder": "中文输入方案",
+      "existing": true,
+      "sourceId": 17,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-terra-pinyin:723e51bc266cf9464530c1ddedb856aa18e3da34",
+      "url": "https://github.com/rime/rime-terra-pinyin/commits/HEAD.atom",
+      "originalFolder": "中文输入方案",
+      "existing": true,
+      "sourceId": 18,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-wubi:152a0d3f3efe40cae216d1e3b338242446848d07",
+      "url": "https://github.com/rime/rime-wubi/commits/HEAD.atom",
+      "originalFolder": "中文输入方案",
+      "existing": true,
+      "sourceId": 19,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to fcitx5-android:eb5b50216e70484a009933d9519db76005f1faf3",
+      "url": "https://github.com/fcitx5-android/fcitx5-android/commits/HEAD.atom",
+      "originalFolder": "中文输入法与方案",
+      "existing": true,
+      "sourceId": 20,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-cantonese:259f0e48bba840c3a2e0d117539e96937f3d89bc",
+      "url": "https://github.com/rime/rime-cantonese/commits/HEAD.atom",
+      "originalFolder": "中文输入法与方案",
+      "existing": true,
+      "sourceId": 21,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-soutzoe:beeaeca72d8e17dfd1e9af58680439e9012987dc",
+      "url": "https://github.com/rime/rime-soutzoe/commits/HEAD.atom",
+      "originalFolder": "中文输入法与方案",
+      "existing": true,
+      "sourceId": 22,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-wugniu:2818f4812af3b6f11fc0248fa8918966a3312d2c",
+      "url": "https://github.com/rime/rime-wugniu/commits/HEAD.atom",
+      "originalFolder": "中文输入法与方案",
+      "existing": true,
+      "sourceId": 23,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from fcitx5-chinese-addons",
+      "url": "https://github.com/fcitx/fcitx5-chinese-addons/releases.atom",
+      "originalFolder": "中文输入法项目",
+      "existing": true,
+      "sourceId": 24,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from fcitx5-macos",
+      "url": "https://github.com/fcitx/fcitx5-macos/releases.atom",
+      "originalFolder": "中文输入法项目",
+      "existing": true,
+      "sourceId": 25,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from fcitx5-rime",
+      "url": "https://github.com/fcitx/fcitx5-rime/releases.atom",
+      "originalFolder": "中文输入法项目",
+      "existing": true,
+      "sourceId": 26,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from ibus",
+      "url": "https://github.com/ibus/ibus/releases.atom",
+      "originalFolder": "中文输入法项目",
+      "existing": true,
+      "sourceId": 27,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from libpinyin",
+      "url": "https://github.com/libpinyin/libpinyin/releases.atom",
+      "originalFolder": "中文输入法项目",
+      "existing": true,
+      "sourceId": 28,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from ibus-rime",
+      "url": "https://github.com/rime/ibus-rime/releases.atom",
+      "originalFolder": "中文输入法项目",
+      "existing": true,
+      "sourceId": 29,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to squirrel:769ae426f33f500266101a88f694aab0d158e680",
+      "url": "https://github.com/rime/squirrel/commits/HEAD.atom",
+      "originalFolder": "中文输入法项目",
+      "existing": true,
+      "sourceId": 30,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from kanata",
+      "url": "https://github.com/jtroo/kanata/releases.atom",
+      "originalFolder": "客制化键盘与速录",
+      "existing": true,
+      "sourceId": 31,
+      "sections": [
+        "客制化键盘资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from kmonad",
+      "url": "https://github.com/kmonad/kmonad/releases.atom",
+      "originalFolder": "客制化键盘与速录",
+      "existing": true,
+      "sourceId": 32,
+      "sections": [
+        "客制化键盘资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from plover",
+      "url": "https://github.com/openstenoproject/plover/releases.atom",
+      "originalFolder": "客制化键盘与速录",
+      "existing": true,
+      "sourceId": 33,
+      "sections": [
+        "客制化键盘资讯",
+        "速录"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from qmk_firmware",
+      "url": "https://github.com/qmk/qmk_firmware/releases.atom",
+      "originalFolder": "客制化键盘与速录",
+      "existing": true,
+      "sourceId": 34,
+      "sections": [
+        "客制化键盘资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from releases",
+      "url": "https://github.com/the-via/releases/releases.atom",
+      "originalFolder": "客制化键盘与速录",
+      "existing": true,
+      "sourceId": 35,
+      "sections": [
+        "客制化键盘资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from vial-gui",
+      "url": "https://github.com/vial-kb/vial-gui/releases.atom",
+      "originalFolder": "客制化键盘与速录",
+      "existing": true,
+      "sourceId": 36,
+      "sections": [
+        "客制化键盘资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from zmk",
+      "url": "https://github.com/zmkfirmware/zmk/releases.atom",
+      "originalFolder": "客制化键盘与速录",
+      "existing": true,
+      "sourceId": 37,
+      "sections": [
+        "客制化键盘资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "KBDfans® Mechanical Keyboards Store - News",
+      "url": "https://kbdfans.com/blogs/news.atom",
+      "originalFolder": "客制化键盘开团与社区",
+      "existing": true,
+      "sourceId": 38,
+      "sections": [
+        "今年键盘开团",
+        "客制化键盘资讯"
+      ],
+      "role": "厂商或社区线索",
+      "limitations": [
+        "厂商动态不全是开团；须核验发起方、起止日、时区、取消与延期。"
+      ]
+    },
+    {
+      "space": "lingxi",
+      "title": "KeebTalk - Latest topics",
+      "url": "https://www.keebtalk.com/latest.rss",
+      "originalFolder": "客制化键盘开团与社区",
+      "existing": true,
+      "sourceId": 39,
+      "sections": [
+        "今年键盘开团",
+        "客制化键盘资讯"
+      ],
+      "role": "厂商或社区线索",
+      "limitations": [
+        "厂商动态不全是开团；须核验发起方、起止日、时区、取消与延期。"
+      ]
+    },
+    {
+      "space": "lingxi",
+      "title": "Keychron - News",
+      "url": "https://www.keychron.com/blogs/news.atom",
+      "originalFolder": "客制化键盘开团与社区",
+      "existing": true,
+      "sourceId": 40,
+      "sections": [
+        "今年键盘开团",
+        "客制化键盘资讯"
+      ],
+      "role": "厂商或社区线索",
+      "limitations": [
+        "厂商动态不全是开团；须核验发起方、起止日、时区、取消与延期。"
+      ]
+    },
+    {
+      "space": "lingxi",
+      "title": "geekhack - Group Buys and Preorders",
+      "url": "https://geekhack.org/index.php?action=.xml;type=rss;board=70.0",
+      "originalFolder": "客制化键盘开团与社区",
+      "existing": true,
+      "sourceId": 41,
+      "sections": [
+        "今年键盘开团",
+        "客制化键盘资讯"
+      ],
+      "role": "正式开团与预售公告",
+      "limitations": [
+        "厂商动态不全是开团；须核验发起方、起止日、时区、取消与延期。"
+      ]
+    },
+    {
+      "space": "lingxi",
+      "title": "geekhack - Interest Checks",
+      "url": "https://geekhack.org/index.php?action=.xml;type=rss;board=132.0",
+      "originalFolder": "客制化键盘开团与社区",
+      "existing": true,
+      "sourceId": 42,
+      "sections": [
+        "今年键盘开团",
+        "客制化键盘资讯"
+      ],
+      "role": "意向征集 IC",
+      "limitations": [
+        "厂商动态不全是开团；须核验发起方、起止日、时区、取消与延期。",
+        "IC 不代表 GB 已启动，不能自动填开团日期。"
+      ]
+    },
+    {
+      "space": "lingxi",
+      "title": "splitkb.com blog",
+      "url": "https://blog.splitkb.com/rss/",
+      "originalFolder": "客制化键盘开团与社区",
+      "existing": true,
+      "sourceId": 43,
+      "sections": [
+        "今年键盘开团",
+        "客制化键盘资讯"
+      ],
+      "role": "厂商或社区线索",
+      "limitations": [
+        "厂商动态不全是开团；须核验发起方、起止日、时区、取消与延期。"
+      ]
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from rimes",
+      "url": "https://github.com/scholay/rimes/releases.atom",
+      "originalFolder": "灵犀输入法·公开进展",
+      "existing": true,
+      "sourceId": 44,
+      "sections": [
+        "灵犀今年已做"
+      ],
+      "role": "本人项目公开记录",
+      "limitations": [
+        "提交不等于发布；今年完成事项要筛年份；不能推导未来承诺。"
+      ]
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rimes:main",
+      "url": "https://github.com/scholay/rimes/commits/main.atom",
+      "originalFolder": "灵犀输入法·公开进展",
+      "existing": true,
+      "sourceId": 45,
+      "sections": [
+        "灵犀今年已做"
+      ],
+      "role": "本人项目公开记录",
+      "limitations": [
+        "提交不等于发布；今年完成事项要筛年份；不能推导未来承诺。"
+      ]
+    },
+    {
+      "space": "lingxi",
+      "title": "CHM",
+      "url": "https://computerhistory.org/feed/",
+      "originalFolder": "输入与键盘历史·速录",
+      "existing": true,
+      "sourceId": 46,
+      "sections": [
+        "输入与键盘历史"
+      ],
+      "role": "历史资料线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to Squirrel-Designer:17f44a45fcf99f9b1f93c280135a4dc3049181eb",
+      "url": "https://github.com/LEOYoon-Tsaw/Squirrel-Designer/commits/HEAD.atom",
+      "originalFolder": "输入法皮肤",
+      "existing": true,
+      "sourceId": 47,
+      "sections": [
+        "输入法皮肤"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to RimeTheme:3ced20a6a43b57022385a8111a07e57ddc07e247",
+      "url": "https://github.com/Mintimate/RimeTheme/commits/HEAD.atom",
+      "originalFolder": "输入法皮肤",
+      "existing": true,
+      "sourceId": 48,
+      "sections": [
+        "输入法皮肤"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to fcitx5:393845cf3ed0e0000bfe57fe1b9ad75748e2547f",
+      "url": "https://github.com/catppuccin/fcitx5/commits/HEAD.atom",
+      "originalFolder": "输入法皮肤",
+      "existing": true,
+      "sourceId": 49,
+      "sections": [
+        "输入法皮肤"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to Fcitx5-Material-Color:2256feeae48dcc87f19a3cfe98f171862f8fcace",
+      "url": "https://github.com/hosxy/Fcitx5-Material-Color/commits/HEAD.atom",
+      "originalFolder": "输入法皮肤",
+      "existing": true,
+      "sourceId": 50,
+      "sections": [
+        "输入法皮肤"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-skin:363d06447f0b9cfe2dadba606bf7a4f23e8024d9",
+      "url": "https://github.com/puddinging/rime-skin/commits/HEAD.atom",
+      "originalFolder": "输入法皮肤",
+      "existing": true,
+      "sourceId": 51,
+      "sections": [
+        "输入法皮肤"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime_skin:da90fa2c3f876e25888d2119110cc3c5f22b28ed",
+      "url": "https://github.com/shaochenshi/rime_skin/commits/HEAD.atom",
+      "originalFolder": "输入法皮肤",
+      "existing": true,
+      "sourceId": 52,
+      "sections": [
+        "输入法皮肤"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime:beeec5ca57139661a89a77057bea3c32086c52f9",
+      "url": "https://github.com/ssnhd/rime/commits/HEAD.atom",
+      "originalFolder": "输入法皮肤",
+      "existing": true,
+      "sourceId": 53,
+      "sections": [
+        "输入法皮肤"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-theme:3d9c215b046eaf3dcb00657527394b4f028e74be",
+      "url": "https://github.com/tom2almighty/rime-theme/commits/HEAD.atom",
+      "originalFolder": "输入法皮肤",
+      "existing": true,
+      "sourceId": 54,
+      "sections": [
+        "输入法皮肤"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "RIME | 中州韻輸入法引擎",
+      "url": "https://rime.im/atom.xml",
+      "originalFolder": "输入法·方案作者与历史",
+      "existing": true,
+      "sourceId": 55,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Dvel's Blog",
+      "url": "https://dvel.me/index.xml",
+      "originalFolder": "输入法·方案作者与历史",
+      "existing": true,
+      "sourceId": 56,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "雨月空间站",
+      "url": "https://www.mintimate.cn/atom.xml",
+      "originalFolder": "输入法·方案作者与历史",
+      "existing": true,
+      "sourceId": 57,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "输入法",
+      "url": "https://www.v2ex.com/feed/ime.xml",
+      "originalFolder": "输入法·方案作者与历史",
+      "existing": true,
+      "sourceId": 58,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Keyboard Builders' Digest",
+      "url": "https://kbd.news/rss.xml",
+      "originalFolder": "客制化键盘·作者与社区",
+      "existing": true,
+      "sourceId": 59,
+      "sections": [
+        "客制化键盘资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "ThereminGoat's Switches",
+      "url": "https://www.theremingoat.com/blog?format=rss",
+      "originalFolder": "客制化键盘·作者与社区",
+      "existing": true,
+      "sourceId": 60,
+      "sections": [
+        "客制化键盘资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "ZSA Blog",
+      "url": "https://blog.zsa.io/posts.rss",
+      "originalFolder": "客制化键盘·作者与社区",
+      "existing": true,
+      "sourceId": 61,
+      "sections": [
+        "客制化键盘资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "The Keyboard Company Blog",
+      "url": "https://www.thekeyboardco.com/blog/index.php/feed/",
+      "originalFolder": "客制化键盘·作者与社区",
+      "existing": true,
+      "sourceId": 62,
+      "sections": [
+        "客制化键盘资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "deskthority",
+      "url": "https://deskthority.net/feed",
+      "originalFolder": "客制化键盘·作者与社区",
+      "existing": true,
+      "sourceId": 63,
+      "sections": [
+        "客制化键盘资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from libime",
+      "url": "https://github.com/fcitx/libime/releases.atom",
+      "originalFolder": "中文输入法项目",
+      "existing": true,
+      "sourceId": 64,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from fcitx5-chewing",
+      "url": "https://github.com/fcitx/fcitx5-chewing/releases.atom",
+      "originalFolder": "中文输入法项目",
+      "existing": true,
+      "sourceId": 65,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from libchewing",
+      "url": "https://github.com/chewing/libchewing/releases.atom",
+      "originalFolder": "中文输入法项目",
+      "existing": true,
+      "sourceId": 66,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from ibus-chewing",
+      "url": "https://github.com/chewing/ibus-chewing/releases.atom",
+      "originalFolder": "中文输入法项目",
+      "existing": true,
+      "sourceId": 67,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from vChewing-macOS",
+      "url": "https://github.com/vChewing/vChewing-macOS/releases.atom",
+      "originalFolder": "中文输入法项目",
+      "existing": true,
+      "sourceId": 68,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from openvanilla",
+      "url": "https://github.com/openvanilla/openvanilla/releases.atom",
+      "originalFolder": "中文输入法项目",
+      "existing": true,
+      "sourceId": 69,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from fcitx5-table-extra",
+      "url": "https://github.com/fcitx/fcitx5-table-extra/releases.atom",
+      "originalFolder": "中文输入法项目",
+      "existing": true,
+      "sourceId": 70,
+      "sections": [
+        "中文输入法项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-quick:5dcdb9e353d314239e9c8cddc0f42d52da4837bb",
+      "url": "https://github.com/rime/rime-quick/commits/HEAD.atom",
+      "originalFolder": "中文输入方案",
+      "existing": true,
+      "sourceId": 71,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-array:557dbe38381de174fe96e53e9bf8c863a275307c",
+      "url": "https://github.com/rime/rime-array/commits/HEAD.atom",
+      "originalFolder": "中文输入方案",
+      "existing": true,
+      "sourceId": 72,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-stenotype:bef930831ffe97846fa484a81014ad3e465a25c1",
+      "url": "https://github.com/rime/rime-stenotype/commits/HEAD.atom",
+      "originalFolder": "中文输入方案",
+      "existing": true,
+      "sourceId": 73,
+      "sections": [
+        "中文输入方案",
+        "速录"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Recent Commits to rime-pinyin-simp:0c6861ef7420ee780270ca6d993d18d4101049d0",
+      "url": "https://github.com/rime/rime-pinyin-simp/commits/HEAD.atom",
+      "originalFolder": "中文输入方案",
+      "existing": true,
+      "sourceId": 74,
+      "sections": [
+        "中文输入方案"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from nrfmicro",
+      "url": "https://github.com/joric/nrfmicro/releases.atom",
+      "originalFolder": "客制化键盘·固件与工具",
+      "existing": true,
+      "sourceId": 75,
+      "sections": [
+        "客制化键盘资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from ergogen",
+      "url": "https://github.com/ergogen/ergogen/releases.atom",
+      "originalFolder": "客制化键盘·固件与工具",
+      "existing": true,
+      "sourceId": 76,
+      "sections": [
+        "客制化键盘资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from zmk-studio",
+      "url": "https://github.com/zmkfirmware/zmk-studio/releases.atom",
+      "originalFolder": "客制化键盘·固件与工具",
+      "existing": true,
+      "sourceId": 77,
+      "sections": [
+        "客制化键盘资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "lingxi",
+      "title": "Release notes from xremap",
+      "url": "https://github.com/k0kubun/xremap/releases.atom",
+      "originalFolder": "客制化键盘·固件与工具",
+      "existing": true,
+      "sourceId": 78,
+      "sections": [
+        "客制化键盘资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "标志情报局",
+      "url": "https://www.logonews.cn/feed",
+      "originalFolder": "中文设计观察",
+      "existing": true,
+      "sourceId": 1,
+      "sections": [
+        "设计动态"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Fonts In Use – Type at work in the real world",
+      "url": "https://fontsinuse.com/main.rss",
+      "originalFolder": "字体与排版",
+      "existing": true,
+      "sourceId": 2,
+      "sections": [
+        "创作与视觉参考",
+        "设计资源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "I Love Typography Ltd",
+      "url": "https://ilovetypography.com/feed/",
+      "originalFolder": "字体与排版",
+      "existing": true,
+      "sourceId": 3,
+      "sections": [
+        "创作与视觉参考",
+        "设计资源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Colossal",
+      "url": "https://www.thisiscolossal.com/feed/",
+      "originalFolder": "视觉传达·设计资讯",
+      "existing": true,
+      "sourceId": 4,
+      "sections": [
+        "设计动态"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Core77",
+      "url": "https://www.core77.com/rss.xml",
+      "originalFolder": "视觉传达·设计资讯",
+      "existing": true,
+      "sourceId": 5,
+      "sections": [
+        "设计动态"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Creative Boom",
+      "url": "https://www.creativeboom.com/feed/",
+      "originalFolder": "视觉传达·设计资讯",
+      "existing": true,
+      "sourceId": 6,
+      "sections": [
+        "设计动态"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Creative Review",
+      "url": "https://www.creativereview.co.uk/feed/",
+      "originalFolder": "视觉传达·设计资讯",
+      "existing": true,
+      "sourceId": 7,
+      "sections": [
+        "设计动态"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Design MilkDesign Milk",
+      "url": "https://design-milk.com/feed/",
+      "originalFolder": "视觉传达·设计资讯",
+      "existing": true,
+      "sourceId": 8,
+      "sections": [
+        "设计动态"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Design | Dezeen",
+      "url": "https://www.dezeen.com/design/feed/",
+      "originalFolder": "视觉传达·设计资讯",
+      "existing": true,
+      "sourceId": 9,
+      "sections": [
+        "设计动态"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Latest from Wallpaper",
+      "url": "https://www.wallpaper.com/feeds.xml",
+      "originalFolder": "视觉传达·设计资讯",
+      "existing": true,
+      "sourceId": 10,
+      "sections": [
+        "设计动态"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "PRINT Magazine",
+      "url": "https://www.printmag.com/feed/",
+      "originalFolder": "视觉传达·设计资讯",
+      "existing": true,
+      "sourceId": 11,
+      "sections": [
+        "设计动态"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Yanko Design",
+      "url": "https://www.yankodesign.com/feed/",
+      "originalFolder": "视觉传达·设计资讯",
+      "existing": true,
+      "sourceId": 12,
+      "sections": [
+        "设计动态"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "designboom | architecture & design magazine",
+      "url": "https://www.designboom.com/feed/",
+      "originalFolder": "视觉传达·设计资讯",
+      "existing": true,
+      "sourceId": 13,
+      "sections": [
+        "设计动态"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "urdesignmag",
+      "url": "https://www.urdesignmag.com/feed/",
+      "originalFolder": "视觉传达·设计资讯",
+      "existing": true,
+      "sourceId": 14,
+      "sections": [
+        "设计动态"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Cooper Hewitt, Smithsonian Design Museum",
+      "url": "https://www.cooperhewitt.org/feed/",
+      "originalFolder": "设计历史·展览与机构",
+      "existing": true,
+      "sourceId": 15,
+      "sections": [
+        "设计历史",
+        "设计日历·年度惯例与活动"
+      ],
+      "role": "机构档案与历史线索",
+      "limitations": [
+        "展览具体日期须原公告；历史事实发生日与文章发表日分开。"
+      ]
+    },
+    {
+      "space": "design",
+      "title": "ICON Magazine",
+      "url": "https://www.iconeye.com/feed/",
+      "originalFolder": "设计历史·展览与机构",
+      "existing": true,
+      "sourceId": 16,
+      "sections": [
+        "设计历史"
+      ],
+      "role": "机构档案与历史线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "V&A Blog",
+      "url": "https://www.vam.ac.uk/blog/feed",
+      "originalFolder": "设计历史·展览与机构",
+      "existing": true,
+      "sourceId": 17,
+      "sections": [
+        "设计历史",
+        "设计日历·年度惯例与活动"
+      ],
+      "role": "机构档案与历史线索",
+      "limitations": [
+        "展览具体日期须原公告；历史事实发生日与文章发表日分开。"
+      ]
+    },
+    {
+      "space": "design",
+      "title": "It's Nice That",
+      "url": "http://feeds2.feedburner.com/itsnicethat/SlXC",
+      "originalFolder": "视觉传达·品牌与字体",
+      "existing": true,
+      "sourceId": 18,
+      "sections": [
+        "创作与视觉参考",
+        "设计资源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "slanted",
+      "url": "https://www.slanted.de/feed/",
+      "originalFolder": "视觉传达·品牌与字体",
+      "existing": true,
+      "sourceId": 19,
+      "sections": [
+        "创作与视觉参考",
+        "设计资源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Typewolf",
+      "url": "https://www.typewolf.com/feed",
+      "originalFolder": "视觉传达·品牌与字体",
+      "existing": true,
+      "sourceId": 20,
+      "sections": [
+        "创作与视觉参考",
+        "设计资源"
+      ],
+      "role": "资讯线索",
+      "limitations": [
+        "存在无日期条目，不用于日历日期。"
+      ]
+    },
+    {
+      "space": "design",
+      "title": "Typotheque",
+      "url": "https://www.typotheque.com/rss",
+      "originalFolder": "视觉传达·品牌与字体",
+      "existing": true,
+      "sourceId": 21,
+      "sections": [
+        "创作与视觉参考",
+        "设计资源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Typographica",
+      "url": "https://typographica.org/feed/",
+      "originalFolder": "视觉传达·品牌与字体",
+      "existing": true,
+      "sourceId": 22,
+      "sections": [
+        "创作与视觉参考",
+        "设计资源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Brandingmag",
+      "url": "https://www.brandingmag.com/feed/",
+      "originalFolder": "视觉传达·品牌与字体",
+      "existing": true,
+      "sourceId": 23,
+      "sections": [
+        "创作与视觉参考",
+        "设计资源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Identity Designed",
+      "url": "https://identitydesigned.com/feed/",
+      "originalFolder": "视觉传达·品牌与字体",
+      "existing": true,
+      "sourceId": 24,
+      "sections": [
+        "创作与视觉参考",
+        "设计资源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Logo Design Love",
+      "url": "https://www.logodesignlove.com/feed",
+      "originalFolder": "视觉传达·品牌与字体",
+      "existing": true,
+      "sourceId": 25,
+      "sections": [
+        "创作与视觉参考",
+        "设计资源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "url": "https://www.smashingmagazine.com/feed/",
+      "originalFolder": "视觉传达·品牌与字体",
+      "existing": true,
+      "sourceId": 26,
+      "sections": [
+        "创作与视觉参考",
+        "设计资源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Creative Bloq",
+      "url": "https://www.creativebloq.com/feeds.xml",
+      "originalFolder": "视觉传达·品牌与字体",
+      "existing": true,
+      "sourceId": 27,
+      "sections": [
+        "创作与视觉参考",
+        "设计资源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Featured Projects",
+      "url": "https://www.behance.net/feeds/projects",
+      "originalFolder": "视觉传达·品牌与字体",
+      "existing": true,
+      "sourceId": 28,
+      "sections": [
+        "创作与视觉参考",
+        "设计资源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Designer Daily: graphic and web design blog",
+      "url": "https://www.designer-daily.com/feed",
+      "originalFolder": "视觉传达·品牌与字体",
+      "existing": true,
+      "sourceId": 29,
+      "sections": [
+        "创作与视觉参考",
+        "设计资源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "DIELINE",
+      "url": "https://thedieline.com/feed/",
+      "originalFolder": "视觉传达·品牌与字体",
+      "existing": true,
+      "sourceId": 30,
+      "sections": [
+        "创作与视觉参考",
+        "设计资源"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "swissmiss",
+      "url": "https://www.swiss-miss.com/feed",
+      "originalFolder": "设计历史·展览与赛事",
+      "existing": true,
+      "sourceId": 31,
+      "sections": [
+        "设计历史"
+      ],
+      "role": "机构档案与历史线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "ITSLIQUID",
+      "url": "https://www.itsliquid.com/feed",
+      "originalFolder": "设计历史·展览与赛事",
+      "existing": true,
+      "sourceId": 32,
+      "sections": [
+        "设计历史"
+      ],
+      "role": "机构档案与历史线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "理想生活实验室",
+      "url": "https://www.toodaylab.com/feed",
+      "originalFolder": "中文设计观察",
+      "existing": true,
+      "sourceId": 33,
+      "sections": [
+        "设计动态"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "设计",
+      "url": "https://www.v2ex.com/feed/design.xml",
+      "originalFolder": "中文设计观察",
+      "existing": true,
+      "sourceId": 34,
+      "sections": [
+        "设计动态"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Blog on Crossref",
+      "url": "https://www.crossref.org/blog/index.xml",
+      "originalFolder": "分享·学术网站项目",
+      "existing": true,
+      "sourceId": 1,
+      "sections": [
+        "分享的学术网站项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "DOAJ Blog",
+      "url": "https://blog.doaj.org/feed/",
+      "originalFolder": "分享·学术网站项目",
+      "existing": true,
+      "sourceId": 2,
+      "sections": [
+        "分享的学术网站项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "DataCite Blog - DataCite",
+      "url": "https://blog.datacite.org/feed/",
+      "originalFolder": "分享·学术网站项目",
+      "existing": true,
+      "sourceId": 3,
+      "sections": [
+        "分享的学术网站项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "News from arXiv",
+      "url": "https://blog.arxiv.org/feed/",
+      "originalFolder": "分享·学术网站项目",
+      "existing": true,
+      "sourceId": 4,
+      "sections": [
+        "分享的学术网站项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "ORCID",
+      "url": "https://info.orcid.org/feed/",
+      "originalFolder": "分享·学术网站项目",
+      "existing": true,
+      "sourceId": 5,
+      "sections": [
+        "分享的学术网站项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "OpenAlex blog",
+      "url": "https://blog.ourresearch.org/feed/",
+      "originalFolder": "分享·学术网站项目",
+      "existing": true,
+      "sourceId": 6,
+      "sections": [
+        "分享的学术网站项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Blog on Posit Open Source",
+      "url": "https://quarto.org/docs/blog/index.xml",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 7,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Obsidian Blog",
+      "url": "https://obsidian.md/feed.xml",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 8,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": [
+        "Obsidian 为相关工具参考，不标为全产品开源。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Zotero",
+      "url": "https://www.zotero.org/blog/feed/",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 9,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from excalidraw",
+      "url": "https://github.com/excalidraw/excalidraw/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 10,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from pandoc",
+      "url": "https://github.com/jgm/pandoc/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 11,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from jupyterlab",
+      "url": "https://github.com/jupyterlab/jupyterlab/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 12,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from logseq",
+      "url": "https://github.com/logseq/logseq/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 13,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from quarto-cli",
+      "url": "https://github.com/quarto-dev/quarto-cli/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 14,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "少数派",
+      "url": "https://sspai.com/feed",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 15,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "阮一峰的网络日志",
+      "url": "https://www.ruanyifeng.com/blog/atom.xml",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 16,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from rimes",
+      "url": "https://github.com/scholay/rimes/releases.atom",
+      "originalFolder": "灵犀输入法·公开进展",
+      "existing": true,
+      "sourceId": 17,
+      "sections": [
+        "维护的输入法项目"
+      ],
+      "role": "本人项目公开记录",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Recent Commits to rimes:main",
+      "url": "https://github.com/scholay/rimes/commits/main.atom",
+      "originalFolder": "灵犀输入法·公开进展",
+      "existing": true,
+      "sourceId": 18,
+      "sections": [
+        "维护的输入法项目"
+      ],
+      "role": "本人项目公开记录",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from nginx",
+      "url": "https://github.com/nginx/nginx/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 19,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from node",
+      "url": "https://github.com/nodejs/node/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 20,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from tauri",
+      "url": "https://github.com/tauri-apps/tauri/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 21,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from next.js",
+      "url": "https://github.com/vercel/next.js/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 22,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from vite",
+      "url": "https://github.com/vitejs/vite/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 23,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from astro",
+      "url": "https://github.com/withastro/astro/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 24,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from fcitx5",
+      "url": "https://github.com/fcitx/fcitx5/releases.atom",
+      "originalFolder": "输入法项目·上游动态",
+      "existing": true,
+      "sourceId": 25,
+      "sections": [
+        "维护的输入法项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from trime",
+      "url": "https://github.com/osfans/trime/releases.atom",
+      "originalFolder": "输入法项目·上游动态",
+      "existing": true,
+      "sourceId": 26,
+      "sections": [
+        "维护的输入法项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from librime",
+      "url": "https://github.com/rime/librime/releases.atom",
+      "originalFolder": "输入法项目·上游动态",
+      "existing": true,
+      "sourceId": 27,
+      "sections": [
+        "维护的输入法项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from squirrel",
+      "url": "https://github.com/rime/squirrel/releases.atom",
+      "originalFolder": "输入法项目·上游动态",
+      "existing": true,
+      "sourceId": 28,
+      "sections": [
+        "维护的输入法项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from weasel",
+      "url": "https://github.com/rime/weasel/releases.atom",
+      "originalFolder": "输入法项目·上游动态",
+      "existing": true,
+      "sourceId": 29,
+      "sections": [
+        "维护的输入法项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from plover",
+      "url": "https://github.com/openstenoproject/plover/releases.atom",
+      "originalFolder": "键盘项目·上游动态",
+      "existing": true,
+      "sourceId": 30,
+      "sections": [
+        "维护的键盘项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from qmk_firmware",
+      "url": "https://github.com/qmk/qmk_firmware/releases.atom",
+      "originalFolder": "键盘项目·上游动态",
+      "existing": true,
+      "sourceId": 31,
+      "sections": [
+        "维护的键盘项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from vial-gui",
+      "url": "https://github.com/vial-kb/vial-gui/releases.atom",
+      "originalFolder": "键盘项目·上游动态",
+      "existing": true,
+      "sourceId": 32,
+      "sections": [
+        "维护的键盘项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from zmk",
+      "url": "https://github.com/zmkfirmware/zmk/releases.atom",
+      "originalFolder": "键盘项目·上游动态",
+      "existing": true,
+      "sourceId": 33,
+      "sections": [
+        "维护的键盘项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from caddy",
+      "url": "https://github.com/caddyserver/caddy/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 34,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from traefik",
+      "url": "https://github.com/traefik/traefik/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 35,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from hugo",
+      "url": "https://github.com/gohugoio/hugo/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 36,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from buildawesome",
+      "url": "https://github.com/11ty/eleventy/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 37,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from kit",
+      "url": "https://github.com/sveltejs/kit/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 38,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from nuxt",
+      "url": "https://github.com/nuxt/nuxt/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 39,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from deno",
+      "url": "https://github.com/denoland/deno/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 40,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from bun",
+      "url": "https://github.com/oven-sh/bun/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 41,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from rust",
+      "url": "https://github.com/rust-lang/rust/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 42,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from zola",
+      "url": "https://github.com/getzola/zola/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 43,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from sqlc",
+      "url": "https://github.com/sqlc-dev/sqlc/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 44,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 45,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from directus",
+      "url": "https://github.com/directus/directus/releases.atom",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 46,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/rss/",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 47,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "The Astro Blog",
+      "url": "https://astro.build/rss.xml",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 48,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Svelte blog",
+      "url": "https://svelte.dev/blog/rss.xml",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 49,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Rust Blog",
+      "url": "https://blog.rust-lang.org/feed.xml",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 50,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Deno",
+      "url": "https://deno.com/feed",
+      "originalFolder": "网站服务项目·上游动态",
+      "existing": true,
+      "sourceId": 51,
+      "sections": [
+        "维护的网站服务项目"
+      ],
+      "role": "上游参考",
+      "limitations": [
+        "不代表本人维护该上游项目；需本人项目清单与维护日志。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from zotero",
+      "url": "https://github.com/zotero/zotero/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 52,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from obsidian-releases",
+      "url": "https://github.com/obsidianmd/obsidian-releases/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 53,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": [
+        "Obsidian 为相关工具参考，不标为全产品开源。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from notebook",
+      "url": "https://github.com/jupyter/notebook/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 54,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from OpenRefine",
+      "url": "https://github.com/OpenRefine/OpenRefine/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 55,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from jamovi",
+      "url": "https://github.com/jamovi/jamovi/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 56,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from jasp-desktop",
+      "url": "https://github.com/jasp-stats/jasp-desktop/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 57,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from rathole",
+      "url": "https://github.com/rapiz1/rathole/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 58,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from syncthing",
+      "url": "https://github.com/syncthing/syncthing/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 59,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from restic",
+      "url": "https://github.com/restic/restic/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 60,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from rclone",
+      "url": "https://github.com/rclone/rclone/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 61,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from AppFlowy",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 62,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from lapce",
+      "url": "https://github.com/lapce/lapce/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 63,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 64,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from inkstitch",
+      "url": "https://github.com/inkstitch/inkstitch/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 65,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from typst",
+      "url": "https://github.com/typst/typst/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 66,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Release notes from activitywatch",
+      "url": "https://github.com/ActivityWatch/activitywatch/releases.atom",
+      "originalFolder": "分享·开源工具项目",
+      "existing": true,
+      "sourceId": 67,
+      "sections": [
+        "分享的开源工具项目"
+      ],
+      "role": "工具候选，需许可证核验",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Sciety",
+      "url": "https://blog.sciety.org/rss/",
+      "originalFolder": "分享·学术网站项目",
+      "existing": true,
+      "sourceId": 68,
+      "sections": [
+        "分享的学术网站项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Upstream",
+      "url": "https://upstream.force11.org/latest/rss/",
+      "originalFolder": "分享·学术网站项目",
+      "existing": true,
+      "sourceId": 69,
+      "sections": [
+        "分享的学术网站项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "personal",
+      "title": "Public Knowledge Project",
+      "url": "https://pkp.sfu.ca/feed/",
+      "originalFolder": "分享·学术网站项目",
+      "existing": true,
+      "sourceId": 70,
+      "sections": [
+        "分享的学术网站项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "The American Veterinary Society of Animal Behavior",
+      "url": "https://avsab.org/feed/",
+      "originalFolder": "行为与相处",
+      "existing": true,
+      "sourceId": 1,
+      "sections": [
+        "每日一猫",
+        "每日一狗"
+      ],
+      "role": "行为与照护参考",
+      "limitations": [
+        "需按实际物种选材，不要求来源每天更新。"
+      ]
+    },
+    {
+      "space": "pets",
+      "title": "Companion Animal Psychology",
+      "url": "https://www.companionanimalpsychology.com/feeds/posts/default",
+      "originalFolder": "行为与相处",
+      "existing": true,
+      "sourceId": 2,
+      "sections": [
+        "每日一猫",
+        "每日一狗"
+      ],
+      "role": "行为与照护参考",
+      "limitations": [
+        "需按实际物种选材，不要求来源每天更新。"
+      ]
+    },
+    {
+      "space": "pets",
+      "title": "Fear Free Happy Homes",
+      "url": "https://www.fearfreehappyhomes.com/feed/",
+      "originalFolder": "照护与生活",
+      "existing": true,
+      "sourceId": 3,
+      "sections": [
+        "每日一猫",
+        "每日一狗"
+      ],
+      "role": "行为与照护参考",
+      "limitations": [
+        "需按实际物种选材，不要求来源每天更新。"
+      ]
+    },
+    {
+      "space": "pets",
+      "title": "Fear Free",
+      "url": "https://www.fearfree.com/feed/",
+      "originalFolder": "照护与生活",
+      "existing": true,
+      "sourceId": 4,
+      "sections": [
+        "每日一猫",
+        "每日一狗"
+      ],
+      "role": "行为与照护参考",
+      "limitations": [
+        "需按实际物种选材，不要求来源每天更新。"
+      ]
+    },
+    {
+      "space": "pets",
+      "title": "ASPCA",
+      "url": "https://www.aspca.org/rss.xml",
+      "originalFolder": "福利与领养",
+      "existing": true,
+      "sourceId": 5,
+      "sections": [
+        "宠物资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "All Posts – Vet Help Direct",
+      "url": "https://vethelpdirect.com/vetblog/feed/",
+      "originalFolder": "宠物资讯",
+      "existing": true,
+      "sourceId": 6,
+      "sections": [
+        "宠物资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "GlobalPETS",
+      "url": "https://globalpetindustry.com/feed/",
+      "originalFolder": "宠物资讯",
+      "existing": true,
+      "sourceId": 7,
+      "sections": [
+        "宠物资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Hepper",
+      "url": "https://www.hepper.com/feed/",
+      "originalFolder": "宠物资讯",
+      "existing": true,
+      "sourceId": 8,
+      "sections": [
+        "宠物资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "PetfoodIndustry",
+      "url": "https://www.petfoodindustry.com/rss",
+      "originalFolder": "宠物资讯",
+      "existing": true,
+      "sourceId": 9,
+      "sections": [
+        "宠物资讯"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "The Cat Fanciers' Association",
+      "url": "https://cfa.org/feed/",
+      "originalFolder": "宠物赛事·展会·节日",
+      "existing": true,
+      "sourceId": 10,
+      "sections": [
+        "宠物日历·赛事展览节日"
+      ],
+      "role": "主办方通知",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "The Westminster Kennel Club",
+      "url": "https://www.westminsterkennelclub.org/feed/",
+      "originalFolder": "宠物赛事·展会·节日",
+      "existing": true,
+      "sourceId": 11,
+      "sections": [
+        "宠物日历·赛事展览节日"
+      ],
+      "role": "主办方通知",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Aquarium Co-Op - Freshwater Aquarium Blog",
+      "url": "https://www.aquariumcoop.com/blogs/aquarium.atom",
+      "originalFolder": "异宠大全",
+      "existing": true,
+      "sourceId": 12,
+      "sections": [
+        "异宠大全"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "ExoticDirect",
+      "url": "https://www.exoticdirect.co.uk/feed/",
+      "originalFolder": "异宠大全",
+      "existing": true,
+      "sourceId": 13,
+      "sections": [
+        "异宠大全"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Rabbit.org",
+      "url": "https://rabbit.org/feed/",
+      "originalFolder": "异宠大全",
+      "existing": true,
+      "sourceId": 14,
+      "sections": [
+        "异宠大全"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "ReptiFiles®",
+      "url": "https://reptifiles.com/feed/",
+      "originalFolder": "异宠大全",
+      "existing": true,
+      "sourceId": 15,
+      "sections": [
+        "异宠大全"
+      ],
+      "role": "失效历史订阅",
+      "limitations": [
+        "原 404 订阅保留，停止自动刷新，不计为有效覆盖。"
+      ]
+    },
+    {
+      "space": "pets",
+      "title": "Dogster: Dog Care & Health Guides by Veterinarians & Experts",
+      "url": "https://www.dogster.com/feed/",
+      "originalFolder": "每日一狗",
+      "existing": true,
+      "sourceId": 16,
+      "sections": [
+        "每日一狗"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "The Dogington Post",
+      "url": "https://www.dogingtonpost.com/feed/",
+      "originalFolder": "每日一狗",
+      "existing": true,
+      "sourceId": 17,
+      "sections": [
+        "每日一狗"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Whole Dog Journal",
+      "url": "https://www.whole-dog-journal.com/feed/",
+      "originalFolder": "每日一狗",
+      "existing": true,
+      "sourceId": 18,
+      "sections": [
+        "每日一狗"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Cats.com",
+      "url": "https://cats.com/feed",
+      "originalFolder": "每日一猫",
+      "existing": true,
+      "sourceId": 19,
+      "sections": [
+        "每日一猫"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Catster: Cat Care & Health Guides by Veterinarians & Experts",
+      "url": "https://www.catster.com/feed/",
+      "originalFolder": "每日一猫",
+      "existing": true,
+      "sourceId": 20,
+      "sections": [
+        "每日一猫"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Love Meow",
+      "url": "https://www.lovemeow.com/feeds/feed.rss",
+      "originalFolder": "每日一猫",
+      "existing": true,
+      "sourceId": 21,
+      "sections": [
+        "每日一猫"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "The Purrington Post",
+      "url": "https://www.thepurringtonpost.com/feed/",
+      "originalFolder": "每日一猫",
+      "existing": true,
+      "sourceId": 22,
+      "sections": [
+        "每日一猫"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Oxbow Animal Health",
+      "url": "https://oxbowanimalhealth.com/feed/",
+      "originalFolder": "异宠大全·专业照护",
+      "existing": true,
+      "sourceId": 23,
+      "sections": [
+        "异宠大全"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Amphibian and Reptile Conservancy",
+      "url": "https://arcprotects.org/feed/",
+      "originalFolder": "异宠大全·专业照护",
+      "existing": true,
+      "sourceId": 24,
+      "sections": [
+        "异宠大全"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Reptiles Magazine",
+      "url": "https://reptilesmagazine.com/feed/",
+      "originalFolder": "异宠大全·专业照护",
+      "existing": true,
+      "sourceId": 25,
+      "sections": [
+        "异宠大全"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "The Tortoise Trust",
+      "url": "https://www.tortoisetrust.com/blog-feed.xml",
+      "originalFolder": "异宠大全·专业照护",
+      "existing": true,
+      "sourceId": 26,
+      "sections": [
+        "异宠大全"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "The Unusual Pet Vets",
+      "url": "https://www.unusualpetvets.com.au/feed/",
+      "originalFolder": "异宠大全·专业照护",
+      "existing": true,
+      "sourceId": 27,
+      "sections": [
+        "异宠大全"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "The Bunny Lady",
+      "url": "https://bunnylady.com/feed/",
+      "originalFolder": "异宠大全·小宠与水族",
+      "existing": true,
+      "sourceId": 28,
+      "sections": [
+        "异宠大全"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Reef Builders | The Reef and Saltwater Aquarium Blog",
+      "url": "https://reefbuilders.com/feed/",
+      "originalFolder": "异宠大全·小宠与水族",
+      "existing": true,
+      "sourceId": 29,
+      "sections": [
+        "异宠大全"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Guinea Pig Magazine",
+      "url": "https://www.guineapigmagazine.com/feed/",
+      "originalFolder": "异宠大全·小宠与水族",
+      "existing": true,
+      "sourceId": 30,
+      "sections": [
+        "异宠大全"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Pawesome Cats",
+      "url": "https://pawesomecats.com/feed/",
+      "originalFolder": "每日一猫",
+      "existing": true,
+      "sourceId": 31,
+      "sections": [
+        "每日一猫"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Katzenworld",
+      "url": "https://katzenworld.co.uk/feed/",
+      "originalFolder": "每日一猫",
+      "existing": true,
+      "sourceId": 32,
+      "sections": [
+        "每日一猫"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Home | felineopines",
+      "url": "https://felineopines.net/feed/",
+      "originalFolder": "每日一猫",
+      "existing": true,
+      "sourceId": 33,
+      "sections": [
+        "每日一猫"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "McConnell Publishing Inc.",
+      "url": "https://www.patriciamcconnell.com/feed/",
+      "originalFolder": "每日一狗",
+      "existing": true,
+      "sourceId": 34,
+      "sections": [
+        "每日一狗"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Puppy Leaks",
+      "url": "https://puppyleaks.com/feed/",
+      "originalFolder": "每日一狗",
+      "existing": true,
+      "sourceId": 35,
+      "sections": [
+        "每日一狗"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Dogs",
+      "url": "https://www.preventivevet.com/dogs/rss.xml",
+      "originalFolder": "每日一狗",
+      "existing": true,
+      "sourceId": 36,
+      "sections": [
+        "每日一狗"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "Dogs Inc",
+      "url": "https://dogsinc.org/feed/",
+      "originalFolder": "每日一狗",
+      "existing": true,
+      "sourceId": 37,
+      "sections": [
+        "每日一狗"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "WDO",
+      "url": "https://wdo.org/feed/",
+      "originalFolder": "设计日历·主办方与奖项",
+      "existing": false,
+      "note": "",
+      "sections": [
+        "设计日历·年度惯例与活动"
+      ],
+      "role": "主办方活动与奖项通知",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Type Directors Club",
+      "url": "https://tdc.org/feed/",
+      "originalFolder": "设计日历·主办方与奖项",
+      "existing": false,
+      "note": "",
+      "sections": [
+        "设计日历·年度惯例与活动"
+      ],
+      "role": "主办方活动与奖项通知",
+      "limitations": []
+    },
+    {
+      "space": "design",
+      "title": "Letterform Archive",
+      "url": "https://letterformarchive.org/feed/",
+      "originalFolder": "设计历史·机构档案",
+      "existing": false,
+      "note": "",
+      "sections": [
+        "设计历史",
+        "设计日历·年度惯例与活动"
+      ],
+      "role": "机构档案与历史线索",
+      "limitations": [
+        "展览具体日期须原公告；历史事实发生日与文章发表日分开。"
+      ]
+    },
+    {
+      "space": "design",
+      "title": "Poster House",
+      "url": "https://posterhouse.org/feed/",
+      "originalFolder": "设计历史·机构档案",
+      "existing": false,
+      "note": "",
+      "sections": [
+        "设计历史",
+        "设计日历·年度惯例与活动"
+      ],
+      "role": "机构档案与历史线索",
+      "limitations": [
+        "展览具体日期须原公告；历史事实发生日与文章发表日分开。"
+      ]
+    },
+    {
+      "space": "design",
+      "title": "Podcasts by the Design History Society",
+      "url": "https://feed.podbean.com/designhistorysociety/feed.xml",
+      "originalFolder": "设计历史·机构档案",
+      "existing": false,
+      "note": "",
+      "sections": [
+        "设计历史"
+      ],
+      "role": "机构档案与历史线索",
+      "limitations": []
+    },
+    {
+      "space": "pets",
+      "title": "World Animal Day",
+      "url": "https://www.worldanimalday.org/feed/",
+      "originalFolder": "宠物日历·节日与展赛主办方",
+      "existing": false,
+      "note": "",
+      "sections": [
+        "宠物日历·赛事展览节日"
+      ],
+      "role": "主办方通知",
+      "limitations": [
+        "年度固定日由官方 about 页面核实，不能把各地活动日都当节日本身。"
+      ]
+    },
+    {
+      "space": "academic",
+      "title": "NCRM · 即将举办的科研方法培训",
+      "url": "https://www.ncrm.ac.uk/training/rss/rss.php?id=0c06e0c1146738fc23461a5a45cdfc43",
+      "originalFolder": "课程资源·培训通知",
+      "existing": false,
+      "note": "RSS 链接来自官网普通超链接；日期在标题和详情中，pubDate 是通知发布日期。",
+      "sections": [
+        "课程资源",
+        "学术情报·年度日历"
+      ],
+      "role": "培训日程",
+      "limitations": [
+        "主办方、费用、报名截止、时区需逐条查详情；不能从通知 pubDate 取开课日。"
+      ]
+    },
+    {
+      "space": "personal",
+      "title": "Research Organization Registry (ROR)",
+      "url": "https://ror.org/feed.xml",
+      "originalFolder": "分享·学术网站项目",
+      "existing": false,
+      "note": "",
+      "sections": [
+        "分享的学术网站项目"
+      ],
+      "role": "资讯线索",
+      "limitations": []
+    },
+    {
+      "space": "academic",
+      "title": "Calls Swedish Research Council",
+      "url": "https://www.vr.se/4.4f3e672a18df2c1c2d21dbef/12.4f3e672a18df2c1c2d21dbff.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8",
+      "originalFolder": "项目合作·联合资助征集",
+      "existing": false,
+      "note": "资助征集可提供组队背景，不是研究者结伴需求；须核验资格和截止日期。",
+      "sections": [
+        "项目合作",
+        "学术情报·年度日历"
+      ],
+      "role": "联合资助征集",
+      "limitations": [
+        "联合资助不是研究者结伴需求；项目资格和开放状态须核验。"
+      ]
+    },
+    {
+      "space": "lingxi",
+      "title": "Group buys and pre-orders - KeebTalk",
+      "url": "https://www.keebtalk.com/c/marketplace/group-buys-and-pre-orders/18.rss",
+      "originalFolder": "键盘开团·正式公告",
+      "existing": false,
+      "note": "按正确板块 ID 核验。GB 和 IC 分开；IC 不是开团确认，取消/延期须跟踪原帖。",
+      "sections": [
+        "今年键盘开团",
+        "客制化键盘资讯"
+      ],
+      "role": "正式开团与预售公告",
+      "limitations": [
+        "厂商动态不全是开团；须核验发起方、起止日、时区、取消与延期。"
+      ]
+    },
+    {
+      "space": "lingxi",
+      "title": "Interest checks - KeebTalk",
+      "url": "https://www.keebtalk.com/c/marketplace/interest-checks/19.rss",
+      "originalFolder": "键盘开团·意向征集",
+      "existing": false,
+      "note": "按正确板块 ID 核验。GB 和 IC 分开；IC 不是开团确认，取消/延期须跟踪原帖。",
+      "sections": [
+        "今年键盘开团",
+        "客制化键盘资讯"
+      ],
+      "role": "意向征集 IC",
+      "limitations": [
+        "厂商动态不全是开团；须核验发起方、起止日、时区、取消与延期。",
+        "IC 不代表 GB 已启动，不能自动填开团日期。"
+      ]
+    }
+  ]
+}

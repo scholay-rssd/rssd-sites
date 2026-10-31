@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "revision": "2026-10-15",
+  "packs": [
+    {
+      "siteId": "scholay-today",
+      "spaceId": "academic",
+      "name": "今日学术",
+      "feeds": [
+        {
+          "title": "研之有物",
+          "url": "https://research.sinica.edu.tw/feed/",
+          "folder": "学界犀闻"
+        },
+        {
+          "title": "Nature",
+          "url": "https://www.nature.com/nature.rss",
+          "folder": "学界犀闻"
+        },
+        {
+          "title": "Retraction Watch",
+          "url": "https://retractionwatch.com/feed/",
+          "folder": "学者观察"
+        },
+        {
+          "title": "国科会研讨会与活动",
+          "url": "https://www.nstc.gov.tw/nstc/rss/events",
+          "folder": "学术日历"
+        },
+        {
+          "title": "OpenAlex",
+          "url": "https://blog.openalex.org/feed/",
+          "folder": "学术资源"
+        },
+        {
+          "title": "The Carpentries",
+          "url": "https://carpentries.org/blog/index.xml",
+          "folder": "学术资源"
+        }
+      ]
+    },
+    {
+      "siteId": "lingxi",
+      "spaceId": "lingxi",
+      "name": "犀术 IME",
+      "feeds": [
+        {
+          "title": "犀术 IME 版本发布",
+          "url": "https://github.com/scholay/rimes/releases.atom",
+          "folder": "开发日志"
+        },
+        {
+          "title": "Rime 引擎版本发布",
+          "url": "https://github.com/rime/librime/releases.atom",
+          "folder": "开发日志"
+        },
+        {
+          "title": "Fcitx5 版本发布",
+          "url": "https://github.com/fcitx/fcitx5/releases.atom",
+          "folder": "开发日志"
+        },
+        {
+          "title": "雾凇拼音维护动态",
+          "url": "https://github.com/iDvel/rime-ice/commits/main.atom",
+          "folder": "输入方案"
+        },
+        {
+          "title": "薄荷输入法维护动态",
+          "url": "https://github.com/Mintimate/oh-my-rime/commits/HEAD.atom",
+          "folder": "输入方案"
+        }
+      ]
+    },
+    {
+      "siteId": "piggytuck",
+      "spaceId": "design",
+      "name": "小猪盖被",
+      "feeds": [
+        {
+          "title": "标志情报局",
+          "url": "https://www.logonews.cn/feed",
+          "folder": "设计资讯"
+        },
+        {
+          "title": "Fonts In Use",
+          "url": "https://fontsinuse.com/main.rss",
+          "folder": "作品参考"
+        },
+        {
+          "title": "Colossal",
+          "url": "https://www.thisiscolossal.com/feed/",
+          "folder": "作品参考"
+        },
+        {
+          "title": "Lucide 图标",
+          "url": "https://github.com/lucide-icons/lucide/releases.atom",
+          "folder": "精美图标"
+        },
+        {
+          "title": "Smashing Magazine",
+          "url": "https://www.smashingmagazine.com/feed/",
+          "folder": "网页设计"
+        }
+      ]
+    },
+    {
+      "siteId": "personal",
+      "spaceId": "personal",
+      "name": "学术海",
+      "feeds": [
+        {
+          "title": "Nielsen Norman Group",
+          "url": "https://www.nngroup.com/feed/rss/",
+          "folder": "产品随想"
+        },
+        {
+          "title": "Silicon Valley Product Group",
+          "url": "https://www.svpg.com/feed/",
+          "folder": "产品随想"
+        },
+        {
+          "title": "Lenny’s Newsletter",
+          "url": "https://www.lennysnewsletter.com/feed",
+          "folder": "产品资讯"
+        },
+        {
+          "title": "阮一峰的网络日志",
+          "url": "https://www.ruanyifeng.com/blog/atom.xml",
+          "folder": "产品资讯"
+        },
+        {
+          "title": "犀术 IME 版本发布",
+          "url": "https://github.com/scholay/rimes/releases.atom",
+          "folder": "项目动态"
+        },
+        {
+          "title": "Posit 开源工具博客",
+          "url": "https://quarto.org/docs/blog/index.xml",
+          "folder": "学术札记"
+        }
+      ]
+    },
+    {
+      "siteId": "pets",
+      "spaceId": "pets",
+      "name": "小猪萌宠",
+      "feeds": [
+        {
+          "title": "GlobalPETS",
+          "url": "https://globalpetindustry.com/feed/",
+          "folder": "宠物资讯"
+        },
+        {
+          "title": "Companion Animal Psychology",
+          "url": "https://www.companionanimalpsychology.com/feeds/posts/default",
+          "folder": "宠物资讯"
+        },
+        {
+          "title": "Catster",
+          "url": "https://www.catster.com/feed/",
+          "folder": "每日一猫"
+        },
+        {
+          "title": "Whole Dog Journal",
+          "url": "https://www.whole-dog-journal.com/feed/",
+          "folder": "每日一狗"
+        },
+        {
+          "title": "Rabbit.org",
+          "url": "https://rabbit.org/feed/",
+          "folder": "异宠大全"
+        },
+        {
+          "title": "Reptiles Magazine",
+          "url": "https://reptilesmagazine.com/feed/",
+          "folder": "异宠大全"
+        }
+      ]
+    },
+    {
+      "siteId": "legis",
+      "spaceId": "legis",
+      "name": "犀术智法",
+      "feeds": [
+        {
+          "title": "Lawfare 科技与法律",
+          "url": "https://www.lawfaremedia.org/feeds/cybersecurity-tech",
+          "folder": "法律前沿"
+        },
+        {
+          "title": "Eric Goldman 科技与营销法",
+          "url": "https://blog.ericgoldman.org/feed",
+          "folder": "法律案例"
+        },
+        {
+          "title": "EFF 数字权利",
+          "url": "https://www.eff.org/rss/updates.xml",
+          "folder": "法律案例"
+        },
+        {
+          "title": "EPIC 隐私与 AI",
+          "url": "https://epic.org/feed/",
+          "folder": "政策法规"
+        },
+        {
+          "title": "欧盟数字战略",
+          "url": "https://digital-strategy.ec.europa.eu/en/rss.xml",
+          "folder": "政策法规"
+        },
+        {
+          "title": "WIPO 新闻",
+          "url": "https://www.wipo.int/pressroom/en/rss.xml",
+          "folder": "知识产权"
+        }
+      ]
+    },
+    {
+      "siteId": "metho",
+      "spaceId": "metho",
+      "name": "研究方法",
+      "feeds": [
+        {
+          "title": "Statistical Modeling, Causal Inference, and Social Science",
+          "url": "https://statmodeling.stat.columbia.edu/feed/",
+          "folder": "方法百科"
+        },
+        {
+          "title": "The Stata Blog",
+          "url": "https://blog.stata.com/feed/",
+          "folder": "统计之美"
+        },
+        {
+          "title": "Data Colada",
+          "url": "https://datacolada.org/feed",
+          "folder": "实验星球"
+        },
+        {
+          "title": "Statistical Horizons",
+          "url": "https://statisticalhorizons.com/feed/",
+          "folder": "方法百科"
+        },
+        {
+          "title": "Amstat News",
+          "url": "https://magazine.amstat.org/feed/",
+          "folder": "方法前沿"
+        }
+      ]
+    },
+    {
+      "siteId": "enter",
+      "spaceId": "enter",
+      "name": "学术之门",
+      "feeds": [
+        {
+          "title": "The Carpentries",
+          "url": "https://carpentries.org/blog/index.xml",
+          "folder": "课程资源"
+        },
+        {
+          "title": "Zotero",
+          "url": "https://www.zotero.org/blog/feed/",
+          "folder": "软件网站"
+        },
+        {
+          "title": "ORCID",
+          "url": "https://info.orcid.org/feed/",
+          "folder": "软件网站"
+        },
+        {
+          "title": "Crossref",
+          "url": "https://www.crossref.org/blog/index.xml",
+          "folder": "学术检索"
+        },
+        {
+          "title": "DataCite",
+          "url": "https://blog.datacite.org/feed/",
+          "folder": "学术检索"
+        },
+        {
+          "title": "OpenAlex",
+          "url": "https://blog.openalex.org/feed/",
+          "folder": "学术检索"
+        }
+      ]
+    },
+    {
+      "siteId": "xsiching",
+      "spaceId": "xsiching",
+      "name": "犀术国学",
+      "feeds": [
+        {
+          "title": "CBETA 正式典籍维护",
+          "url": "https://github.com/cbeta-org/xml-p5/commits/master.atom",
+          "folder": "国学经典"
+        },
+        {
+          "title": "Warp, Weft, and Way 中国哲学",
+          "url": "https://warpweftandway.com/feed/",
+          "folder": "易家之言"
+        },
+        {
+          "title": "CBDB 中国历代人物资料",
+          "url": "https://github.com/cbdb-project/cbdb_sqlite/commits/master.atom",
+          "folder": "精品应用"
+        },
+        {
+          "title": "古籍资源索引",
+          "url": "https://github.com/open-guji/guji-resource-index/commits/main.atom",
+          "folder": "精品应用"
+        }
+      ]
+    },
+    {
+      "siteId": "study",
+      "spaceId": "study",
+      "name": "智能学堂",
+      "feeds": [
+        {
+          "title": "Hugging Face 课程维护",
+          "url": "https://github.com/huggingface/course/commits/main.atom",
+          "folder": "免费课程"
+        },
+        {
+          "title": "fast.ai",
+          "url": "https://www.fast.ai/index.xml",
+          "folder": "免费课程"
+        },
+        {
+          "title": "Simon Willison",
+          "url": "https://simonwillison.net/atom/everything/",
+          "folder": "学习实践"
+        },
+        {
+          "title": "OpenAI",
+          "url": "https://openai.com/news/rss.xml",
+          "folder": "模型动态"
+        },
+        {
+          "title": "Google AI",
+          "url": "https://blog.google/technology/ai/rss/",
+          "folder": "模型动态"
+        }
+      ]
+    }
+  ]
+}

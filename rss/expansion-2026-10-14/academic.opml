@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>today academic RSS 增量 2026-10-14</title>
+  </head>
+  <body>
+    <outline text="项目合作·开放科研社区" title="项目合作·开放科研社区">
+      <outline type="rss" text="DARIAH-EU: News" title="DARIAH-EU: News" xmlUrl="https://www.dariah.eu/feeds/news.xml" />
+      <outline type="rss" text="SSHOPENCLOUD" title="SSHOPENCLOUD" xmlUrl="https://sshoc.eu/rss.xml" />
+      <outline type="rss" text="ReproducibiliTea" title="ReproducibiliTea" xmlUrl="https://reproducibilitea.org/feed.xml" />
+      <outline type="rss" text="Center for Open Science Blog" title="Center for Open Science Blog" xmlUrl="https://www.cos.io/blog/rss.xml" />
+      <outline type="rss" text="Invest in Open Infrastructure" title="Invest in Open Infrastructure" xmlUrl="https://investinopen.org/rss/" />
+      <outline type="rss" text="FORCE11" title="FORCE11" xmlUrl="https://force11.org/feed/" />
+      <outline type="rss" text="Digital Humanities Now" title="Digital Humanities Now" xmlUrl="https://digitalhumanitiesnow.org/feed/" />
+      <outline type="rss" text="OEGlobal" title="OEGlobal" xmlUrl="https://www.oeglobal.org/feed/" />
+      <outline type="rss" text="INOSC" title="INOSC" xmlUrl="https://osc-international.com/feed/" />
+    </outline>
+    <outline text="学术工具·科研服务" title="学术工具·科研服务">
+      <outline type="rss" text="OpenAlex blog" title="OpenAlex blog" xmlUrl="https://blog.openalex.org/feed/" />
+      <outline type="rss" text="Sciety" title="Sciety" xmlUrl="https://blog.sciety.org/rss/" />
+      <outline type="rss" text="Upstream" title="Upstream" xmlUrl="https://upstream.force11.org/latest/rss/" />
+      <outline type="rss" text="Zotero" title="Zotero" xmlUrl="http://feeds.feedburner.com/zotero/" />
+    </outline>
+    <outline text="课程资源·数字人文教程与社区" title="课程资源·数字人文教程与社区">
+      <outline type="rss" text="Programming Historian" title="Programming Historian" xmlUrl="https://programminghistorian.org/feed.xml" />
+    </outline>
+    <outline text="课程资源·科研方法" title="课程资源·科研方法">
+      <outline type="rss" text="Methods Blog" title="Methods Blog" xmlUrl="https://methodsblog.com/feed/" />
+      <outline type="rss" text="Statology" title="Statology" xmlUrl="https://www.statology.org/feed/" />
+    </outline>
+    <outline text="学术机构·心理科学" title="学术机构·心理科学">
+      <outline type="rss" text="Association for Psychological Science – APS" title="Association for Psychological Science – APS" xmlUrl="https://www.psychologicalscience.org/feed" />
+    </outline>
+    <outline text="课程资源·数字人文活动与培训" title="课程资源·数字人文活动与培训">
+      <outline type="rss" text="DARIAH-EU: Events" title="DARIAH-EU: Events" xmlUrl="https://www.dariah.eu/feeds/events.xml" />
+    </outline>
+    <outline text="项目合作·开放社区与征集" title="项目合作·开放社区与征集">
+      <outline type="rss" text="COST" title="COST" xmlUrl="https://www.cost.eu/feed/" />
+    </outline>
+    <outline text="科研方法·统计实践" title="科研方法·统计实践">
+      <outline type="rss" text="Statistical Modeling, Causal Inference, and Social Science" title="Statistical Modeling, Causal Inference, and Social Science" xmlUrl="https://statmodeling.stat.columbia.edu/feed/" />
+      <outline type="rss" text="Bayesian Spectacles" title="Bayesian Spectacles" xmlUrl="https://www.bayesianspectacles.org/feed/" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024"><rect width="1024" height="1024" rx="160" fill="#111111"/>
+<polygon points="512.000,132.000 621.697,322.000 841.090,322.000 731.393,512.000 841.090,702.000 621.697,702.000 512.000,892.000 402.303,702.000 182.910,702.000 292.607,512.000 182.910,322.000 402.303,322.000" fill="none" stroke="#ffffff" stroke-width="20" stroke-linejoin="round"/>
+<g transform="translate(512 512)"><circle r="90" fill="#ffffff"/><path d="M0 -90 A90 90 0 0 1 0 90 Z" fill="#111111"/><circle cy="45" r="45" fill="#111111"/><circle cy="-45" r="45" fill="#ffffff"/><circle cy="-45" r="11" fill="#111111"/><circle cy="45" r="11" fill="#ffffff"/><circle r="90" fill="none" stroke="#ffffff" stroke-width="3"/></g>
+<g transform="translate(512 512) rotate(22.5) translate(0 -140)" fill="#ffffff">
+<rect x="-35" y="-25" width="70" height="10"/>
+<rect x="-35" y="-5" width="70" height="10"/>
+<rect x="-35" y="15" width="70" height="10"/>
+</g>
+<g transform="translate(512 512) rotate(67.5) translate(0 -140)" fill="#ffffff">
+<rect x="-35" y="-25" width="70" height="10"/>
+<rect x="-35" y="-5" width="70" height="10"/>
+<rect x="-35" y="15" width="28" height="10"/><rect x="7" y="15" width="28" height="10"/>
+</g>
+<g transform="translate(512 512) rotate(112.5) translate(0 -140)" fill="#ffffff">
+<rect x="-35" y="-25" width="70" height="10"/>
+<rect x="-35" y="-5" width="28" height="10"/><rect x="7" y="-5" width="28" height="10"/>
+<rect x="-35" y="15" width="70" height="10"/>
+</g>
+<g transform="translate(512 512) rotate(157.5) translate(0 -140)" fill="#ffffff">
+<rect x="-35" y="-25" width="70" height="10"/>
+<rect x="-35" y="-5" width="28" height="10"/><rect x="7" y="-5" width="28" height="10"/>
+<rect x="-35" y="15" width="28" height="10"/><rect x="7" y="15" width="28" height="10"/>
+</g>
+<g transform="translate(512 512) rotate(202.5) translate(0 -140)" fill="#ffffff">
+<rect x="-35" y="-25" width="28" height="10"/><rect x="7" y="-25" width="28" height="10"/>
+<rect x="-35" y="-5" width="28" height="10"/><rect x="7" y="-5" width="28" height="10"/>
+<rect x="-35" y="15" width="28" height="10"/><rect x="7" y="15" width="28" height="10"/>
+</g>
+<g transform="translate(512 512) rotate(247.5) translate(0 -140)" fill="#ffffff">
+<rect x="-35" y="-25" width="28" height="10"/><rect x="7" y="-25" width="28" height="10"/>
+<rect x="-35" y="-5" width="28" height="10"/><rect x="7" y="-5" width="28" height="10"/>
+<rect x="-35" y="15" width="70" height="10"/>
+</g>
+<g transform="translate(512 512) rotate(292.5) translate(0 -140)" fill="#ffffff">
+<rect x="-35" y="-25" width="28" height="10"/><rect x="7" y="-25" width="28" height="10"/>
+<rect x="-35" y="-5" width="70" height="10"/>
+<rect x="-35" y="15" width="28" height="10"/><rect x="7" y="15" width="28" height="10"/>
+</g>
+<g transform="translate(512 512) rotate(337.5) translate(0 -140)" fill="#ffffff">
+<rect x="-35" y="-25" width="28" height="10"/><rect x="7" y="-25" width="28" height="10"/>
+<rect x="-35" y="-5" width="70" height="10"/>
+<rect x="-35" y="15" width="70" height="10"/>
+</g>
+</svg>

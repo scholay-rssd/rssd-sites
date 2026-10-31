@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "siteId": "legis",
+  "sections": [
+    {
+      "id": "frontiers",
+      "name": "法律前沿",
+      "description": "AI 时代的法律议题与前沿观察。",
+      "includes": [
+        "column-1"
+      ]
+    },
+    {
+      "id": "cases",
+      "name": "法律案例",
+      "description": "围绕原始判决与事实的案例记录。",
+      "includes": [
+        "column-2"
+      ]
+    },
+    {
+      "id": "ip",
+      "name": "知识产权",
+      "description": "著作权、专利与技术创新。",
+      "includes": []
+    },
+    {
+      "id": "regulations",
+      "name": "政策法规",
+      "description": "法规原文、适用地区与效力状态。",
+      "includes": [
+        "column-3",
+        "column-4",
+        "column-5"
+      ]
+    }
+  ],
+  "hubs": [],
+  "bindings": []
+}

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>today personal RSS 增量 2026-10-14</title>
+  </head>
+  <body>
+    <outline text="网站服务项目·上游动态" title="网站服务项目·上游动态">
+      <outline type="rss" text="caddyserver/caddy · 发布" title="caddyserver/caddy · 发布" xmlUrl="https://github.com/caddyserver/caddy/releases.atom" />
+      <outline type="rss" text="traefik/traefik · 发布" title="traefik/traefik · 发布" xmlUrl="https://github.com/traefik/traefik/releases.atom" />
+      <outline type="rss" text="gohugoio/hugo · 发布" title="gohugoio/hugo · 发布" xmlUrl="https://github.com/gohugoio/hugo/releases.atom" />
+      <outline type="rss" text="11ty/eleventy · 发布" title="11ty/eleventy · 发布" xmlUrl="https://github.com/11ty/eleventy/releases.atom" />
+      <outline type="rss" text="sveltejs/kit · 发布" title="sveltejs/kit · 发布" xmlUrl="https://github.com/sveltejs/kit/releases.atom" />
+      <outline type="rss" text="nuxt/nuxt · 发布" title="nuxt/nuxt · 发布" xmlUrl="https://github.com/nuxt/nuxt/releases.atom" />
+      <outline type="rss" text="denoland/deno · 发布" title="denoland/deno · 发布" xmlUrl="https://github.com/denoland/deno/releases.atom" />
+      <outline type="rss" text="oven-sh/bun · 发布" title="oven-sh/bun · 发布" xmlUrl="https://github.com/oven-sh/bun/releases.atom" />
+      <outline type="rss" text="rust-lang/rust · 发布" title="rust-lang/rust · 发布" xmlUrl="https://github.com/rust-lang/rust/releases.atom" />
+      <outline type="rss" text="getzola/zola · 发布" title="getzola/zola · 发布" xmlUrl="https://github.com/getzola/zola/releases.atom" />
+      <outline type="rss" text="sqlc-dev/sqlc · 发布" title="sqlc-dev/sqlc · 发布" xmlUrl="https://github.com/sqlc-dev/sqlc/releases.atom" />
+      <outline type="rss" text="pocketbase/pocketbase · 发布" title="pocketbase/pocketbase · 发布" xmlUrl="https://github.com/pocketbase/pocketbase/releases.atom" />
+      <outline type="rss" text="directus/directus · 发布" title="directus/directus · 发布" xmlUrl="https://github.com/directus/directus/releases.atom" />
+      <outline type="rss" text="Cloudflare Blog" title="Cloudflare Blog" xmlUrl="https://blog.cloudflare.com/rss/" />
+      <outline type="rss" text="The Astro Blog" title="The Astro Blog" xmlUrl="https://astro.build/rss.xml" />
+      <outline type="rss" text="Svelte blog" title="Svelte blog" xmlUrl="https://svelte.dev/blog/rss.xml" />
+      <outline type="rss" text="Rust Blog" title="Rust Blog" xmlUrl="https://blog.rust-lang.org/feed.xml" />
+      <outline type="rss" text="Deno" title="Deno" xmlUrl="https://deno.com/feed" />
+    </outline>
+    <outline text="分享·开源工具项目" title="分享·开源工具项目">
+      <outline type="rss" text="zotero/zotero · 发布" title="zotero/zotero · 发布" xmlUrl="https://github.com/zotero/zotero/releases.atom" />
+      <outline type="rss" text="obsidianmd/obsidian-releases · 发布" title="obsidianmd/obsidian-releases · 发布" xmlUrl="https://github.com/obsidianmd/obsidian-releases/releases.atom" />
+      <outline type="rss" text="jupyter/notebook · 发布" title="jupyter/notebook · 发布" xmlUrl="https://github.com/jupyter/notebook/releases.atom" />
+      <outline type="rss" text="OpenRefine/OpenRefine · 发布" title="OpenRefine/OpenRefine · 发布" xmlUrl="https://github.com/OpenRefine/OpenRefine/releases.atom" />
+      <outline type="rss" text="jamovi/jamovi · 发布" title="jamovi/jamovi · 发布" xmlUrl="https://github.com/jamovi/jamovi/releases.atom" />
+      <outline type="rss" text="jasp-stats/jasp-desktop · 发布" title="jasp-stats/jasp-desktop · 发布" xmlUrl="https://github.com/jasp-stats/jasp-desktop/releases.atom" />
+      <outline type="rss" text="rapiz1/rathole · 发布" title="rapiz1/rathole · 发布" xmlUrl="https://github.com/rapiz1/rathole/releases.atom" />
+      <outline type="rss" text="syncthing/syncthing · 发布" title="syncthing/syncthing · 发布" xmlUrl="https://github.com/syncthing/syncthing/releases.atom" />
+      <outline type="rss" text="restic/restic · 发布" title="restic/restic · 发布" xmlUrl="https://github.com/restic/restic/releases.atom" />
+      <outline type="rss" text="rclone/rclone · 发布" title="rclone/rclone · 发布" xmlUrl="https://github.com/rclone/rclone/releases.atom" />
+      <outline type="rss" text="AppFlowy-IO/AppFlowy · 发布" title="AppFlowy-IO/AppFlowy · 发布" xmlUrl="https://github.com/AppFlowy-IO/AppFlowy/releases.atom" />
+      <outline type="rss" text="lapce/lapce · 发布" title="lapce/lapce · 发布" xmlUrl="https://github.com/lapce/lapce/releases.atom" />
+      <outline type="rss" text="rustdesk/rustdesk · 发布" title="rustdesk/rustdesk · 发布" xmlUrl="https://github.com/rustdesk/rustdesk/releases.atom" />
+      <outline type="rss" text="inkstitch/inkstitch · 发布" title="inkstitch/inkstitch · 发布" xmlUrl="https://github.com/inkstitch/inkstitch/releases.atom" />
+      <outline type="rss" text="typst/typst · 发布" title="typst/typst · 发布" xmlUrl="https://github.com/typst/typst/releases.atom" />
+      <outline type="rss" text="ActivityWatch/activitywatch · 发布" title="ActivityWatch/activitywatch · 发布" xmlUrl="https://github.com/ActivityWatch/activitywatch/releases.atom" />
+    </outline>
+    <outline text="分享·学术网站项目" title="分享·学术网站项目">
+      <outline type="rss" text="Sciety" title="Sciety" xmlUrl="https://blog.sciety.org/rss/" />
+      <outline type="rss" text="Upstream" title="Upstream" xmlUrl="https://upstream.force11.org/latest/rss/" />
+      <outline type="rss" text="Public Knowledge Project" title="Public Knowledge Project" xmlUrl="https://pkp.sfu.ca/feed/" />
+    </outline>
+  </body>
+</opml>

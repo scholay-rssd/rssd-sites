@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "siteId": "piggytuck",
+  "sections": [
+    {
+      "id": "works",
+      "name": "作品系列",
+      "description": "作品与角色系列，以及持续的创作记录。",
+      "includes": [
+        "column-2"
+      ]
+    },
+    {
+      "id": "design-news",
+      "name": "设计资讯",
+      "description": "设计动态与行业观察。",
+      "includes": [
+        "column-1",
+        "column-4",
+        "column-5"
+      ]
+    },
+    {
+      "id": "icons",
+      "name": "精美图标",
+      "description": "图标作品、素材与使用说明。",
+      "includes": []
+    },
+    {
+      "id": "web-design",
+      "name": "网页设计",
+      "description": "网页作品、界面与交互实践。",
+      "includes": []
+    },
+    {
+      "id": "column-1",
+      "name": "设计动态",
+      "description": "作品发布与设计动态。",
+      "legacy": true
+    },
+    {
+      "id": "column-2",
+      "name": "创作手记",
+      "description": "从想法到作品的过程与观察。",
+      "legacy": true
+    },
+    {
+      "id": "column-3",
+      "name": "设计资源",
+      "description": "字体、工具与开放资料。",
+      "legacy": true
+    },
+    {
+      "id": "column-4",
+      "name": "设计日历",
+      "description": "年度惯例和有明确日期的活动。",
+      "legacy": true
+    },
+    {
+      "id": "column-5",
+      "name": "设计历史",
+      "description": "有史料依据的设计事件。",
+      "legacy": true
+    }
+  ],
+  "hubs": [],
+  "bindings": []
+}

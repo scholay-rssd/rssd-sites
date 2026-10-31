@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "siteId": "scholay-today",
+  "sections": [
+    {
+      "id": "briefings",
+      "name": "学界犀闻",
+      "description": "多条学术资讯与原始出处。",
+      "includes": [
+        "column-1"
+      ]
+    },
+    {
+      "id": "observations",
+      "name": "学者观察",
+      "description": "围绕研究话题的事实、背景与观察。",
+      "includes": [
+        "column-2"
+      ]
+    },
+    {
+      "id": "calendar",
+      "name": "今日学术",
+      "description": "科研日程、会议与申报通知；按日期在今日学术日历中浏览。",
+      "includes": [
+        "column-4"
+      ]
+    },
+    {
+      "id": "history",
+      "name": "昔日学术",
+      "description": "有史料依据的学术历史；按同月同日在昔日学术日历中浏览。"
+    },
+    {
+      "id": "resources",
+      "name": "学术资源",
+      "description": "研究资料与综合学术资源。",
+      "includes": [
+        "column-3"
+      ]
+    },
+    {
+      "id": "open-source",
+      "name": "学术开源",
+      "description": "研究工具、开源项目与使用经验。"
+    },
+    {
+      "id": "collaboration",
+      "name": "项目合作",
+      "description": "科研课题的合作招募、伙伴需求与参与条件。"
+    },
+    {
+      "id": "courses",
+      "name": "课程资源",
+      "description": "付费课程、免费培训、工作坊、长期教程与录播；分别说明类型、费用和报名状态。"
+    },
+    {
+      "id": "intelligence",
+      "name": "学术情报",
+      "description": "科研日程、会议与申报通知。",
+      "includes": ["calendar"],
+      "legacy": true
+    }
+  ],
+  "hubs": [],
+  "bindings": []
+}

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>研究方法订阅</title>
+  </head>
+  <body>
+    <outline text="方法百科">
+      <outline text="Statistical Modeling, Causal Inference, and Social Science" title="Statistical Modeling, Causal Inference, and Social Science" type="rss" xmlUrl="https://statmodeling.stat.columbia.edu/feed/" />
+      <outline text="Statistical Horizons" title="Statistical Horizons" type="rss" xmlUrl="https://statisticalhorizons.com/feed/" />
+    </outline>
+    <outline text="统计之美">
+      <outline text="The Stata Blog" title="The Stata Blog" type="rss" xmlUrl="https://blog.stata.com/feed/" />
+    </outline>
+    <outline text="实验星球">
+      <outline text="Data Colada" title="Data Colada" type="rss" xmlUrl="https://datacolada.org/feed" />
+    </outline>
+    <outline text="方法前沿">
+      <outline text="Amstat News" title="Amstat News" type="rss" xmlUrl="https://magazine.amstat.org/feed/" />
+    </outline>
+  </body>
+</opml>

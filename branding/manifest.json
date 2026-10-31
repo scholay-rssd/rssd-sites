@@ -1,0 +1,106 @@
+{
+  "scholay-today": {
+    "file": "academic.png",
+    "label": "学术",
+    "source": "Root scholay-logo.png; existing Today website mark"
+  },
+  "lingxi": {
+    "file": "lingxi-bw-v8.webp",
+    "label": "犀术 IME",
+    "version": "bw-v8-20261017",
+    "icons": {
+      "ico": "lingxi-bw-v8.ico",
+      "png32": "lingxi-bw-v8-32.png",
+      "apple": "lingxi-bw-v8-180.png"
+    },
+    "source": "Owner-approved monochrome icon board, 2026-10-17, version 8"
+  },
+  "piggytuck": {
+    "file": "piggytuck-bw-v8.webp",
+    "label": "小猪盖被",
+    "version": "bw-v8-20261017",
+    "icons": {
+      "ico": "piggytuck-bw-v8.ico",
+      "png32": "piggytuck-bw-v8-32.png",
+      "apple": "piggytuck-bw-v8-180.png"
+    },
+    "source": "Owner-approved monochrome icon board, 2026-10-17, version 8"
+  },
+  "personal": {
+    "file": "personal-bw-v8.webp",
+    "label": "学术海",
+    "version": "bw-v8-20261017",
+    "icons": {
+      "ico": "personal-bw-v8.ico",
+      "png32": "personal-bw-v8-32.png",
+      "apple": "personal-bw-v8-180.png"
+    },
+    "source": "Owner-approved monochrome icon board, 2026-10-17, version 8"
+  },
+  "pets": {
+    "file": "pets-bw-v8.webp",
+    "label": "小猪萌宠",
+    "version": "bw-v8-20261017",
+    "icons": {
+      "ico": "pets-bw-v8.ico",
+      "png32": "pets-bw-v8-32.png",
+      "apple": "pets-bw-v8-180.png"
+    },
+    "source": "Owner-approved monochrome icon board, 2026-10-17, version 8"
+  },
+  "legis": {
+    "file": "legis-bw-v8.webp",
+    "label": "犀术智法",
+    "version": "bw-v8-20261017",
+    "icons": {
+      "ico": "legis-bw-v8.ico",
+      "png32": "legis-bw-v8-32.png",
+      "apple": "legis-bw-v8-180.png"
+    },
+    "source": "Owner-approved monochrome icon board, 2026-10-17, version 8"
+  },
+  "metho": {
+    "file": "metho-bw-v8.webp",
+    "label": "研究方法",
+    "version": "bw-v8-20261017",
+    "icons": {
+      "ico": "metho-bw-v8.ico",
+      "png32": "metho-bw-v8-32.png",
+      "apple": "metho-bw-v8-180.png"
+    },
+    "source": "Owner-approved monochrome icon board, 2026-10-17, version 8"
+  },
+  "enter": {
+    "file": "enter-bw-v8.webp",
+    "label": "学术之门",
+    "version": "bw-v8-20261017",
+    "icons": {
+      "ico": "enter-bw-v8.ico",
+      "png32": "enter-bw-v8-32.png",
+      "apple": "enter-bw-v8-180.png"
+    },
+    "source": "Owner-approved monochrome icon board, 2026-10-17, version 8"
+  },
+  "xsiching": {
+    "file": "xsiching-bw-v8.webp",
+    "label": "犀术国学",
+    "version": "bw-v8-20261017",
+    "icons": {
+      "ico": "xsiching-bw-v8.ico",
+      "png32": "xsiching-bw-v8-32.png",
+      "apple": "xsiching-bw-v8-180.png"
+    },
+    "source": "Owner-approved monochrome icon board, 2026-10-17, version 8"
+  },
+  "study": {
+    "file": "study-bw-v8.webp",
+    "label": "智能学堂",
+    "version": "bw-v8-20261017",
+    "icons": {
+      "ico": "study-bw-v8.ico",
+      "png32": "study-bw-v8-32.png",
+      "apple": "study-bw-v8-180.png"
+    },
+    "source": "Owner-approved monochrome icon board, 2026-10-17, version 8"
+  }
+}

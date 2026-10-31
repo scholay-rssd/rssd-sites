@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "scholay-today",
+    "spaceId": "academic",
+    "name": "今日学术",
+    "languages": ["zh-CN", "en"],
+    "domain": "学术",
+    "origin": "https://today.scholay.com",
+    "description": "每日学术资讯、科研日程与学术历史。",
+    "accent": "#2b6e52",
+    "legacy": true,
+    "homeMode": "engine",
+    "columns": [
+      "学界犀闻",
+      "学者观察",
+      "学术开源",
+      "学术情报",
+      "昔日学术"
+    ],
+    "yearCategories": [
+      "节假日",
+      "培养节点",
+      "学术会议",
+      "自然科学基金",
+      "人文社科基金",
+      "国家科技项目",
+      "地方科研项目",
+      "人才计划",
+      "博士后项目",
+      "国际科研机会",
+      "学术出版",
+      "科研岗位"
+    ],
+    "sourceCategories": [
+      "文献与写作",
+      "科研 Agent",
+      "数据与评测",
+      "实验与仪器",
+      "生命与医学",
+      "基础设施"
+    ],
+    "version": 1,
+    "author": "Scholay 编辑部",
+    "timezone": "Asia/Shanghai",
+    "retainLocal": false,
+    "themeId": "academic",
+    "display": {
+      "version": 1,
+      "modules": {
+        "calendar": {
+          "enabled": true
+        },
+        "gallery": {
+          "enabled": false,
+          "columns": 4
+        },
+        "graph": {
+          "enabled": false
+        },
+        "showcase": {
+          "enabled": false
+        },
+        "roadmap": {
+          "enabled": false
+        }
+      }
+    },
+    "slogan": "日拱一卒，不疾而速",
+    "publicColumns": [
+      "学界犀闻",
+      "学者观察",
+      "今日学术",
+      "昔日学术",
+      "学术资源",
+      "学术开源",
+      "项目合作",
+      "课程资源"
+    ],
+    "layout": "articles",
+    "services": {
+      "guestbook": {
+        "enabled": true
+      }
+    },
+    "navigation": [
+      {
+        "id": "home",
+        "label": "首页",
+        "href": "/",
+        "view": "home"
+      },
+      {
+        "id": "year",
+        "label": "今日学术",
+        "href": "/#/year",
+        "view": "calendar",
+        "match": [
+          "/#/year",
+          "/calendar/"
+        ]
+      },
+      {
+        "id": "history",
+        "label": "昔日学术",
+        "href": "/#/history",
+        "view": "calendar",
+        "match": [
+          "/#/history",
+          "/history/"
+        ]
+      },
+      {
+        "id": "feed",
+        "label": "学术新闻",
+        "href": "/archive/",
+        "view": "feed",
+        "match": [
+          "/archive/",
+          "/news/",
+          "/journal/",
+          "/project-notes/"
+        ]
+      },
+      {
+        "id": "guestbook",
+        "label": "留言板",
+        "href": "/guestbook/",
+        "view": "page",
+        "service": "guestbook"
+      }
+    ]
+  },
+  {
+    "id": "lingxi",
+    "spaceId": "lingxi",
+    "name": "犀术 IME",
+    "domain": "输入法与输入体验",
+    "origin": "https://xsime.com",
+    "description": "记录灵犀输入法的构建、输入方案与日常使用。",
+    "accent": "#42604c",
+    "homeMode": "engine",
+    "columns": [
+      "项目动态",
+      "输入札记",
+      "工具与资源",
+      "输入日历",
+      "输入历史"
+    ],
+    "yearCategories": [
+      "纪念日",
+      "项目计划",
+      "社区活动"
+    ],
+    "sourceCategories": [
+      "输入方案",
+      "开发工具",
+      "开放资源"
+    ],
+    "version": 1,
+    "author": "灵犀输入法",
+    "timezone": "Asia/Shanghai",
+    "retainLocal": true,
+    "themeId": "docs",
+    "display": {
+      "version": 1,
+      "modules": {
+        "calendar": {
+          "enabled": false
+        },
+        "gallery": {
+          "enabled": false,
+          "columns": 4
+        },
+        "graph": {
+          "enabled": false
+        },
+        "showcase": {
+          "enabled": false
+        },
+        "roadmap": {
+          "enabled": true
+        }
+      }
+    },
+    "slogan": "心有灵犀，落笔见术",
+    "publicColumns": [
+      "使用教程",
+      "开发日志",
+      "输入方案",
+      "外观设计"
+    ],
+    "layout": "articles",
+    "services": {
+      "guestbook": {
+        "enabled": true
+      }
+    },
+    "aliases": [
+      "https://lingx.club"
+    ],
+    "navigation": [
+      {
+        "id": "home",
+        "label": "首页",
+        "href": "/",
+        "view": "home"
+      },
+      {
+        "id": "product",
+        "label": "产品介绍",
+        "href": "/projects/lingxi/",
+        "view": "page"
+      },
+      {
+        "id": "feed",
+        "label": "使用与记录",
+        "href": "/archive/",
+        "view": "feed",
+        "match": [
+          "/archive/",
+          "/news/",
+          "/journal/",
+          "/project-notes/"
+        ]
+      },
+      {
+        "id": "roadmap",
+        "label": "路线图",
+        "href": "/roadmap/",
+        "view": "roadmap",
+        "module": "roadmap"
+      },
+      {
+        "id": "guestbook",
+        "label": "留言板",
+        "href": "/guestbook/",
+        "view": "page",
+        "service": "guestbook"
+      }
+    ]
+  },
+  {
+    "id": "piggytuck",
+    "spaceId": "design",
+    "name": "小猪盖被",
+    "domain": "视觉传达设计",
+    "origin": "https://www.piggytuck.com",
+    "description": "从小角色到视觉表达，记录作品背后的观察与设计。",
+    "accent": "#c36952",
+    "homeMode": "engine",
+    "columns": [
+      "设计动态",
+      "创作手记",
+      "设计资源",
+      "设计日历",
+      "设计历史"
+    ],
+    "yearCategories": [
+      "纪念日",
+      "创作计划",
+      "设计活动"
+    ],
+    "sourceCategories": [
+      "字体与排版",
+      "视觉工具",
+      "开放资源"
+    ],
+    "version": 1,
+    "author": "小猪盖被",
+    "timezone": "Asia/Shanghai",
+    "retainLocal": true,
+    "themeId": "portfolio",
+    "display": {
+      "version": 1,
+      "modules": {
+        "calendar": {
+          "enabled": false
+        },
+        "gallery": {
+          "enabled": true,
+          "columns": 4
+        },
+        "graph": {
+          "enabled": false
+        },
+        "showcase": {
+          "enabled": true
+        },
+        "roadmap": {
+          "enabled": false
+        }
+      }
+    },
+    "slogan": "欢迎来到，我的设计星球",
+    "publicColumns": [
+      "作品系列",
+      "设计资讯",
+      "精美图标",
+      "网页设计"
+    ],
+    "layout": "showcase",
+    "services": {
+      "guestbook": {
+        "enabled": false
+      }
+    },
+    "navigation": [
+      {
+        "id": "home",
+        "label": "首页",
+        "href": "/",
+        "view": "home"
+      },
+      {
+        "id": "works",
+        "label": "作品系列",
+        "href": "/works/",
+        "view": "projects"
+      },
+      {
+        "id": "gallery",
+        "label": "表情图库",
+        "href": "/gallery/",
+        "view": "gallery",
+        "module": "gallery"
+      },
+      {
+        "id": "feed",
+        "label": "设计手记",
+        "href": "/archive/",
+        "view": "feed",
+        "match": [
+          "/archive/",
+          "/news/",
+          "/journal/",
+          "/project-notes/"
+        ]
+      },
+      {
+        "id": "about",
+        "label": "关于",
+        "href": "/#about",
+        "view": "page"
+      }
+    ]
+  },
+  {
+    "id": "personal",
+    "spaceId": "personal",
+    "name": "学术海",
+    "domain": "个人记录与产品实践",
+    "origin": "https://pm.scholay.com",
+    "description": "世界对智者太过挑剔，好奇的人需要朋友。",
+    "accent": "#376c80",
+    "homeMode": "engine",
+    "columns": [
+      "近况",
+      "产品手记",
+      "工具箱",
+      "个人日历",
+      "项目足迹"
+    ],
+    "yearCategories": [
+      "纪念日",
+      "个人计划",
+      "产品活动"
+    ],
+    "sourceCategories": [
+      "效率工具",
+      "开发工具",
+      "开放资源"
+    ],
+    "version": 1,
+    "author": "学术海",
+    "timezone": "Asia/Shanghai",
+    "retainLocal": true,
+    "themeId": "personal",
+    "display": {
+      "version": 1,
+      "modules": {
+        "calendar": {
+          "enabled": false
+        },
+        "gallery": {
+          "enabled": false,
+          "columns": 4
+        },
+        "graph": {
+          "enabled": false
+        },
+        "showcase": {
+          "enabled": false
+        },
+        "roadmap": {
+          "enabled": false
+        }
+      }
+    },
+    "slogan": "学海无涯，以道驭术",
+    "publicColumns": [
+      "作品系列",
+      "产品资讯",
+      "产品随想",
+      "学术札记"
+    ],
+    "layout": "articles",
+    "services": {
+      "guestbook": {
+        "enabled": false
+      }
+    },
+    "navigation": [
+      {
+        "id": "home",
+        "label": "首页",
+        "href": "/",
+        "view": "home",
+        "localize": true,
+        "labels": {
+          "en": "Home",
+          "ja": "ホーム",
+          "fr": "Accueil",
+          "es": "Inicio"
+        }
+      },
+      {
+        "id": "projects",
+        "label": "项目",
+        "href": "/projects/",
+        "view": "projects",
+        "localize": true,
+        "labels": {
+          "en": "Projects",
+          "ja": "プロジェクト",
+          "fr": "Projets",
+          "es": "Proyectos"
+        }
+      },
+      {
+        "id": "feed",
+        "label": "手记",
+        "href": "/archive/",
+        "view": "feed",
+        "match": [
+          "/archive/",
+          "/news/",
+          "/journal/",
+          "/project-notes/"
+        ],
+        "labels": {
+          "en": "Journal",
+          "ja": "手記",
+          "fr": "Carnet",
+          "es": "Diario"
+        }
+      },
+      {
+        "id": "about",
+        "label": "关于",
+        "href": "/#about",
+        "view": "page",
+        "localize": true,
+        "labels": {
+          "en": "About",
+          "ja": "自己紹介",
+          "fr": "À propos",
+          "es": "Sobre mí"
+        }
+      },
+      {
+        "id": "connect",
+        "label": "找到我",
+        "href": "/#connect",
+        "view": "page",
+        "localize": true,
+        "labels": {
+          "en": "Connect",
+          "ja": "つながる",
+          "fr": "Contact",
+          "es": "Contacto"
+        }
+      }
+    ]
+  },
+  {
+    "id": "pets",
+    "spaceId": "pets",
+    "name": "小猪萌宠",
+    "domain": "萌宠与共同生活",
+    "origin": "https://pet.piggytuck.com",
+    "description": "观察小动物的日常，记录人与动物相处的小事。",
+    "accent": "#8a633b",
+    "homeMode": "engine",
+    "columns": [
+      "萌宠见闻",
+      "相处日记",
+      "宠物资源",
+      "萌宠日历",
+      "动物故事"
+    ],
+    "yearCategories": [
+      "纪念日",
+      "生活计划",
+      "公益活动"
+    ],
+    "sourceCategories": [
+      "观察工具",
+      "公益资源",
+      "开放资源"
+    ],
+    "version": 1,
+    "author": "小猪盖被 · 萌宠",
+    "timezone": "Asia/Shanghai",
+    "retainLocal": true,
+    "themeId": "encyclopedia",
+    "display": {
+      "version": 1,
+      "modules": {
+        "calendar": {
+          "enabled": false
+        },
+        "gallery": {
+          "enabled": false,
+          "columns": 4
+        },
+        "graph": {
+          "enabled": true
+        },
+        "showcase": {
+          "enabled": true
+        },
+        "roadmap": {
+          "enabled": false
+        }
+      }
+    },
+    "slogan": "欢迎来到，我的宠物星球",
+    "publicColumns": [
+      "宠物资讯",
+      "每日一猫",
+      "每日一狗",
+      "异宠大全"
+    ],
+    "layout": "showcase",
+    "services": {
+      "guestbook": {
+        "enabled": false
+      }
+    },
+    "navigation": [
+      {
+        "id": "home",
+        "label": "首页",
+        "href": "/",
+        "view": "home"
+      },
+      {
+        "id": "feed",
+        "label": "萌宠手记",
+        "href": "/archive/",
+        "view": "feed",
+        "match": [
+          "/archive/",
+          "/news/",
+          "/journal/",
+          "/project-notes/"
+        ]
+      },
+      {
+        "id": "showcase",
+        "label": "内容橱窗",
+        "href": "/showcase/",
+        "view": "showcase",
+        "module": "showcase"
+      },
+      {
+        "id": "graph",
+        "label": "知识关系图",
+        "href": "/graph/",
+        "view": "graph",
+        "module": "graph"
+      }
+    ]
+  },
+  {
+    "id": "legis",
+    "spaceId": "legis",
+    "domain": "AI 与法律案例",
+    "description": "法律，是游戏规则的艺术",
+    "accent": "#52637b",
+    "homeMode": "engine",
+    "columns": [
+      "法律前沿",
+      "法律案例",
+      "法律资源",
+      "法律日程",
+      "法律档案"
+    ],
+    "yearCategories": [
+      "课程与活动",
+      "专题更新"
+    ],
+    "sourceCategories": [
+      "工具与资料",
+      "课程资源"
+    ],
+    "version": 1,
+    "author": "犀术智法",
+    "timezone": "Asia/Shanghai",
+    "retainLocal": true,
+    "themeId": "journal",
+    "name": "犀术智法",
+    "languages": ["zh-CN", "en"],
+    "origin": "https://legis.wiki",
+    "slogan": "法律，是游戏规则的艺术",
+    "publicColumns": [
+      "法律前沿",
+      "法律案例",
+      "知识产权",
+      "政策法规"
+    ],
+    "layout": "articles",
+    "services": {
+      "guestbook": {
+        "enabled": false
+      }
+    },
+    "display": {
+      "version": 1,
+      "modules": {
+        "calendar": {
+          "enabled": false
+        },
+        "gallery": {
+          "enabled": false,
+          "columns": 4
+        },
+        "graph": {
+          "enabled": false
+        },
+        "showcase": {
+          "enabled": false
+        },
+        "roadmap": {
+          "enabled": false
+        }
+      }
+    },
+    "navigation": [
+      {
+        "id": "home",
+        "label": "首页",
+        "href": "/",
+        "view": "home"
+      },
+      {
+        "id": "feed",
+        "label": "法律文章",
+        "href": "/archive/",
+        "view": "feed",
+        "match": [
+          "/archive/",
+          "/news/",
+          "/journal/",
+          "/project-notes/"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "metho",
+    "spaceId": "metho",
+    "domain": "统计与实验方法",
+    "description": "仪式可以模仿，理解无法伪装",
+    "accent": "#397968",
+    "homeMode": "engine",
+    "columns": [
+      "方法百科",
+      "统计之美",
+      "方法资源",
+      "实验日程",
+      "方法史"
+    ],
+    "yearCategories": [
+      "课程与活动",
+      "专题更新"
+    ],
+    "sourceCategories": [
+      "工具与资料",
+      "课程资源"
+    ],
+    "version": 1,
+    "author": "研究方法",
+    "timezone": "Asia/Shanghai",
+    "retainLocal": true,
+    "themeId": "journal",
+    "name": "研究方法",
+    "origin": "https://metho.scholay.com",
+    "languages": ["zh-CN", "en"],
+    "slogan": "仪式可以模仿，理解无法伪装",
+    "publicColumns": [
+      "方法百科",
+      "统计之美",
+      "实验星球",
+      "方法前沿"
+    ],
+    "layout": "showcase",
+    "services": {
+      "guestbook": {
+        "enabled": false
+      }
+    },
+    "display": {
+      "version": 1,
+      "modules": {
+        "calendar": {
+          "enabled": false
+        },
+        "gallery": {
+          "enabled": false,
+          "columns": 4
+        },
+        "graph": {
+          "enabled": false
+        },
+        "showcase": {
+          "enabled": true
+        },
+        "roadmap": {
+          "enabled": false
+        }
+      }
+    },
+    "navigation": [
+      {
+        "id": "home",
+        "label": "首页",
+        "href": "/",
+        "view": "home"
+      },
+      {
+        "id": "feed",
+        "label": "方法文章",
+        "href": "/archive/",
+        "view": "feed",
+        "match": [
+          "/archive/",
+          "/news/",
+          "/journal/",
+          "/project-notes/"
+        ]
+      },
+      {
+        "id": "showcase",
+        "label": "内容橱窗",
+        "href": "/showcase/",
+        "view": "showcase",
+        "module": "showcase"
+      }
+    ]
+  },
+  {
+    "id": "enter",
+    "spaceId": "enter",
+    "domain": "学术工具与网站导航",
+    "description": "学者的智能时代生活指南",
+    "accent": "#406f94",
+    "homeMode": "engine",
+    "columns": [
+      "学术论坛",
+      "软件网站",
+      "学术资源",
+      "学术日程",
+      "门户档案"
+    ],
+    "yearCategories": [
+      "课程与活动",
+      "专题更新"
+    ],
+    "sourceCategories": [
+      "工具与资料",
+      "课程资源"
+    ],
+    "version": 1,
+    "author": "学术之门",
+    "timezone": "Asia/Shanghai",
+    "retainLocal": true,
+    "themeId": "journal",
+    "name": "学术之门",
+    "languages": ["zh-CN", "en"],
+    "origin": "https://enter.scholay.com",
+    "slogan": "学者的智能时代生活指南",
+    "publicColumns": [
+      "学术论坛",
+      "软件网站",
+      "学术检索",
+      "课程资源"
+    ],
+    "layout": "showcase",
+    "services": {
+      "guestbook": {
+        "enabled": true
+      }
+    },
+    "display": {
+      "version": 1,
+      "modules": {
+        "calendar": {
+          "enabled": false
+        },
+        "gallery": {
+          "enabled": false,
+          "columns": 4
+        },
+        "graph": {
+          "enabled": false
+        },
+        "showcase": {
+          "enabled": true
+        },
+        "roadmap": {
+          "enabled": false
+        }
+      }
+    },
+    "navigation": [
+      {
+        "id": "home",
+        "label": "首页",
+        "href": "/",
+        "view": "home"
+      },
+      {
+        "id": "feed",
+        "label": "发现与指南",
+        "href": "/archive/",
+        "view": "feed",
+        "match": [
+          "/archive/",
+          "/news/",
+          "/journal/",
+          "/project-notes/"
+        ]
+      },
+      {
+        "id": "showcase",
+        "label": "资源橱窗",
+        "href": "/showcase/",
+        "view": "showcase",
+        "module": "showcase"
+      },
+      {
+        "id": "guestbook",
+        "label": "留言板",
+        "href": "/guestbook/",
+        "view": "page",
+        "service": "guestbook"
+      }
+    ]
+  },
+  {
+    "id": "xsiching",
+    "spaceId": "xsiching",
+    "domain": "国学文献与资料档案",
+    "description": "心有灵犀，只言见术",
+    "accent": "#8d593d",
+    "homeMode": "engine",
+    "columns": [
+      "国学经典",
+      "易家之言",
+      "国学资源",
+      "国学日程",
+      "文献沿革"
+    ],
+    "yearCategories": [
+      "课程与活动",
+      "专题更新"
+    ],
+    "sourceCategories": [
+      "工具与资料",
+      "课程资源"
+    ],
+    "version": 1,
+    "author": "犀术国学",
+    "timezone": "Asia/Shanghai",
+    "retainLocal": true,
+    "themeId": "journal",
+    "name": "犀术国学",
+    "languages": ["zh-CN", "en"],
+    "origin": "https://xsiching.com",
+    "slogan": "心有灵犀，只言见术",
+    "publicColumns": [
+      "国学经典",
+      "易家之言",
+      "精品应用",
+      "课程资源"
+    ],
+    "layout": "showcase",
+    "services": {
+      "guestbook": {
+        "enabled": false
+      }
+    },
+    "display": {
+      "version": 1,
+      "modules": {
+        "calendar": {
+          "enabled": false
+        },
+        "gallery": {
+          "enabled": false,
+          "columns": 4
+        },
+        "graph": {
+          "enabled": false
+        },
+        "showcase": {
+          "enabled": true
+        },
+        "roadmap": {
+          "enabled": false
+        }
+      }
+    },
+    "navigation": [
+      {
+        "id": "home",
+        "label": "首页",
+        "href": "/",
+        "view": "home"
+      },
+      {
+        "id": "feed",
+        "label": "国学文章",
+        "href": "/archive/",
+        "view": "feed",
+        "match": [
+          "/archive/",
+          "/news/",
+          "/journal/",
+          "/project-notes/"
+        ]
+      },
+      {
+        "id": "showcase",
+        "label": "资料橱窗",
+        "href": "/showcase/",
+        "view": "showcase",
+        "module": "showcase"
+      }
+    ]
+  },
+  {
+    "id": "study",
+    "spaceId": "study",
+    "domain": "AI 学习与连续指南",
+    "description": "你的智能时代专属学堂",
+    "accent": "#6b5b97",
+    "homeMode": "engine",
+    "columns": [
+      "免费课程",
+      "模型排行",
+      "学习资源",
+      "学习日程",
+      "指南档案"
+    ],
+    "yearCategories": [
+      "课程与活动",
+      "专题更新"
+    ],
+    "sourceCategories": [
+      "工具与资料",
+      "课程资源"
+    ],
+    "version": 1,
+    "author": "智能学堂",
+    "timezone": "Asia/Shanghai",
+    "retainLocal": true,
+    "themeId": "journal",
+    "name": "智能学堂",
+    "languages": ["zh-CN", "en"],
+    "origin": "https://study.scholay.com",
+    "slogan": "你的智能时代专属学堂",
+    "publicColumns": [
+      "免费课程",
+      "模型排行",
+      "福利羊毛",
+      "资质证书"
+    ],
+    "layout": "showcase",
+    "services": {
+      "guestbook": {
+        "enabled": false
+      }
+    },
+    "display": {
+      "version": 1,
+      "modules": {
+        "calendar": {
+          "enabled": false
+        },
+        "gallery": {
+          "enabled": false,
+          "columns": 4
+        },
+        "graph": {
+          "enabled": false
+        },
+        "showcase": {
+          "enabled": true
+        },
+        "roadmap": {
+          "enabled": false
+        }
+      }
+    },
+    "navigation": [
+      {
+        "id": "home",
+        "label": "首页",
+        "href": "/",
+        "view": "home"
+      },
+      {
+        "id": "feed",
+        "label": "学习指南",
+        "href": "/archive/",
+        "view": "feed",
+        "match": [
+          "/archive/",
+          "/news/",
+          "/journal/",
+          "/project-notes/"
+        ]
+      },
+      {
+        "id": "showcase",
+        "label": "资源橱窗",
+        "href": "/showcase/",
+        "view": "showcase",
+        "module": "showcase"
+      }
+    ]
+  }
+]

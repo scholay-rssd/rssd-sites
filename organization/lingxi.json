@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "siteId": "lingxi",
+  "sections": [
+    {
+      "id": "tutorials",
+      "name": "使用教程",
+      "description": "安装、配置与日常输入实践。",
+      "includes": [
+        "column-2"
+      ]
+    },
+    {
+      "id": "development",
+      "name": "开发日志",
+      "description": "项目进展、版本记录与路线图。",
+      "includes": [
+        "column-1",
+        "column-4",
+        "column-5",
+        "input-methods"
+      ]
+    },
+    {
+      "id": "input-schemes",
+      "name": "输入方案",
+      "description": "方案介绍、在线试输入与 GitHub 下载。",
+      "includes": [
+        "column-3"
+      ]
+    },
+    {
+      "id": "input-skins",
+      "name": "外观设计",
+      "description": "皮肤、键盘与输入界面设计。",
+      "includes": [
+        "custom-keyboards"
+      ]
+    },
+    {
+      "id": "input-methods",
+      "name": "输入法项目",
+      "description": "输入法项目动态、版本与技术文档。",
+      "legacy": true
+    },
+    {
+      "id": "custom-keyboards",
+      "name": "客制化键盘",
+      "description": "键盘项目、开团资讯与实践。",
+      "legacy": true
+    }
+  ],
+  "hubs": [
+    {
+      "id": "lingxi",
+      "name": "犀术 IME",
+      "sectionId": "input-methods",
+      "route": "/projects/lingxi/",
+      "summary": "灵犀输入法的长期项目入口，汇集项目介绍和已公开的相关记录。",
+      "links": [
+        {
+          "label": "项目官网",
+          "url": "https://xsime.com/"
+        },
+        {
+          "label": "公开项目仓库",
+          "url": "https://github.com/scholay/rimes"
+        }
+      ]
+    }
+  ],
+  "bindings": []
+}

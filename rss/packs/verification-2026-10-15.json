@@ -1,0 +1,1222 @@
+{
+  "checkedAt": "2026-10-15",
+  "method": "HTTPS/XML screening followed by the desktop native HTTP client and RSS/Atom parser; non-empty entries and at least one dated within 180 days. Two transient failures passed one targeted retry.",
+  "sources": [
+    {
+      "url": "https://research.sinica.edu.tw/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://research.sinica.edu.tw/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 12,
+      "latest": "2026-09-15T08:00:05+00:00",
+      "recent180": 10
+    },
+    {
+      "url": "https://www.nature.com/nature.rss",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.nature.com/nature.rss",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "items": 75,
+      "latest": "2026-10-13T15:00:00+00:00",
+      "recent180": 75
+    },
+    {
+      "url": "https://retractionwatch.com/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://retractionwatch.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 10,
+      "latest": "2026-10-14T19:09:04+00:00",
+      "recent180": 10
+    },
+    {
+      "url": "https://www.nstc.gov.tw/nstc/rss/events",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.nstc.gov.tw/nstc/rss/events",
+      "contentType": "application/xml;charset=UTF-8",
+      "items": 30,
+      "latest": "2026-10-12T16:00:00+00:00",
+      "recent180": 29
+    },
+    {
+      "url": "https://blog.openalex.org/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://blog.openalex.org/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 10,
+      "latest": "2026-10-14T17:31:18+00:00",
+      "recent180": 10
+    },
+    {
+      "url": "https://carpentries.org/blog/index.xml",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://carpentries.org/blog/index.xml",
+      "contentType": "text/xml",
+      "items": 2922,
+      "latest": "2026-10-08T00:00:00+00:00",
+      "recent180": 21
+    },
+    {
+      "url": "https://github.com/scholay/rimes/releases.atom",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://github.com/scholay/xsime/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "items": 10,
+      "latest": "2026-10-14T05:43:44+00:00",
+      "recent180": 10
+    },
+    {
+      "url": "https://github.com/rime/librime/releases.atom",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://github.com/rime/librime/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "items": 10,
+      "latest": "2026-10-01T13:00:43+00:00",
+      "recent180": 2
+    },
+    {
+      "url": "https://github.com/fcitx/fcitx5/releases.atom",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://github.com/fcitx/fcitx5/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "items": 10,
+      "latest": "2026-09-24T02:38:03+00:00",
+      "recent180": 4
+    },
+    {
+      "url": "https://github.com/iDvel/rime-ice/commits/main.atom",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://github.com/iDvel/rime-ice/commits/main.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "items": 20,
+      "latest": "2026-10-05T13:37:01+00:00",
+      "recent180": 20
+    },
+    {
+      "url": "https://github.com/Mintimate/oh-my-rime/commits/HEAD.atom",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://github.com/Mintimate/oh-my-rime/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "items": 20,
+      "latest": "2026-10-08T02:31:37+00:00",
+      "recent180": 20
+    },
+    {
+      "url": "https://www.logonews.cn/feed",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.logonews.cn/feed",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 10,
+      "latest": "2026-10-15T04:29:02+00:00",
+      "recent180": 10
+    },
+    {
+      "url": "https://fontsinuse.com/main.rss",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://fontsinuse.com/main.rss",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 20,
+      "latest": "2026-10-15T08:38:20+00:00",
+      "recent180": 20
+    },
+    {
+      "url": "https://www.thisiscolossal.com/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.thisiscolossal.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 10,
+      "latest": "2026-10-14T19:37:26+00:00",
+      "recent180": 10
+    },
+    {
+      "url": "https://github.com/lucide-icons/lucide/releases.atom",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://github.com/lucide-icons/lucide/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "items": 10,
+      "latest": "2026-10-14T06:09:32+00:00",
+      "recent180": 10
+    },
+    {
+      "url": "https://www.smashingmagazine.com/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.smashingmagazine.com/feed/",
+      "contentType": "application/xml",
+      "items": 40,
+      "latest": "2026-10-06T10:00:00+00:00",
+      "recent180": 40
+    },
+    {
+      "url": "https://www.nngroup.com/feed/rss/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.nngroup.com/feed/rss/",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "items": 20,
+      "latest": "2026-10-09T17:00:00+00:00",
+      "recent180": 20
+    },
+    {
+      "url": "https://www.svpg.com/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.svpg.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 15,
+      "latest": "2026-10-12T15:24:29+00:00",
+      "recent180": 7
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/feed",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.lennysnewsletter.com/feed",
+      "contentType": "application/xml; charset=utf-8",
+      "items": 20,
+      "latest": "2026-10-14T12:04:05+00:00",
+      "recent180": 20
+    },
+    {
+      "url": "https://www.ruanyifeng.com/blog/atom.xml",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.ruanyifeng.com/blog/atom.xml",
+      "contentType": "application/xml",
+      "items": 3,
+      "latest": "2026-10-08T15:04:46+00:00",
+      "recent180": 3
+    },
+    {
+      "url": "https://quarto.org/docs/blog/index.xml",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://opensource.posit.co/blog/index.xml",
+      "contentType": "application/xml",
+      "items": 20,
+      "latest": "2026-10-15T00:00:00+00:00",
+      "recent180": 20
+    },
+    {
+      "url": "https://globalpetindustry.com/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://globalpetindustry.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 10,
+      "latest": "2026-10-15T08:06:04+00:00",
+      "recent180": 10
+    },
+    {
+      "url": "https://www.companionanimalpsychology.com/feeds/posts/default",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.companionanimalpsychology.com/feeds/posts/default",
+      "contentType": "application/atom+xml; charset=UTF-8",
+      "items": 25,
+      "latest": "2026-10-14T15:00:00+00:00",
+      "recent180": 25
+    },
+    {
+      "url": "https://www.catster.com/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.catster.com/rss.xml",
+      "contentType": "application/xml",
+      "items": 30,
+      "latest": "2026-10-14T08:30:24+00:00",
+      "recent180": 30
+    },
+    {
+      "url": "https://www.whole-dog-journal.com/feed/",
+      "checkedAt": "2026-10-15T08:58:55.984619+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.whole-dog-journal.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 12,
+      "latest": "2026-10-14T10:22:10+00:00",
+      "recent180": 12
+    },
+    {
+      "url": "https://rabbit.org/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://rabbit.org/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 10,
+      "latest": "2026-10-01T22:03:47+00:00",
+      "recent180": 4
+    },
+    {
+      "url": "https://reptilesmagazine.com/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://reptilesmagazine.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 10,
+      "latest": "2026-10-13T20:19:41+00:00",
+      "recent180": 10
+    },
+    {
+      "url": "https://www.lawfaremedia.org/feeds/cybersecurity-tech",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.lawfaremedia.org/feeds/cybersecurity-tech",
+      "contentType": "application/rss+xml",
+      "items": 1,
+      "latest": "2026-10-14T13:19:05+00:00",
+      "recent180": 1
+    },
+    {
+      "url": "https://blog.ericgoldman.org/feed",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://blog.ericgoldman.org/feed",
+      "contentType": "text/xml;charset=UTF-8",
+      "items": 10,
+      "latest": "2026-10-14T16:46:19+00:00",
+      "recent180": 10
+    },
+    {
+      "url": "https://www.eff.org/rss/updates.xml",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.eff.org/rss/updates.xml",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "items": 50,
+      "latest": "2026-10-14T23:21:37+00:00",
+      "recent180": 50
+    },
+    {
+      "url": "https://epic.org/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://epic.org/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 10,
+      "latest": "2026-10-08T19:49:08+00:00",
+      "recent180": 10
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/rss.xml",
+      "checkedAt": "2026-10-15T08:58:55.984619+00:00",
+      "status": 200,
+      "effectiveUrl": "https://digital-strategy.ec.europa.eu/en/rss.xml",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "items": 10,
+      "latest": "2026-10-09T07:16:00+00:00",
+      "recent180": 10
+    },
+    {
+      "url": "https://www.wipo.int/pressroom/en/rss.xml",
+      "checkedAt": "2026-10-15T08:58:55.984619+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.wipo.int/pressroom/en/rss.xml",
+      "contentType": "text/xml;charset=UTF-8",
+      "items": 10,
+      "latest": "2026-10-14T10:00:00+00:00",
+      "recent180": 10
+    },
+    {
+      "url": "https://statmodeling.stat.columbia.edu/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://statmodeling.stat.columbia.edu/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 50,
+      "latest": "2026-10-14T13:48:38+00:00",
+      "recent180": 50
+    },
+    {
+      "url": "https://blog.stata.com/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://blog.stata.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 259,
+      "latest": "2026-10-14T15:03:33+00:00",
+      "recent180": 6
+    },
+    {
+      "url": "https://datacolada.org/feed",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://datacolada.org/feed",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 50,
+      "latest": "2026-09-02T13:10:05+00:00",
+      "recent180": 4
+    },
+    {
+      "url": "https://statisticalhorizons.com/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://statisticalhorizons.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 12,
+      "latest": "2026-09-25T14:05:45+00:00",
+      "recent180": 5
+    },
+    {
+      "url": "https://magazine.amstat.org/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://magazine.amstat.org/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 10,
+      "latest": "2026-10-01T10:00:00+00:00",
+      "recent180": 10
+    },
+    {
+      "url": "https://www.zotero.org/blog/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.zotero.org/blog/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 10,
+      "latest": "2026-10-05T16:34:57+00:00",
+      "recent180": 2
+    },
+    {
+      "url": "https://info.orcid.org/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://info.orcid.org/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 50,
+      "latest": "2026-10-14T15:52:08+00:00",
+      "recent180": 23
+    },
+    {
+      "url": "https://www.crossref.org/blog/index.xml",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.crossref.org/blog/index.xml",
+      "contentType": "text/xml",
+      "items": 692,
+      "latest": "2026-10-06T00:00:00+00:00",
+      "recent180": 28
+    },
+    {
+      "url": "https://blog.datacite.org/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://datacite.org/blog/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 10,
+      "latest": "2026-09-16T09:30:39+00:00",
+      "recent180": 10
+    },
+    {
+      "url": "https://github.com/cbeta-org/xml-p5/commits/master.atom",
+      "checkedAt": "2026-10-15T08:58:55.984619+00:00",
+      "status": 200,
+      "effectiveUrl": "https://github.com/cbeta-org/xml-p5/commits/master.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "items": 20,
+      "latest": "2026-09-05T18:53:36+00:00",
+      "recent180": 2
+    },
+    {
+      "url": "https://warpweftandway.com/feed/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://warpweftandway.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "items": 30,
+      "latest": "2026-10-09T21:20:41+00:00",
+      "recent180": 30
+    },
+    {
+      "url": "https://github.com/cbdb-project/cbdb_sqlite/commits/master.atom",
+      "checkedAt": "2026-10-15T08:58:55.984619+00:00",
+      "status": 200,
+      "effectiveUrl": "https://github.com/cbdb-project/cbdb_sqlite/commits/master.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "items": 20,
+      "latest": "2026-10-10T19:18:53+00:00",
+      "recent180": 20
+    },
+    {
+      "url": "https://github.com/open-guji/guji-resource-index/commits/main.atom",
+      "checkedAt": "2026-10-15T09:01:13.502811+00:00",
+      "status": 200,
+      "effectiveUrl": "https://github.com/open-guji/guji-resource-index/commits/main.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "items": 13,
+      "latest": "2026-10-07T04:00:20+00:00",
+      "recent180": 9
+    },
+    {
+      "url": "https://github.com/huggingface/course/commits/main.atom",
+      "checkedAt": "2026-10-15T09:01:13.502811+00:00",
+      "status": 200,
+      "effectiveUrl": "https://github.com/huggingface/course/commits/main.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "items": 20,
+      "latest": "2026-10-06T09:20:11+00:00",
+      "recent180": 8
+    },
+    {
+      "url": "https://www.fast.ai/index.xml",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://www.fast.ai/index.xml",
+      "contentType": "application/xml",
+      "items": 20,
+      "latest": "2026-08-17T14:00:00+00:00",
+      "recent180": 1
+    },
+    {
+      "url": "https://simonwillison.net/atom/everything/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://simonwillison.net/atom/everything/",
+      "contentType": "application/xml; charset=utf-8",
+      "items": 30,
+      "latest": "2026-10-14T21:23:01+00:00",
+      "recent180": 30
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://openai.com/news/rss.xml",
+      "contentType": "text/xml; charset=utf-8",
+      "items": 1293,
+      "latest": "2026-10-14T12:00:00+00:00",
+      "recent180": 332
+    },
+    {
+      "url": "https://blog.google/technology/ai/rss/",
+      "checkedAt": "2026-10-15T08:57:30.913339+00:00",
+      "status": 200,
+      "effectiveUrl": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "contentType": "application/xml; charset=utf-8",
+      "items": 20,
+      "latest": "2026-10-13T16:00:00+00:00",
+      "recent180": 20
+    }
+  ],
+  "nativeCore": {
+    "completedAt": "2026-10-15T09:12:04.571274Z",
+    "allPassedAfterRetry": true,
+    "uniqueSources": 51,
+    "attempts": [
+      {
+        "checkedAt": "2026-10-15T09:10:43.548469Z",
+        "nativeCore": true,
+        "ok": false,
+        "sources": [
+          {
+            "url": "https://blog.datacite.org/feed/",
+            "sites": [
+              "enter"
+            ],
+            "checkedAt": "2026-10-15T09:09:52.668061Z",
+            "ok": false,
+            "error": "network error: error sending request for url (https://blog.datacite.org/feed/)"
+          },
+          {
+            "url": "https://blog.ericgoldman.org/feed",
+            "sites": [
+              "legis"
+            ],
+            "checkedAt": "2026-10-15T09:09:52.668061Z",
+            "effectiveUrl": "https://blog.ericgoldman.org/feed",
+            "title": "Technology & Marketing Law Blog",
+            "items": 10,
+            "latest": "2026-10-14T16:46:19Z",
+            "recent180": 10,
+            "ok": true
+          },
+          {
+            "url": "https://blog.google/technology/ai/rss/",
+            "sites": [
+              "study"
+            ],
+            "checkedAt": "2026-10-15T09:09:52.668086Z",
+            "effectiveUrl": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+            "title": "AI",
+            "items": 20,
+            "latest": "2026-10-13T16:00:00Z",
+            "recent180": 20,
+            "ok": true
+          },
+          {
+            "url": "https://blog.openalex.org/feed/",
+            "sites": [
+              "scholay-today",
+              "enter"
+            ],
+            "checkedAt": "2026-10-15T09:10:37.312421Z",
+            "effectiveUrl": "https://blog.openalex.org/feed/",
+            "title": "OpenAlex blog",
+            "items": 10,
+            "latest": "2026-10-14T17:31:18Z",
+            "recent180": 10,
+            "ok": true
+          },
+          {
+            "url": "https://blog.stata.com/feed/",
+            "sites": [
+              "metho"
+            ],
+            "checkedAt": "2026-10-15T09:10:38.477759Z",
+            "effectiveUrl": "https://blog.stata.com/feed/",
+            "title": "The Stata Blog",
+            "items": 259,
+            "latest": "2026-10-14T15:03:33Z",
+            "recent180": 6,
+            "ok": true
+          },
+          {
+            "url": "https://carpentries.org/blog/index.xml",
+            "sites": [
+              "scholay-today",
+              "enter"
+            ],
+            "checkedAt": "2026-10-15T09:09:52.668102Z",
+            "ok": false,
+            "error": "network error: error decoding response body"
+          },
+          {
+            "url": "https://datacolada.org/feed",
+            "sites": [
+              "metho"
+            ],
+            "checkedAt": "2026-10-15T09:10:37.430339Z",
+            "effectiveUrl": "https://datacolada.org/feed",
+            "title": "Data Colada",
+            "items": 50,
+            "latest": "2026-09-02T13:10:05Z",
+            "recent180": 4,
+            "ok": true
+          },
+          {
+            "url": "https://digital-strategy.ec.europa.eu/en/rss.xml",
+            "sites": [
+              "legis"
+            ],
+            "checkedAt": "2026-10-15T09:10:37.002483Z",
+            "effectiveUrl": "https://digital-strategy.ec.europa.eu/en/rss.xml",
+            "title": "Shaping Europe’s digital future",
+            "items": 10,
+            "latest": "2026-10-09T07:16:00Z",
+            "recent180": 10,
+            "ok": true
+          },
+          {
+            "url": "https://epic.org/feed/",
+            "sites": [
+              "legis"
+            ],
+            "checkedAt": "2026-10-15T09:10:37.671086Z",
+            "effectiveUrl": "https://epic.org/feed/",
+            "title": "EPIC – Electronic Privacy Information Center",
+            "items": 10,
+            "latest": "2026-10-08T19:49:08Z",
+            "recent180": 10,
+            "ok": true
+          },
+          {
+            "url": "https://fontsinuse.com/main.rss",
+            "sites": [
+              "piggytuck"
+            ],
+            "checkedAt": "2026-10-15T09:10:38.359333Z",
+            "effectiveUrl": "https://fontsinuse.com/main.rss",
+            "title": "Fonts In Use – Type at work in the real world",
+            "items": 20,
+            "latest": "2026-10-15T08:38:20Z",
+            "recent180": 20,
+            "ok": true
+          },
+          {
+            "url": "https://github.com/Mintimate/oh-my-rime/commits/HEAD.atom",
+            "sites": [
+              "lingxi"
+            ],
+            "checkedAt": "2026-10-15T09:09:52.668122Z",
+            "effectiveUrl": "https://github.com/Mintimate/oh-my-rime/commits/HEAD.atom",
+            "title": "Recent Commits to oh-my-rime:361b5c0ec2e6fb18e1b34ab32651fdc132e78f10",
+            "items": 20,
+            "latest": "2026-10-08T02:31:37Z",
+            "recent180": 20,
+            "ok": true
+          },
+          {
+            "url": "https://github.com/cbdb-project/cbdb_sqlite/commits/master.atom",
+            "sites": [
+              "xsiching"
+            ],
+            "checkedAt": "2026-10-15T09:10:35.737248Z",
+            "effectiveUrl": "https://github.com/cbdb-project/cbdb_sqlite/commits/master.atom",
+            "title": "Recent Commits to cbdb_sqlite:master",
+            "items": 20,
+            "latest": "2026-10-10T19:18:53Z",
+            "recent180": 20,
+            "ok": true
+          },
+          {
+            "url": "https://github.com/cbeta-org/xml-p5/commits/master.atom",
+            "sites": [
+              "xsiching"
+            ],
+            "checkedAt": "2026-10-15T09:10:35.499715Z",
+            "effectiveUrl": "https://github.com/cbeta-org/xml-p5/commits/master.atom",
+            "title": "Recent Commits to xml-p5:master",
+            "items": 20,
+            "latest": "2026-09-05T18:53:36Z",
+            "recent180": 2,
+            "ok": true
+          },
+          {
+            "url": "https://github.com/fcitx/fcitx5/releases.atom",
+            "sites": [
+              "lingxi"
+            ],
+            "checkedAt": "2026-10-15T09:10:38.610497Z",
+            "effectiveUrl": "https://github.com/fcitx/fcitx5/releases.atom",
+            "title": "Release notes from fcitx5",
+            "items": 10,
+            "latest": "2026-09-24T02:38:03Z",
+            "recent180": 4,
+            "ok": true
+          },
+          {
+            "url": "https://github.com/huggingface/course/commits/main.atom",
+            "sites": [
+              "study"
+            ],
+            "checkedAt": "2026-10-15T09:10:36.945151Z",
+            "effectiveUrl": "https://github.com/huggingface/course/commits/main.atom",
+            "title": "Recent Commits to course:main",
+            "items": 20,
+            "latest": "2026-10-06T09:20:11Z",
+            "recent180": 8,
+            "ok": true
+          },
+          {
+            "url": "https://github.com/iDvel/rime-ice/commits/main.atom",
+            "sites": [
+              "lingxi"
+            ],
+            "checkedAt": "2026-10-15T09:09:52.668138Z",
+            "effectiveUrl": "https://github.com/iDvel/rime-ice/commits/main.atom",
+            "title": "Recent Commits to rime-ice:main",
+            "items": 20,
+            "latest": "2026-10-05T13:37:01Z",
+            "recent180": 20,
+            "ok": true
+          },
+          {
+            "url": "https://github.com/lucide-icons/lucide/releases.atom",
+            "sites": [
+              "piggytuck"
+            ],
+            "checkedAt": "2026-10-15T09:10:35.077274Z",
+            "effectiveUrl": "https://github.com/lucide-icons/lucide/releases.atom",
+            "title": "Release notes from lucide",
+            "items": 10,
+            "latest": "2026-10-14T06:09:32Z",
+            "recent180": 10,
+            "ok": true
+          },
+          {
+            "url": "https://github.com/open-guji/guji-resource-index/commits/main.atom",
+            "sites": [
+              "xsiching"
+            ],
+            "checkedAt": "2026-10-15T09:10:33.767948Z",
+            "effectiveUrl": "https://github.com/open-guji/guji-resource-index/commits/main.atom",
+            "title": "Recent Commits to guji-resource-index:main",
+            "items": 13,
+            "latest": "2026-10-07T04:00:20Z",
+            "recent180": 9,
+            "ok": true
+          },
+          {
+            "url": "https://github.com/rime/librime/releases.atom",
+            "sites": [
+              "lingxi"
+            ],
+            "checkedAt": "2026-10-15T09:10:35.444945Z",
+            "effectiveUrl": "https://github.com/rime/librime/releases.atom",
+            "title": "Release notes from librime",
+            "items": 10,
+            "latest": "2026-10-01T13:00:43Z",
+            "recent180": 2,
+            "ok": true
+          },
+          {
+            "url": "https://github.com/scholay/rimes/releases.atom",
+            "sites": [
+              "lingxi",
+              "personal"
+            ],
+            "checkedAt": "2026-10-15T09:09:55.171201Z",
+            "effectiveUrl": "https://github.com/scholay/xsime/releases.atom",
+            "title": "Release notes from xsime",
+            "items": 10,
+            "latest": "2026-10-14T05:43:44Z",
+            "recent180": 10,
+            "ok": true
+          },
+          {
+            "url": "https://globalpetindustry.com/feed/",
+            "sites": [
+              "pets"
+            ],
+            "checkedAt": "2026-10-15T09:09:56.525026Z",
+            "effectiveUrl": "https://globalpetindustry.com/feed/",
+            "title": "GlobalPETS",
+            "items": 10,
+            "latest": "2026-10-15T08:06:04Z",
+            "recent180": 10,
+            "ok": true
+          },
+          {
+            "url": "https://info.orcid.org/feed/",
+            "sites": [
+              "enter"
+            ],
+            "checkedAt": "2026-10-15T09:10:08.062180Z",
+            "effectiveUrl": "https://info.orcid.org/feed/",
+            "title": "ORCID",
+            "items": 50,
+            "latest": "2026-10-14T15:52:08Z",
+            "recent180": 23,
+            "ok": true
+          },
+          {
+            "url": "https://magazine.amstat.org/feed/",
+            "sites": [
+              "metho"
+            ],
+            "checkedAt": "2026-10-15T09:10:11.961248Z",
+            "effectiveUrl": "https://magazine.amstat.org/feed/",
+            "title": "Amstat News",
+            "items": 10,
+            "latest": "2026-10-01T10:00:00Z",
+            "recent180": 10,
+            "ok": true
+          },
+          {
+            "url": "https://openai.com/news/rss.xml",
+            "sites": [
+              "study"
+            ],
+            "checkedAt": "2026-10-15T09:09:55.477879Z",
+            "effectiveUrl": "https://openai.com/news/rss.xml",
+            "title": "OpenAI News",
+            "items": 1293,
+            "latest": "2026-10-14T12:00:00Z",
+            "recent180": 332,
+            "ok": true
+          },
+          {
+            "url": "https://quarto.org/docs/blog/index.xml",
+            "sites": [
+              "personal"
+            ],
+            "checkedAt": "2026-10-15T09:10:00.590312Z",
+            "effectiveUrl": "https://opensource.posit.co/blog/index.xml",
+            "title": "Blog on Posit Open Source",
+            "items": 20,
+            "latest": "2026-10-15T00:00:00Z",
+            "recent180": 20,
+            "ok": true
+          },
+          {
+            "url": "https://rabbit.org/feed/",
+            "sites": [
+              "pets"
+            ],
+            "checkedAt": "2026-10-15T09:10:08.906072Z",
+            "effectiveUrl": "https://rabbit.org/feed/",
+            "title": "Rabbit.org",
+            "items": 10,
+            "latest": "2026-10-01T22:03:47Z",
+            "recent180": 4,
+            "ok": true
+          },
+          {
+            "url": "https://reptilesmagazine.com/feed/",
+            "sites": [
+              "pets"
+            ],
+            "checkedAt": "2026-10-15T09:10:09.028633Z",
+            "effectiveUrl": "https://reptilesmagazine.com/feed/",
+            "title": "Reptiles Magazine",
+            "items": 10,
+            "latest": "2026-10-13T20:19:41Z",
+            "recent180": 10,
+            "ok": true
+          },
+          {
+            "url": "https://research.sinica.edu.tw/feed/",
+            "sites": [
+              "scholay-today"
+            ],
+            "checkedAt": "2026-10-15T09:10:13.000342Z",
+            "effectiveUrl": "https://research.sinica.edu.tw/feed/",
+            "title": "研之有物 │ 串聯您與中央研究院的橋梁",
+            "items": 12,
+            "latest": "2026-09-15T08:00:05Z",
+            "recent180": 10,
+            "ok": true
+          },
+          {
+            "url": "https://retractionwatch.com/feed/",
+            "sites": [
+              "scholay-today"
+            ],
+            "checkedAt": "2026-10-15T09:10:13.357303Z",
+            "effectiveUrl": "https://retractionwatch.com/feed/",
+            "title": "Retraction Watch",
+            "items": 10,
+            "latest": "2026-10-14T19:09:04Z",
+            "recent180": 10,
+            "ok": true
+          },
+          {
+            "url": "https://simonwillison.net/atom/everything/",
+            "sites": [
+              "study"
+            ],
+            "checkedAt": "2026-10-15T09:10:18.633923Z",
+            "effectiveUrl": "https://simonwillison.net/atom/everything/",
+            "title": "Simon Willison's Weblog",
+            "items": 30,
+            "latest": "2026-10-14T21:23:01Z",
+            "recent180": 30,
+            "ok": true
+          },
+          {
+            "url": "https://statisticalhorizons.com/feed/",
+            "sites": [
+              "metho"
+            ],
+            "checkedAt": "2026-10-15T09:10:22.695723Z",
+            "effectiveUrl": "https://statisticalhorizons.com/feed/",
+            "title": "Statistical Horizons",
+            "items": 12,
+            "latest": "2026-09-25T14:05:45Z",
+            "recent180": 5,
+            "ok": true
+          },
+          {
+            "url": "https://statmodeling.stat.columbia.edu/feed/",
+            "sites": [
+              "metho"
+            ],
+            "checkedAt": "2026-10-15T09:10:23.417453Z",
+            "effectiveUrl": "https://statmodeling.stat.columbia.edu/feed/",
+            "title": "Statistical Modeling, Causal Inference, and Social Science",
+            "items": 50,
+            "latest": "2026-10-14T13:48:38Z",
+            "recent180": 50,
+            "ok": true
+          },
+          {
+            "url": "https://warpweftandway.com/feed/",
+            "sites": [
+              "xsiching"
+            ],
+            "checkedAt": "2026-10-15T09:10:18.582216Z",
+            "effectiveUrl": "https://warpweftandway.com/feed/",
+            "title": "Warp, Weft, and Way",
+            "items": 30,
+            "latest": "2026-10-09T21:20:41Z",
+            "recent180": 30,
+            "ok": true
+          },
+          {
+            "url": "https://www.catster.com/feed/",
+            "sites": [
+              "pets"
+            ],
+            "checkedAt": "2026-10-15T09:10:20.430959Z",
+            "effectiveUrl": "https://www.catster.com/rss.xml",
+            "title": "Catster: Cat Care & Health Guides by Veterinarians & Experts",
+            "items": 30,
+            "latest": "2026-10-14T08:30:24Z",
+            "recent180": 30,
+            "ok": true
+          },
+          {
+            "url": "https://www.companionanimalpsychology.com/feeds/posts/default",
+            "sites": [
+              "pets"
+            ],
+            "checkedAt": "2026-10-15T09:10:22.174162Z",
+            "effectiveUrl": "https://www.companionanimalpsychology.com/feeds/posts/default",
+            "title": "Companion Animal Psychology",
+            "items": 25,
+            "latest": "2026-10-14T15:00:00Z",
+            "recent180": 25,
+            "ok": true
+          },
+          {
+            "url": "https://www.crossref.org/blog/index.xml",
+            "sites": [
+              "enter"
+            ],
+            "checkedAt": "2026-10-15T09:10:22.814712Z",
+            "effectiveUrl": "https://www.crossref.org/blog/index.xml",
+            "title": "Blog on Crossref",
+            "items": 692,
+            "latest": "2026-10-06T00:00:00Z",
+            "recent180": 28,
+            "ok": true
+          },
+          {
+            "url": "https://www.eff.org/rss/updates.xml",
+            "sites": [
+              "legis"
+            ],
+            "checkedAt": "2026-10-15T09:10:36.944773Z",
+            "effectiveUrl": "https://www.eff.org/rss/updates.xml",
+            "title": "Deeplinks",
+            "items": 50,
+            "latest": "2026-10-14T23:21:37Z",
+            "recent180": 50,
+            "ok": true
+          },
+          {
+            "url": "https://www.fast.ai/index.xml",
+            "sites": [
+              "study"
+            ],
+            "checkedAt": "2026-10-15T09:10:34.236908Z",
+            "effectiveUrl": "https://www.fast.ai/index.xml",
+            "title": "fast.ai",
+            "items": 20,
+            "latest": "2026-08-17T14:00:00Z",
+            "recent180": 1,
+            "ok": true
+          },
+          {
+            "url": "https://www.lawfaremedia.org/feeds/cybersecurity-tech",
+            "sites": [
+              "legis"
+            ],
+            "checkedAt": "2026-10-15T09:10:23.684502Z",
+            "effectiveUrl": "https://www.lawfaremedia.org/feeds/cybersecurity-tech",
+            "title": "Cybersecurity & Tech",
+            "items": 1,
+            "latest": "2026-10-14T13:19:05Z",
+            "recent180": 1,
+            "ok": true
+          },
+          {
+            "url": "https://www.lennysnewsletter.com/feed",
+            "sites": [
+              "personal"
+            ],
+            "checkedAt": "2026-10-15T09:10:26.010224Z",
+            "effectiveUrl": "https://www.lennysnewsletter.com/feed",
+            "title": "Lenny's Newsletter",
+            "items": 20,
+            "latest": "2026-10-14T12:04:05Z",
+            "recent180": 20,
+            "ok": true
+          },
+          {
+            "url": "https://www.logonews.cn/feed",
+            "sites": [
+              "piggytuck"
+            ],
+            "checkedAt": "2026-10-15T09:10:27.024959Z",
+            "effectiveUrl": "https://www.logonews.cn/feed",
+            "title": "标志情报局",
+            "items": 10,
+            "latest": "2026-10-15T04:29:02Z",
+            "recent180": 10,
+            "ok": true
+          },
+          {
+            "url": "https://www.nature.com/nature.rss",
+            "sites": [
+              "scholay-today"
+            ],
+            "checkedAt": "2026-10-15T09:10:29.655122Z",
+            "effectiveUrl": "https://www.nature.com/nature.rss",
+            "title": "Nature",
+            "items": 75,
+            "latest": "2026-10-15T00:00:00Z",
+            "recent180": 75,
+            "ok": true
+          },
+          {
+            "url": "https://www.nngroup.com/feed/rss/",
+            "sites": [
+              "personal"
+            ],
+            "checkedAt": "2026-10-15T09:10:26.840601Z",
+            "effectiveUrl": "https://www.nngroup.com/feed/rss/",
+            "title": "NN/g latest articles and announcements",
+            "items": 20,
+            "latest": "2026-10-09T17:00:00Z",
+            "recent180": 20,
+            "ok": true
+          },
+          {
+            "url": "https://www.nstc.gov.tw/nstc/rss/events",
+            "sites": [
+              "scholay-today"
+            ],
+            "checkedAt": "2026-10-15T09:10:27.601744Z",
+            "effectiveUrl": "https://www.nstc.gov.tw/nstc/rss/events",
+            "title": "國家科學及技術委員會 - 研討會及活動訊息",
+            "items": 30,
+            "latest": "2026-10-12T16:00:00Z",
+            "recent180": 29,
+            "ok": true
+          },
+          {
+            "url": "https://www.ruanyifeng.com/blog/atom.xml",
+            "sites": [
+              "personal"
+            ],
+            "checkedAt": "2026-10-15T09:10:28.676551Z",
+            "effectiveUrl": "https://www.ruanyifeng.com/blog/atom.xml",
+            "title": "阮一峰的网络日志",
+            "items": 3,
+            "latest": "2026-10-08T15:04:46Z",
+            "recent180": 3,
+            "ok": true
+          },
+          {
+            "url": "https://www.smashingmagazine.com/feed/",
+            "sites": [
+              "piggytuck"
+            ],
+            "checkedAt": "2026-10-15T09:10:30.278087Z",
+            "effectiveUrl": "https://www.smashingmagazine.com/feed/",
+            "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+            "items": 40,
+            "latest": "2026-10-06T10:00:00Z",
+            "recent180": 40,
+            "ok": true
+          },
+          {
+            "url": "https://www.svpg.com/feed/",
+            "sites": [
+              "personal"
+            ],
+            "checkedAt": "2026-10-15T09:10:30.603971Z",
+            "effectiveUrl": "https://www.svpg.com/feed/",
+            "title": "Silicon Valley Product Group",
+            "items": 15,
+            "latest": "2026-10-12T15:24:29Z",
+            "recent180": 7,
+            "ok": true
+          },
+          {
+            "url": "https://www.thisiscolossal.com/feed/",
+            "sites": [
+              "piggytuck"
+            ],
+            "checkedAt": "2026-10-15T09:10:32.735498Z",
+            "effectiveUrl": "https://www.thisiscolossal.com/feed/",
+            "title": "Colossal",
+            "items": 10,
+            "latest": "2026-10-14T19:37:26Z",
+            "recent180": 10,
+            "ok": true
+          },
+          {
+            "url": "https://www.whole-dog-journal.com/feed/",
+            "sites": [
+              "pets"
+            ],
+            "checkedAt": "2026-10-15T09:10:30.948507Z",
+            "effectiveUrl": "https://www.whole-dog-journal.com/feed/",
+            "title": "Whole Dog Journal",
+            "items": 12,
+            "latest": "2026-10-14T10:22:10Z",
+            "recent180": 12,
+            "ok": true
+          },
+          {
+            "url": "https://www.wipo.int/pressroom/en/rss.xml",
+            "sites": [
+              "legis"
+            ],
+            "checkedAt": "2026-10-15T09:10:32.796943Z",
+            "effectiveUrl": "https://www.wipo.int/pressroom/en/rss.xml",
+            "title": "WIPO Press Releases",
+            "items": 10,
+            "latest": "2026-10-14T10:00:00Z",
+            "recent180": 10,
+            "ok": true
+          },
+          {
+            "url": "https://www.zotero.org/blog/feed/",
+            "sites": [
+              "enter"
+            ],
+            "checkedAt": "2026-10-15T09:10:33.208628Z",
+            "effectiveUrl": "https://www.zotero.org/blog/feed/",
+            "title": "Zotero",
+            "items": 10,
+            "latest": "2026-10-05T16:34:57Z",
+            "recent180": 2,
+            "ok": true
+          }
+        ]
+      },
+      {
+        "checkedAt": "2026-10-15T09:12:04.571274Z",
+        "nativeCore": true,
+        "ok": true,
+        "sources": [
+          {
+            "url": "https://blog.datacite.org/feed/",
+            "sites": [
+              "enter"
+            ],
+            "checkedAt": "2026-10-15T09:11:55.852798Z",
+            "effectiveUrl": "https://datacite.org/blog/feed/",
+            "title": "DataCite Blog - DataCite",
+            "items": 10,
+            "latest": "2026-09-16T09:30:39Z",
+            "recent180": 10,
+            "ok": true
+          },
+          {
+            "url": "https://carpentries.org/blog/index.xml",
+            "sites": [
+              "scholay-today",
+              "enter"
+            ],
+            "checkedAt": "2026-10-15T09:11:55.852798Z",
+            "effectiveUrl": "https://carpentries.org/blog/index.xml",
+            "title": "Blog on The Carpentries",
+            "items": 2922,
+            "latest": "2026-10-08T00:00:00Z",
+            "recent180": 21,
+            "ok": true
+          }
+        ]
+      }
+    ]
+  }
+}

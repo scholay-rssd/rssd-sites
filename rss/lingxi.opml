@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>today · lingxi · RSS 2026-10-13</title>
+  </head>
+  <body>
+    <outline text="中文输入方案" title="中文输入方案">
+      <outline type="rss" text="Mintimate/oh-my-rime · 提交" title="Mintimate/oh-my-rime · 提交" xmlUrl="https://github.com/Mintimate/oh-my-rime/commits/HEAD.atom" />
+      <outline type="rss" text="amzxyz/rime_wanxiang · 提交" title="amzxyz/rime_wanxiang · 提交" xmlUrl="https://github.com/amzxyz/rime_wanxiang/commits/HEAD.atom" />
+      <outline type="rss" text="gaboolic/rime-frost · 提交" title="gaboolic/rime-frost · 提交" xmlUrl="https://github.com/gaboolic/rime-frost/commits/HEAD.atom" />
+      <outline type="rss" text="rime/rime-bopomofo · 提交" title="rime/rime-bopomofo · 提交" xmlUrl="https://github.com/rime/rime-bopomofo/commits/HEAD.atom" />
+      <outline type="rss" text="rime/rime-cangjie · 提交" title="rime/rime-cangjie · 提交" xmlUrl="https://github.com/rime/rime-cangjie/commits/HEAD.atom" />
+      <outline type="rss" text="rime/rime-double-pinyin · 提交" title="rime/rime-double-pinyin · 提交" xmlUrl="https://github.com/rime/rime-double-pinyin/commits/HEAD.atom" />
+      <outline type="rss" text="rime/rime-essay · 提交" title="rime/rime-essay · 提交" xmlUrl="https://github.com/rime/rime-essay/commits/HEAD.atom" />
+      <outline type="rss" text="rime/rime-luna-pinyin · 提交" title="rime/rime-luna-pinyin · 提交" xmlUrl="https://github.com/rime/rime-luna-pinyin/commits/HEAD.atom" />
+      <outline type="rss" text="rime/rime-prelude · 提交" title="rime/rime-prelude · 提交" xmlUrl="https://github.com/rime/rime-prelude/commits/HEAD.atom" />
+      <outline type="rss" text="rime/rime-stroke · 提交" title="rime/rime-stroke · 提交" xmlUrl="https://github.com/rime/rime-stroke/commits/HEAD.atom" />
+      <outline type="rss" text="rime/rime-terra-pinyin · 提交" title="rime/rime-terra-pinyin · 提交" xmlUrl="https://github.com/rime/rime-terra-pinyin/commits/HEAD.atom" />
+      <outline type="rss" text="rime/rime-wubi · 提交" title="rime/rime-wubi · 提交" xmlUrl="https://github.com/rime/rime-wubi/commits/HEAD.atom" />
+    </outline>
+    <outline text="中文输入法与方案" title="中文输入法与方案">
+      <outline type="rss" text="fcitx5-android/fcitx5-android · 提交" title="fcitx5-android/fcitx5-android · 提交" xmlUrl="https://github.com/fcitx5-android/fcitx5-android/commits/HEAD.atom" />
+      <outline type="rss" text="rime/rime-cantonese · 提交" title="rime/rime-cantonese · 提交" xmlUrl="https://github.com/rime/rime-cantonese/commits/HEAD.atom" />
+      <outline type="rss" text="rime/rime-soutzoe · 提交" title="rime/rime-soutzoe · 提交" xmlUrl="https://github.com/rime/rime-soutzoe/commits/HEAD.atom" />
+      <outline type="rss" text="rime/rime-wugniu · 提交" title="rime/rime-wugniu · 提交" xmlUrl="https://github.com/rime/rime-wugniu/commits/HEAD.atom" />
+    </outline>
+    <outline text="中文输入法项目" title="中文输入法项目">
+      <outline type="rss" text="fcitx/fcitx5-chinese-addons · 发布" title="fcitx/fcitx5-chinese-addons · 发布" xmlUrl="https://github.com/fcitx/fcitx5-chinese-addons/releases.atom" />
+      <outline type="rss" text="fcitx/fcitx5-macos · 发布" title="fcitx/fcitx5-macos · 发布" xmlUrl="https://github.com/fcitx/fcitx5-macos/releases.atom" />
+      <outline type="rss" text="fcitx/fcitx5-rime · 发布" title="fcitx/fcitx5-rime · 发布" xmlUrl="https://github.com/fcitx/fcitx5-rime/releases.atom" />
+      <outline type="rss" text="ibus/ibus · 发布" title="ibus/ibus · 发布" xmlUrl="https://github.com/ibus/ibus/releases.atom" />
+      <outline type="rss" text="libpinyin/libpinyin · 发布" title="libpinyin/libpinyin · 发布" xmlUrl="https://github.com/libpinyin/libpinyin/releases.atom" />
+      <outline type="rss" text="rime/ibus-rime · 发布" title="rime/ibus-rime · 发布" xmlUrl="https://github.com/rime/ibus-rime/releases.atom" />
+      <outline type="rss" text="rime/squirrel · 提交" title="rime/squirrel · 提交" xmlUrl="https://github.com/rime/squirrel/commits/HEAD.atom" />
+    </outline>
+    <outline text="客制化键盘与速录" title="客制化键盘与速录">
+      <outline type="rss" text="jtroo/kanata · 发布" title="jtroo/kanata · 发布" xmlUrl="https://github.com/jtroo/kanata/releases.atom" />
+      <outline type="rss" text="kmonad/kmonad · 发布" title="kmonad/kmonad · 发布" xmlUrl="https://github.com/kmonad/kmonad/releases.atom" />
+      <outline type="rss" text="openstenoproject/plover · 发布" title="openstenoproject/plover · 发布" xmlUrl="https://github.com/openstenoproject/plover/releases.atom" />
+      <outline type="rss" text="qmk/qmk_firmware · 发布" title="qmk/qmk_firmware · 发布" xmlUrl="https://github.com/qmk/qmk_firmware/releases.atom" />
+      <outline type="rss" text="the-via/releases · 发布" title="the-via/releases · 发布" xmlUrl="https://github.com/the-via/releases/releases.atom" />
+      <outline type="rss" text="vial-kb/vial-gui · 发布" title="vial-kb/vial-gui · 发布" xmlUrl="https://github.com/vial-kb/vial-gui/releases.atom" />
+      <outline type="rss" text="zmkfirmware/zmk · 发布" title="zmkfirmware/zmk · 发布" xmlUrl="https://github.com/zmkfirmware/zmk/releases.atom" />
+    </outline>
+    <outline text="客制化键盘开团与社区" title="客制化键盘开团与社区">
+      <outline type="rss" text="KBDfans® Mechanical Keyboards Store - News" title="KBDfans® Mechanical Keyboards Store - News" xmlUrl="https://kbdfans.com/blogs/news.atom" />
+      <outline type="rss" text="KeebTalk - Latest topics" title="KeebTalk - Latest topics" xmlUrl="https://www.keebtalk.com/latest.rss" />
+      <outline type="rss" text="Keychron - News" title="Keychron - News" xmlUrl="https://www.keychron.com/blogs/news.atom" />
+      <outline type="rss" text="geekhack - Group Buys and Preorders" title="geekhack - Group Buys and Preorders" xmlUrl="https://geekhack.org/index.php?action=.xml;type=rss;board=70.0" />
+      <outline type="rss" text="geekhack - Interest Checks" title="geekhack - Interest Checks" xmlUrl="https://geekhack.org/index.php?action=.xml;type=rss;board=132.0" />
+      <outline type="rss" text="splitkb.com blog" title="splitkb.com blog" xmlUrl="https://blog.splitkb.com/rss/" />
+    </outline>
+    <outline text="灵犀输入法·公开进展" title="灵犀输入法·公开进展">
+      <outline type="rss" text="scholay/rimes · 发布" title="scholay/rimes · 发布" xmlUrl="https://github.com/scholay/rimes/releases.atom" />
+      <outline type="rss" text="scholay/rimes · 提交" title="scholay/rimes · 提交" xmlUrl="https://github.com/scholay/rimes/commits/main.atom" />
+    </outline>
+    <outline text="输入与键盘历史·速录" title="输入与键盘历史·速录">
+      <outline type="rss" text="CHM" title="CHM" xmlUrl="https://computerhistory.org/feed/" />
+    </outline>
+    <outline text="输入法皮肤" title="输入法皮肤">
+      <outline type="rss" text="LEOYoon-Tsaw/Squirrel-Designer · 提交" title="LEOYoon-Tsaw/Squirrel-Designer · 提交" xmlUrl="https://github.com/LEOYoon-Tsaw/Squirrel-Designer/commits/HEAD.atom" />
+      <outline type="rss" text="Mintimate/RimeTheme · 提交" title="Mintimate/RimeTheme · 提交" xmlUrl="https://github.com/Mintimate/RimeTheme/commits/HEAD.atom" />
+      <outline type="rss" text="catppuccin/fcitx5 · 提交" title="catppuccin/fcitx5 · 提交" xmlUrl="https://github.com/catppuccin/fcitx5/commits/HEAD.atom" />
+      <outline type="rss" text="hosxy/Fcitx5-Material-Color · 提交" title="hosxy/Fcitx5-Material-Color · 提交" xmlUrl="https://github.com/hosxy/Fcitx5-Material-Color/commits/HEAD.atom" />
+      <outline type="rss" text="puddinging/rime-skin · 提交" title="puddinging/rime-skin · 提交" xmlUrl="https://github.com/puddinging/rime-skin/commits/HEAD.atom" />
+      <outline type="rss" text="shaochenshi/rime_skin · 提交" title="shaochenshi/rime_skin · 提交" xmlUrl="https://github.com/shaochenshi/rime_skin/commits/HEAD.atom" />
+      <outline type="rss" text="ssnhd/rime · 提交" title="ssnhd/rime · 提交" xmlUrl="https://github.com/ssnhd/rime/commits/HEAD.atom" />
+      <outline type="rss" text="tom2almighty/rime-theme · 提交" title="tom2almighty/rime-theme · 提交" xmlUrl="https://github.com/tom2almighty/rime-theme/commits/HEAD.atom" />
+    </outline>
+  </body>
+</opml>

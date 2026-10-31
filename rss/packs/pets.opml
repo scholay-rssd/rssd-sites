@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>小猪萌宠订阅</title>
+  </head>
+  <body>
+    <outline text="宠物资讯">
+      <outline text="GlobalPETS" title="GlobalPETS" type="rss" xmlUrl="https://globalpetindustry.com/feed/" />
+      <outline text="Companion Animal Psychology" title="Companion Animal Psychology" type="rss" xmlUrl="https://www.companionanimalpsychology.com/feeds/posts/default" />
+    </outline>
+    <outline text="每日一猫">
+      <outline text="Catster" title="Catster" type="rss" xmlUrl="https://www.catster.com/feed/" />
+    </outline>
+    <outline text="每日一狗">
+      <outline text="Whole Dog Journal" title="Whole Dog Journal" type="rss" xmlUrl="https://www.whole-dog-journal.com/feed/" />
+    </outline>
+    <outline text="异宠大全">
+      <outline text="Rabbit.org" title="Rabbit.org" type="rss" xmlUrl="https://rabbit.org/feed/" />
+      <outline text="Reptiles Magazine" title="Reptiles Magazine" type="rss" xmlUrl="https://reptilesmagazine.com/feed/" />
+    </outline>
+  </body>
+</opml>

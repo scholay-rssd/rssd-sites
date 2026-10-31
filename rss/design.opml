@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>today · design · RSS 2026-10-13</title>
+  </head>
+  <body>
+    <outline text="中文设计观察" title="中文设计观察">
+      <outline type="rss" text="标志情报局" title="标志情报局" xmlUrl="https://www.logonews.cn/feed" />
+    </outline>
+    <outline text="字体与排版" title="字体与排版">
+      <outline type="rss" text="Fonts In Use – Type at work in the real world" title="Fonts In Use – Type at work in the real world" xmlUrl="https://fontsinuse.com/main.rss" />
+      <outline type="rss" text="I Love Typography Ltd" title="I Love Typography Ltd" xmlUrl="https://ilovetypography.com/feed/" />
+    </outline>
+    <outline text="视觉传达·设计资讯" title="视觉传达·设计资讯">
+      <outline type="rss" text="Colossal" title="Colossal" xmlUrl="https://www.thisiscolossal.com/feed/" />
+      <outline type="rss" text="Core77" title="Core77" xmlUrl="https://www.core77.com/rss.xml" />
+      <outline type="rss" text="Creative Boom" title="Creative Boom" xmlUrl="https://www.creativeboom.com/feed/" />
+      <outline type="rss" text="Creative Review" title="Creative Review" xmlUrl="https://www.creativereview.co.uk/feed/" />
+      <outline type="rss" text="Design MilkDesign Milk" title="Design MilkDesign Milk" xmlUrl="https://design-milk.com/feed/" />
+      <outline type="rss" text="Design | Dezeen" title="Design | Dezeen" xmlUrl="https://www.dezeen.com/design/feed/" />
+      <outline type="rss" text="Latest from Wallpaper" title="Latest from Wallpaper" xmlUrl="https://www.wallpaper.com/feeds.xml" />
+      <outline type="rss" text="PRINT Magazine" title="PRINT Magazine" xmlUrl="https://www.printmag.com/feed/" />
+      <outline type="rss" text="Yanko Design" title="Yanko Design" xmlUrl="https://www.yankodesign.com/feed/" />
+      <outline type="rss" text="designboom | architecture &amp; design magazine" title="designboom | architecture &amp; design magazine" xmlUrl="https://www.designboom.com/feed/" />
+      <outline type="rss" text="urdesignmag" title="urdesignmag" xmlUrl="https://www.urdesignmag.com/feed/" />
+    </outline>
+    <outline text="设计历史·展览与机构" title="设计历史·展览与机构">
+      <outline type="rss" text="Cooper Hewitt, Smithsonian Design Museum" title="Cooper Hewitt, Smithsonian Design Museum" xmlUrl="https://www.cooperhewitt.org/feed/" />
+      <outline type="rss" text="ICON Magazine" title="ICON Magazine" xmlUrl="https://www.iconeye.com/feed/" />
+      <outline type="rss" text="V&amp;A Blog" title="V&amp;A Blog" xmlUrl="https://www.vam.ac.uk/blog/feed" />
+    </outline>
+  </body>
+</opml>

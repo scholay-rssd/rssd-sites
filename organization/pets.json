@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "siteId": "pets",
+  "sections": [
+    {
+      "id": "pet-news",
+      "name": "宠物资讯",
+      "description": "宠物资讯、活动与共同生活。",
+      "includes": [
+        "column-1",
+        "column-2",
+        "column-4",
+        "column-5"
+      ]
+    },
+    {
+      "id": "daily-cat",
+      "name": "每日一猫",
+      "description": "猫的知识、观察与故事。",
+      "includes": []
+    },
+    {
+      "id": "daily-dog",
+      "name": "每日一狗",
+      "description": "狗的知识、观察与故事。",
+      "includes": []
+    },
+    {
+      "id": "exotic-pets",
+      "name": "异宠大全",
+      "description": "异宠知识与资料。",
+      "includes": [
+        "column-3"
+      ]
+    }
+  ],
+  "hubs": [],
+  "bindings": []
+}

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>today / academic / 板块补充</title>
+  </head>
+  <body>
+    <outline text="课程资源·培训通知" title="课程资源·培训通知">
+      <outline text="NCRM · 即将举办的科研方法培训" title="NCRM · 即将举办的科研方法培训" type="rss" xmlUrl="https://www.ncrm.ac.uk/training/rss/rss.php?id=0c06e0c1146738fc23461a5a45cdfc43" htmlUrl="https://www.ncrm.ac.uk/training/index.php?search_type=advanced&amp;show=20" />
+    </outline>
+    <outline text="项目合作·联合资助征集" title="项目合作·联合资助征集">
+      <outline text="Calls Swedish Research Council" title="Calls Swedish Research Council" type="rss" xmlUrl="https://www.vr.se/4.4f3e672a18df2c1c2d21dbef/12.4f3e672a18df2c1c2d21dbff.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" htmlUrl="https://www.vr.se/4.4f3e672a18df2c1c2d21dbef/12.4f3e672a18df2c1c2d21dbff.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+    </outline>
+  </body>
+</opml>

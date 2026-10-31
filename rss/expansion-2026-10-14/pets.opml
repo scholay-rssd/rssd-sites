@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>today pets RSS 增量 2026-10-14</title>
+  </head>
+  <body>
+    <outline text="异宠大全·专业照护" title="异宠大全·专业照护">
+      <outline type="rss" text="Oxbow Animal Health" title="Oxbow Animal Health" xmlUrl="https://oxbowanimalhealth.com/feed/" />
+      <outline type="rss" text="Amphibian and Reptile Conservancy" title="Amphibian and Reptile Conservancy" xmlUrl="https://arcprotects.org/feed/" />
+      <outline type="rss" text="Reptiles Magazine" title="Reptiles Magazine" xmlUrl="https://reptilesmagazine.com/feed/" />
+      <outline type="rss" text="The Tortoise Trust" title="The Tortoise Trust" xmlUrl="https://www.tortoisetrust.com/blog-feed.xml" />
+      <outline type="rss" text="The Unusual Pet Vets" title="The Unusual Pet Vets" xmlUrl="https://www.unusualpetvets.com.au/feed/" />
+    </outline>
+    <outline text="异宠大全·小宠与水族" title="异宠大全·小宠与水族">
+      <outline type="rss" text="The Bunny Lady" title="The Bunny Lady" xmlUrl="https://bunnylady.com/feed/" />
+      <outline type="rss" text="Reef Builders | The Reef and Saltwater Aquarium Blog" title="Reef Builders | The Reef and Saltwater Aquarium Blog" xmlUrl="https://reefbuilders.com/feed/" />
+      <outline type="rss" text="Guinea Pig Magazine" title="Guinea Pig Magazine" xmlUrl="https://www.guineapigmagazine.com/feed/" />
+    </outline>
+    <outline text="每日一猫" title="每日一猫">
+      <outline type="rss" text="Pawesome Cats" title="Pawesome Cats" xmlUrl="https://pawesomecats.com/feed/" />
+      <outline type="rss" text="Katzenworld" title="Katzenworld" xmlUrl="https://katzenworld.co.uk/feed/" />
+      <outline type="rss" text="Home | felineopines" title="Home | felineopines" xmlUrl="https://felineopines.net/feed/" />
+    </outline>
+    <outline text="每日一狗" title="每日一狗">
+      <outline type="rss" text="McConnell Publishing Inc." title="McConnell Publishing Inc." xmlUrl="https://www.patriciamcconnell.com/feed/" />
+      <outline type="rss" text="Puppy Leaks" title="Puppy Leaks" xmlUrl="https://puppyleaks.com/feed/" />
+      <outline type="rss" text="Dogs" title="Dogs" xmlUrl="https://www.preventivevet.com/dogs/rss.xml" />
+      <outline type="rss" text="Dogs Inc" title="Dogs Inc" xmlUrl="https://dogsinc.org/feed/" />
+    </outline>
+  </body>
+</opml>

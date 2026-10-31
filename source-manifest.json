@@ -1,0 +1,626 @@
+{
+  "version": 1,
+  "sourceScope": "reviewed-working-files-without-private-history",
+  "files": [
+    {
+      "path": "analytics.json",
+      "sha256": "20d51ee0180d21f3383bf9a35a5789ab25f17c29a8b04520adb6fc221c2a15d0",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/academic.png",
+      "sha256": "aa551dfb28a6ff9c895ef4a688c0e7b86fb8478571753f04f9471b5c107705df",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/assets.mjs",
+      "sha256": "c4e37edcb95cdf81271ab09fa643d5c82288804b83af33e4f346b6f7b757796f",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/design.jpg",
+      "sha256": "5fba2223ba1903c15ff2ae54019caf45f2c4323993d9684ba73b873f838e9090",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/enter-bw-v8-180.png",
+      "sha256": "e7dc4215c2358f490d93c30909543bb81b87ec7a89b39979b3e340fb6073399c",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/enter-bw-v8-32.png",
+      "sha256": "5733826656916be16a977255ed471b02baa810d8360e260bdc4f06151dbf7a14",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/enter-bw-v8.ico",
+      "sha256": "0b74f720d31071791d99ac3dde2e38a2d8764ed935c6ba026a9c54a23c84509a",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/enter-bw-v8.webp",
+      "sha256": "ad5bc2351a95b2c74fec1b6a5166b4150a210872b5e4112d57dd4841359b935d",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/legis-bw-v8-180.png",
+      "sha256": "0b0e2f51779d9b2d3b829683351a1abd3a74dcbe4e35ba175bad53d6653cdd23",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/legis-bw-v8-32.png",
+      "sha256": "f654b77c2cc6396e6126bc63644f7d5a9a0e8524f2c761bb8c6c8e9706bd9bce",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/legis-bw-v8.ico",
+      "sha256": "b6d3ede776585f17cf548b6fe687f097e8421e7d44876f0580eb0a2b580bb702",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/legis-bw-v8.webp",
+      "sha256": "cbe455021be62ab28721591b45cb1f9111e04dc4349f6e617afa67bb0fb98bcd",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/lingxi-bw-v8-180.png",
+      "sha256": "94efe93dadea5e03f4b6eeed75bc8287b08cd372d856606970e2fb9b3261c519",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/lingxi-bw-v8-32.png",
+      "sha256": "722bff2444fdf9ded0a3e0b97fdb2a2e73ba3f182e7df35f1433ebeaea994f99",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/lingxi-bw-v8.ico",
+      "sha256": "40174da4fb585e1d4f62d0eb607069cccc1307327cc6fa11fe373047b336194d",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/lingxi-bw-v8.webp",
+      "sha256": "ca1ee201ab9d3d141a41d325b671c5664d12e860e625da44e32b1a92198f147f",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/lingxi.webp",
+      "sha256": "e4972ef3247446c17538ad0dc673eafe8289f693978f91328ab0e8e2e669e242",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/manifest.json",
+      "sha256": "8d861de6634786f3cc7d9cd433efc338f8304917cff586897c1b267cd44f70e1",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/metho-bw-v8-180.png",
+      "sha256": "7b80fdf1c110c049748f9a1ef9ab35d1ed0bcbb60cc0a4b13207ba3d2cd8085e",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/metho-bw-v8-32.png",
+      "sha256": "21ecc43a45ba74db9df2cf746cc56de1c7e7fa57075d6eeb414734de048d8e7a",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/metho-bw-v8.ico",
+      "sha256": "f52a8b4d789d32d51bd2820241d54025612b39e23f795dcbc77a536dae9f37aa",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/metho-bw-v8.webp",
+      "sha256": "3f9946211a233e63a641968318d433a1df5a9c62c20f2b2a3941d959ab687fcd",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/personal-bw-v8-180.png",
+      "sha256": "40ca5c8a375921470fa0563d951306f828cafb912c7d8c670e1caac18737aca3",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/personal-bw-v8-32.png",
+      "sha256": "44edb42499c1b2daddbd34936d7a90d55eb42b2d44c7207af0626740015c9662",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/personal-bw-v8.ico",
+      "sha256": "4818422479782d89b51371dbd66bf47d71795fa8c370362e7355165c67a9fec8",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/personal-bw-v8.webp",
+      "sha256": "4d6fac2c925a1cfb811caed3cbd65ed97da5ce6fcdce79fbe195cc10fc708327",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/personal.svg",
+      "sha256": "89f23e09f0d31b419bc2838dc3d6a1c37bf12209e6691fe3dbe645f3e5349fc3",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/pets-bw-v8-180.png",
+      "sha256": "da75b07612ff7b6bfddf5238eb8e7353b839163eaf157ca3e076837b477639b6",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/pets-bw-v8-32.png",
+      "sha256": "1a279c6bbcb9a438a3fdab9ea78389d4fb824a13c1af057e90f76efae9d0284d",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/pets-bw-v8.ico",
+      "sha256": "bf6beaf819bfdda2826e61d2ac12fee90f41abed9283bec203dc79c0f4cc2b75",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/pets-bw-v8.webp",
+      "sha256": "69e4044c5baf3f727c47ee4056fc5748bbaa0133f5510fdba0fd9bfeae33d3c9",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/pets.png",
+      "sha256": "bd0b2a06ab5e3180f793b0fbcba518390b920e34f8df531903eb0beb4776567f",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/piggytuck-bw-v8-180.png",
+      "sha256": "78e642100dca263d36e3c58b066139b22f23dd879ae814f308472a7408a6eb52",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/piggytuck-bw-v8-32.png",
+      "sha256": "f19ac396b9afd13efe4f76b526758ca4b1b097a76c8ab897c93046dca950d060",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/piggytuck-bw-v8.ico",
+      "sha256": "0d28f6dab230f97b8ac25d46b2b54ed59723194c8acbe219bb9fa0db889e4bde",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/piggytuck-bw-v8.webp",
+      "sha256": "dd506c6691cd06fbfd92c0d95a313a52cfcd153b1fdf89355e3bb0dd7098e7e9",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/source/approved-bw-v8.png",
+      "sha256": "14c658bb06c348d8feedd45ed24e95a0ea241fdc0d2421ecba4e8ab7dc5a71ae",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/source/lingxi-horn.svg",
+      "sha256": "4c5e20c62e70f882b5acb1512f8ec1f338a050d92f7abe3097ff858b91f86ab6",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/source/xsiching-geometry.svg",
+      "sha256": "7635f6a8e226cad946a48849e67a331aa7c12711230631895bac78b28647e599",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/study-bw-v8-180.png",
+      "sha256": "0c9636eb801ecd91f5250ae62e1655d47ee26ff38ce9c3b6dafcf9f0d5ad9820",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/study-bw-v8-32.png",
+      "sha256": "584a2aeeb94b59b2c7dadef29cb966f41bc1592775d7a42192d38aa595f140b1",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/study-bw-v8.ico",
+      "sha256": "b8137324be30c5e7d18c208cdaf09910d7143a6ee3c59588ec4cf4ac3b220e5b",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/study-bw-v8.webp",
+      "sha256": "3a715ab949ca17212ec8ba6100301fb42bcd645422d1a6f13fa5cf48b4b7ac63",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/xsiching-bw-v8-180.png",
+      "sha256": "bc7fd260319ef7f5a218cea48bf1695ecf487be37138cec60c4f3bae0a4559b2",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/xsiching-bw-v8-32.png",
+      "sha256": "7e10e2c4f8020b00629e727fd1526566c8975658f997c5f3cb715775cbfdaf15",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/xsiching-bw-v8.ico",
+      "sha256": "c117a5a6a64cd7087e429671022fca2aa3b0dd8c211363ff1d2ba835bad4537c",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "branding/xsiching-bw-v8.webp",
+      "sha256": "27ed23ed68d125e3a3262d181cc8052ecc4b1bf890050426ceb05c7b5f99a43a",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "domain-redirects.json",
+      "sha256": "e17df28db6d92749e21fd36d88eb7ee8da1a46405939bd5b466f7d0f2eeac758",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "knowledge/pets.json",
+      "sha256": "4f950b3485ff2af4bf499e8f6e966c6c8642e346f22288c5db9d1a3a5a8abd19",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "organization/enter.json",
+      "sha256": "9d169c8745404dad0ba3a908e5460ea169c5a9583911373f328138c3dcc288d9",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "organization/legis.json",
+      "sha256": "258296f683df4b0bf7753b77aae4a0360518bd9b89591e4b8e2a9c41e81fa3b2",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "organization/lingxi.json",
+      "sha256": "0344269a8427e66fba971e80f1b7b7eef1160cb8c6f4176695390853b4947be8",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "organization/metho.json",
+      "sha256": "29e763c5d3eeefcc4247e59f9cfc035828c8f96c8ec439abbb8763c600100f68",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "organization/personal.json",
+      "sha256": "3b66f73e9f1923d08fa430d6f5148aea2e37eccdb6caf7e685ecd03156798c9d",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "organization/pets.json",
+      "sha256": "673569edd9009bd6cca88ba297751cb00d2256ade4b7b433c9a77d2309ed282e",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "organization/piggytuck.json",
+      "sha256": "4a32b77cd2b96806105d2be40bf8e04f2e9842d28906456125ef14067f9078b5",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "organization/scholay-today.json",
+      "sha256": "99b342a176f7160aef0b1ded700eb30524d8a6ba89684b928f52282e0be3dbaf",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "organization/study.json",
+      "sha256": "6c2a0270078625700c3fcacc8f585768723cf9c9b0db8d6bdaea413edc952e9b",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "organization/xsiching.json",
+      "sha256": "cf0aaf259cfd356dd2d90b2e57ba3b714661113fb7e025501b8e3f890d615ab9",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "profiles.json",
+      "sha256": "5b94527a15d8e0838235f324ac52420d48c349b0a2491b0d43f9032301fd9b08",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/README.md",
+      "sha256": "ebebbfea18a6984dfaf32d0233ba0b9e273ed6b1e3fce773d0fc62c282919b31",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/academic.opml",
+      "sha256": "c2e84d31f715fc1c07fed77da61d245e7a3dcd0279ae83ec29120e522b981ce2",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/acceptance-2026-10-14.md",
+      "sha256": "7234d1e6e69f403eb74538170a7b8fcdeac3e4abfb73b9588ca1701aaed4cb16",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/design.opml",
+      "sha256": "4bd8491c8435701f1311bec9cd914269af8faa2ef7940bd03b7528323206ab63",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-14/README.md",
+      "sha256": "929b94503ea490605138146c88416c4c4232368895d97a9ad0b56da4ee9a88b2",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-14/academic.opml",
+      "sha256": "f3877ff25e15e70afe740ef635c6a442be294897e3b7e2bdc29c6417b8af305b",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-14/acceptance.md",
+      "sha256": "889ef3345a6a6c1dcba5a6b2db3acdac50b03d2d70e32ea9140a3730e48a9c36",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-14/design.opml",
+      "sha256": "703582b2fc5719552a722694547be5124dd80aabec5a181c86442363c8d184ff",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-14/lingxi.opml",
+      "sha256": "8361e70bd2e0f286184efd2a0dbc98f59863ceda3a19a0b7a82668b0d54abec7",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-14/personal.opml",
+      "sha256": "70435da0ef2b67a16d20805fd0d2e1697bcb2bf5e60f0ae17898dc8faee7f1bf",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-14/pets.opml",
+      "sha256": "5a137060b72296b7ef29d9fbb8e4df458eebccb41c21a23fd73ff438bc699a5a",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-14/verified.json",
+      "sha256": "3352a2e0d08e0dff24bb25f148113fc2e1b77c913f3d964200cf81d6bf2be77f",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-16/README.txt",
+      "sha256": "09ef9046038b32f4b6a42ecdc08700fdd75d74ca6b4c4549875df23683efd3b0",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-16/academic.opml",
+      "sha256": "a1e73a0ba71c7fc342621d6d34092f9beb06d4eef18c71fcb79a24da449fea1b",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-16/catalog.json",
+      "sha256": "1fb56bb0250331f5b74b0729ec6976db56ef8a35c7ea5eeab37c8ba60161270e",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-16/design.opml",
+      "sha256": "f137700dc4f2464df29c0f6ec17cae9973c7d9bf44826720429a2efdfe8ab35c",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-16/enter.opml",
+      "sha256": "442204af4eb1a783f52c754ddc3d22971e26828674cd53559baacf2ce31bd60a",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-16/legis.opml",
+      "sha256": "42b26681eb68c0156bbf356746b1f6f4d19f888790c0bfe83bda56a3af64118b",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-16/lingxi.opml",
+      "sha256": "43c781972f201c32a42c779d080b55ae9e8c10ecea03ca9887cb84394ea052f4",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-16/metho.opml",
+      "sha256": "617bdcb08f2bb1f18634353eb6de4cddc3160c6ca9e8882eb89590ad7d2c0d91",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-16/personal.opml",
+      "sha256": "eb31fff5ef217cc044e40ab523f99d85599d40be94eb2e86ef58f2af3c386d93",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-16/pets.opml",
+      "sha256": "50e20b218f3dcfcbfe8d12648c7a7666bf1ceacaaf8a7dd6884942f8a62c7ba1",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-16/study.opml",
+      "sha256": "4373a4fd860e4877fad5e3e31101d1a8a13a47ab54bd5cb6fe05c4dc322031d7",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-16/verification.json",
+      "sha256": "24969ecc1bfdccc6db9a5732444698473a75ed4b05e7fc4405c3e71be025cdb4",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/expansion-2026-10-16/xsiching.opml",
+      "sha256": "aa5bfdc4470214e56e63d9fa3dd2367219af0c2133f979a0bdfc873af954d26e",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/lingxi.opml",
+      "sha256": "c0e60198a8854e9ab334e2b570ae2b8d706b20e986c6f77fe91feccfccd03fc9",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/packs/README.md",
+      "sha256": "ab53bdc6e24aa338616f5f7693ae099f7e3a8199267d6a5be27de59d521039c6",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/packs/catalog.json",
+      "sha256": "2bd2cca84303986472e182a956ffa01e860466c21d4649704061c2fe4c8bdb7c",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/packs/enter.opml",
+      "sha256": "66e6fd138af05df66836eb0b2f6cd0512c8878ef9bba8a759ea59e478e140eb0",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/packs/legis.opml",
+      "sha256": "5ee6d42cc88da1b9ec466e1e094beb0136f282dba16d6f93cf1bd9b9e9d45139",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/packs/lingxi.opml",
+      "sha256": "7d3c601d038f660d8910d92d8379152648b54f8fd54ed9224273a1ee1aabd491",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/packs/metho.opml",
+      "sha256": "522028ff571187db29bb8ee041994c680b508662ee8b022aff4ee5e4df15c1cc",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/packs/personal.opml",
+      "sha256": "e28c3070e3f6ca44fa1be6b419cc8c8f4aaa4da713558551445a55046ca7ad46",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/packs/pets.opml",
+      "sha256": "94ef0ee35a000eaf963161f5b9fc27af37b75dd6d5f9d071c9e53328fb3672d7",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/packs/piggytuck.opml",
+      "sha256": "85cc96c48fc52146354c4b05622ea4407c072aec2c50041bc2559abded50a88a",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/packs/scholay-today.opml",
+      "sha256": "21cddac2b1bd08f5b12f9d9ad999866e0258cb43e2c728138c21117806e2a640",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/packs/study.opml",
+      "sha256": "e6974fd17d87f4a8acec0a4cf161d5a188016dc24e0bd6d3f8241e2b0d26f476",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/packs/verification-2026-10-15.json",
+      "sha256": "bf8ce956e67e10fcd3142cac044082f3f531e6e3358a7a6c65d86dac76e5b962",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/packs/xsiching.opml",
+      "sha256": "c0250d26043522db1412fca0457224ae05ed53c986743035108e190abe7df3ed",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/personal.opml",
+      "sha256": "38a49cb193eed7643b7208d29623f1ffa29d53b284b5b885f60539185735328d",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/pets.opml",
+      "sha256": "402b42989efe2230d38aa31e80345c1383b6e2412dd4a154d2c1475d119924f3",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/sections-2026-10-14/README.md",
+      "sha256": "725f572cd8dc2c6e81747e115d3440caf31734969da992ed551a9ec34c768cc0",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/sections-2026-10-14/academic.opml",
+      "sha256": "e340e22b066d6d8c6865c3f08a123e96112860cb3d54c720b529395693f80577",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/sections-2026-10-14/acceptance.md",
+      "sha256": "f9e61234d8be503e5e7b07a3e02a1cf0530cc098d2dc198a3d4e8405734be620",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/sections-2026-10-14/catalog.json",
+      "sha256": "f8f5e27798a1b9a59c932a74ad1375904fe08c4604aa51f704e2522b07d9f747",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/sections-2026-10-14/coverage.md",
+      "sha256": "3a97758f61a6f3972c0fdc03fbea31ab78d18901c99abc2ee29fa2ab398c5bbd",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/sections-2026-10-14/design.opml",
+      "sha256": "89271063055be797a424fb72558c2c8714c3f5879f955e0939a73bcccbefcc7f",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/sections-2026-10-14/lingxi.opml",
+      "sha256": "1c037f7643aefdb3eb9c4f93185d60b3e858e5806b98c1ad26e6ea9474ce7dfa",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/sections-2026-10-14/personal.opml",
+      "sha256": "18a2ac21aa66cb0a1af20d80a70f377d6ee28aaeead6ca037ae4566db51089d0",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/sections-2026-10-14/pets.opml",
+      "sha256": "78f698ff934062b6e0d60aa09648a873df01b120e8a06b4601047a5e4c8525b1",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/sections-2026-10-14/verified-additions.json",
+      "sha256": "c7cdb0909be37051f60c8fc60ef46cc56ea3ecac0e9b164d677a2ebd656d0277",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/subscriptions.json",
+      "sha256": "3b5ec1c4bc148ee48de2da05aa071ea9d1b5fb0789caa727bd0252eea0827b92",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "rss/verified-2026-10-13.json",
+      "sha256": "b3ef893e353bee830c64dd2ccbad5c2350616cbeede4eb1fb10d96dc219f5a60",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "seeds/enter.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "syntheticContentReplacement": true
+    },
+    {
+      "path": "seeds/legis.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "syntheticContentReplacement": true
+    },
+    {
+      "path": "seeds/lingxi.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "syntheticContentReplacement": true
+    },
+    {
+      "path": "seeds/metho.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "syntheticContentReplacement": true
+    },
+    {
+      "path": "seeds/personal.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "syntheticContentReplacement": true
+    },
+    {
+      "path": "seeds/pets.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "syntheticContentReplacement": true
+    },
+    {
+      "path": "seeds/piggytuck.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "syntheticContentReplacement": true
+    },
+    {
+      "path": "seeds/study.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "syntheticContentReplacement": true
+    },
+    {
+      "path": "seeds/xsiching.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "syntheticContentReplacement": true
+    },
+    {
+      "path": "site-calendar.js",
+      "sha256": "4c12bd87885a266811bec7af1b25a102d7a49aa5f4484fe45f042e6d5bcaea49",
+      "syntheticContentReplacement": false
+    },
+    {
+      "path": "site-theme.css",
+      "sha256": "6dfc4f1a6ab54d6de0aaac4f2b942879de19d81060a7cb6696137cc38d4e1aef",
+      "syntheticContentReplacement": false
+    }
+  ]
+}

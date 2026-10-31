@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>智能学堂 · 100 个已验证扩增订阅</title>
+    <dateModified>2026-10-16T15:36:26.393080+00:00</dateModified>
+  </head>
+  <body>
+    <outline text="免费课程 · 开放教程" title="免费课程 · 开放教程">
+      <outline type="rss" text="Bayesian Spectacles" title="Bayesian Spectacles" xmlUrl="https://www.bayesianspectacles.org/feed/" htmlUrl="https://www.bayesianspectacles.org" />
+      <outline type="rss" text="DARIAH-EU: Events" title="DARIAH-EU: Events" xmlUrl="https://www.dariah.eu/feeds/events.xml" htmlUrl="https://www.dariah.eu/events" />
+      <outline type="rss" text="Data School" title="Data School" xmlUrl="https://www.dataschool.io/rss/" htmlUrl="https://www.dataschool.io/" />
+      <outline type="rss" text="DataTalksClub/machine-learning-zoomcamp · 项目更新" title="DataTalksClub/machine-learning-zoomcamp · 项目更新" xmlUrl="https://github.com/DataTalksClub/machine-learning-zoomcamp/commits/HEAD.atom" htmlUrl="https://github.com/DataTalksClub/machine-learning-zoomcamp/commits/12aff5a51359dd8fd56cc158044e679a8d38f0c4" />
+      <outline type="rss" text="Editage Insights" title="Editage Insights" xmlUrl="https://www.editage.com/insights/feed" htmlUrl="https://www.editage.com/insights/" />
+      <outline type="rss" text="Galaxy Training!" title="Galaxy Training!" xmlUrl="https://training.galaxyproject.org/training-material/feed.xml" htmlUrl="https://training.galaxyproject.org/training-material/" />
+      <outline type="rss" text="LibraryCarpentry/lc-data-intro · 项目更新" title="LibraryCarpentry/lc-data-intro · 项目更新" xmlUrl="https://github.com/LibraryCarpentry/lc-data-intro/commits/HEAD.atom" htmlUrl="https://github.com/LibraryCarpentry/lc-data-intro/commits/93dc7703bebdbb1784e505d92924090bfda8f85b" />
+      <outline type="rss" text="LibraryCarpentry/lc-open-refine · 项目更新" title="LibraryCarpentry/lc-open-refine · 项目更新" xmlUrl="https://github.com/LibraryCarpentry/lc-open-refine/commits/HEAD.atom" htmlUrl="https://github.com/LibraryCarpentry/lc-open-refine/commits/7c9289538cc4c296fc20ebaf1a9ddda893deb37c" />
+      <outline type="rss" text="Methods Blog" title="Methods Blog" xmlUrl="https://methodsblog.com/feed/" htmlUrl="https://methodsblog.com" />
+      <outline type="rss" text="Programming Historian" title="Programming Historian" xmlUrl="https://programminghistorian.org/feed.xml" htmlUrl="https://programminghistorian.org" />
+      <outline type="rss" text="R-bloggers" title="R-bloggers" xmlUrl="https://www.r-bloggers.com/feed/" htmlUrl="https://www.r-bloggers.com" />
+      <outline type="rss" text="Statistical Modeling, Causal Inference, and Social Science" title="Statistical Modeling, Causal Inference, and Social Science" xmlUrl="https://statmodeling.stat.columbia.edu/feed/" htmlUrl="https://statmodeling.stat.columbia.edu" />
+      <outline type="rss" text="Statology" title="Statology" xmlUrl="https://www.statology.org/feed/" htmlUrl="https://www.statology.org/" />
+      <outline type="rss" text="The Carpentries" title="The Carpentries" xmlUrl="https://carpentries.org/blog/index.xml" htmlUrl="https://carpentries.org/blog/" />
+      <outline type="rss" text="The Stata Blog" title="The Stata Blog" xmlUrl="https://blog.stata.com/feed/" htmlUrl="https://blog.stata.com/" />
+      <outline type="rss" text="carpentries/workbench · 项目更新" title="carpentries/workbench · 项目更新" xmlUrl="https://github.com/carpentries/workbench/commits/HEAD.atom" htmlUrl="https://github.com/carpentries/workbench/commits/0debd0fa5078280facc6c561ad7da95380917cdd" />
+      <outline type="rss" text="data-8/textbook · 项目更新" title="data-8/textbook · 项目更新" xmlUrl="https://github.com/data-8/textbook/commits/HEAD.atom" htmlUrl="https://github.com/data-8/textbook/commits/5235b7653f8dfaeb90e43419b9aa069322f2d60b" />
+      <outline type="rss" text="datacarpentry/R-ecology-lesson · 项目更新" title="datacarpentry/R-ecology-lesson · 项目更新" xmlUrl="https://github.com/datacarpentry/R-ecology-lesson/commits/HEAD.atom" htmlUrl="https://github.com/datacarpentry/R-ecology-lesson/commits/04c8e63f3e3a04db92cb10df19ce26e096bf8f52" />
+      <outline type="rss" text="microsoft/AI-For-Beginners · 项目更新" title="microsoft/AI-For-Beginners · 项目更新" xmlUrl="https://github.com/microsoft/AI-For-Beginners/commits/HEAD.atom" htmlUrl="https://github.com/microsoft/AI-For-Beginners/commits/392d0df1b2647cbee104942390551f1ed9e072c8" />
+      <outline type="rss" text="microsoft/Data-Science-For-Beginners · 项目更新" title="microsoft/Data-Science-For-Beginners · 项目更新" xmlUrl="https://github.com/microsoft/Data-Science-For-Beginners/commits/HEAD.atom" htmlUrl="https://github.com/microsoft/Data-Science-For-Beginners/commits/4d2ac427ad6f022e73a75c4f46a28bbb7978ec3f" />
+      <outline type="rss" text="microsoft/ML-For-Beginners · 项目更新" title="microsoft/ML-For-Beginners · 项目更新" xmlUrl="https://github.com/microsoft/ML-For-Beginners/commits/HEAD.atom" htmlUrl="https://github.com/microsoft/ML-For-Beginners/commits/de2d4e12236445198213a0711855e348e7253cd4" />
+      <outline type="rss" text="microsoft/generative-ai-for-beginners · 项目更新" title="microsoft/generative-ai-for-beginners · 项目更新" xmlUrl="https://github.com/microsoft/generative-ai-for-beginners/commits/HEAD.atom" htmlUrl="https://github.com/microsoft/generative-ai-for-beginners/commits/d45da91247ecb91e5346caacdd5a5fb9c5b9d85e" />
+      <outline type="rss" text="swcarpentry/python-novice-inflammation · 项目更新" title="swcarpentry/python-novice-inflammation · 项目更新" xmlUrl="https://github.com/swcarpentry/python-novice-inflammation/commits/HEAD.atom" htmlUrl="https://github.com/swcarpentry/python-novice-inflammation/commits/c789bb6f0e5fd719601498515a99380023c62891" />
+      <outline type="rss" text="swcarpentry/r-novice-gapminder · 项目更新" title="swcarpentry/r-novice-gapminder · 项目更新" xmlUrl="https://github.com/swcarpentry/r-novice-gapminder/commits/HEAD.atom" htmlUrl="https://github.com/swcarpentry/r-novice-gapminder/commits/37a66beeddef2b5fc0735bb1abb9ecf9bf1c025d" />
+      <outline type="rss" text="swcarpentry/shell-novice · 项目更新" title="swcarpentry/shell-novice · 项目更新" xmlUrl="https://github.com/swcarpentry/shell-novice/commits/HEAD.atom" htmlUrl="https://github.com/swcarpentry/shell-novice/commits/b91d85b848405a4a2fe0a297d8cedb71d68ab9bd" />
+    </outline>
+    <outline text="模型排行 · 模型与评测动态" title="模型排行 · 模型与评测动态">
+      <outline type="rss" text="AI Snake Oil" title="AI Snake Oil" xmlUrl="https://www.aisnakeoil.com/feed" htmlUrl="https://www.normaltech.ai" />
+      <outline type="rss" text="BAIR" title="BAIR" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="http://bair.berkeley.edu/blog/" />
+      <outline type="rss" text="Google DeepMind" title="Google DeepMind" xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/blog/" />
+      <outline type="rss" text="Google Research" title="Google Research" xmlUrl="https://research.google/blog/rss/" htmlUrl="https://research.google/blog/" />
+      <outline type="rss" text="Hugging Face" title="Hugging Face" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog" />
+      <outline type="rss" text="Import AI" title="Import AI" xmlUrl="https://importai.substack.com/feed" htmlUrl="https://importai.substack.com" />
+      <outline type="rss" text="Interconnects" title="Interconnects" xmlUrl="https://www.interconnects.ai/feed" htmlUrl="https://www.interconnects.ai" />
+      <outline type="rss" text="Lilian Weng" title="Lilian Weng" xmlUrl="https://lilianweng.github.io/index.xml" htmlUrl="https://lilianweng.github.io/" />
+      <outline type="rss" text="Microsoft Research" title="Microsoft Research" xmlUrl="https://www.microsoft.com/en-us/research/feed/" htmlUrl="https://www.microsoft.com/en-us/research/" />
+      <outline type="rss" text="QwenLM/Qwen3 · 项目更新" title="QwenLM/Qwen3 · 项目更新" xmlUrl="https://github.com/QwenLM/Qwen3/commits/HEAD.atom" htmlUrl="https://github.com/QwenLM/Qwen3/commits/7a2f61ffc7a20d47efcd2bf97f6f2bf52729042e" />
+      <outline type="rss" text="Sebastian Raschka" title="Sebastian Raschka" xmlUrl="https://magazine.sebastianraschka.com/feed" htmlUrl="https://magazine.sebastianraschka.com" />
+      <outline type="rss" text="Together AI" title="Together AI" xmlUrl="https://www.together.ai/blog/rss.xml" htmlUrl="https://www.together.ai" />
+      <outline type="rss" text="allenai/OLMo · 项目更新" title="allenai/OLMo · 项目更新" xmlUrl="https://github.com/allenai/OLMo/commits/HEAD.atom" htmlUrl="https://github.com/allenai/OLMo/commits/090253dac6688f2532509daa7aa2eb5fae50e956" />
+      <outline type="rss" text="eleutherai/lm-evaluation-harness · 项目更新" title="eleutherai/lm-evaluation-harness · 项目更新" xmlUrl="https://github.com/eleutherai/lm-evaluation-harness/commits/HEAD.atom" htmlUrl="https://github.com/EleutherAI/lm-evaluation-harness/commits/d6de81643928d653435c431bae19945d41d32520" />
+      <outline type="rss" text="ggml-org/llama.cpp · 项目更新" title="ggml-org/llama.cpp · 项目更新" xmlUrl="https://github.com/ggml-org/llama.cpp/commits/HEAD.atom" htmlUrl="https://github.com/ggml-org/llama.cpp/commits/7182ef71e6d5dd0c8ea76486fac134fcd25025d4" />
+      <outline type="rss" text="google-deepmind/gemma · 项目更新" title="google-deepmind/gemma · 项目更新" xmlUrl="https://github.com/google-deepmind/gemma/commits/HEAD.atom" htmlUrl="https://github.com/google-deepmind/gemma/commits/9e1f74131ba9d45e5fe6ae7bb3941d9f2abb39c3" />
+      <outline type="rss" text="google-research/google-research · 项目更新" title="google-research/google-research · 项目更新" xmlUrl="https://github.com/google-research/google-research/commits/HEAD.atom" htmlUrl="https://github.com/google-research/google-research/commits/3ef52111c1fabc301880818f5a547570e926a76b" />
+      <outline type="rss" text="huggingface/lighteval · 项目更新" title="huggingface/lighteval · 项目更新" xmlUrl="https://github.com/huggingface/lighteval/commits/HEAD.atom" htmlUrl="https://github.com/huggingface/lighteval/commits/7fa19dc6f53a713ba8bb6541e7ed66dad2e24fd7" />
+      <outline type="rss" text="huggingface/peft · 项目更新" title="huggingface/peft · 项目更新" xmlUrl="https://github.com/huggingface/peft/commits/HEAD.atom" htmlUrl="https://github.com/huggingface/peft/commits/c2d5f697fbb30063cbde6f39e2734883b70b8753" />
+      <outline type="rss" text="huggingface/transformers · 项目更新" title="huggingface/transformers · 项目更新" xmlUrl="https://github.com/huggingface/transformers/commits/HEAD.atom" htmlUrl="https://github.com/huggingface/transformers/commits/23292ca5b82012ee1a1fd620069fd5e659ecf1be" />
+      <outline type="rss" text="huggingface/trl · 项目更新" title="huggingface/trl · 项目更新" xmlUrl="https://github.com/huggingface/trl/commits/HEAD.atom" htmlUrl="https://github.com/huggingface/trl/commits/264d1fd336f014938b1a7c56a7fa5f2f619fd8ed" />
+      <outline type="rss" text="ollama/ollama · 项目更新" title="ollama/ollama · 项目更新" xmlUrl="https://github.com/ollama/ollama/commits/HEAD.atom" htmlUrl="https://github.com/ollama/ollama/commits/d9b86018cba1d222fd28e28f42e5cdc15a060f39" />
+      <outline type="rss" text="open-compass/opencompass · 项目更新" title="open-compass/opencompass · 项目更新" xmlUrl="https://github.com/open-compass/opencompass/commits/HEAD.atom" htmlUrl="https://github.com/open-compass/opencompass/commits/efb91b2809e91997c5d043d468e4aa986fbb341f" />
+      <outline type="rss" text="stanford-crfm/helm · 项目更新" title="stanford-crfm/helm · 项目更新" xmlUrl="https://github.com/stanford-crfm/helm/commits/HEAD.atom" htmlUrl="https://github.com/stanford-crfm/helm/commits/63754d05db6f874e41a395880fb573890a13e791" />
+      <outline type="rss" text="vllm-project/vllm · 项目更新" title="vllm-project/vllm · 项目更新" xmlUrl="https://github.com/vllm-project/vllm/commits/HEAD.atom" htmlUrl="https://github.com/vllm-project/vllm/commits/8e25bbca19f0605b347e103dde4bf5355d049e72" />
+    </outline>
+    <outline text="福利羊毛 · 扩增" title="福利羊毛 · 扩增">
+      <outline type="rss" text="AWS Education" title="AWS Education" xmlUrl="https://aws.amazon.com/blogs/publicsector/category/public-sector/education/feed/" htmlUrl="https://aws.amazon.com/blogs/publicsector/" />
+      <outline type="rss" text="Arkansas Single Parent Scholarship Fund Blog" title="Arkansas Single Parent Scholarship Fund Blog" xmlUrl="https://aspsf.org/feed/" htmlUrl="https://aspsf.org/" />
+      <outline type="rss" text="Benjamin A. Gilman International Scholarship" title="Benjamin A. Gilman International Scholarship" xmlUrl="https://www.gilmanscholarship.org/feed/" htmlUrl="https://www.gilmanscholarship.org/" />
+      <outline type="rss" text="Class Central" title="Class Central" xmlUrl="https://www.classcentral.com/report/feed/" htmlUrl="https://www.classcentral.com/report/" />
+      <outline type="rss" text="Davis New Mexico Scholarship Blog" title="Davis New Mexico Scholarship Blog" xmlUrl="https://www.davisnm.org/blog?format=rss" htmlUrl="https://www.davisnm.org/blog/" />
+      <outline type="rss" text="Denver Scholarship Foundation Blog" title="Denver Scholarship Foundation Blog" xmlUrl="https://denverscholarship.org/feed/" htmlUrl="https://denverscholarship.org" />
+      <outline type="rss" text="Financial Aid Finder » Scholarships" title="Financial Aid Finder » Scholarships" xmlUrl="https://www.financialaidfinder.com/category/scholarships/feed/" htmlUrl="https://www.financialaidfinder.com/category/scholarships/" />
+      <outline type="rss" text="Fulbright Scholarships" title="Fulbright Scholarships" xmlUrl="https://fulbright.org/feed/" htmlUrl="https://fulbright.org" />
+      <outline type="rss" text="FutureLearn" title="FutureLearn" xmlUrl="https://www.futurelearn.com/info/feed" htmlUrl="https://www.futurelearn.com/info/" />
+      <outline type="rss" text="Google for Education" title="Google for Education" xmlUrl="https://blog.google/outreach-initiatives/education/rss/" htmlUrl="https://blog.google/products-and-platforms/products/education/" />
+      <outline type="rss" text="IOScholarships Blog" title="IOScholarships Blog" xmlUrl="https://www.ioscholarships.com/feed/" htmlUrl="https://www.ioscholarships.com" />
+      <outline type="rss" text="GitHub Student Developer Pack" title="GitHub Student Developer Pack" xmlUrl="https://github.blog/tag/github-education/feed/" htmlUrl="https://github.blog/tag/github-education/" />
+      <outline type="rss" text="MIT Admissions" title="MIT Admissions" xmlUrl="https://mitadmissions.org/feed/" htmlUrl="https://mitadmissions.org" />
+      <outline type="rss" text="Open Culture 免费课程" title="Open Culture 免费课程" xmlUrl="https://www.openculture.com/feed" htmlUrl="https://www.openculture.com/" />
+      <outline type="rss" text="Open Education Global" title="Open Education Global" xmlUrl="https://www.oeglobal.org/feed/" htmlUrl="https://www.oeglobal.org" />
+      <outline type="rss" text="Opportunities for Africans" title="Opportunities for Africans" xmlUrl="https://www.opportunitiesforafricans.com/feed/" htmlUrl="https://www.opportunitiesforafricans.com/" />
+      <outline type="rss" text="Opportunity Desk" title="Opportunity Desk" xmlUrl="https://opportunitydesk.org/feed/" htmlUrl="https://opportunitydesk.org" />
+      <outline type="rss" text="ScholarshipOwl Blog" title="ScholarshipOwl Blog" xmlUrl="https://scholarshipowl.com/blog/feed/" htmlUrl="https://scholarshipowl.com/blog/" />
+      <outline type="rss" text="The Scholarship System" title="The Scholarship System" xmlUrl="https://thescholarshipsystem.com/feed/" htmlUrl="https://thescholarshipsystem.com/" />
+      <outline type="rss" text="UKRI 研究资助机会" title="UKRI 研究资助机会" xmlUrl="https://www.ukri.org/opportunity/feed/" htmlUrl="https://www.ukri.org" />
+      <outline type="rss" text="UniScholarz Blog" title="UniScholarz Blog" xmlUrl="https://unischolarz.com/blog/feed/" htmlUrl="" />
+      <outline type="rss" text="freeCodeCamp" title="freeCodeCamp" xmlUrl="https://www.freecodecamp.org/news/rss/" htmlUrl="https://www.freecodecamp.org/news/" />
+      <outline type="rss" text="国家自然科学基金委员会社交渠道公告" title="国家自然科学基金委员会社交渠道公告" xmlUrl="https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_c1f2e5989666.xml" htmlUrl="https://mp.weixin.qq.com/" />
+      <outline type="rss" text="日本 JST 研究项目公开招募" title="日本 JST 研究项目公开招募" xmlUrl="https://www.jst.go.jp/rss/bosyu.xml" htmlUrl="https://www.jst.go.jp/index.html" />
+      <outline type="rss" text="瑞士国家科学基金征集" title="瑞士国家科学基金征集" xmlUrl="https://www.snf.ch/api/rss/en/call/feed.xml" htmlUrl="https://www.snf.ch" />
+    </outline>
+    <outline text="资质证书 · 扩增" title="资质证书 · 扩增">
+      <outline type="rss" text="AWS Blog » Training and Certification" title="AWS Blog » Training and Certification" xmlUrl="https://aws.amazon.com/blogs/training-and-certification/feed/" htmlUrl="https://aws.amazon.com/blogs/training-and-certification/" />
+      <outline type="rss" text="Alison Blog" title="Alison Blog" xmlUrl="https://alison.com/blog/feed" htmlUrl="https://alison.com/blog" />
+      <outline type="rss" text="cncf/curriculum · 项目更新" title="cncf/curriculum · 项目更新" xmlUrl="https://github.com/cncf/curriculum/commits/HEAD.atom" htmlUrl="https://github.com/cncf/curriculum/commits/bad74bf40372cdb6fb93f0eb1a6758b59b5a2909" />
+      <outline type="rss" text="CertBlaster IT Certification Blog" title="CertBlaster IT Certification Blog" xmlUrl="https://certblaster.com/feed/" htmlUrl="https://certblaster.com" />
+      <outline type="rss" text="Cisco Learning" title="Cisco Learning" xmlUrl="https://blogs.cisco.com/learning/feed" htmlUrl="https://blogs.cisco.com/learning" />
+      <outline type="rss" text="Codecademy Blog" title="Codecademy Blog" xmlUrl="https://www.codecademy.com/resources/blog/feed/" htmlUrl="https://www.codecademy.com/resources/blog/" />
+      <outline type="rss" text="CourseDrill Blog" title="CourseDrill Blog" xmlUrl="https://coursedrill.com/feed/" htmlUrl="https://coursedrill.com" />
+      <outline type="rss" text="Coursera" title="Coursera" xmlUrl="https://blog.coursera.org/feed/" htmlUrl="https://blog.coursera.org" />
+      <outline type="rss" text="Edureka Blog" title="Edureka Blog" xmlUrl="https://www.edureka.co/blog/feed/" htmlUrl="https://www.edureka.co/blog" />
+      <outline type="rss" text="MicrosoftLearning/AI-900-AIFundamentals · 项目更新" title="MicrosoftLearning/AI-900-AIFundamentals · 项目更新" xmlUrl="https://github.com/MicrosoftLearning/AI-900-AIFundamentals/commits/HEAD.atom" htmlUrl="https://github.com/MicrosoftLearning/AI-900-AIFundamentals/commits/37c198a1f872c01f4dfd5382cbf9f62eed303894" />
+      <outline type="rss" text="MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals · 项目更新" title="MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals · 项目更新" xmlUrl="https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/commits/HEAD.atom" htmlUrl="https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/commits/27dd7b1d6b5d002fe131027befe9c2ea16dd6e63" />
+      <outline type="rss" text="MicrosoftLearning/AI-102-AIEngineer · 项目更新" title="MicrosoftLearning/AI-102-AIEngineer · 项目更新" xmlUrl="https://github.com/MicrosoftLearning/AI-102-AIEngineer/commits/HEAD.atom" htmlUrl="https://github.com/MicrosoftLearning/AI-102-AIEngineer/commits/334293975a441154db836c54a82d4a8fa129d118" />
+      <outline type="rss" text="MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator · 项目更新" title="MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator · 项目更新" xmlUrl="https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/commits/HEAD.atom" htmlUrl="https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/commits/9b6ad3d7c6164fe0de26fdbe21a9141070fd74c3" />
+      <outline type="rss" text="MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure · 项目更新" title="MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure · 项目更新" xmlUrl="https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/commits/HEAD.atom" htmlUrl="https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/commits/3967980bd7546863fcdc4cc43bf0254a10912cce" />
+      <outline type="rss" text="MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals · 项目更新" title="MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals · 项目更新" xmlUrl="https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/commits/HEAD.atom" htmlUrl="https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/commits/77fcddead6473bb079e5d10e1fe2933b7e6dd238" />
+      <outline type="rss" text="Professor Messer" title="Professor Messer" xmlUrl="https://www.professormesser.com/feed/" htmlUrl="https://www.professormesser.com/" />
+      <outline type="rss" text="Relativity Blog » Education &amp; Certification" title="Relativity Blog » Education &amp; Certification" xmlUrl="https://feeds.feedburner.com/relativity/blog" htmlUrl="https://relativity.com" />
+      <outline type="rss" text="Simplilearn" title="Simplilearn" xmlUrl="https://www.simplilearn.com/feed/" htmlUrl="https://www.simplilearn.com" />
+      <outline type="rss" text="Spoclearn Blog" title="Spoclearn Blog" xmlUrl="https://www.spoclearn.com/blog/feed/" htmlUrl="https://www.spoclearn.com/blog/" />
+      <outline type="rss" text="TrainACE IT and Cybersecurity Training Blog" title="TrainACE IT and Cybersecurity Training Blog" xmlUrl="https://blog.trainace.com/rss.xml" htmlUrl="https://blog.trainace.com" />
+      <outline type="rss" text="Unichrone Blog" title="Unichrone Blog" xmlUrl="https://unichrone.com/blog/feed/" htmlUrl="https://unichrone.com/blog/" />
+      <outline type="rss" text="Yellow Tail Tech" title="Yellow Tail Tech" xmlUrl="https://yellowtail.tech/feed/" htmlUrl="https://yellowtail.tech/" />
+      <outline type="rss" text="freeCodeCamp/freeCodeCamp · 项目更新" title="freeCodeCamp/freeCodeCamp · 项目更新" xmlUrl="https://github.com/freeCodeCamp/freeCodeCamp/commits/main.atom" htmlUrl="https://github.com/freeCodeCamp/freeCodeCamp/commits/main" />
+      <outline type="rss" text="jassics/security-study-plan · 项目更新" title="jassics/security-study-plan · 项目更新" xmlUrl="https://github.com/jassics/security-study-plan/commits/HEAD.atom" htmlUrl="https://github.com/jassics/security-study-plan/commits/85bfb85c2b3f25c9a4fa1247ef4f510450edd493" />
+      <outline type="rss" text="kodekloudhub/certified-kubernetes-administrator-course · 项目更新" title="kodekloudhub/certified-kubernetes-administrator-course · 项目更新" xmlUrl="https://github.com/kodekloudhub/certified-kubernetes-administrator-course/commits/HEAD.atom" htmlUrl="https://github.com/kodekloudhub/certified-kubernetes-administrator-course/commits/506b5418fc11e726f869a2dbde34e9eca369d975" />
+    </outline>
+  </body>
+</opml>

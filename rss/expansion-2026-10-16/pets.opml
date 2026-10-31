@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>小猪萌宠 · 100 个已验证扩增订阅</title>
+    <dateModified>2026-10-16T15:36:26.393080+00:00</dateModified>
+  </head>
+  <body>
+    <outline text="宠物资讯 · 扩增" title="宠物资讯 · 扩增">
+      <outline type="rss" text="ASPCA" title="ASPCA" xmlUrl="https://www.aspca.org/rss.xml" htmlUrl="https://www.aspca.org" />
+      <outline type="rss" text="Animal Defense League of Texas" title="Animal Defense League of Texas" xmlUrl="https://adltexas.org/feed/" htmlUrl="https://adltexas.org/" />
+      <outline type="rss" text="Animal Human Health Connection Blog" title="Animal Human Health Connection Blog" xmlUrl="https://animalhumanhealth.com/feed/" htmlUrl="https://animalhumanhealth.com" />
+      <outline type="rss" text="Austin Pets Alive Blog" title="Austin Pets Alive Blog" xmlUrl="https://www.austinpetsalive.org/blogfeed.rss" htmlUrl="https://www.austinpetsalive.org/" />
+      <outline type="rss" text="Dallas Pets Alive! Blog" title="Dallas Pets Alive! Blog" xmlUrl="https://dallaspetsalive.org/category/news/blog/feed/" htmlUrl="https://dallaspetsalive.org" />
+      <outline type="rss" text="Good News For Pets" title="Good News For Pets" xmlUrl="https://goodnewsforpets.com/feed/" htmlUrl="https://goodnewsforpets.com/" />
+      <outline type="rss" text="Hepper" title="Hepper" xmlUrl="https://www.hepper.com/feed/" htmlUrl="https://www.hepper.com/" />
+      <outline type="rss" text="Homeward Pet Blog" title="Homeward Pet Blog" xmlUrl="https://www.homewardpet.org/feed/" htmlUrl="https://www.homewardpet.org" />
+      <outline type="rss" text="Keeping It Pawsome" title="Keeping It Pawsome" xmlUrl="https://www.keepingitpawsome.com/feed/" htmlUrl="https://www.keepingitpawsome.com/" />
+      <outline type="rss" text="My Kid Has Paws Blog" title="My Kid Has Paws Blog" xmlUrl="http://mykidhaspaws.org/feed/" htmlUrl="https://mykidhaspaws.org" />
+      <outline type="rss" text="North Shore Animal League America Blog" title="North Shore Animal League America Blog" xmlUrl="https://www.animalleague.org/feed/" htmlUrl="https://www.animalleague.org/" />
+      <outline type="rss" text="Pango Pets" title="Pango Pets" xmlUrl="https://pangopets.com/feed/" htmlUrl="https://pangopets.com" />
+      <outline type="rss" text="Paws for Reaction" title="Paws for Reaction" xmlUrl="https://www.pawsforreaction.com/feeds/posts/default" htmlUrl="https://www.pawsforreaction.com/" />
+      <outline type="rss" text="Pet Community Center Blog" title="Pet Community Center Blog" xmlUrl="https://www.petcommunitycenter.org/blog-feed.xml" htmlUrl="https://www.petcommunitycenter.org/blog" />
+      <outline type="rss" text="Pet Food Processing" title="Pet Food Processing" xmlUrl="https://www.petfoodprocessing.net/rss/topic/474-nutrition-and-wellness" htmlUrl="https://www.petfoodprocessing.net/rss" />
+      <outline type="rss" text="PetfoodIndustry" title="PetfoodIndustry" xmlUrl="https://www.petfoodindustry.com/rss" htmlUrl="https://www.petfoodindustry.com" />
+      <outline type="rss" text="PetfoodIndustry.com" title="PetfoodIndustry.com" xmlUrl="https://www.petfoodindustry.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D" htmlUrl="https://www.petfoodindustry.com/" />
+      <outline type="rss" text="Petfoodology (Tufts Clinical Nutrition Service)" title="Petfoodology (Tufts Clinical Nutrition Service)" xmlUrl="https://sites.tufts.edu/petfoodology/feed/" htmlUrl="https://sites.tufts.edu/petfoodology" />
+      <outline type="rss" text="Petfulness" title="Petfulness" xmlUrl="https://petfulness.com/feed/" htmlUrl="https://petfulness.com" />
+      <outline type="rss" text="The Cat Fanciers' Association" title="The Cat Fanciers' Association" xmlUrl="https://cfa.org/feed/" htmlUrl="https://cfa.org/" />
+      <outline type="rss" text="The Westminster Kennel Club" title="The Westminster Kennel Club" xmlUrl="https://www.westminsterkennelclub.org/feed/" htmlUrl="https://www.westminsterkennelclub.org/" />
+      <outline type="rss" text="Truth About Pet Food" title="Truth About Pet Food" xmlUrl="https://truthaboutpetfood.com/feed/" htmlUrl="https://truthaboutpetfood.com" />
+      <outline type="rss" text="Union Lake | Pet Care Blog" title="Union Lake | Pet Care Blog" xmlUrl="https://unionlakepetservices.com/feed" htmlUrl="https://unionlakepetservices.com/" />
+      <outline type="rss" text="Vitality Science Blog" title="Vitality Science Blog" xmlUrl="https://vitalityscience.com/feed/" htmlUrl="https://vitalityscience.com/" />
+      <outline type="rss" text="World Animal Day" title="World Animal Day" xmlUrl="https://www.worldanimalday.org/feed/" htmlUrl="https://www.worldanimalday.org/" />
+    </outline>
+    <outline text="每日一猫 · 扩增" title="每日一猫 · 扩增">
+      <outline type="rss" text="Alley Cat Allies" title="Alley Cat Allies" xmlUrl="https://www.alleycat.org/latest-news/feed/" htmlUrl="https://www.alleycat.org/latest-news/" />
+      <outline type="rss" text="Bad Cat Chris" title="Bad Cat Chris" xmlUrl="https://badcatchris.com/feed/" htmlUrl="https://badcatchris.com" />
+      <outline type="rss" text="Cat Behavior Associates" title="Cat Behavior Associates" xmlUrl="https://catbehaviorassociates.com/feed/" htmlUrl="https://catbehaviorassociates.com/" />
+      <outline type="rss" text="Cat Behavior Solutions Blog" title="Cat Behavior Solutions Blog" xmlUrl="https://www.catbehaviorsolutions.org/blog-feed.xml" htmlUrl="https://www.catbehaviorsolutions.org/blog" />
+      <outline type="rss" text="Cat Lovers Only" title="Cat Lovers Only" xmlUrl="https://www.cat-lovers-only.com/cat-lovers.xml" htmlUrl="https://www.cat-lovers-only.com/cat-lovers-blog.html" />
+      <outline type="rss" text="Cat Town - Blog" title="Cat Town - Blog" xmlUrl="https://www.cattownoakland.org/cat-town-blog?format=RSS" htmlUrl="https://www.cattownoakland.org/cat-town-blog/" />
+      <outline type="rss" text="Cat Wisdom 101" title="Cat Wisdom 101" xmlUrl="https://catwisdom101.com/feed/" htmlUrl="https://catwisdom101.com" />
+      <outline type="rss" text="CatTime" title="CatTime" xmlUrl="https://cattime.com/feed" htmlUrl="https://cattime.com/" />
+      <outline type="rss" text="Cats.com" title="Cats.com" xmlUrl="https://cats.com/feed" htmlUrl="https://cats.com/" />
+      <outline type="rss" text="CatsMatter Blog" title="CatsMatter Blog" xmlUrl="https://www.catsmatter.org/blog-feed.xml" htmlUrl="https://www.catsmatter.org/blog" />
+      <outline type="rss" text="Home | felineopines" title="Home | felineopines" xmlUrl="https://felineopines.net/feed/" htmlUrl="https://felineopines.net" />
+      <outline type="rss" text="Katzenworld" title="Katzenworld" xmlUrl="https://katzenworld.co.uk/feed/" htmlUrl="https://katzenworld.co.uk/" />
+      <outline type="rss" text="Life With Cats" title="Life With Cats" xmlUrl="https://www.lifewithcats.tv/feed/" htmlUrl="https://www.lifewithcats.tv" />
+      <outline type="rss" text="Life with catman" title="Life with catman" xmlUrl="https://lifewithcatman.com/feed/" htmlUrl="https://lifewithcatman.com" />
+      <outline type="rss" text="Little Big Cat Blog" title="Little Big Cat Blog" xmlUrl="https://littlebigcat.com/feed/" htmlUrl="https://littlebigcat.com/" />
+      <outline type="rss" text="Love Meow" title="Love Meow" xmlUrl="https://www.lovemeow.com/feeds/feed.rss" htmlUrl="https://www.lovemeow.com/" />
+      <outline type="rss" text="Modern Cat" title="Modern Cat" xmlUrl="https://moderncat.com/feed/" htmlUrl="https://moderncat.com/" />
+      <outline type="rss" text="Pawesome Cats" title="Pawesome Cats" xmlUrl="https://pawesomecats.com/feed/" htmlUrl="https://pawesomecats.com" />
+      <outline type="rss" text="Purrfect Pals" title="Purrfect Pals" xmlUrl="https://purrfectpals.org/feed/" htmlUrl="https://purrfectpals.org/" />
+      <outline type="rss" text="The Cat's Meow Rescue - Blog" title="The Cat's Meow Rescue - Blog" xmlUrl="https://www.thecatsmeowrescue.org/1/feed" htmlUrl="https://www.thecatsmeowrescue.org/blog-feline-friends" />
+      <outline type="rss" text="The Discerning Cat" title="The Discerning Cat" xmlUrl="https://thediscerningcat.com/feed/" htmlUrl="https://thediscerningcat.com" />
+      <outline type="rss" text="The Hervey Foundation for Cats Blog" title="The Hervey Foundation for Cats Blog" xmlUrl="https://www.herveycats.com/blog?format=rss" htmlUrl="https://www.herveycats.com/blog/" />
+      <outline type="rss" text="The Kat Lady Blog" title="The Kat Lady Blog" xmlUrl="https://thekatlady.co.uk/blog/f.atom" htmlUrl="https://thekatlady.co.uk" />
+      <outline type="rss" text="The Purrington Post" title="The Purrington Post" xmlUrl="https://www.thepurringtonpost.com/feed/" htmlUrl="https://www.thepurringtonpost.com" />
+      <outline type="rss" text="What Your Cat Wants" title="What Your Cat Wants" xmlUrl="https://whatyourcatwants.com/feed" htmlUrl="https://whatyourcatwants.com/" />
+    </outline>
+    <outline text="每日一狗 · 扩增" title="每日一狗 · 扩增">
+      <outline type="rss" text="CanineJournal.com" title="CanineJournal.com" xmlUrl="https://feeds.feedburner.com/caninejournal" htmlUrl="https://www.caninejournal.com/" />
+      <outline type="rss" text="Champion of My Heart" title="Champion of My Heart" xmlUrl="https://championofmyheart.com/feed/" htmlUrl="https://championofmyheart.com/" />
+      <outline type="rss" text="Deaf Dogs Rock" title="Deaf Dogs Rock" xmlUrl="https://deafdogsrock.com/feed" htmlUrl="https://deafdogsrock.com" />
+      <outline type="rss" text="Dog Watch UK" title="Dog Watch UK" xmlUrl="http://www.dogwatchuk.com/feed/" htmlUrl="https://www.dogwatchuk.com/" />
+      <outline type="rss" text="Dogs" title="Dogs" xmlUrl="https://www.preventivevet.com/dogs/rss.xml" htmlUrl="https://www.preventivevet.com/dogs" />
+      <outline type="rss" text="Dogs For Better Lives Blog" title="Dogs For Better Lives Blog" xmlUrl="https://dogsforbetterlives.org/feed/" htmlUrl="https://dogsforbetterlives.org/" />
+      <outline type="rss" text="Dogs Inc" title="Dogs Inc" xmlUrl="https://dogsinc.org/feed/" htmlUrl="https://dogsinc.org/" />
+      <outline type="rss" text="Dog Star Daily Blog" title="Dog Star Daily Blog" xmlUrl="https://www.dogstardaily.com/blogs/feed" htmlUrl="https://www.dogstardaily.com/blogs?uid=" />
+      <outline type="rss" text="Eileenanddogs" title="Eileenanddogs" xmlUrl="http://eileenanddogs.com/feed/" htmlUrl="https://eileenanddogs.com/" />
+      <outline type="rss" text="FIDO Friendly Blog" title="FIDO Friendly Blog" xmlUrl="https://feeds.feedburner.com/FidoFriendlyBlog" htmlUrl="https://www.fidofriendly.com/" />
+      <outline type="rss" text="Fear Free" title="Fear Free" xmlUrl="https://www.fearfree.com/feed/" htmlUrl="https://www.fearfree.com/" />
+      <outline type="rss" text="Fear Free Happy Homes" title="Fear Free Happy Homes" xmlUrl="https://www.fearfreehappyhomes.com/feed/" htmlUrl="https://www.fearfreehappyhomes.com/" />
+      <outline type="rss" text="Fidose of Reality Blog" title="Fidose of Reality Blog" xmlUrl="https://fidoseofreality.com/feed/" htmlUrl="https://fidoseofreality.com/" />
+      <outline type="rss" text="Hero Dogs" title="Hero Dogs" xmlUrl="http://www.hero-dogs.org/feed/" htmlUrl="https://www.hero-dogs.org/" />
+      <outline type="rss" text="How To Train Your Dog" title="How To Train Your Dog" xmlUrl="https://howtotrainthedog.com/feed/" htmlUrl="https://howtotrainthedog.com" />
+      <outline type="rss" text="I Love My Chi Blog" title="I Love My Chi Blog" xmlUrl="https://ilovemychi.com/feed/" htmlUrl="https://ilovemychi.com/" />
+      <outline type="rss" text="Leader Dogs for the Blind Blog" title="Leader Dogs for the Blind Blog" xmlUrl="https://www.leaderdog.org/feed/" htmlUrl="https://www.leaderdog.org/" />
+      <outline type="rss" text="Life With Dogs Blog" title="Life With Dogs Blog" xmlUrl="https://www.lifewithdogs.tv/feed/" htmlUrl="https://www.lifewithdogs.tv" />
+      <outline type="rss" text="Oh My Dog! Blog" title="Oh My Dog! Blog" xmlUrl="https://ohmydogblog.com/feed/" htmlUrl="https://ohmydogblog.com/" />
+      <outline type="rss" text="Puppy Leaks" title="Puppy Leaks" xmlUrl="https://puppyleaks.com/feed/" htmlUrl="https://puppyleaks.com/" />
+      <outline type="rss" text="Sit Drop Stay Blog" title="Sit Drop Stay Blog" xmlUrl="https://www.sitdropstay.com/feed/" htmlUrl="https://www.sitdropstay.com/" />
+      <outline type="rss" text="The American Veterinary Society of Animal Behavior" title="The American Veterinary Society of Animal Behavior" xmlUrl="https://avsab.org/feed/" htmlUrl="https://avsab.org/" />
+      <outline type="rss" text="The Dogington Post" title="The Dogington Post" xmlUrl="https://www.dogingtonpost.com/feed/" htmlUrl="https://www.dogingtonpost.com" />
+      <outline type="rss" text="You Did What With Your Wiener" title="You Did What With Your Wiener" xmlUrl="https://youdidwhatwithyourweiner.com/feed/" htmlUrl="https://youdidwhatwithyourweiner.com" />
+      <outline type="rss" text="iHeartDogs Blog" title="iHeartDogs Blog" xmlUrl="https://iheartdogs.com/feed/" htmlUrl="https://iheartdogs.com/" />
+    </outline>
+    <outline text="异宠大全 · 扩增" title="异宠大全 · 扩增">
+      <outline type="rss" text="All Things Rabbit Blog" title="All Things Rabbit Blog" xmlUrl="https://www.allthingsrabbits.com/allthingsrabbitsblog?format=rss" htmlUrl="https://www.allthingsrabbits.com/allthingsrabbitsblog/" />
+      <outline type="rss" text="Amphibian and Reptile Conservancy" title="Amphibian and Reptile Conservancy" xmlUrl="https://arcprotects.org/feed/" htmlUrl="https://arcprotects.org" />
+      <outline type="rss" text="CORAL Magazine" title="CORAL Magazine" xmlUrl="https://coralmagazine.com/feed/" htmlUrl="https://www.coralmagazine.com/" />
+      <outline type="rss" text="Chameleon Academy" title="Chameleon Academy" xmlUrl="https://chameleonacademy.com/feed/" htmlUrl="https://chameleonacademy.com/" />
+      <outline type="rss" text="Clearwater Marine Aquarium" title="Clearwater Marine Aquarium" xmlUrl="https://mission.cmaquarium.org/feed/" htmlUrl="https://mission.cmaquarium.org" />
+      <outline type="rss" text="ExoPetGuides" title="ExoPetGuides" xmlUrl="https://exopetguides.com/feed/" htmlUrl="https://exopetguides.com/" />
+      <outline type="rss" text="ExoticDirect" title="ExoticDirect" xmlUrl="https://www.exoticdirect.co.uk/feed/" htmlUrl="https://exoticdirect.co.uk" />
+      <outline type="rss" text="Guinea Pig Magazine" title="Guinea Pig Magazine" xmlUrl="https://www.guineapigmagazine.com/feed/" htmlUrl="https://www.guineapigmagazine.com/" />
+      <outline type="rss" text="Humble.Fish and Reef Community" title="Humble.Fish and Reef Community" xmlUrl="https://humble.fish/community/forums/-/index.rss" htmlUrl="https://humble.fish/community/forums/" />
+      <outline type="rss" text="Modest Fish" title="Modest Fish" xmlUrl="https://modestfish.com/feed/" htmlUrl="https://modestfish.com" />
+      <outline type="rss" text="Monterey Bay Aquarium" title="Monterey Bay Aquarium" xmlUrl="https://montereybayaquarium.tumblr.com/rss" htmlUrl="https://montereybayaquarium.tumblr.com/" />
+      <outline type="rss" text="My Rabbit Family Blog" title="My Rabbit Family Blog" xmlUrl="https://www.petrabbit.co.uk/feed/" htmlUrl="https://www.petrabbit.co.uk" />
+      <outline type="rss" text="National Marine Aquarium Blog" title="National Marine Aquarium Blog" xmlUrl="https://www.national-aquarium.co.uk/blog/feed/" htmlUrl="https://www.national-aquarium.co.uk/blog/" />
+      <outline type="rss" text="New England Aquarium Blog" title="New England Aquarium Blog" xmlUrl="https://www.neaq.org/news-and-stories/feed/" htmlUrl="https://www.neaq.org/news-and-stories/" />
+      <outline type="rss" text="Pamela Clark Parrot Behavior Consultant" title="Pamela Clark Parrot Behavior Consultant" xmlUrl="https://pamelaclarkonline.com/feed/" htmlUrl="https://pamelaclarkonline.com" />
+      <outline type="rss" text="Parrot Essentials" title="Parrot Essentials" xmlUrl="https://parrotessentials.co.uk/blog/feed/" htmlUrl="https://parrotessentials.co.uk/blog" />
+      <outline type="rss" text="Parrot Life" title="Parrot Life" xmlUrl="https://parrotlife.com.au/blog-feed.xml" htmlUrl="https://www.parrotlife.com.au/blog" />
+      <outline type="rss" text="Reef Builders | The Reef and Saltwater Aquarium Blog" title="Reef Builders | The Reef and Saltwater Aquarium Blog" xmlUrl="https://reefbuilders.com/feed/" htmlUrl="https://reefbuilders.com" />
+      <outline type="rss" text="Reefs.com" title="Reefs.com" xmlUrl="https://reefs.com/feed/" htmlUrl="https://reefs.com/" />
+      <outline type="rss" text="Seattle Aquarium" title="Seattle Aquarium" xmlUrl="https://www.seattleaquarium.org/feed/" htmlUrl="https://www.seattleaquarium.org/" />
+      <outline type="rss" text="Society for the Study of Amphibians and Reptiles" title="Society for the Study of Amphibians and Reptiles" xmlUrl="https://ssarherps.org/feed/" htmlUrl="https://ssarherps.org" />
+      <outline type="rss" text="The Tortoise Trust" title="The Tortoise Trust" xmlUrl="https://www.tortoisetrust.com/blog-feed.xml" htmlUrl="https://www.tortoisetrust.com/blog" />
+      <outline type="rss" text="The Unusual Pet Vets" title="The Unusual Pet Vets" xmlUrl="https://www.unusualpetvets.com.au/feed/" htmlUrl="https://www.unusualpetvets.com.au/" />
+      <outline type="rss" text="Windy City Parrot" title="Windy City Parrot" xmlUrl="https://windycityparrot.com/feed/" htmlUrl="https://windycityparrot.com" />
+      <outline type="rss" text="World Parrot Trust" title="World Parrot Trust" xmlUrl="https://www.parrots.org/feed" htmlUrl="https://parrots.org" />
+    </outline>
+  </body>
+</opml>

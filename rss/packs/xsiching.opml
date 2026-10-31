@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>犀术国学订阅</title>
+  </head>
+  <body>
+    <outline text="国学经典">
+      <outline text="CBETA 正式典籍维护" title="CBETA 正式典籍维护" type="rss" xmlUrl="https://github.com/cbeta-org/xml-p5/commits/master.atom" />
+    </outline>
+    <outline text="易家之言">
+      <outline text="Warp, Weft, and Way 中国哲学" title="Warp, Weft, and Way 中国哲学" type="rss" xmlUrl="https://warpweftandway.com/feed/" />
+    </outline>
+    <outline text="精品应用">
+      <outline text="CBDB 中国历代人物资料" title="CBDB 中国历代人物资料" type="rss" xmlUrl="https://github.com/cbdb-project/cbdb_sqlite/commits/master.atom" />
+      <outline text="古籍资源索引" title="古籍资源索引" type="rss" xmlUrl="https://github.com/open-guji/guji-resource-index/commits/main.atom" />
+    </outline>
+  </body>
+</opml>

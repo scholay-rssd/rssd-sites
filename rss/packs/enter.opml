@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>学术之门订阅</title>
+  </head>
+  <body>
+    <outline text="课程资源">
+      <outline text="The Carpentries" title="The Carpentries" type="rss" xmlUrl="https://carpentries.org/blog/index.xml" />
+    </outline>
+    <outline text="软件网站">
+      <outline text="Zotero" title="Zotero" type="rss" xmlUrl="https://www.zotero.org/blog/feed/" />
+      <outline text="ORCID" title="ORCID" type="rss" xmlUrl="https://info.orcid.org/feed/" />
+    </outline>
+    <outline text="学术检索">
+      <outline text="Crossref" title="Crossref" type="rss" xmlUrl="https://www.crossref.org/blog/index.xml" />
+      <outline text="DataCite" title="DataCite" type="rss" xmlUrl="https://blog.datacite.org/feed/" />
+      <outline text="OpenAlex" title="OpenAlex" type="rss" xmlUrl="https://blog.openalex.org/feed/" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>犀术 IME订阅</title>
+  </head>
+  <body>
+    <outline text="开发日志">
+      <outline text="犀术 IME 版本发布" title="犀术 IME 版本发布" type="rss" xmlUrl="https://github.com/scholay/rimes/releases.atom" />
+      <outline text="Rime 引擎版本发布" title="Rime 引擎版本发布" type="rss" xmlUrl="https://github.com/rime/librime/releases.atom" />
+      <outline text="Fcitx5 版本发布" title="Fcitx5 版本发布" type="rss" xmlUrl="https://github.com/fcitx/fcitx5/releases.atom" />
+    </outline>
+    <outline text="输入方案">
+      <outline text="雾凇拼音维护动态" title="雾凇拼音维护动态" type="rss" xmlUrl="https://github.com/iDvel/rime-ice/commits/main.atom" />
+      <outline text="薄荷输入法维护动态" title="薄荷输入法维护动态" type="rss" xmlUrl="https://github.com/Mintimate/oh-my-rime/commits/HEAD.atom" />
+    </outline>
+  </body>
+</opml>

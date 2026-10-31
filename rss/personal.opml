@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>today · personal · RSS 2026-10-13</title>
+  </head>
+  <body>
+    <outline text="分享·学术网站项目" title="分享·学术网站项目">
+      <outline type="rss" text="Blog on Crossref" title="Blog on Crossref" xmlUrl="https://www.crossref.org/blog/index.xml" />
+      <outline type="rss" text="DOAJ Blog" title="DOAJ Blog" xmlUrl="https://blog.doaj.org/feed/" />
+      <outline type="rss" text="DataCite Blog - DataCite" title="DataCite Blog - DataCite" xmlUrl="https://blog.datacite.org/feed/" />
+      <outline type="rss" text="News from arXiv" title="News from arXiv" xmlUrl="https://blog.arxiv.org/feed/" />
+      <outline type="rss" text="ORCID" title="ORCID" xmlUrl="https://info.orcid.org/feed/" />
+      <outline type="rss" text="OpenAlex blog" title="OpenAlex blog" xmlUrl="https://blog.ourresearch.org/feed/" />
+    </outline>
+    <outline text="分享·开源工具项目" title="分享·开源工具项目">
+      <outline type="rss" text="Blog on Posit Open Source" title="Blog on Posit Open Source" xmlUrl="https://quarto.org/docs/blog/index.xml" />
+      <outline type="rss" text="Obsidian Blog" title="Obsidian Blog" xmlUrl="https://obsidian.md/feed.xml" />
+      <outline type="rss" text="Zotero" title="Zotero" xmlUrl="https://www.zotero.org/blog/feed/" />
+      <outline type="rss" text="excalidraw/excalidraw · 发布" title="excalidraw/excalidraw · 发布" xmlUrl="https://github.com/excalidraw/excalidraw/releases.atom" />
+      <outline type="rss" text="jgm/pandoc · 发布" title="jgm/pandoc · 发布" xmlUrl="https://github.com/jgm/pandoc/releases.atom" />
+      <outline type="rss" text="jupyterlab/jupyterlab · 发布" title="jupyterlab/jupyterlab · 发布" xmlUrl="https://github.com/jupyterlab/jupyterlab/releases.atom" />
+      <outline type="rss" text="logseq/logseq · 发布" title="logseq/logseq · 发布" xmlUrl="https://github.com/logseq/logseq/releases.atom" />
+      <outline type="rss" text="quarto-dev/quarto-cli · 发布" title="quarto-dev/quarto-cli · 发布" xmlUrl="https://github.com/quarto-dev/quarto-cli/releases.atom" />
+      <outline type="rss" text="少数派" title="少数派" xmlUrl="https://sspai.com/feed" />
+      <outline type="rss" text="阮一峰的网络日志" title="阮一峰的网络日志" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml" />
+    </outline>
+    <outline text="灵犀输入法·公开进展" title="灵犀输入法·公开进展">
+      <outline type="rss" text="scholay/rimes · 发布" title="scholay/rimes · 发布" xmlUrl="https://github.com/scholay/rimes/releases.atom" />
+      <outline type="rss" text="scholay/rimes · 提交" title="scholay/rimes · 提交" xmlUrl="https://github.com/scholay/rimes/commits/main.atom" />
+    </outline>
+    <outline text="网站服务项目·上游动态" title="网站服务项目·上游动态">
+      <outline type="rss" text="nginx/nginx · 发布" title="nginx/nginx · 发布" xmlUrl="https://github.com/nginx/nginx/releases.atom" />
+      <outline type="rss" text="nodejs/node · 发布" title="nodejs/node · 发布" xmlUrl="https://github.com/nodejs/node/releases.atom" />
+      <outline type="rss" text="tauri-apps/tauri · 发布" title="tauri-apps/tauri · 发布" xmlUrl="https://github.com/tauri-apps/tauri/releases.atom" />
+      <outline type="rss" text="vercel/next.js · 发布" title="vercel/next.js · 发布" xmlUrl="https://github.com/vercel/next.js/releases.atom" />
+      <outline type="rss" text="vitejs/vite · 发布" title="vitejs/vite · 发布" xmlUrl="https://github.com/vitejs/vite/releases.atom" />
+      <outline type="rss" text="withastro/astro · 发布" title="withastro/astro · 发布" xmlUrl="https://github.com/withastro/astro/releases.atom" />
+    </outline>
+    <outline text="输入法项目·上游动态" title="输入法项目·上游动态">
+      <outline type="rss" text="fcitx/fcitx5 · 发布" title="fcitx/fcitx5 · 发布" xmlUrl="https://github.com/fcitx/fcitx5/releases.atom" />
+      <outline type="rss" text="osfans/trime · 发布" title="osfans/trime · 发布" xmlUrl="https://github.com/osfans/trime/releases.atom" />
+      <outline type="rss" text="rime/librime · 发布" title="rime/librime · 发布" xmlUrl="https://github.com/rime/librime/releases.atom" />
+      <outline type="rss" text="rime/squirrel · 发布" title="rime/squirrel · 发布" xmlUrl="https://github.com/rime/squirrel/releases.atom" />
+      <outline type="rss" text="rime/weasel · 发布" title="rime/weasel · 发布" xmlUrl="https://github.com/rime/weasel/releases.atom" />
+    </outline>
+    <outline text="键盘项目·上游动态" title="键盘项目·上游动态">
+      <outline type="rss" text="openstenoproject/plover · 发布" title="openstenoproject/plover · 发布" xmlUrl="https://github.com/openstenoproject/plover/releases.atom" />
+      <outline type="rss" text="qmk/qmk_firmware · 发布" title="qmk/qmk_firmware · 发布" xmlUrl="https://github.com/qmk/qmk_firmware/releases.atom" />
+      <outline type="rss" text="vial-kb/vial-gui · 发布" title="vial-kb/vial-gui · 发布" xmlUrl="https://github.com/vial-kb/vial-gui/releases.atom" />
+      <outline type="rss" text="zmkfirmware/zmk · 发布" title="zmkfirmware/zmk · 发布" xmlUrl="https://github.com/zmkfirmware/zmk/releases.atom" />
+    </outline>
+  </body>
+</opml>

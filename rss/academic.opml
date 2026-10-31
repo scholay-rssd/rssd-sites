@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>today · academic · RSS 2026-10-13</title>
+  </head>
+  <body>
+    <outline text="开放科研·机构动态" title="开放科研·机构动态">
+      <outline type="rss" text="ORCID" title="ORCID" xmlUrl="https://info.orcid.org/feed/" />
+    </outline>
+    <outline text="课程资源" title="课程资源">
+      <outline type="rss" text="Blog on The Carpentries" title="Blog on The Carpentries" xmlUrl="https://carpentries.org/blog/index.xml" />
+      <outline type="rss" text="Data School" title="Data School" xmlUrl="https://www.dataschool.io/rss/" />
+      <outline type="rss" text="Editage Insights" title="Editage Insights" xmlUrl="https://www.editage.com/insights/feed" />
+      <outline type="rss" text="Galaxy Training!" title="Galaxy Training!" xmlUrl="https://training.galaxyproject.org/training-material/feed.xml" />
+      <outline type="rss" text="R-bloggers" title="R-bloggers" xmlUrl="https://www.r-bloggers.com/feed/" />
+      <outline type="rss" text="Statistical Horizons" title="Statistical Horizons" xmlUrl="https://statisticalhorizons.com/feed/" />
+      <outline type="rss" text="The Stata Blog" title="The Stata Blog" xmlUrl="https://blog.stata.com/feed/" />
+    </outline>
+    <outline text="项目合作·社区线索" title="项目合作·社区线索">
+      <outline type="rss" text="Blog on rOpenSci - open tools for open science" title="Blog on rOpenSci - open tools for open science" xmlUrl="https://ropensci.org/blog/index.xml" />
+      <outline type="rss" text="Jupyter Community Forum - Latest topics" title="Jupyter Community Forum - Latest topics" xmlUrl="https://discourse.jupyter.org/latest.rss" />
+      <outline type="rss" text="OpenRefine - Latest topics" title="OpenRefine - Latest topics" xmlUrl="https://forum.openrefine.org/latest.rss" />
+      <outline type="rss" text="rOpenSci - open tools for open science" title="rOpenSci - open tools for open science" xmlUrl="https://ropensci.org/index.xml" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>学术海订阅</title>
+  </head>
+  <body>
+    <outline text="产品随想">
+      <outline text="Nielsen Norman Group" title="Nielsen Norman Group" type="rss" xmlUrl="https://www.nngroup.com/feed/rss/" />
+      <outline text="Silicon Valley Product Group" title="Silicon Valley Product Group" type="rss" xmlUrl="https://www.svpg.com/feed/" />
+    </outline>
+    <outline text="产品资讯">
+      <outline text="Lenny’s Newsletter" title="Lenny’s Newsletter" type="rss" xmlUrl="https://www.lennysnewsletter.com/feed" />
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml" />
+    </outline>
+    <outline text="项目动态">
+      <outline text="犀术 IME 版本发布" title="犀术 IME 版本发布" type="rss" xmlUrl="https://github.com/scholay/rimes/releases.atom" />
+    </outline>
+    <outline text="学术札记">
+      <outline text="Posit 开源工具博客" title="Posit 开源工具博客" type="rss" xmlUrl="https://quarto.org/docs/blog/index.xml" />
+    </outline>
+  </body>
+</opml>

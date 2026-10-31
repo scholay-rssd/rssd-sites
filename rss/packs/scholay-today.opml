@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>今日学术订阅</title>
+  </head>
+  <body>
+    <outline text="学界犀闻">
+      <outline text="研之有物" title="研之有物" type="rss" xmlUrl="https://research.sinica.edu.tw/feed/" />
+      <outline text="Nature" title="Nature" type="rss" xmlUrl="https://www.nature.com/nature.rss" />
+    </outline>
+    <outline text="学者观察">
+      <outline text="Retraction Watch" title="Retraction Watch" type="rss" xmlUrl="https://retractionwatch.com/feed/" />
+    </outline>
+    <outline text="学术日历">
+      <outline text="国科会研讨会与活动" title="国科会研讨会与活动" type="rss" xmlUrl="https://www.nstc.gov.tw/nstc/rss/events" />
+    </outline>
+    <outline text="学术资源">
+      <outline text="OpenAlex" title="OpenAlex" type="rss" xmlUrl="https://blog.openalex.org/feed/" />
+      <outline text="The Carpentries" title="The Carpentries" type="rss" xmlUrl="https://carpentries.org/blog/index.xml" />
+    </outline>
+  </body>
+</opml>

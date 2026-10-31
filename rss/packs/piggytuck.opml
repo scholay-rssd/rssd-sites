@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>小猪盖被订阅</title>
+  </head>
+  <body>
+    <outline text="设计资讯">
+      <outline text="标志情报局" title="标志情报局" type="rss" xmlUrl="https://www.logonews.cn/feed" />
+    </outline>
+    <outline text="作品参考">
+      <outline text="Fonts In Use" title="Fonts In Use" type="rss" xmlUrl="https://fontsinuse.com/main.rss" />
+      <outline text="Colossal" title="Colossal" type="rss" xmlUrl="https://www.thisiscolossal.com/feed/" />
+    </outline>
+    <outline text="精美图标">
+      <outline text="Lucide 图标" title="Lucide 图标" type="rss" xmlUrl="https://github.com/lucide-icons/lucide/releases.atom" />
+    </outline>
+    <outline text="网页设计">
+      <outline text="Smashing Magazine" title="Smashing Magazine" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/" />
+    </outline>
+  </body>
+</opml>

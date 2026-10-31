@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>犀术国学 · 100 个已验证扩增订阅</title>
+    <dateModified>2026-10-16T15:36:26.393080+00:00</dateModified>
+  </head>
+  <body>
+    <outline text="国学经典 · 扩增" title="国学经典 · 扩增">
+      <outline type="rss" text="CrossAsia Blog" title="CrossAsia Blog" xmlUrl="https://blog.crossasia.org/feed/" htmlUrl="https://blog.crossasia.org/startseite/" />
+      <outline type="rss" text="DILA-edu/cbeta-normal-text · 项目更新" title="DILA-edu/cbeta-normal-text · 项目更新" xmlUrl="https://github.com/DILA-edu/cbeta-normal-text/commits/HEAD.atom" htmlUrl="https://github.com/DILA-edu/cbeta-normal-text/commits/dd677e486b2ec889945f29e50ecdae46c3c383ab" />
+      <outline type="rss" text="International Dunhuang Project Blog" title="International Dunhuang Project Blog" xmlUrl="https://idpuk.blogspot.com/feeds/posts/default" htmlUrl="https://idpuk.blogspot.com/" />
+      <outline type="rss" text="Society for the Study of Early China" title="Society for the Study of Early China" xmlUrl="https://earlychina.org/feed/" htmlUrl="https://earlychina.org/" />
+      <outline type="rss" text="THUNLP-AIPoet/Datasets · 项目更新" title="THUNLP-AIPoet/Datasets · 项目更新" xmlUrl="https://github.com/THUNLP-AIPoet/Datasets/commits/HEAD.atom" htmlUrl="https://github.com/THUNLP-AIPoet/Datasets/commits/0a53d6a29c1dc5e3f69de446e8c94b28b3b2437b" />
+      <outline type="rss" text="The Sayings of Laozi · 经典朗读" title="The Sayings of Laozi · 经典朗读" xmlUrl="https://cgtn-radio-data.cgtn.com/rss/programother/519" htmlUrl="http://chinaplus.cri.cn/podcast/list/64" />
+      <outline type="rss" text="chinese-poetry/chinese-poetry · 项目更新" title="chinese-poetry/chinese-poetry · 项目更新" xmlUrl="https://github.com/chinese-poetry/chinese-poetry/commits/HEAD.atom" htmlUrl="https://github.com/chinese-poetry/chinese-poetry/commits/b8594f81a89752241442f2ce267d6f66f96704ee" />
+      <outline type="rss" text="chinese-poetry/huajianji · 项目更新" title="chinese-poetry/huajianji · 项目更新" xmlUrl="https://github.com/chinese-poetry/huajianji/commits/HEAD.atom" htmlUrl="https://github.com/chinese-poetry/huajianji/commits/1886c7b8801671fd46a7dcc184a5f7721b8cd8ea" />
+      <outline type="rss" text="suttacentral/bilara-data · 项目更新" title="suttacentral/bilara-data · 项目更新" xmlUrl="https://github.com/suttacentral/bilara-data/commits/HEAD.atom" htmlUrl="https://github.com/suttacentral/bilara-data/commits/10ad8c831fe5851301d46381b8ac446bf9ed931b" />
+      <outline type="rss" text="《庄子》白话文版|诸子百家系列 · 经典朗读" title="《庄子》白话文版|诸子百家系列 · 经典朗读" xmlUrl="http://www.ximalaya.com/album/45601750.xml" htmlUrl="https://www.ximalaya.com/album/45601750" />
+      <outline type="rss" text="【免费】经典常谈 | 朱自清13堂国学必修课 | 走近中华文化的原点 · 经典朗读" title="【免费】经典常谈 | 朱自清13堂国学必修课 | 走近中华文化的原点 · 经典朗读" xmlUrl="https://www.ximalaya.com/album/102193852.xml" htmlUrl="https://www.ximalaya.com/album/102193852" />
+      <outline type="rss" text="【国学经典】大麦简读《道德经》老子|本经译文|哲学 · 经典朗读" title="【国学经典】大麦简读《道德经》老子|本经译文|哲学 · 经典朗读" xmlUrl="https://www.ximalaya.com/album/89415467.xml" htmlUrl="https://www.ximalaya.com/album/89415467" />
+      <outline type="rss" text="中国哲学书电子化计划" title="中国哲学书电子化计划" xmlUrl="https://ctext.org/rss.pl?if=gb" htmlUrl="http://ctext.org/" />
+      <outline type="rss" text="中国通史|吕思勉|换个角度看历史 · 经典朗读" title="中国通史|吕思勉|换个角度看历史 · 经典朗读" xmlUrl="https://www.ximalaya.com/album/91748812.xml" htmlUrl="https://www.ximalaya.com/album/91748812" />
+      <outline type="rss" text="www.shuge.org · 更新" title="www.shuge.org · 更新" xmlUrl="https://www.shuge.org/feed/" htmlUrl="https://www.shuge.org" />
+      <outline type="rss" text="古典文学知识" title="古典文学知识" xmlUrl="https://rss.cnki.net/knavi/rss/GDWX?pcode=CJFD,CCJD" htmlUrl="https://navi.cnki.net/knavi/journals/GDWX/detail?uniplatform=NZKPT" />
+      <outline type="rss" text="古汉语研究" title="古汉语研究" xmlUrl="https://rss.cnki.net/knavi/rss/GHYY?pcode=CJFD,CCJD" htmlUrl="https://navi.cnki.net/knavi/journals/GHYY/detail?uniplatform=NZKPT" />
+      <outline type="rss" text="古籍整理研究学刊" title="古籍整理研究学刊" xmlUrl="https://rss.cnki.net/knavi/rss/GJZL?pcode=CJFD,CCJD" htmlUrl="https://navi.cnki.net/knavi/journals/GJZL/detail?uniplatform=NZKPT" />
+      <outline type="rss" text="四书诵读：大学中庸论语孟子 最美国学经典诵读 · 经典朗读" title="四书诵读：大学中庸论语孟子 最美国学经典诵读 · 经典朗读" xmlUrl="http://www.ximalaya.com/album/24462158.xml" htmlUrl="https://www.ximalaya.com/album/24462158" />
+      <outline type="rss" text="敦煌研究" title="敦煌研究" xmlUrl="https://rss.cnki.net/knavi/rss/DHYJ?pcode=CJFD,CCJD" htmlUrl="https://navi.cnki.net/knavi/journals/DHYJ/detail?uniplatform=NZKPT" />
+      <outline type="rss" text="文学遗产" title="文学遗产" xmlUrl="https://rss.cnki.net/knavi/rss/WXYC?pcode=CJFD,CCJD" htmlUrl="https://navi.cnki.net/knavi/journals/WXYC/detail?uniplatform=NZKPT" />
+      <outline type="rss" text="早期中国史研究" title="早期中国史研究" xmlUrl="https://emchistory.blogspot.com/feeds/posts/default" htmlUrl="https://emchistory.blogspot.com/" />
+      <outline type="rss" text="易经 原著原文 白话注解 · 经典朗读" title="易经 原著原文 白话注解 · 经典朗读" xmlUrl="https://www.ximalaya.com/album/69356446.xml" htmlUrl="https://www.ximalaya.com/album/69356446" />
+      <outline type="rss" text="清史演义 | 中国历史通俗演义 作者：蔡东藩 · 经典朗读" title="清史演义 | 中国历史通俗演义 作者：蔡东藩 · 经典朗读" xmlUrl="https://www.ximalaya.com/album/73757780.xml" htmlUrl="https://www.ximalaya.com/album/73757780" />
+      <outline type="rss" text="诗经史记精选国学经典诵读|最美国学经典 · 经典朗读" title="诗经史记精选国学经典诵读|最美国学经典 · 经典朗读" xmlUrl="http://www.ximalaya.com/album/36076447.xml" htmlUrl="https://www.ximalaya.com/album/36076447" />
+    </outline>
+    <outline text="易家之言 · 扩增" title="易家之言 · 扩增">
+      <outline type="rss" text="Ancient Chinese Wisdom for Modern Life · 讲读" title="Ancient Chinese Wisdom for Modern Life · 讲读" xmlUrl="https://api.substack.com/feed/podcast/10991049.rss" htmlUrl="https://spacetimeblueprint.substack.com/podcast" />
+      <outline type="rss" text="China Heritage" title="China Heritage" xmlUrl="https://chinaheritage.net/feed/" htmlUrl="https://chinaheritage.net" />
+      <outline type="rss" text="China Rhyming" title="China Rhyming" xmlUrl="https://www.chinarhyming.com/feed/" htmlUrl="https://chinarhyming.com" />
+      <outline type="rss" text="Chris Fraser 方克濤" title="Chris Fraser 方克濤" xmlUrl="https://cjfraser.net/feed/" htmlUrl="https://cjfraser.net" />
+      <outline type="rss" text="Frog in a Well 中国历史" title="Frog in a Well 中国历史" xmlUrl="https://www.froginawell.net/frog/feed/" htmlUrl="https://froginawell.net/frog" />
+      <outline type="rss" text="Hualin International Journal of Buddhist Studies" title="Hualin International Journal of Buddhist Studies" xmlUrl="https://glorisunglobalnetwork.org/feed/" htmlUrl="https://glorisunglobalnetwork.org" />
+      <outline type="rss" text="Journal of Buddhist Ethics" title="Journal of Buddhist Ethics" xmlUrl="https://blogs.dickinson.edu/buddhistethics/feed/" htmlUrl="https://blogs.dickinson.edu/buddhistethics" />
+      <outline type="rss" text="This Is The Way: Chinese Philosophy Podcast · 讲读" title="This Is The Way: Chinese Philosophy Podcast · 讲读" xmlUrl="https://rss.buzzsprout.com/2309367.rss" htmlUrl="https://www.buzzsprout.com/2309367" />
+      <outline type="rss" text="Victor Mair Language Log" title="Victor Mair Language Log" xmlUrl="https://languagelog.ldc.upenn.edu/nll/?feed=rss2" htmlUrl="https://languagelog.ldc.upenn.edu/nll" />
+      <outline type="rss" text="《易经》深度解析 | 探秘千年智慧，赋能现代人生 · 讲读" title="《易经》深度解析 | 探秘千年智慧，赋能现代人生 · 讲读" xmlUrl="https://www.ximalaya.com/album/84325011.xml" htmlUrl="https://www.ximalaya.com/album/84325011" />
+      <outline type="rss" text="《易经》通俗讲解—国学儒家道家 · 讲读" title="《易经》通俗讲解—国学儒家道家 · 讲读" xmlUrl="https://papi.qingting.fm/podcast/channels/10732" htmlUrl="https://m.qtfm.cn/vchannel/331802" />
+      <outline type="rss" text="中国文化研究" title="中国文化研究" xmlUrl="https://rss.cnki.net/knavi/rss/ZWHY?pcode=CJFD,CCJD" htmlUrl="https://navi.cnki.net/knavi/journals/ZWHY/detail?uniplatform=NZKPT" />
+      <outline type="rss" text="历史研究" title="历史研究" xmlUrl="https://rss.cnki.net/knavi/rss/LSYJ?pcode=CJFD,CCJD" htmlUrl="https://navi.cnki.net/knavi/journals/LSYJ/detail?uniplatform=NZKPT" />
+      <outline type="rss" text="周易研究" title="周易研究" xmlUrl="https://rss.cnki.net/knavi/rss/ZYJY?pcode=CJFD,CCJD" htmlUrl="https://navi.cnki.net/knavi/journals/ZYJY/detail?uniplatform=NZKPT" />
+      <outline type="rss" text="哲学研究" title="哲学研究" xmlUrl="https://rss.cnki.net/knavi/rss/ZXYJ?pcode=CJFD,CCJD" htmlUrl="https://navi.cnki.net/knavi/journals/ZXYJ/detail?uniplatform=NZKPT" />
+      <outline type="rss" text="孔子研究" title="孔子研究" xmlUrl="https://rss.cnki.net/knavi/rss/KZYJ?pcode=CJFD,CCJD" htmlUrl="https://navi.cnki.net/knavi/journals/KZYJ/detail?uniplatform=NZKPT" />
+      <outline type="rss" text="文史哲" title="文史哲" xmlUrl="https://rss.cnki.net/knavi/rss/WSZZ?pcode=CJFD,CCJD" htmlUrl="https://navi.cnki.net/knavi/journals/WSZZ/detail?uniplatform=NZKPT" />
+      <outline type="rss" text="易經384爻的人生課 · 讲读" title="易經384爻的人生課 · 讲读" xmlUrl="https://feeds.soundon.fm/podcasts/62d903c9-e950-489a-aa91-a059df7c749d.xml" htmlUrl="https://www.youtube.com/@liliansoulfood" />
+      <outline type="rss" text="易經一二三 · 讲读" title="易經一二三 · 讲读" xmlUrl="https://feeds.soundon.fm/podcasts/bbc76e88-0c41-44de-9bd7-d013b6672e27.xml" htmlUrl="https://player.soundon.fm/p/bbc76e88-0c41-44de-9bd7-d013b6672e27" />
+      <outline type="rss" text="易经智慧 Annie On I Ching · 讲读" title="易经智慧 Annie On I Ching · 讲读" xmlUrl="https://www.ximalaya.com/album/70298282.xml" htmlUrl="https://www.ximalaya.com/album/70298282" />
+      <outline type="rss" text="易经比想象中简单 · 讲读" title="易经比想象中简单 · 讲读" xmlUrl="https://www.ximalaya.com/album/108766328.xml" htmlUrl="https://www.ximalaya.com/album/108766328" />
+      <outline type="rss" text="易经钥匙｜身临其境观周易 · 讲读" title="易经钥匙｜身临其境观周易 · 讲读" xmlUrl="https://www.ximalaya.com/album/67954000.xml" htmlUrl="https://www.ximalaya.com/album/67954000" />
+      <outline type="rss" text="清史研究" title="清史研究" xmlUrl="https://rss.cnki.net/knavi/rss/QSYJ?pcode=CJFD,CCJD" htmlUrl="https://navi.cnki.net/knavi/journals/QSYJ/detail?uniplatform=NZKPT" />
+      <outline type="rss" text="生活中的易经 · 讲读" title="生活中的易经 · 讲读" xmlUrl="http://www.ximalaya.com/album/22887417.xml" htmlUrl="https://www.ximalaya.com/album/22887417" />
+      <outline type="rss" text="笑談易經 · 讲读" title="笑談易經 · 讲读" xmlUrl="https://feed.firstory.me/rss/user/ckecum9lgfas808398he37gai" htmlUrl="https://yijing666.firstory.io" />
+    </outline>
+    <outline text="精品应用 · 扩增" title="精品应用 · 扩增">
+      <outline type="rss" text="BYVoid/OpenCC · 项目更新" title="BYVoid/OpenCC · 项目更新" xmlUrl="https://github.com/BYVoid/OpenCC/commits/HEAD.atom" htmlUrl="https://github.com/BYVoid/OpenCC/commits/8cf737a4e193db27d675b2ce9867d84aace33745" />
+      <outline type="rss" text="Jjohn987/ctextclassics · 项目更新" title="Jjohn987/ctextclassics · 项目更新" xmlUrl="https://github.com/Jjohn987/ctextclassics/commits/HEAD.atom" htmlUrl="https://github.com/Jjohn987/ctextclassics/commits/58285741b7b092ebac42ba14a99aa3d4544a87ba" />
+      <outline type="rss" text="OCR-D/core · 项目更新" title="OCR-D/core · 项目更新" xmlUrl="https://github.com/OCR-D/core/commits/HEAD.atom" htmlUrl="https://github.com/OCR-D/core/commits/c9272c82b2f4bf62ca7fa6773c00980a7b8e67b3" />
+      <outline type="rss" text="OpenRefine/OpenRefine · 项目更新" title="OpenRefine/OpenRefine · 项目更新" xmlUrl="https://github.com/OpenRefine/OpenRefine/commits/HEAD.atom" htmlUrl="https://github.com/OpenRefine/OpenRefine/commits/815f46abcb51d21cd96197b749e023462487e47c" />
+      <outline type="rss" text="PaddlePaddle/PaddleOCR · 项目更新" title="PaddlePaddle/PaddleOCR · 项目更新" xmlUrl="https://github.com/PaddlePaddle/PaddleOCR/commits/HEAD.atom" htmlUrl="https://github.com/PaddlePaddle/PaddleOCR/commits/dab3fe35379033fdcb2d0e9572fac0b36c9a9ebf" />
+      <outline type="rss" text="TEIC/Stylesheets · 项目更新" title="TEIC/Stylesheets · 项目更新" xmlUrl="https://github.com/TEIC/Stylesheets/commits/HEAD.atom" htmlUrl="https://github.com/TEIC/Stylesheets/commits/34da0f4c8f7d956fca3449dc7347181d034d0416" />
+      <outline type="rss" text="TEIC/TEI · 项目更新" title="TEIC/TEI · 项目更新" xmlUrl="https://github.com/TEIC/TEI/commits/HEAD.atom" htmlUrl="https://github.com/TEIC/TEI/commits/3525937afae16b45fe581c41e5c0c1a8deac21a3" />
+      <outline type="rss" text="VoyantTools/Voyant · 项目更新" title="VoyantTools/Voyant · 项目更新" xmlUrl="https://github.com/VoyantTools/Voyant/commits/HEAD.atom" htmlUrl="https://github.com/voyanttools/Voyant/commits/14fb31bcadd8b1d3cae20595b824a3e1e220c56b" />
+      <outline type="rss" text="annotation/text-fabric · 项目更新" title="annotation/text-fabric · 项目更新" xmlUrl="https://github.com/annotation/text-fabric/commits/HEAD.atom" htmlUrl="https://github.com/annotation/text-fabric/commits/b8e9fcfdb466ef061613778b0b229cc6f8810cf2" />
+      <outline type="rss" text="annotorious/annotorious · 项目更新" title="annotorious/annotorious · 项目更新" xmlUrl="https://github.com/annotorious/annotorious/commits/HEAD.atom" htmlUrl="https://github.com/annotorious/annotorious/commits/3a4dec6e1bc68da44a5ad94757732aab6b6e95a2" />
+      <outline type="rss" text="cbdb-project/cbdb-online-main-server · 项目更新" title="cbdb-project/cbdb-online-main-server · 项目更新" xmlUrl="https://github.com/cbdb-project/cbdb-online-main-server/commits/HEAD.atom" htmlUrl="https://github.com/cbdb-project/cbdb-online-main-server/commits/bb6f28f599c15ad02aff25eaf3cb4ebfd3bdb620" />
+      <outline type="rss" text="cjkvi/cjkvi-dict · 项目更新" title="cjkvi/cjkvi-dict · 项目更新" xmlUrl="https://github.com/cjkvi/cjkvi-dict/commits/HEAD.atom" htmlUrl="https://github.com/cjkvi/cjkvi-dict/commits/9b6e0a88bcccdfa36c6b96327a88fc900867276c" />
+      <outline type="rss" text="cjkvi/cjkvi-ids · 项目更新" title="cjkvi/cjkvi-ids · 项目更新" xmlUrl="https://github.com/cjkvi/cjkvi-ids/commits/HEAD.atom" htmlUrl="https://github.com/cjkvi/cjkvi-ids/commits/86b4d16159f0079437870408f0ca186e529015db" />
+      <outline type="rss" text="eXist-db/exist · 项目更新" title="eXist-db/exist · 项目更新" xmlUrl="https://github.com/eXist-db/exist/commits/HEAD.atom" htmlUrl="https://github.com/eXist-db/exist/commits/abdb2f5f3d8f6c3656300ab30f77389a0f8f4415" />
+      <outline type="rss" text="g0v/moedict-data · 项目更新" title="g0v/moedict-data · 项目更新" xmlUrl="https://github.com/g0v/moedict-data/commits/HEAD.atom" htmlUrl="https://github.com/g0v/moedict-data/commits/a6dc997417507eb510fc29822bc514de2c92728c" />
+      <outline type="rss" text="g0v/moedict-webkit · 项目更新" title="g0v/moedict-webkit · 项目更新" xmlUrl="https://github.com/g0v/moedict-webkit/commits/HEAD.atom" htmlUrl="https://github.com/g0v/moedict-webkit/commits/9e00777f50f1e023ccd0507c38afb9b81905c73b" />
+      <outline type="rss" text="gephi/gephi · 项目更新" title="gephi/gephi · 项目更新" xmlUrl="https://github.com/gephi/gephi/commits/HEAD.atom" htmlUrl="https://github.com/gephi/gephi/commits/e5e71f82ba1f2efe2e4017db0ee1359b1f671ec6" />
+      <outline type="rss" text="mindee/doctr · 项目更新" title="mindee/doctr · 项目更新" xmlUrl="https://github.com/mindee/doctr/commits/HEAD.atom" htmlUrl="https://github.com/mindee/doctr/commits/11941d2bf1f77a496fda44272ef3a7ce3a8a0f45" />
+      <outline type="rss" text="omeka/omeka-s · 项目更新" title="omeka/omeka-s · 项目更新" xmlUrl="https://github.com/omeka/omeka-s/commits/HEAD.atom" htmlUrl="https://github.com/omeka/omeka-s/commits/c6c3e5cc4f2aa7b144a99ad4c5cbccfa6b2e0d16" />
+      <outline type="rss" text="open-guji/bookget-py · 项目更新" title="open-guji/bookget-py · 项目更新" xmlUrl="https://github.com/open-guji/bookget-py/commits/HEAD.atom" htmlUrl="https://github.com/open-guji/bookget-py/commits/fdabd6785c619c0b06c51a6d00e85bf9b1b2091a" />
+      <outline type="rss" text="projectmirador/mirador · 项目更新" title="projectmirador/mirador · 项目更新" xmlUrl="https://github.com/projectmirador/mirador/commits/HEAD.atom" htmlUrl="https://github.com/ProjectMirador/mirador/commits/f6eb37ba1c370ce7576a7fde36e11a6b98862975" />
+      <outline type="rss" text="skydark/nstools · 项目更新" title="skydark/nstools · 项目更新" xmlUrl="https://github.com/skydark/nstools/commits/HEAD.atom" htmlUrl="https://github.com/skydark/nstools/commits/687cef6185e6b63804888b360ce5f9e81d2cc5ff" />
+      <outline type="rss" text="suttacentral/suttacentral · 项目更新" title="suttacentral/suttacentral · 项目更新" xmlUrl="https://github.com/suttacentral/suttacentral/commits/HEAD.atom" htmlUrl="https://github.com/suttacentral/suttacentral/commits/6d7d9272a79b06ff330783313c2fe16c32f57eb3" />
+      <outline type="rss" text="tesseract-ocr/tesseract · 项目更新" title="tesseract-ocr/tesseract · 项目更新" xmlUrl="https://github.com/tesseract-ocr/tesseract/commits/HEAD.atom" htmlUrl="https://github.com/tesseract-ocr/tesseract/commits/b2544450ca01407259ed53c870b7e5e4c67f7789" />
+      <outline type="rss" text="zenodo/zenodo · 项目更新" title="zenodo/zenodo · 项目更新" xmlUrl="https://github.com/zenodo/zenodo/commits/HEAD.atom" htmlUrl="https://github.com/zenodo/zenodo/commits/2d0bd3527dcb851613a00391d674be1d004c9459" />
+    </outline>
+    <outline text="课程资源 · 讲读与教程" title="课程资源 · 讲读与教程">
+      <outline type="rss" text="3000分钟讲透老子《道德经》大智慧丨国学｜哲学 · 讲读课程" title="3000分钟讲透老子《道德经》大智慧丨国学｜哲学 · 讲读课程" xmlUrl="https://www.ximalaya.com/album/88040578.xml" htmlUrl="https://www.ximalaya.com/album/88040578" />
+      <outline type="rss" text="Asian Studies Association" title="Asian Studies Association" xmlUrl="https://www.asianstudies.org/feed/" htmlUrl="https://www.asianstudies.org/" />
+      <outline type="rss" text="Chinese Literature Podcast · 讲读课程" title="Chinese Literature Podcast · 讲读课程" xmlUrl="https://rss.libsyn.com/shows/80114/destinations/368338.xml" htmlUrl="http://chineseliteraturepodcast.libsyn.com/podcast" />
+      <outline type="rss" text="Digital Humanities Now" title="Digital Humanities Now" xmlUrl="https://digitalhumanitiesnow.org/feed/" htmlUrl="https://digitalhumanitiesnow.org" />
+      <outline type="rss" text="Digital Sinology 古汉语数位人文教程" title="Digital Sinology 古汉语数位人文教程" xmlUrl="https://digitalsinology.org/feed/" htmlUrl="https://digitalsinology.org" />
+      <outline type="rss" text="Donald Sturgeon 汉学与数字方法" title="Donald Sturgeon 汉学与数字方法" xmlUrl="https://dsturgeon.net/feed/" htmlUrl="https://dsturgeon.net" />
+      <outline type="rss" text="Journal of European Association for Chinese Studies" title="Journal of European Association for Chinese Studies" xmlUrl="https://journals.univie.ac.at/index.php/jeacs/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journals.univie.ac.at/index.php/jeacs" />
+      <outline type="rss" text="Programming Historian" title="Programming Historian" xmlUrl="https://programminghistorian.org/feed.xml" htmlUrl="https://programminghistorian.org" />
+      <outline type="rss" text="Sinology Methods" title="Sinology Methods" xmlUrl="https://sinologymethods.com/feed/" htmlUrl="https://sinologymethods.com" />
+      <outline type="rss" text="Taiwan Accent - Chinese Classical Literature▪台灣腔 中國古典文學 ▪  台湾腔 中国古典文学 ▪ Learn Manda · 讲读课程" title="Taiwan Accent - Chinese Classical Literature▪台灣腔 中國古典文學 ▪  台湾腔 中国古典文学 ▪ Learn Manda · 讲读课程" xmlUrl="https://feed.firstory.me/rss/user/ck9tcffevgslp08733bo2bgl7" htmlUrl="https://taiwanaccent.firstory.io" />
+      <outline type="rss" text="《时光回响：中国历史人物志》 · 讲读课程" title="《时光回响：中国历史人物志》 · 讲读课程" xmlUrl="https://feed.xyzfm.space/q8dpjb48kd6h" htmlUrl="https://www.xiaoyuzhoufm.com/podcast/68dbe1927256959dd46e9a7d?utm_source=rss" />
+      <outline type="rss" text="【国学经典】大麦读《论语》|四书|解读孔子留给世人的智慧 · 讲读课程" title="【国学经典】大麦读《论语》|四书|解读孔子留给世人的智慧 · 讲读课程" xmlUrl="https://www.ximalaya.com/album/92069576.xml" htmlUrl="https://www.ximalaya.com/album/92069576" />
+      <outline type="rss" text="一生一局｜中国历史人物传 · 讲读课程" title="一生一局｜中国历史人物传 · 讲读课程" xmlUrl="https://www.ximalaya.com/album/127208348.xml" htmlUrl="https://www.ximalaya.com/album/127208348" />
+      <outline type="rss" text="中国历史故事130讲 · 讲读课程" title="中国历史故事130讲 · 讲读课程" xmlUrl="https://feed.xyzfm.space/6ufc83jqq3ad" htmlUrl="https://www.xiaoyuzhoufm.com/podcast/64ad0382864a5214377facf7?utm_source=rss" />
+      <outline type="rss" text="中国历史经典传奇（初篇） · 讲读课程" title="中国历史经典传奇（初篇） · 讲读课程" xmlUrl="http://www.ximalaya.com/album/42337595.xml" htmlUrl="https://www.ximalaya.com/album/42337595" />
+      <outline type="rss" text="促膝长谈｜历史故事.古典文学 · 讲读课程" title="促膝长谈｜历史故事.古典文学 · 讲读课程" xmlUrl="https://www.ximalaya.com/album/82208766.xml" htmlUrl="https://www.ximalaya.com/album/82208766" />
+      <outline type="rss" text="国学古韵系列|ChineseCulture LiteraryLanguage · 讲读课程" title="国学古韵系列|ChineseCulture LiteraryLanguage · 讲读课程" xmlUrl="https://www.ximalaya.com/album/84569939.xml" htmlUrl="https://www.ximalaya.com/album/84569939" />
+      <outline type="rss" text="少年智力开发报●国学专页|每周一节国学课 · 讲读课程" title="少年智力开发报●国学专页|每周一节国学课 · 讲读课程" xmlUrl="https://www.ximalaya.com/album/69333193.xml" htmlUrl="https://www.ximalaya.com/album/69333193" />
+      <outline type="rss" text="欧洲汉学协会" title="欧洲汉学协会" xmlUrl="https://chinesestudies.eu/feed/" htmlUrl="https://chinesestudies.eu" />
+      <outline type="rss" text="法国汉学研究协会" title="法国汉学研究协会" xmlUrl="https://afec.hypotheses.org/feed" htmlUrl="https://afec.hypotheses.org" />
+      <outline type="rss" text="浩然爸爸讲成语 | 浩然爸爸讲国学 · 讲读课程" title="浩然爸爸讲成语 | 浩然爸爸讲国学 · 讲读课程" xmlUrl="http://www.ximalaya.com/album/301421.xml" htmlUrl="https://www.ximalaya.com/album/301421" />
+      <outline type="rss" text="澳大利亚中国研究协会" title="澳大利亚中国研究协会" xmlUrl="https://www.csaa.org.au/feed/" htmlUrl="https://www.csaa.org.au" />
+      <outline type="rss" text="美妙解读中国历史 | 历史二人谈 · 讲读课程" title="美妙解读中国历史 | 历史二人谈 · 讲读课程" xmlUrl="https://www.ximalaya.com/album/107598039.xml" htmlUrl="https://www.ximalaya.com/album/107598039" />
+      <outline type="rss" text="聊點中國哲學, Talking about Chinese Philosophy · 讲读课程" title="聊點中國哲學, Talking about Chinese Philosophy · 讲读课程" xmlUrl="https://feed.firstory.me/rss/user/cmfj8clxt022m01tdbjed3p5p" htmlUrl="https://open.firstory.fm/user/cmfj8clxt022m01tdbjed3p5p" />
+      <outline type="rss" text="詩賦，別NG！ · 讲读课程" title="詩賦，別NG！ · 讲读课程" xmlUrl="https://feed.firstory.me/rss/user/ckwa3rk9wavu20969rcje0pyy" htmlUrl="https://open.firstory.fm/user/moonoverclassics" />
+    </outline>
+  </body>
+</opml>

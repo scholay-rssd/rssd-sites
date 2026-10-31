@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "siteId": "personal",
+  "sections": [
+    {
+      "id": "works",
+      "name": "作品系列",
+      "description": "维护中的产品、工具与项目档案。",
+      "includes": [
+        "keyboard-projects",
+        "input-method-projects",
+        "website-projects",
+        "open-tools",
+        "academic-sites",
+        "column-3",
+        "column-5"
+      ]
+    },
+    {
+      "id": "product-news",
+      "name": "产品资讯",
+      "description": "产品动态与值得留意的变化。",
+      "includes": [
+        "column-1",
+        "column-4"
+      ]
+    },
+    {
+      "id": "reflections",
+      "name": "产品随想",
+      "description": "产品实践、观察与复盘。",
+      "includes": [
+        "column-2"
+      ]
+    },
+    {
+      "id": "academic-notes",
+      "name": "学术札记",
+      "description": "研究过程与学习记录。",
+      "includes": []
+    },
+    {
+      "id": "keyboard-projects",
+      "name": "键盘项目",
+      "description": "维护的键盘项目及其更新、教程和复盘。",
+      "legacy": true
+    },
+    {
+      "id": "input-method-projects",
+      "name": "输入法项目",
+      "description": "维护的输入法项目及其技术记录。",
+      "legacy": true
+    },
+    {
+      "id": "website-projects",
+      "name": "网站服务项目",
+      "description": "维护的网站服务与产品实践。",
+      "legacy": true
+    },
+    {
+      "id": "open-tools",
+      "name": "开源工具项目",
+      "description": "分享的开源工具、用途和使用记录。",
+      "legacy": true
+    },
+    {
+      "id": "academic-sites",
+      "name": "学术网站项目",
+      "description": "分享的学术网站、资料与使用说明。",
+      "legacy": true
+    }
+  ],
+  "hubs": [
+    {
+      "id": "split-keyboard",
+      "name": "分体键盘",
+      "sectionId": "keyboard-projects",
+      "route": "/projects/split-keyboard/",
+      "summary": "从现有个人主页的分体键盘模型开始，记录键盘探索与实践。",
+      "existingPage": false,
+      "links": [
+        {
+          "label": "主页键盘展示",
+          "url": "/#keyboard"
+        }
+      ]
+    },
+    {
+      "id": "rimes",
+      "name": "灵犀输入法 · RIMES",
+      "sectionId": "input-method-projects",
+      "route": "/projects/rimes/",
+      "summary": "保留现有的输入法介绍、平台入口与输入方案目录。",
+      "existingPage": true,
+      "links": []
+    },
+    {
+      "id": "scholay-today",
+      "name": "Scholay Today",
+      "sectionId": "website-projects",
+      "route": "/projects/scholay-today/",
+      "summary": "科研日程、学术历史，以及本地 RSS 与辅助写作。",
+      "existingPage": true,
+      "links": []
+    },
+    {
+      "id": "scholay",
+      "name": "Scholay",
+      "sectionId": "website-projects",
+      "route": "/projects/scholay/",
+      "summary": "现有学术研究平台的介绍与产品记录。",
+      "existingPage": true,
+      "links": []
+    },
+    {
+      "id": "skills",
+      "name": "Scholay Skills",
+      "sectionId": "open-tools",
+      "route": "/projects/skills/",
+      "summary": "现有开放学术 AI 技能项目的介绍与使用记录。",
+      "existingPage": true,
+      "links": []
+    },
+    {
+      "id": "scholay-wiki",
+      "name": "Scholay Wiki",
+      "sectionId": "academic-sites",
+      "route": "/projects/scholay-wiki/",
+      "summary": "现有学术产品知识与使用文档入口。",
+      "existingPage": true,
+      "links": []
+    }
+  ],
+  "bindings": []
+}

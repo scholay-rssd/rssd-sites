@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>today / design / 板块补充</title>
+  </head>
+  <body>
+    <outline text="设计日历·主办方与奖项" title="设计日历·主办方与奖项">
+      <outline text="WDO" title="WDO" type="rss" xmlUrl="https://wdo.org/feed/" htmlUrl="https://wdo.org/feed/" />
+      <outline text="Type Directors Club" title="Type Directors Club" type="rss" xmlUrl="https://tdc.org/feed/" htmlUrl="https://tdc.org/feed/" />
+    </outline>
+    <outline text="设计历史·机构档案" title="设计历史·机构档案">
+      <outline text="Letterform Archive" title="Letterform Archive" type="rss" xmlUrl="https://letterformarchive.org/feed/" htmlUrl="https://letterformarchive.org/feed/" />
+      <outline text="Poster House" title="Poster House" type="rss" xmlUrl="https://posterhouse.org/feed/" htmlUrl="https://posterhouse.org/feed/" />
+      <outline text="Podcasts by the Design History Society" title="Podcasts by the Design History Society" type="rss" xmlUrl="https://feed.podbean.com/designhistorysociety/feed.xml" htmlUrl="https://feed.podbean.com/designhistorysociety/feed.xml" />
+    </outline>
+  </body>
+</opml>

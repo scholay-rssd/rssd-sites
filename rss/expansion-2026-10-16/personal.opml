@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>学术海 · 100 个已验证扩增订阅</title>
+    <dateModified>2026-10-16T15:36:26.393080+00:00</dateModified>
+  </head>
+  <body>
+    <outline text="作品系列 · 创作参考" title="作品系列 · 创作参考">
+      <outline type="rss" text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/" />
+      <outline type="rss" text="Behance Blog" title="Behance Blog" xmlUrl="http://feeds.feedburner.com/behance/vorr" htmlUrl="http://www.behance.net" />
+      <outline type="rss" text="Brandingmag" title="Brandingmag" xmlUrl="https://www.brandingmag.com/feed/" htmlUrl="https://www.brandingmag.com/" />
+      <outline type="rss" text="Cooper Hewitt, Smithsonian Design Museum" title="Cooper Hewitt, Smithsonian Design Museum" xmlUrl="https://www.cooperhewitt.org/feed/" htmlUrl="https://www.cooperhewitt.org" />
+      <outline type="rss" text="Creative Bloq » Graphic Design" title="Creative Bloq » Graphic Design" xmlUrl="https://www.creativebloq.com/feeds/tag/graphic-design" htmlUrl="https://www.creativebloq.com/design/graphic-design" />
+      <outline type="rss" text="DIELINE" title="DIELINE" xmlUrl="https://thedieline.com/feed/" htmlUrl="https://thedieline.com" />
+      <outline type="rss" text="BP&amp;O - Branding, Packaging and Opinion » Graphic Design Blog" title="BP&amp;O - Branding, Packaging and Opinion » Graphic Design Blog" xmlUrl="https://bpando.org/graphic-design-blog/feed/" htmlUrl="https://bpando.org/graphic-design-blog/" />
+      <outline type="rss" text="Designer Daily » Graphic Design" title="Designer Daily » Graphic Design" xmlUrl="https://www.designer-daily.com/tag/graphic-design/feed" htmlUrl="https://www.designer-daily.com/tag/graphic-design" />
+      <outline type="rss" text="Designer Daily: graphic and web design blog" title="Designer Daily: graphic and web design blog" xmlUrl="https://www.designer-daily.com/feed" htmlUrl="https://www.designer-daily.com/" />
+      <outline type="rss" text="Fonts In Use – Type at work in the real world" title="Fonts In Use – Type at work in the real world" xmlUrl="https://fontsinuse.com/main.rss" htmlUrl="https://fontsinuse.com" />
+      <outline type="rss" text="Graphic Design Junction" title="Graphic Design Junction" xmlUrl="https://graphicdesignjunction.com/feed/" htmlUrl="https://graphicdesignjunction.com" />
+      <outline type="rss" text="Graphic Design USA" title="Graphic Design USA" xmlUrl="https://gdusa.com/feed/" htmlUrl="https://gdusa.com" />
+      <outline type="rss" text="Graphic Exchange Blog" title="Graphic Exchange Blog" xmlUrl="https://www.mr-cup.com/blog/feed/rss/blog.feed" htmlUrl="https://www.mr-cup.com/" />
+      <outline type="rss" text="I Love Typography Ltd" title="I Love Typography Ltd" xmlUrl="https://ilovetypography.com/feed/" htmlUrl="https://ilovetypography.com/" />
+      <outline type="rss" text="ICON Magazine" title="ICON Magazine" xmlUrl="https://www.iconeye.com/feed/" htmlUrl="https://www.iconeye.com/" />
+      <outline type="rss" text="It's Nice That" title="It's Nice That" xmlUrl="http://feeds2.feedburner.com/itsnicethat/SlXC" htmlUrl="https://www.itsnicethat.com/articles.atom" />
+      <outline type="rss" text="Letterform Archive" title="Letterform Archive" xmlUrl="https://letterformarchive.org/feed/" htmlUrl="https://letterformarchive.org/" />
+      <outline type="rss" text="Logo Design Love" title="Logo Design Love" xmlUrl="https://www.logodesignlove.com/feed" htmlUrl="https://www.logodesignlove.com/" />
+      <outline type="rss" text="Inkbot Design Blog" title="Inkbot Design Blog" xmlUrl="https://inkbotdesign.com/feed/" htmlUrl="https://inkbotdesign.com" />
+      <outline type="rss" text="Podcasts by the Design History Society" title="Podcasts by the Design History Society" xmlUrl="https://feed.podbean.com/designhistorysociety/feed.xml" htmlUrl="https://designhistorysociety.podbean.com" />
+      <outline type="rss" text="Poster House" title="Poster House" xmlUrl="https://posterhouse.org/feed/" htmlUrl="https://posterhouse.org" />
+      <outline type="rss" text="Typotheque" title="Typotheque" xmlUrl="https://www.typotheque.com/rss" htmlUrl="https://www.typotheque.com" />
+      <outline type="rss" text="V&amp;A Blog" title="V&amp;A Blog" xmlUrl="https://www.vam.ac.uk/blog/feed" htmlUrl="https://www.vam.ac.uk/blog" />
+      <outline type="rss" text="slanted" title="slanted" xmlUrl="https://www.slanted.de/feed/" htmlUrl="https://www.slanted.de/" />
+      <outline type="rss" text="swissmiss" title="swissmiss" xmlUrl="https://www.swiss-miss.com/feed" htmlUrl="https://www.swiss-miss.com" />
+    </outline>
+    <outline text="产品资讯 · 扩增" title="产品资讯 · 扩增">
+      <outline type="rss" text="Obsidian Blog" title="Obsidian Blog" xmlUrl="https://obsidian.md/feed.xml" htmlUrl="https://obsidian.md/" />
+      <outline type="rss" text="withastro/astro · 版本发布" title="withastro/astro · 版本发布" xmlUrl="https://github.com/withastro/astro/releases.atom" htmlUrl="https://github.com/withastro/astro/releases" />
+      <outline type="rss" text="11ty/eleventy · 版本发布" title="11ty/eleventy · 版本发布" xmlUrl="https://github.com/11ty/eleventy/releases.atom" htmlUrl="https://github.com/11ty/buildawesome/releases" />
+      <outline type="rss" text="caddyserver/caddy · 版本发布" title="caddyserver/caddy · 版本发布" xmlUrl="https://github.com/caddyserver/caddy/releases.atom" htmlUrl="https://github.com/caddyserver/caddy/releases" />
+      <outline type="rss" text="excalidraw/excalidraw · 版本发布" title="excalidraw/excalidraw · 版本发布" xmlUrl="https://github.com/excalidraw/excalidraw/releases.atom" htmlUrl="https://github.com/excalidraw/excalidraw/releases" />
+      <outline type="rss" text="fcitx/fcitx5 · 版本发布" title="fcitx/fcitx5 · 版本发布" xmlUrl="https://github.com/fcitx/fcitx5/releases.atom" htmlUrl="https://github.com/fcitx/fcitx5/releases" />
+      <outline type="rss" text="gohugoio/hugo · 版本发布" title="gohugoio/hugo · 版本发布" xmlUrl="https://github.com/gohugoio/hugo/releases.atom" htmlUrl="https://github.com/gohugoio/hugo/releases" />
+      <outline type="rss" text="jupyterlab/jupyterlab · 版本发布" title="jupyterlab/jupyterlab · 版本发布" xmlUrl="https://github.com/jupyterlab/jupyterlab/releases.atom" htmlUrl="https://github.com/jupyterlab/jupyterlab/releases" />
+      <outline type="rss" text="sveltejs/kit · 版本发布" title="sveltejs/kit · 版本发布" xmlUrl="https://github.com/sveltejs/kit/releases.atom" htmlUrl="https://github.com/sveltejs/kit/releases" />
+      <outline type="rss" text="rime/librime · 版本发布" title="rime/librime · 版本发布" xmlUrl="https://github.com/rime/librime/releases.atom" htmlUrl="https://github.com/rime/librime/releases" />
+      <outline type="rss" text="logseq/logseq · 版本发布" title="logseq/logseq · 版本发布" xmlUrl="https://github.com/logseq/logseq/releases.atom" htmlUrl="https://github.com/logseq/logseq/releases" />
+      <outline type="rss" text="vercel/next.js · 版本发布" title="vercel/next.js · 版本发布" xmlUrl="https://github.com/vercel/next.js/releases.atom" htmlUrl="https://github.com/vercel/next.js/releases" />
+      <outline type="rss" text="nginx/nginx · 版本发布" title="nginx/nginx · 版本发布" xmlUrl="https://github.com/nginx/nginx/releases.atom" htmlUrl="https://github.com/nginx/nginx/releases" />
+      <outline type="rss" text="nodejs/node · 版本发布" title="nodejs/node · 版本发布" xmlUrl="https://github.com/nodejs/node/releases.atom" htmlUrl="https://github.com/nodejs/node/releases" />
+      <outline type="rss" text="jgm/pandoc · 版本发布" title="jgm/pandoc · 版本发布" xmlUrl="https://github.com/jgm/pandoc/releases.atom" htmlUrl="https://github.com/jgm/pandoc/releases" />
+      <outline type="rss" text="openstenoproject/plover · 版本发布" title="openstenoproject/plover · 版本发布" xmlUrl="https://github.com/openstenoproject/plover/releases.atom" htmlUrl="https://github.com/opensteno/plover/releases" />
+      <outline type="rss" text="qmk/qmk_firmware · 版本发布" title="qmk/qmk_firmware · 版本发布" xmlUrl="https://github.com/qmk/qmk_firmware/releases.atom" htmlUrl="https://github.com/qmk/qmk_firmware/releases" />
+      <outline type="rss" text="quarto-dev/quarto-cli · 版本发布" title="quarto-dev/quarto-cli · 版本发布" xmlUrl="https://github.com/quarto-dev/quarto-cli/releases.atom" htmlUrl="https://github.com/quarto-dev/quarto-cli/releases" />
+      <outline type="rss" text="rime/squirrel · 版本发布" title="rime/squirrel · 版本发布" xmlUrl="https://github.com/rime/squirrel/releases.atom" htmlUrl="https://github.com/rime/squirrel/releases" />
+      <outline type="rss" text="tauri-apps/tauri · 版本发布" title="tauri-apps/tauri · 版本发布" xmlUrl="https://github.com/tauri-apps/tauri/releases.atom" htmlUrl="https://github.com/tauri-apps/tauri/releases" />
+      <outline type="rss" text="traefik/traefik · 版本发布" title="traefik/traefik · 版本发布" xmlUrl="https://github.com/traefik/traefik/releases.atom" htmlUrl="https://github.com/traefik/traefik/releases" />
+      <outline type="rss" text="osfans/trime · 版本发布" title="osfans/trime · 版本发布" xmlUrl="https://github.com/osfans/trime/releases.atom" htmlUrl="https://github.com/osfans/trime/releases" />
+      <outline type="rss" text="vitejs/vite · 版本发布" title="vitejs/vite · 版本发布" xmlUrl="https://github.com/vitejs/vite/releases.atom" htmlUrl="https://github.com/vitejs/vite/releases" />
+      <outline type="rss" text="rime/weasel · 版本发布" title="rime/weasel · 版本发布" xmlUrl="https://github.com/rime/weasel/releases.atom" htmlUrl="https://github.com/rime/weasel/releases" />
+      <outline type="rss" text="少数派" title="少数派" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com" />
+    </outline>
+    <outline text="产品随想 · 扩增" title="产品随想 · 扩增">
+      <outline type="rss" text="Ben Thompson Stratechery" title="Ben Thompson Stratechery" xmlUrl="https://stratechery.com/feed/" htmlUrl="https://stratechery.com" />
+      <outline type="rss" text="Brad Frost" title="Brad Frost" xmlUrl="https://bradfrost.com/feed/" htmlUrl="https://bradfrost.com/" />
+      <outline type="rss" text="DHH" title="DHH" xmlUrl="https://world.hey.com/dhh/feed.atom" htmlUrl="https://world.hey.com/dhh" />
+      <outline type="rss" text="Ethan Marcotte" title="Ethan Marcotte" xmlUrl="https://ethanmarcotte.com/wrote/feed.xml" htmlUrl="https://ethanmarcotte.com" />
+      <outline type="rss" text="Intercom 产品设计" title="Intercom 产品设计" xmlUrl="https://www.intercom.com/blog/feed/" htmlUrl="https://www.intercom.com/blog" />
+      <outline type="rss" text="Jason Fried" title="Jason Fried" xmlUrl="https://world.hey.com/jason/feed.atom" htmlUrl="https://world.hey.com/jason" />
+      <outline type="rss" text="Jeff Gothelf" title="Jeff Gothelf" xmlUrl="https://jeffgothelf.com/feed/" htmlUrl="https://jeffgothelf.com/" />
+      <outline type="rss" text="John Gruber Daring Fireball" title="John Gruber Daring Fireball" xmlUrl="https://daringfireball.net/feeds/main" htmlUrl="https://daringfireball.net/" />
+      <outline type="rss" text="Julia Evans" title="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="https://jvns.ca" />
+      <outline type="rss" text="Julie Zhuo" title="Julie Zhuo" xmlUrl="https://joulee.medium.com/feed" htmlUrl="https://medium.com/@joulee?source=rss-b8a4e5ae7490------2" />
+      <outline type="rss" text="Julie Zhuo The Looking Glass" title="Julie Zhuo The Looking Glass" xmlUrl="https://lg.substack.com/feed" htmlUrl="https://lg.substack.com" />
+      <outline type="rss" text="Ken Norton" title="Ken Norton" xmlUrl="https://www.bringthedonuts.com/feed.xml" htmlUrl="https://www.bringthedonuts.com/blog/" />
+      <outline type="rss" text="Kent Beck Tidy First" title="Kent Beck Tidy First" xmlUrl="https://tidyfirst.substack.com/feed" htmlUrl="https://newsletter.kentbeck.com" />
+      <outline type="rss" text="Lara Hogan" title="Lara Hogan" xmlUrl="https://larahogan.me/feed.xml" htmlUrl="http://larahogan.github.io/" />
+      <outline type="rss" text="Lukas Mathis" title="Lukas Mathis" xmlUrl="https://ignorethecode.net/blog/feed/" htmlUrl="https://ignorethecode.net" />
+      <outline type="rss" text="Maggie Appleton" title="Maggie Appleton" xmlUrl="https://maggieappleton.com/rss.xml" htmlUrl="https://maggieappleton.com" />
+      <outline type="rss" text="Marco Arment" title="Marco Arment" xmlUrl="https://marco.org/rss" htmlUrl="https://marco.org/" />
+      <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" htmlUrl="https://martinfowler.com" />
+      <outline type="rss" text="MeasuringU" title="MeasuringU" xmlUrl="https://measuringu.com/feed/" htmlUrl="https://measuringu.com" />
+      <outline type="rss" text="Joel on Software" title="Joel on Software" xmlUrl="https://www.joelonsoftware.com/feed/" htmlUrl="https://www.joelonsoftware.com" />
+      <outline type="rss" text="Rands in Repose" title="Rands in Repose" xmlUrl="https://randsinrepose.com/feed/" htmlUrl="https://randsinrepose.com" />
+      <outline type="rss" text="Scott Berkun" title="Scott Berkun" xmlUrl="https://scottberkun.com/feed/" htmlUrl="https://scottberkun.com" />
+      <outline type="rss" text="Simon Willison" title="Simon Willison" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="http://simonwillison.net/" />
+      <outline type="rss" text="Teresa Torres Product Talk" title="Teresa Torres Product Talk" xmlUrl="https://www.producttalk.org/feed/" htmlUrl="https://www.producttalk.org/" />
+      <outline type="rss" text="UX Collective" title="UX Collective" xmlUrl="https://uxdesign.cc/feed" htmlUrl="https://uxdesign.cc?source=rss----138adf9c44c---4" />
+    </outline>
+    <outline text="学术札记 · 扩增" title="学术札记 · 扩增">
+      <outline type="rss" text="Blog on The Carpentries" title="Blog on The Carpentries" xmlUrl="https://carpentries.org/blog/index.xml" htmlUrl="https://carpentries.org/blog/" />
+      <outline type="rss" text="DOAJ Blog" title="DOAJ Blog" xmlUrl="https://blog.doaj.org/feed/" htmlUrl="https://blog.doaj.org" />
+      <outline type="rss" text="Data School" title="Data School" xmlUrl="https://www.dataschool.io/rss/" htmlUrl="https://www.dataschool.io/" />
+      <outline type="rss" text="Editage Insights" title="Editage Insights" xmlUrl="https://www.editage.com/insights/feed" htmlUrl="https://www.editage.com/insights/" />
+      <outline type="rss" text="Galaxy Training!" title="Galaxy Training!" xmlUrl="https://training.galaxyproject.org/training-material/feed.xml" htmlUrl="https://training.galaxyproject.org/training-material/" />
+      <outline type="rss" text="News from arXiv" title="News from arXiv" xmlUrl="https://blog.arxiv.org/feed/" htmlUrl="https://blog.arxiv.org" />
+      <outline type="rss" text="OpenAlex blog" title="OpenAlex blog" xmlUrl="https://blog.ourresearch.org/feed/" htmlUrl="https://blog.openalex.org/" />
+      <outline type="rss" text="Public Knowledge Project" title="Public Knowledge Project" xmlUrl="https://pkp.sfu.ca/feed/" htmlUrl="https://pkp.sfu.ca/" />
+      <outline type="rss" text="R-bloggers" title="R-bloggers" xmlUrl="https://www.r-bloggers.com/feed/" htmlUrl="https://www.r-bloggers.com" />
+      <outline type="rss" text="Retraction Watch" title="Retraction Watch" xmlUrl="https://retractionwatch.com/feed/" htmlUrl="https://retractionwatch.com" />
+      <outline type="rss" text="Sciety" title="Sciety" xmlUrl="https://blog.sciety.org/rss/" htmlUrl="https://blog.sciety.org/" />
+      <outline type="rss" text="The Scholarly Kitchen" title="The Scholarly Kitchen" xmlUrl="https://scholarlykitchen.sspnet.org/feed/" htmlUrl="https://scholarlykitchen.sspnet.org/" />
+      <outline type="rss" text="Upstream" title="Upstream" xmlUrl="https://upstream.force11.org/latest/rss/" htmlUrl="https://upstream.force11.org/" />
+      <outline type="rss" text="科学空间|Scientific Spaces" title="科学空间|Scientific Spaces" xmlUrl="https://kexue.fm/feed" htmlUrl="https://kexue.fm/" />
+      <outline type="rss" text="科学网博客RSS——人文社科" title="科学网博客RSS——人文社科" xmlUrl="https://www.sciencenet.cn/xml/blog.aspx?di=10" htmlUrl="http://blog.sciencenet.cn" />
+      <outline type="rss" text="科学网博客RSS——博客新闻" title="科学网博客RSS——博客新闻" xmlUrl="https://www.sciencenet.cn/xml/blog.aspx?di=12" htmlUrl="http://blog.sciencenet.cn" />
+      <outline type="rss" text="科学网博客RSS——所有文章" title="科学网博客RSS——所有文章" xmlUrl="https://www.sciencenet.cn/xml/blog.aspx?di=0" htmlUrl="http://blog.sciencenet.cn" />
+      <outline type="rss" text="科学网博客RSS——教学心得" title="科学网博客RSS——教学心得" xmlUrl="https://www.sciencenet.cn/xml/blog.aspx?di=9" htmlUrl="http://blog.sciencenet.cn" />
+      <outline type="rss" text="科学网博客RSS——海外观察" title="科学网博客RSS——海外观察" xmlUrl="https://www.sciencenet.cn/xml/blog.aspx?di=2" htmlUrl="http://blog.sciencenet.cn" />
+      <outline type="rss" text="科学网博客RSS——用户推荐" title="科学网博客RSS——用户推荐" xmlUrl="https://www.sciencenet.cn/xml/blog.aspx?di=30" htmlUrl="http://blog.sciencenet.cn" />
+      <outline type="rss" text="科学网博客RSS——科普集锦" title="科学网博客RSS——科普集锦" xmlUrl="https://www.sciencenet.cn/xml/blog.aspx?di=7" htmlUrl="http://blog.sciencenet.cn" />
+      <outline type="rss" text="科学网博客RSS——科研笔记" title="科学网博客RSS——科研笔记" xmlUrl="https://www.sciencenet.cn/xml/blog.aspx?di=1" htmlUrl="http://blog.sciencenet.cn" />
+      <outline type="rss" text="科学网博客RSS——编辑部推荐" title="科学网博客RSS——编辑部推荐" xmlUrl="https://www.sciencenet.cn/xml/blog.aspx?di=20" htmlUrl="http://blog.sciencenet.cn" />
+      <outline type="rss" text="科学网博客RSS——观点评述" title="科学网博客RSS——观点评述" xmlUrl="https://www.sciencenet.cn/xml/blog.aspx?di=3" htmlUrl="http://blog.sciencenet.cn" />
+      <outline type="rss" text="科学网博客RSS——论文交流" title="科学网博客RSS——论文交流" xmlUrl="https://www.sciencenet.cn/xml/blog.aspx?di=11" htmlUrl="http://blog.sciencenet.cn" />
+    </outline>
+  </body>
+</opml>

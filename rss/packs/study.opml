@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>智能学堂订阅</title>
+  </head>
+  <body>
+    <outline text="免费课程">
+      <outline text="Hugging Face 课程维护" title="Hugging Face 课程维护" type="rss" xmlUrl="https://github.com/huggingface/course/commits/main.atom" />
+      <outline text="fast.ai" title="fast.ai" type="rss" xmlUrl="https://www.fast.ai/index.xml" />
+    </outline>
+    <outline text="学习实践">
+      <outline text="Simon Willison" title="Simon Willison" type="rss" xmlUrl="https://simonwillison.net/atom/everything/" />
+    </outline>
+    <outline text="模型动态">
+      <outline text="OpenAI" title="OpenAI" type="rss" xmlUrl="https://openai.com/news/rss.xml" />
+      <outline text="Google AI" title="Google AI" type="rss" xmlUrl="https://blog.google/technology/ai/rss/" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>today design RSS 增量 2026-10-14</title>
+  </head>
+  <body>
+    <outline text="视觉传达·品牌与字体" title="视觉传达·品牌与字体">
+      <outline type="rss" text="It's Nice That" title="It's Nice That" xmlUrl="http://feeds2.feedburner.com/itsnicethat/SlXC" />
+      <outline type="rss" text="slanted" title="slanted" xmlUrl="https://www.slanted.de/feed/" />
+      <outline type="rss" text="Typewolf" title="Typewolf" xmlUrl="https://www.typewolf.com/feed" />
+      <outline type="rss" text="Typotheque" title="Typotheque" xmlUrl="https://www.typotheque.com/rss" />
+      <outline type="rss" text="Typographica" title="Typographica" xmlUrl="https://typographica.org/feed/" />
+      <outline type="rss" text="Brandingmag" title="Brandingmag" xmlUrl="https://www.brandingmag.com/feed/" />
+      <outline type="rss" text="Identity Designed" title="Identity Designed" xmlUrl="https://identitydesigned.com/feed/" />
+      <outline type="rss" text="Logo Design Love" title="Logo Design Love" xmlUrl="https://www.logodesignlove.com/feed" />
+      <outline type="rss" text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed/" />
+      <outline type="rss" text="Creative Bloq" title="Creative Bloq" xmlUrl="https://www.creativebloq.com/feeds.xml" />
+      <outline type="rss" text="Featured Projects" title="Featured Projects" xmlUrl="https://www.behance.net/feeds/projects" />
+      <outline type="rss" text="Designer Daily: graphic and web design blog" title="Designer Daily: graphic and web design blog" xmlUrl="https://www.designer-daily.com/feed" />
+      <outline type="rss" text="DIELINE" title="DIELINE" xmlUrl="https://thedieline.com/feed/" />
+    </outline>
+    <outline text="设计历史·展览与赛事" title="设计历史·展览与赛事">
+      <outline type="rss" text="swissmiss" title="swissmiss" xmlUrl="https://www.swiss-miss.com/feed" />
+      <outline type="rss" text="ITSLIQUID" title="ITSLIQUID" xmlUrl="https://www.itsliquid.com/feed" />
+    </outline>
+    <outline text="中文设计观察" title="中文设计观察">
+      <outline type="rss" text="理想生活实验室" title="理想生活实验室" xmlUrl="https://www.toodaylab.com/feed" />
+      <outline type="rss" text="设计" title="设计" xmlUrl="https://www.v2ex.com/feed/design.xml" />
+    </outline>
+  </body>
+</opml>

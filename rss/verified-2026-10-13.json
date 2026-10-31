@@ -1,0 +1,4658 @@
+{
+  "verifiedAt": "2026-10-13",
+  "scope": "Public RSS/Atom sources, manual curation, no auto publication",
+  "feeds": [
+    {
+      "space": "academic",
+      "group": "开放科研·机构动态",
+      "url": "https://info.orcid.org/feed/",
+      "checkedAt": "2026-10-13T13:35:21.034573+00:00",
+      "http": 200,
+      "finalUrl": "https://info.orcid.org/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "ORCID",
+      "entries": 50,
+      "sha256": "d2a9c5295d9da2d0d83724b8cb6d66b4224506d132a3f2eabd0293f2bea5e1f8",
+      "samples": [
+        {
+          "title": "Securing Priority and Expanding Reach: Key Takeaways from Our African Researcher Showcase",
+          "date": "Tue, 13 Oct 2026 13:05:43 +0000"
+        },
+        {
+          "title": "Connecting the Funding Lifecycle: How ProposalCentral and ORCID are Improving Modern Grant Operations—Plus Insights for GPF Applicants",
+          "date": "Tue, 06 Oct 2026 13:28:23 +0000"
+        },
+        {
+          "title": "Announcing the 2027 Board Slate",
+          "date": "Mon, 05 Oct 2026 14:18:34 +0000"
+        }
+      ],
+      "displayTitle": "ORCID",
+      "lastSampleDate": "Tue, 13 Oct 2026 13:05:43 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 50,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:33:27"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "课程资源",
+      "url": "https://carpentries.org/blog/index.xml",
+      "discoveredOn": "https://carpentries.org/blog/",
+      "checkedAt": "2026-10-13T13:35:11.516460+00:00",
+      "http": 200,
+      "finalUrl": "https://carpentries.org/blog/index.xml",
+      "contentType": "text/xml",
+      "status": "verified",
+      "format": "rss",
+      "title": "Blog on The Carpentries",
+      "entries": 2922,
+      "sha256": "3e6aec82ea0f2ab914cf8fa48de8b2bd1a69a30e289c6ec056fc2419822498ab",
+      "samples": [
+        {
+          "title": "Meet our 2026 Instructor Trainers",
+          "date": "Thu, 08 Oct 2026 00:00:00 +0000"
+        },
+        {
+          "title": "Lessons Learned from our Instats Pilot Initiative",
+          "date": "Mon, 28 Sep 2026 00:00:00 +0000"
+        },
+        {
+          "title": "Exploring GenAI with The Carpentries",
+          "date": "Thu, 17 Sep 2026 00:00:00 +0000"
+        }
+      ],
+      "displayTitle": "Blog on The Carpentries",
+      "lastSampleDate": "Thu, 08 Oct 2026 00:00:00 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 2922,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:34:24"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "课程资源",
+      "url": "https://www.dataschool.io/rss/",
+      "checkedAt": "2026-10-13T13:33:06.984257+00:00",
+      "http": 200,
+      "finalUrl": "https://www.dataschool.io/rss/",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Data School",
+      "entries": 15,
+      "sha256": "09b00d1c67009b7ccacfdf0095801490cefbe3795172b180db721e5bc09f7e60",
+      "samples": [
+        {
+          "title": "Is Machine Learning still worth learning in 2026?",
+          "date": "Fri, 22 May 2026 16:21:58 GMT"
+        },
+        {
+          "title": "What is \"AI\" versus \"Machine Learning\"? 🤔",
+          "date": "Mon, 22 Sep 2025 16:24:03 GMT"
+        },
+        {
+          "title": "Book preview: Master Machine Learning with scikit-learn 📖",
+          "date": "Fri, 19 Sep 2025 16:56:57 GMT"
+        }
+      ],
+      "displayTitle": "Data School",
+      "lastSampleDate": "Fri, 22 May 2026 16:21:58 GMT",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 15,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:34:17"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "课程资源",
+      "url": "https://www.editage.com/insights/feed",
+      "checkedAt": "2026-10-13T13:37:53.251815+00:00",
+      "status": "verified",
+      "format": "rss",
+      "title": "Editage Insights",
+      "entries": 10,
+      "sha256": "62c1d7c2cc925b3027b46b610fbe83843ca5109893b78380988096729e7f5234",
+      "samples": [
+        {
+          "title": "The Human Gap in AI-assisted Research: 10 Critical Checks Before You Submit",
+          "date": "Fri, 09 Oct 2026 13:28:59 +0000"
+        },
+        {
+          "title": "How to Make the Most of Conferences as a PhD Student",
+          "date": "Wed, 07 Oct 2026 09:11:51 +0000"
+        },
+        {
+          "title": "AI Bias in Research: Types, Examples, and How to Reduce Bias",
+          "date": "Tue, 06 Oct 2026 11:48:00 +0000"
+        }
+      ],
+      "note": "TLS curl retrieval; XML parser tolerates leading whitespace/BOM",
+      "displayTitle": "Editage Insights",
+      "lastSampleDate": "Fri, 09 Oct 2026 13:28:59 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:34:17"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "课程资源",
+      "url": "https://training.galaxyproject.org/training-material/feed.xml",
+      "checkedAt": "2026-10-13T13:33:04.813219+00:00",
+      "http": 200,
+      "finalUrl": "https://training.galaxyproject.org/training-material/feed.xml",
+      "contentType": "application/xml",
+      "status": "verified",
+      "format": "feed",
+      "title": "Galaxy Training!",
+      "entries": 10,
+      "sha256": "71dda88a84992121597946cd8228af636e966aa0a5e862d6bcb739fe5a7e1b5d",
+      "samples": [
+        {
+          "title": "GalaxyLabs paper is live! A love letter from the Galaxy Single-cell and sPatial Omics Community",
+          "date": "2026-06-16T00:00:00+00:00"
+        },
+        {
+          "title": "Galaxy Training Academy 2026 Meet the Experts",
+          "date": "2026-05-11T00:00:00+00:00"
+        },
+        {
+          "title": "BioNT Brings Galaxy Training to German, Spanish, and Italian Learners",
+          "date": "2026-04-01T00:00:00+00:00"
+        }
+      ],
+      "displayTitle": "Galaxy Training!",
+      "lastSampleDate": "2026-06-16T00:00:00+00:00",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:34:18"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "课程资源",
+      "url": "https://www.r-bloggers.com/feed/",
+      "checkedAt": "2026-10-13T13:33:06.734678+00:00",
+      "http": 200,
+      "finalUrl": "https://www.r-bloggers.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "R-bloggers",
+      "entries": 25,
+      "sha256": "1d8ec7eb84b6d41eac38531b85d9ac434e63e74574c3c589d1ae9a76292089ca",
+      "samples": [
+        {
+          "title": "Beyond the course: Reflections from the Bioconductor–Physalia sponsorship programme",
+          "date": "Mon, 12 Oct 2026 00:00:00 +0000"
+        },
+        {
+          "title": "Ordered set partitions and formulas in permute",
+          "date": "Sun, 11 Oct 2026 22:00:00 +0000"
+        },
+        {
+          "title": "Validating data analyses written by coding agents",
+          "date": "Thu, 08 Oct 2026 13:00:00 +0000"
+        }
+      ],
+      "displayTitle": "R-bloggers",
+      "lastSampleDate": "Mon, 12 Oct 2026 00:00:00 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 25,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:34:18"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "课程资源",
+      "url": "https://statisticalhorizons.com/feed/",
+      "checkedAt": "2026-10-13T13:35:30.411126+00:00",
+      "http": 200,
+      "finalUrl": "https://statisticalhorizons.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Statistical Horizons",
+      "entries": 12,
+      "sha256": "6bd13a827ec3f5cf7a47607044ff4a30e1f9ed2aeb42f4dfe73cf8874a4663a1",
+      "samples": [
+        {
+          "title": "Using AI Agents to Create Online Dashboards",
+          "date": "Fri, 25 Sep 2026 14:05:45 +0000"
+        },
+        {
+          "title": "Frequently Asked Questions About the Delphi Method",
+          "date": "Wed, 23 Sep 2026 14:16:13 +0000"
+        },
+        {
+          "title": "AI Skills: What They Are, and Why You Probably Want to Use Them",
+          "date": "Tue, 21 Jul 2026 15:15:28 +0000"
+        }
+      ],
+      "displayTitle": "Statistical Horizons",
+      "lastSampleDate": "Fri, 25 Sep 2026 14:05:45 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 12,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:34:17"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "课程资源",
+      "url": "https://blog.stata.com/feed/",
+      "checkedAt": "2026-10-13T13:37:53.253667+00:00",
+      "status": "verified",
+      "format": "rss",
+      "title": "The Stata Blog",
+      "entries": 258,
+      "sha256": "352f6e1a0312cd3810e10f59a2f3ec7e34b4a1359c7f8ea96443949c1d214d41",
+      "samples": [
+        {
+          "title": "Analytic weights: When, how, and why",
+          "date": "Tue, 18 Aug 2026 15:00:01 +0000"
+        },
+        {
+          "title": "A new update to StataNow has just been released",
+          "date": "Wed, 29 Jul 2026 16:07:13 +0000"
+        },
+        {
+          "title": "Teach statistical concepts with Stata",
+          "date": "Tue, 30 Jun 2026 15:00:53 +0000"
+        }
+      ],
+      "note": "TLS curl retrieval; XML parser tolerates leading whitespace/BOM",
+      "displayTitle": "The Stata Blog",
+      "lastSampleDate": "Tue, 18 Aug 2026 15:00:01 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 258,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:34:21"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "项目合作·社区线索",
+      "url": "https://ropensci.org/blog/index.xml",
+      "checkedAt": "2026-10-13T13:37:54.104639+00:00",
+      "status": "verified",
+      "format": "rss",
+      "title": "Blog on rOpenSci - open tools for open science",
+      "entries": 671,
+      "sha256": "d26b5d8b19a6d0dae36ce994b133e85b92e3d6231e51b75e65e57ccb2bd0a412",
+      "samples": [
+        {
+          "title": "Celebrating the rOpenSci Community",
+          "date": "Tue, 29 Sep 2026 00:00:00 +0000"
+        },
+        {
+          "title": "rOpenSci News Digest, September 2026",
+          "date": "Mon, 28 Sep 2026 00:00:00 +0000"
+        },
+        {
+          "title": "Happy Birthday rOpenSci — My Journey from First-Time Developer to Current Opportunities",
+          "date": "Tue, 15 Sep 2026 00:00:00 +0000"
+        }
+      ],
+      "note": "TLS curl retrieval; XML parser tolerates leading whitespace/BOM",
+      "displayTitle": "Blog on rOpenSci - open tools for open science",
+      "lastSampleDate": "Tue, 29 Sep 2026 00:00:00 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 671,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:34:46"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "项目合作·社区线索",
+      "url": "https://discourse.jupyter.org/latest.rss",
+      "checkedAt": "2026-10-13T13:35:26.807857+00:00",
+      "http": 200,
+      "finalUrl": "https://discourse.jupyter.org/latest.rss",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Jupyter Community Forum - Latest topics",
+      "entries": 30,
+      "sha256": "498331b1d41841bd01dd57e4c39a28a15f0fa8e58c31facc45fac91e31e473aa",
+      "samples": [
+        {
+          "title": "Whybook: keeping human analysts in charge in the AI era",
+          "date": "Sun, 11 Oct 2026 10:13:13 +0000"
+        },
+        {
+          "title": "Notebook functions as Excel formulas or actions on Windows and Mac",
+          "date": "Sat, 10 Oct 2026 22:24:54 +0000"
+        },
+        {
+          "title": "notebookproof: preflight checks for saved notebooks and DataFrame checks, run from a notebook cell",
+          "date": "Sat, 10 Oct 2026 15:43:56 +0000"
+        }
+      ],
+      "displayTitle": "Jupyter Community Forum - Latest topics",
+      "lastSampleDate": "Sun, 11 Oct 2026 10:13:13 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 30,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:34:47"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "项目合作·社区线索",
+      "url": "https://forum.openrefine.org/latest.rss",
+      "checkedAt": "2026-10-13T13:35:27.154802+00:00",
+      "http": 200,
+      "finalUrl": "https://forum.openrefine.org/latest.rss",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "OpenRefine - Latest topics",
+      "entries": 30,
+      "sha256": "43cc23811110885e52c811d115447d5ebe63f99c704d65d44ce17d780ccc76fe",
+      "samples": [
+        {
+          "title": "October 8, 2026 Advisory Committee",
+          "date": "Fri, 09 Oct 2026 15:50:26 +0000"
+        },
+        {
+          "title": "Orcli (Bash) now supports macOS and OpenRefine 3.3 to 3.10",
+          "date": "Mon, 05 Oct 2026 19:23:20 +0000"
+        },
+        {
+          "title": "October 1, 2026 Advisory Committee with CS&S",
+          "date": "Thu, 01 Oct 2026 20:10:58 +0000"
+        }
+      ],
+      "displayTitle": "OpenRefine - Latest topics",
+      "lastSampleDate": "Fri, 09 Oct 2026 15:50:26 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 30,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:34:47"
+      }
+    },
+    {
+      "space": "academic",
+      "group": "项目合作·社区线索",
+      "url": "https://ropensci.org/index.xml",
+      "checkedAt": "2026-10-13T13:35:27.446806+00:00",
+      "http": 200,
+      "finalUrl": "https://ropensci.org/index.xml",
+      "contentType": "application/xml",
+      "status": "verified",
+      "format": "rss",
+      "title": "rOpenSci - open tools for open science",
+      "entries": 1063,
+      "sha256": "1a80d2918ed48cab50b5d4e720c7f87f3e041ab223986b3338c0f656a172eb2a",
+      "samples": [
+        {
+          "title": "Social Coworking and Office Hours - Code Linting in R",
+          "date": "Tue, 08 Dec 2026 15:00:00 +0000"
+        },
+        {
+          "title": "Social Coworking and Office Hours - Climate Science in R",
+          "date": "Tue, 03 Nov 2026 03:00:00 +0000"
+        },
+        {
+          "title": "Social Coworking and Office Hours - Writing Tests & Testing in R",
+          "date": "Tue, 06 Oct 2026 18:00:00 +0000"
+        }
+      ],
+      "displayTitle": "rOpenSci - open tools for open science",
+      "lastSampleDate": "Tue, 08 Dec 2026 15:00:00 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 1062,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:34:45"
+      }
+    },
+    {
+      "space": "design",
+      "group": "中文设计观察",
+      "url": "https://www.logonews.cn/feed",
+      "checkedAt": "2026-10-13T13:33:23.313556+00:00",
+      "http": 200,
+      "finalUrl": "https://www.logonews.cn/feed",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "标志情报局",
+      "entries": 10,
+      "sha256": "402955822a1e7b1cf4b522bf6ad94d6620401e8d9c9253753e4521ba8a9c6dfb",
+      "samples": [
+        {
+          "title": "罗迪纳足球俱乐部拒绝大师设计方案后，推出新队徽",
+          "date": "Tue, 13 Oct 2026 03:38:50 +0000"
+        },
+        {
+          "title": "亚特兰大城足球俱乐部队名和队徽公布，将于2028年征战NWSL",
+          "date": "Tue, 13 Oct 2026 03:38:05 +0000"
+        },
+        {
+          "title": "惠州荔枝有了专属品牌LOGO！",
+          "date": "Tue, 13 Oct 2026 02:27:25 +0000"
+        }
+      ],
+      "displayTitle": "标志情报局",
+      "lastSampleDate": "Tue, 13 Oct 2026 03:38:50 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:24"
+      }
+    },
+    {
+      "space": "design",
+      "group": "字体与排版",
+      "url": "https://fontsinuse.com/main.rss",
+      "discoveredOn": "https://fontsinuse.com/",
+      "checkedAt": "2026-10-13T13:35:15.071292+00:00",
+      "http": 200,
+      "finalUrl": "https://fontsinuse.com/main.rss",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Fonts In Use – Type at work in the real world",
+      "entries": 20,
+      "sha256": "74abd084e62ccc5c6aab4db13023a594a49ce44f6aec56744bd6ab8c6cb48e44",
+      "samples": [
+        {
+          "title": "Orchestre de Chambre de Genève 2026",
+          "date": "Tue, 13 Oct 2026 08:15:07 +0000"
+        },
+        {
+          "title": "The Bear, Season 5 Crew apparel",
+          "date": "Tue, 13 Oct 2026 08:10:21 +0000"
+        },
+        {
+          "title": "New Office magazine by Design Office Fun",
+          "date": "Tue, 13 Oct 2026 08:09:45 +0000"
+        }
+      ],
+      "displayTitle": "Fonts In Use – Type at work in the real world",
+      "lastSampleDate": "Tue, 13 Oct 2026 08:15:07 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:26"
+      }
+    },
+    {
+      "space": "design",
+      "group": "字体与排版",
+      "url": "https://ilovetypography.com/feed/",
+      "checkedAt": "2026-10-13T13:33:16.814760+00:00",
+      "http": 200,
+      "finalUrl": "https://ilovetypography.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "I Love Typography Ltd",
+      "entries": 7,
+      "sha256": "1690ef380c949dc94d1321f17e0a66c46acf74b88b138ae4347c1f833aa2973d",
+      "samples": [
+        {
+          "title": "Steven Heller’s Font of the Month: Ege Basalt",
+          "date": "Wed, 09 Sep 2026 06:40:11 +0000"
+        },
+        {
+          "title": "Structure in Type Design",
+          "date": "Fri, 14 Aug 2026 13:42:49 +0000"
+        },
+        {
+          "title": "Steven Heller’s Font of the Month: Zinkraft",
+          "date": "Fri, 07 Aug 2026 03:25:28 +0000"
+        }
+      ],
+      "displayTitle": "I Love Typography Ltd",
+      "lastSampleDate": "Wed, 09 Sep 2026 06:40:11 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 7,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:26"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·设计资讯",
+      "url": "https://www.thisiscolossal.com/feed/",
+      "checkedAt": "2026-10-13T13:33:12.772503+00:00",
+      "http": 200,
+      "finalUrl": "https://www.thisiscolossal.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Colossal",
+      "entries": 10,
+      "sha256": "9aa61e239e506007902abb53c5efde9816fc4b16d5cfe7d3e53430247d1c6aa5",
+      "samples": [
+        {
+          "title": "Jonathan Knight’s Meditative Series ‘Exhale’ Invites Us to Slow Down and Practice Noticing",
+          "date": "Fri, 09 Oct 2026 17:50:08 +0000"
+        },
+        {
+          "title": "Symmetry Meets the Sacred in Shuling Guo’s Dreamy, Diffused Paintings",
+          "date": "Fri, 09 Oct 2026 14:54:34 +0000"
+        },
+        {
+          "title": "Woo Jin Joo Conjures Mythic Tales from Uncanny Sculptures of Fiber and Found Objects",
+          "date": "Thu, 08 Oct 2026 15:59:14 +0000"
+        }
+      ],
+      "displayTitle": "Colossal",
+      "lastSampleDate": "Fri, 09 Oct 2026 17:50:08 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:27"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·设计资讯",
+      "url": "https://www.core77.com/rss.xml",
+      "checkedAt": "2026-10-13T13:33:12.811888+00:00",
+      "http": 200,
+      "finalUrl": "https://www.core77.com/rss.xml",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Core77",
+      "entries": 15,
+      "sha256": "847f33c4476bd504c36d0ac94f38a8a3cd660d9355e7600ead715f7405f9aab9",
+      "samples": [
+        {
+          "title": "To Build a Low-Cost EV, Citröen Dusts Off the 2CV",
+          "date": "2026-10-13T09:00:00-04:00"
+        },
+        {
+          "title": "Core77 Weekly Roundup (10-5-26 to 10-9-26)",
+          "date": "2026-10-09T11:00:00-04:00"
+        },
+        {
+          "title": "Researchers Develop a Tire Prototype with Replaceable Treads",
+          "date": "2026-10-09T10:00:00-04:00"
+        }
+      ],
+      "displayTitle": "Core77",
+      "lastSampleDate": "2026-10-13T09:00:00-04:00",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 15,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:25"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·设计资讯",
+      "url": "https://www.creativeboom.com/feed/",
+      "checkedAt": "2026-10-13T13:33:10.719074+00:00",
+      "http": 200,
+      "finalUrl": "https://www.creativeboom.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Creative Boom",
+      "entries": 20,
+      "sha256": "d00cc6fd9739af4f02d02371730066072f1514495e4718077f0cf7be066e6321",
+      "samples": [
+        {
+          "title": "AI just cloned Adobe's apps for free. Is this design software's Napster moment?",
+          "date": "Tue, 13 Oct 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Kanaisasaki is formed from in-house designers who have made a career out of staying curious",
+          "date": "Tue, 13 Oct 2026 07:00:00 +0000"
+        },
+        {
+          "title": "'The experience of seeing the work is pretty particular': Lily Bunney on her detailed paintings filled with grids and pixels",
+          "date": "Tue, 13 Oct 2026 06:45:00 +0000"
+        }
+      ],
+      "displayTitle": "Creative Boom",
+      "lastSampleDate": "Tue, 13 Oct 2026 11:00:00 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:28"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·设计资讯",
+      "url": "https://www.creativereview.co.uk/feed/",
+      "checkedAt": "2026-10-13T13:33:14.178485+00:00",
+      "http": 200,
+      "finalUrl": "https://www.creativereview.co.uk/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Creative Review",
+      "entries": 12,
+      "sha256": "69ec97736d52b18bdcc1c340b69b2fc4584f7abcb1284e3316452d1b4d6f40aa",
+      "samples": [
+        {
+          "title": "New campaign reveals how MND takes away what you love",
+          "date": "Tue, 13 Oct 2026 02:49:13 +0000"
+        },
+        {
+          "title": "Publicis Groupe’s Jason Williams on the importance of listening",
+          "date": "Tue, 13 Oct 2026 02:42:49 +0000"
+        },
+        {
+          "title": "Sport In Mind campaign highlights how running helps mental health",
+          "date": "Tue, 13 Oct 2026 02:34:59 +0000"
+        }
+      ],
+      "displayTitle": "Creative Review",
+      "lastSampleDate": "Tue, 13 Oct 2026 02:49:13 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 12,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:27"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·设计资讯",
+      "url": "https://design-milk.com/feed/",
+      "checkedAt": "2026-10-13T13:33:13.134725+00:00",
+      "http": 200,
+      "finalUrl": "https://design-milk.com/feed/",
+      "contentType": "text/xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Design MilkDesign Milk",
+      "entries": 12,
+      "sha256": "5d5dab8d4dfc523a4579f2a063d3b0dcc4189552302ed227299024a30651f283",
+      "samples": [
+        {
+          "title": "Kozo Transforms Peninsula London’s Cars into a Moving Art Exhibition",
+          "date": "Tue, 13 Oct 2026 12:00:04 +0000"
+        },
+        {
+          "title": "Sherwin-Williams’ 2027 Color of the Year Takes a Lighter Approach to Green",
+          "date": "Tue, 13 Oct 2026 00:55:51 +0000"
+        },
+        {
+          "title": "Inside Local People, a Contemporary Cafe Beneath an Istanbul Dome",
+          "date": "Mon, 12 Oct 2026 22:50:20 +0000"
+        }
+      ],
+      "displayTitle": "Design MilkDesign Milk",
+      "lastSampleDate": "Tue, 13 Oct 2026 12:00:04 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 12,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:28"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·设计资讯",
+      "url": "https://www.dezeen.com/design/feed/",
+      "checkedAt": "2026-10-13T13:37:53.254244+00:00",
+      "status": "verified",
+      "format": "rss",
+      "title": "Design | Dezeen",
+      "entries": 50,
+      "sha256": "62f6c4a698f84f3caa71e24789416d7cfb642fcd8893494860853ab76840b61f",
+      "samples": [
+        {
+          "title": "Formafantasma creates \"travelling science exhibition\" for Prada and IOC",
+          "date": "Tue, 13 Oct 2026 05:00:06 +0000"
+        },
+        {
+          "title": "Profondo seating by Zenith Interiors among five new products on Dezeen Showroom",
+          "date": "Mon, 12 Oct 2026 18:00:25 +0000"
+        },
+        {
+          "title": "Gustaf Westman creates Mickey Mouse-shaped sofa and cup for Disney",
+          "date": "Mon, 12 Oct 2026 12:00:31 +0000"
+        }
+      ],
+      "note": "TLS curl retrieval; XML parser tolerates leading whitespace/BOM",
+      "displayTitle": "Design | Dezeen",
+      "lastSampleDate": "Tue, 13 Oct 2026 05:00:06 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 50,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:25"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·设计资讯",
+      "url": "https://www.wallpaper.com/feeds.xml",
+      "checkedAt": "2026-10-13T13:33:14.885660+00:00",
+      "http": 200,
+      "finalUrl": "https://www.wallpaper.com/feeds.xml",
+      "contentType": "application/xml",
+      "status": "verified",
+      "format": "rss",
+      "title": "Latest from Wallpaper",
+      "entries": 50,
+      "sha256": "1365202c36dd05468d6897e1ce362f1783066418f63cefbd385b37da1d6e5b2c",
+      "samples": [
+        {
+          "title": "Hermès reframes traditional textile crafts with the Arceau Cheval Natté watch",
+          "date": "Tue, 13 Oct 2026 11:23:51 +0000"
+        },
+        {
+          "title": "An art centre, Large, is the newest addition to Île Seguin, and its formerly industrial site",
+          "date": "Tue, 13 Oct 2026 10:00:19 +0000"
+        },
+        {
+          "title": "Dr Martens unites with London’s rising fashion talent on a series of collaborations rooted in craft",
+          "date": "Tue, 13 Oct 2026 09:39:42 +0000"
+        }
+      ],
+      "displayTitle": "Latest from Wallpaper",
+      "lastSampleDate": "Tue, 13 Oct 2026 11:23:51 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 50,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:26"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·设计资讯",
+      "url": "https://www.printmag.com/feed/",
+      "checkedAt": "2026-10-13T13:33:13.625529+00:00",
+      "http": 200,
+      "finalUrl": "https://www.printmag.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "PRINT Magazine",
+      "entries": 40,
+      "sha256": "32bc1ee103371f4a566f0c4bf5a8452493f56b0a67c17f3c5ac9778c5d810721",
+      "samples": [
+        {
+          "title": "The Daily Heller: Just Signs",
+          "date": "Tue, 13 Oct 2026 11:00:00 +0000"
+        },
+        {
+          "title": "The Daily Heller: Paper Engineering Makes Simplicity Into Complexity",
+          "date": "Mon, 12 Oct 2026 11:00:00 +0000"
+        },
+        {
+          "title": "The Daily Heller: Peter Blegvad’s Gumbo of Mumbo Jumbo",
+          "date": "Fri, 09 Oct 2026 21:00:00 +0000"
+        }
+      ],
+      "displayTitle": "PRINT Magazine",
+      "lastSampleDate": "Tue, 13 Oct 2026 11:00:00 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 40,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:26"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·设计资讯",
+      "url": "https://www.yankodesign.com/feed/",
+      "checkedAt": "2026-10-13T13:33:14.940971+00:00",
+      "http": 200,
+      "finalUrl": "https://www.yankodesign.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Yanko Design",
+      "entries": 16,
+      "sha256": "53e940fc7214da6af45d375fa9ec11d673aa0595edff3de98a9ba4dae1865321",
+      "samples": [
+        {
+          "title": "Freitag’s Luxury Bags Reuse Truck Tarps Without Hiding Wear",
+          "date": "Tue, 13 Oct 2026 13:20:45 +0000"
+        },
+        {
+          "title": "5 Best Pocket-Sized Gadget Designs That Give Your Phone a Break",
+          "date": "Tue, 13 Oct 2026 11:40:06 +0000"
+        },
+        {
+          "title": "Google Fitbit Edge lets an aging battery be replaced instead of the tracker",
+          "date": "Tue, 13 Oct 2026 10:07:19 +0000"
+        }
+      ],
+      "displayTitle": "Yanko Design",
+      "lastSampleDate": "Tue, 13 Oct 2026 13:20:45 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 16,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:28"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·设计资讯",
+      "url": "https://www.designboom.com/feed/",
+      "checkedAt": "2026-10-13T13:33:10.070898+00:00",
+      "http": 200,
+      "finalUrl": "https://www.designboom.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "designboom | architecture & design magazine",
+      "entries": 10,
+      "sha256": "61f0bdc1603a2f7da36ca52569798baf2bd7637876301960f958dfbe78c8c241",
+      "samples": [
+        {
+          "title": "david altrath on architectural photography as an experience of space",
+          "date": "Tue, 13 Oct 2026 10:50:16 +0000"
+        },
+        {
+          "title": "fiat multiplay concept transforms family car into pickup with sliding rear module",
+          "date": "Tue, 13 Oct 2026 10:31:40 +0000"
+        },
+        {
+          "title": "five prado masterpieces cross the atlantic for a free-roam virtual tour in brooklyn",
+          "date": "Tue, 13 Oct 2026 10:25:42 +0000"
+        }
+      ],
+      "displayTitle": "designboom | architecture & design magazine",
+      "lastSampleDate": "Tue, 13 Oct 2026 10:50:16 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:25"
+      }
+    },
+    {
+      "space": "design",
+      "group": "视觉传达·设计资讯",
+      "url": "https://www.urdesignmag.com/feed/",
+      "checkedAt": "2026-10-13T13:33:15.049871+00:00",
+      "http": 200,
+      "finalUrl": "https://www.urdesignmag.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "urdesignmag",
+      "entries": 10,
+      "sha256": "44bbb4cf2248a03b13e6e7ea15fa378a26bb6af39c374f48fcd3fd7ec48d1a02",
+      "samples": [
+        {
+          "title": "Pleats Please Issey Miyake’s First Milan Pop-Up Is a Sky You Walk On at 10 Corso Como",
+          "date": "Mon, 21 Sep 2026 17:00:31 +0000"
+        },
+        {
+          "title": "How Pop-Up Services Are Reshaping Public Space, One Empty Lot at a Time",
+          "date": "Mon, 21 Sep 2026 16:29:51 +0000"
+        },
+        {
+          "title": "Designing Around the Heat Pump: What a Low-Temperature System Changes in a Renovation",
+          "date": "Mon, 21 Sep 2026 15:54:43 +0000"
+        }
+      ],
+      "displayTitle": "urdesignmag",
+      "lastSampleDate": "Mon, 21 Sep 2026 17:00:31 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:27"
+      }
+    },
+    {
+      "space": "design",
+      "group": "设计历史·展览与机构",
+      "url": "https://www.cooperhewitt.org/feed/",
+      "checkedAt": "2026-10-13T13:33:19.726938+00:00",
+      "http": 200,
+      "finalUrl": "https://www.cooperhewitt.org/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Cooper Hewitt, Smithsonian Design Museum",
+      "entries": 10,
+      "sha256": "afb998dd08c384fe2c294986b80a840e7bc6a589af986db187c3b6f167fbe99c",
+      "samples": [
+        {
+          "title": "An Ecological and Ever Evolving Design Manifesto with 2025 National Design Award Winners TERREMOTO",
+          "date": "Thu, 08 Oct 2026 19:04:39 +0000"
+        },
+        {
+          "title": "“Frederic Church in Jamaica” to Open This Fall at Cooper Hewitt as Part of Global Celebrations of Church’s 200th Birth Anniversary",
+          "date": "Mon, 05 Oct 2026 14:59:59 +0000"
+        },
+        {
+          "title": "The Inside Track: Christopher Payne on Photographing the MTA",
+          "date": "Wed, 30 Sep 2026 16:32:33 +0000"
+        }
+      ],
+      "displayTitle": "Cooper Hewitt, Smithsonian Design Museum",
+      "lastSampleDate": "Thu, 08 Oct 2026 19:04:39 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:26"
+      }
+    },
+    {
+      "space": "design",
+      "group": "设计历史·展览与机构",
+      "url": "https://www.iconeye.com/feed/",
+      "checkedAt": "2026-10-13T13:33:20.903711+00:00",
+      "http": 200,
+      "finalUrl": "https://www.iconeye.com/feed",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "ICON Magazine",
+      "entries": 10,
+      "sha256": "b686501c67a965699434ac7f5db70ffc84ee6b3aaedf56a802a593fa1489e1dd",
+      "samples": [
+        {
+          "title": "Kirkby unveils a bold new visual identity",
+          "date": "Fri, 09 Oct 2026 11:44:14 +0000"
+        },
+        {
+          "title": "ICON Picks: 10 best new-season design and lifestyle launches",
+          "date": "Fri, 02 Oct 2026 06:00:00 +0000"
+        },
+        {
+          "title": "Christoph Hefti Unveils His Fantastical World at Zurich’s Museum of Design",
+          "date": "Thu, 01 Oct 2026 16:37:47 +0000"
+        }
+      ],
+      "displayTitle": "ICON Magazine",
+      "lastSampleDate": "Fri, 09 Oct 2026 11:44:14 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:28"
+      }
+    },
+    {
+      "space": "design",
+      "group": "设计历史·展览与机构",
+      "url": "https://www.vam.ac.uk/blog/feed",
+      "checkedAt": "2026-10-13T13:33:18.925357+00:00",
+      "http": 200,
+      "finalUrl": "https://www.vam.ac.uk/blog/feed",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "V&A Blog",
+      "entries": 12,
+      "sha256": "1a607fe5cfe187cefcb5cd8bdc7e0e38662eb89250f0f5871c51e679487bd0cd",
+      "samples": [
+        {
+          "title": "V&A East Youth Collective: Paid opportunity for 16–24-Year-olds",
+          "date": "Mon, 05 Oct 2026 18:56:42 +0000"
+        },
+        {
+          "title": "Cataloguing Wedgwood – step by step",
+          "date": "Mon, 05 Oct 2026 09:44:24 +0000"
+        },
+        {
+          "title": "Framing the game: tennis through the V&A collection",
+          "date": "Mon, 05 Oct 2026 09:01:36 +0000"
+        }
+      ],
+      "displayTitle": "V&A Blog",
+      "lastSampleDate": "Mon, 05 Oct 2026 18:56:42 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 12,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:52:25"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入方案",
+      "url": "https://github.com/Mintimate/oh-my-rime/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:32:47.873041+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/Mintimate/oh-my-rime/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to oh-my-rime:361b5c0ec2e6fb18e1b34ab32651fdc132e78f10",
+      "entries": 20,
+      "sha256": "5b0f1ff2f65a2af6c58711e02cd6b8e60d69bba1292bb8b3d39f8cbd387609e9",
+      "samples": [
+        {
+          "title": "AutoUpdate Rime Ice English Dicts",
+          "date": "2026-10-08T02:31:37Z"
+        },
+        {
+          "title": "AutoUpdate Wanxiang pinyin Dicts",
+          "date": "2026-09-29T02:17:06Z"
+        },
+        {
+          "title": "AutoUpdate Rime Ice English Dicts",
+          "date": "2026-09-08T02:32:00Z"
+        }
+      ],
+      "displayTitle": "Mintimate/oh-my-rime · 提交",
+      "lastSampleDate": "2026-10-08T02:31:37Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:49"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入方案",
+      "url": "https://github.com/amzxyz/rime_wanxiang/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:32:47.706667+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/amzxyz/rime-wanxiang/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-wanxiang:a355ffec2f05dd698451b709a5c242be76395a25",
+      "entries": 20,
+      "sha256": "d173c1ae7b1eeec4a04212a400790460d2cd57eba3f12ea3711626559667decd",
+      "samples": [
+        {
+          "title": "dict: 词库调整",
+          "date": "2026-10-12T13:33:22Z"
+        },
+        {
+          "title": "dict: 词库调整",
+          "date": "2026-10-12T12:52:48Z"
+        },
+        {
+          "title": "dict: 移除城市+四字词汇，迁移到模型",
+          "date": "2026-10-12T04:51:44Z"
+        }
+      ],
+      "displayTitle": "amzxyz/rime_wanxiang · 提交",
+      "lastSampleDate": "2026-10-12T13:33:22Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:50"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入方案",
+      "url": "https://github.com/gaboolic/rime-frost/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:32:47.726642+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/gaboolic/rime-frost/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-frost:7fef50466be5f93a6b63c430eed97393c8d22963",
+      "entries": 20,
+      "sha256": "e3d8212c16f704465a7974b2c279c6285e1bfaffccf30b14816791cc04e22dcc",
+      "samples": [
+        {
+          "title": "Merge pull request #358 from gaboolic/dict-2026-10-13",
+          "date": "2026-10-13T04:07:57Z"
+        },
+        {
+          "title": "dict(others): 2026-10-13 新增知乎热榜热词（游戏与游戏社区用语/网文用语/生物防治与建筑环境术语/睡眠类型术语/汽…",
+          "date": "2026-10-13T04:07:31Z"
+        },
+        {
+          "title": "Merge pull request #357 from gaboolic/dict-2026-10-12",
+          "date": "2026-10-12T04:13:41Z"
+        }
+      ],
+      "displayTitle": "gaboolic/rime-frost · 提交",
+      "lastSampleDate": "2026-10-13T04:07:57Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:50"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入方案",
+      "url": "https://github.com/rime/rime-bopomofo/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:32:49.674751+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/rime-bopomofo/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-bopomofo:6085c9a38a4a728047862b33d67eee18aa86f3b9",
+      "entries": 20,
+      "sha256": "d289cc4d56a0ddff7b57a7fad1f6c28744e1100600384063904f2bc0707839e4",
+      "samples": [
+        {
+          "title": "字形轉換快捷鍵 Control+Shift+4",
+          "date": "2026-05-09T10:32:13Z"
+        },
+        {
+          "title": "動態能力注音：配置字形轉換、模式匹配、語言模型",
+          "date": "2026-05-09T08:57:01Z"
+        },
+        {
+          "title": "將簡繁轉換開關升級爲多個字形轉換選項",
+          "date": "2026-05-09T05:10:54Z"
+        }
+      ],
+      "displayTitle": "rime/rime-bopomofo · 提交",
+      "lastSampleDate": "2026-05-09T10:32:13Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:50"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入方案",
+      "url": "https://github.com/rime/rime-cangjie/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:32:48.836852+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/rime-cangjie/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-cangjie:52d90a1b1312e74042b38c1cbc8142defbc53171",
+      "entries": 20,
+      "sha256": "fa49282850c0706a1f95d80c2a776744134e92d58488b304a09ca545be75f127",
+      "samples": [
+        {
+          "title": "中西文簡寫",
+          "date": "2026-06-01T12:41:07Z"
+        },
+        {
+          "title": "fix: 將構詞碼拆出爲 cangjie5.stem 避免匯入速成詞典",
+          "date": "2026-05-08T14:20:15Z"
+        },
+        {
+          "title": "拆分基礎碼表、擴展區漢字碼表",
+          "date": "2026-05-08T09:38:49Z"
+        }
+      ],
+      "displayTitle": "rime/rime-cangjie · 提交",
+      "lastSampleDate": "2026-06-01T12:41:07Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:50"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入方案",
+      "url": "https://github.com/rime/rime-double-pinyin/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:32:48.591568+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/rime-double-pinyin/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-double-pinyin:01a13287cbd27819be1c34fa1ddc1b3643d5001b",
+      "entries": 20,
+      "sha256": "77e8382b77a5e2cb915d589e915f0a9cf203b4b0e20f20cda7ca803c6b25f21f",
+      "samples": [
+        {
+          "title": "doc(README): update list of shuangpin schemes",
+          "date": "2025-09-23T17:07:45Z"
+        },
+        {
+          "title": "feat(double_pinyin_st): 四通雙拼",
+          "date": "2025-09-23T17:01:13Z"
+        },
+        {
+          "title": "chore(mspy): update display name",
+          "date": "2025-09-23T16:19:50Z"
+        }
+      ],
+      "displayTitle": "rime/rime-double-pinyin · 提交",
+      "lastSampleDate": "2025-09-23T17:07:45Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:50"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入方案",
+      "url": "https://github.com/rime/rime-essay/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:32:49.823566+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/rime-essay/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-essay:054920de4f54c9e5994276a96a4fc2a35cb51aa3",
+      "entries": 20,
+      "sha256": "8b14149eeca83d48950a60aaaff9f21316f77eca2e11e7c1ec4d4ac42bde46ee",
+      "samples": [
+        {
+          "title": "刪除「牛驥同皂」（BYVoid/OpenCC#1248） (#87)",
+          "date": "2026-09-23T10:50:23Z"
+        },
+        {
+          "title": "移植部分近期 OpenCC 修復（BYVoid/OpenCC#1241～BYVoid/OpenCC#1244） (#80)",
+          "date": "2026-09-18T10:35:48Z"
+        },
+        {
+          "title": "刪除錯詞「事實求是」",
+          "date": "2026-07-13T14:51:48Z"
+        }
+      ],
+      "displayTitle": "rime/rime-essay · 提交",
+      "lastSampleDate": "2026-09-23T10:50:23Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:51"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入方案",
+      "url": "https://github.com/rime/rime-luna-pinyin/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:32:48.206894+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/rime-luna-pinyin/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-luna-pinyin:56b934b099dfbeab842320f13aa8b461a6ab3e42",
+      "entries": 20,
+      "sha256": "c1a3986a14a941888fa407dd735c950d4d08948430502072b13da1c725f22bf0",
+      "samples": [
+        {
+          "title": "精简读音",
+          "date": "2026-07-12T05:01:55Z"
+        },
+        {
+          "title": "Add another reading of 陈寅恪",
+          "date": "2026-07-03T09:35:18Z"
+        },
+        {
+          "title": "刪去「皰」的錯誤讀音，並添加了少許讀音",
+          "date": "2026-07-03T09:35:18Z"
+        }
+      ],
+      "displayTitle": "rime/rime-luna-pinyin · 提交",
+      "lastSampleDate": "2026-07-12T05:01:55Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:49"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入方案",
+      "url": "https://github.com/rime/rime-prelude/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:32:49.739702+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/rime-prelude/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-prelude:082425ea0684bca36474415d4a0e8db9b016487e",
+      "entries": 20,
+      "sha256": "f9cbe26ce2fb4cc68f7c4735d681904c4e3ba379663709102cc04f7000faaec4",
+      "samples": [
+        {
+          "title": "Tab 切換候選字，支持各種候選列表方向",
+          "date": "2026-05-09T10:17:07Z"
+        },
+        {
+          "title": "淘汰明月拼音簡化字、注音臺灣正體方案選項",
+          "date": "2026-05-09T10:10:02Z"
+        },
+        {
+          "title": "默認啓用速成 quick5 輸入方案",
+          "date": "2026-05-09T03:25:11Z"
+        }
+      ],
+      "displayTitle": "rime/rime-prelude · 提交",
+      "lastSampleDate": "2026-05-09T10:17:07Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:50"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入方案",
+      "url": "https://github.com/rime/rime-stroke/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:32:49.236357+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/rime-stroke/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-stroke:1e8fff9b9494ddec23b0cbc526bcfd8171a6fd48",
+      "entries": 20,
+      "sha256": "2ea6d198ae5b2833875ac83d23a9bd5d1cad326b37afc6584734ce184c6e1767",
+      "samples": [
+        {
+          "title": "fix 𠭟 (#19)",
+          "date": "2026-08-26T15:01:36Z"
+        },
+        {
+          "title": "增補超集字",
+          "date": "2025-09-23T02:29:42Z"
+        },
+        {
+          "title": "刪除重複字，將在 #15 收錄",
+          "date": "2025-09-23T02:27:59Z"
+        }
+      ],
+      "displayTitle": "rime/rime-stroke · 提交",
+      "lastSampleDate": "2026-08-26T15:01:36Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:50"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入方案",
+      "url": "https://github.com/rime/rime-terra-pinyin/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:32:49.573798+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/rime-terra-pinyin/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-terra-pinyin:723e51bc266cf9464530c1ddedb856aa18e3da34",
+      "entries": 20,
+      "sha256": "a91d2cea9ef0d91220cc64c62d490c7a544640295bddedce06c0804c5cec5bfb",
+      "samples": [
+        {
+          "title": "修復：怎麼",
+          "date": "2026-09-18T14:50:04Z"
+        },
+        {
+          "title": "不限導入詞組長度與詞頻",
+          "date": "2026-07-17T03:31:36Z"
+        },
+        {
+          "title": "中西文簡寫",
+          "date": "2026-06-01T12:42:26Z"
+        }
+      ],
+      "displayTitle": "rime/rime-terra-pinyin · 提交",
+      "lastSampleDate": "2026-09-18T14:50:04Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:51"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入方案",
+      "url": "https://github.com/rime/rime-wubi/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:32:48.632479+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/rime-wubi/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-wubi:152a0d3f3efe40cae216d1e3b338242446848d07",
+      "entries": 20,
+      "sha256": "871f34c9c083579caf45f5dd4e0300534a69154810723fdac20873f74d808e13",
+      "samples": [
+        {
+          "title": "wubi86.dict.yaml: 添加遗漏的《通用规范汉字表》字",
+          "date": "2023-10-25T01:20:21Z"
+        },
+        {
+          "title": "Allow input predefined symbols with /xx",
+          "date": "2020-09-08T15:01:47Z"
+        },
+        {
+          "title": "chore(README.md): use https link",
+          "date": "2019-01-20T14:30:13Z"
+        }
+      ],
+      "displayTitle": "rime/rime-wubi · 提交",
+      "lastSampleDate": "2023-10-25T01:20:21Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:50"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法与方案",
+      "url": "https://github.com/fcitx5-android/fcitx5-android/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:36:38.622565+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/fcitx5-android/fcitx5-android/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to fcitx5-android:e6199a2801b0c76e1baeff7a48f6b18e910e9dd7",
+      "entries": 20,
+      "sha256": "b01a0cf8efb56bebd345b311045bef63d133a44bb6d81df36a56a764729832ca",
+      "samples": [
+        {
+          "title": "Update fcitx5 submodules and prebuilt",
+          "date": "2026-09-23T15:48:36Z"
+        },
+        {
+          "title": "Unify jni array interation",
+          "date": "2026-09-23T14:59:26Z"
+        },
+        {
+          "title": "Fix crash on styledColorOrDefault when attribute resource is not avai…",
+          "date": "2026-09-18T11:53:55Z"
+        }
+      ],
+      "displayTitle": "fcitx5-android/fcitx5-android · 提交",
+      "lastSampleDate": "2026-09-23T15:48:36Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:50"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法与方案",
+      "url": "https://github.com/rime/rime-cantonese/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:36:36.780158+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/rime-cantonese/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-cantonese:259f0e48bba840c3a2e0d117539e96937f3d89bc",
+      "entries": 20,
+      "sha256": "7462f32f5ca7222b6f03478a62510d5b88b7894ccd8820a26c8439c7deaae70c",
+      "samples": [
+        {
+          "title": "Update from upstream https://github.com/CanCLID/rime-cantonese-upstre…",
+          "date": "2026-08-13T09:40:32Z"
+        },
+        {
+          "title": "Update from upstream https://github.com/CanCLID/rime-cantonese-upstre…",
+          "date": "2026-07-02T11:05:50Z"
+        },
+        {
+          "title": "Update from upstream https://github.com/CanCLID/rime-cantonese-upstre…",
+          "date": "2026-06-29T04:05:43Z"
+        }
+      ],
+      "displayTitle": "rime/rime-cantonese · 提交",
+      "lastSampleDate": "2026-08-13T09:40:32Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:50"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法与方案",
+      "url": "https://github.com/rime/rime-soutzoe/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:36:37.236261+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/rime-soutzoe/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-soutzoe:beeaeca72d8e17dfd1e9af58680439e9012987dc",
+      "entries": 20,
+      "sha256": "41225db8181eba526ce68b877d4dfae2027bcb8ed9e6a69da3488da2197f19e1",
+      "samples": [
+        {
+          "title": "chore(README.md): use https link",
+          "date": "2019-01-20T14:30:12Z"
+        },
+        {
+          "title": "docs: add README.md",
+          "date": "2018-04-07T01:49:00Z"
+        },
+        {
+          "title": "Split AUTHORS file into individual packages; copy LICNESE files.",
+          "date": "2016-09-01T10:03:49Z"
+        }
+      ],
+      "displayTitle": "rime/rime-soutzoe · 提交",
+      "lastSampleDate": "2019-01-20T14:30:12Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:51"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法与方案",
+      "url": "https://github.com/rime/rime-wugniu/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:36:37.136151+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/rime-wugniu/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-wugniu:2818f4812af3b6f11fc0248fa8918966a3312d2c",
+      "entries": 20,
+      "sha256": "5461e2ebbe799a2dfc0ddb8cd2ab54e87b80a10062f2e4cb576fa2cf0b9bcb04",
+      "samples": [
+        {
+          "title": "Update README.md",
+          "date": "2026-06-18T03:47:00Z"
+        },
+        {
+          "title": "chore(README.md): use https link",
+          "date": "2019-01-20T14:30:13Z"
+        },
+        {
+          "title": "docs: add README.md",
+          "date": "2018-04-07T01:49:01Z"
+        }
+      ],
+      "displayTitle": "rime/rime-wugniu · 提交",
+      "lastSampleDate": "2026-06-18T03:47:00Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:51"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法项目",
+      "url": "https://github.com/fcitx/fcitx5-chinese-addons/releases.atom",
+      "checkedAt": "2026-10-13T13:32:46.744724+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/fcitx/fcitx5-chinese-addons/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from fcitx5-chinese-addons",
+      "entries": 10,
+      "sha256": "2fa6b4eef978bf6b15131da4bdc681f234ddc02a381e77b30f9820b4cd18d41b",
+      "samples": [
+        {
+          "title": "5.1.15",
+          "date": "2026-09-24T02:38:06Z"
+        },
+        {
+          "title": "5.1.14",
+          "date": "2026-09-06T02:40:02Z"
+        },
+        {
+          "title": "5.1.13",
+          "date": "2026-06-20T04:19:13Z"
+        }
+      ],
+      "displayTitle": "fcitx/fcitx5-chinese-addons · 发布",
+      "lastSampleDate": "2026-09-24T02:38:06Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:51"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法项目",
+      "url": "https://github.com/fcitx/fcitx5-macos/releases.atom",
+      "checkedAt": "2026-10-13T13:32:46.745358+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/fcitx/fcitx5-macos/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from fcitx5-macos",
+      "entries": 10,
+      "sha256": "d8d06bd1d83ad1f14f2786d3cdb0c671d7472dff06b471687a19310934bb6f9e",
+      "samples": [
+        {
+          "title": "Nightly Build",
+          "date": "2026-10-12T01:19:06Z"
+        },
+        {
+          "title": "0.4.0",
+          "date": "2026-09-22T03:25:04Z"
+        },
+        {
+          "title": "0.3.7",
+          "date": "2026-08-29T02:34:27Z"
+        }
+      ],
+      "displayTitle": "fcitx/fcitx5-macos · 发布",
+      "lastSampleDate": "2026-10-12T01:19:06Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:51"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法项目",
+      "url": "https://github.com/fcitx/fcitx5-rime/releases.atom",
+      "checkedAt": "2026-10-13T13:32:46.745252+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/fcitx/fcitx5-rime/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from fcitx5-rime",
+      "entries": 10,
+      "sha256": "5fdb8eebf9b0471df813370309537b6cc1e44d0040484457ec368d6f0bee5be1",
+      "samples": [
+        {
+          "title": "5.1.16",
+          "date": "2026-09-09T02:05:54Z"
+        },
+        {
+          "title": "5.1.15",
+          "date": "2026-09-06T02:40:06Z"
+        },
+        {
+          "title": "5.1.14",
+          "date": "2026-06-20T04:19:15Z"
+        }
+      ],
+      "displayTitle": "fcitx/fcitx5-rime · 发布",
+      "lastSampleDate": "2026-09-09T02:05:54Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:51"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法项目",
+      "url": "https://github.com/ibus/ibus/releases.atom",
+      "checkedAt": "2026-10-13T13:32:46.745498+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/ibus/ibus/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from ibus",
+      "entries": 10,
+      "sha256": "3b7f6b7ffe442c9da775ef9bdc46d75e9130517a2e025da30a6f0744e2c58db9",
+      "samples": [
+        {
+          "title": "1.5.35-rc1",
+          "date": "2026-09-22T12:03:29Z"
+        },
+        {
+          "title": "1.5.35-beta2",
+          "date": "2026-09-22T12:05:05Z"
+        },
+        {
+          "title": "1.5.35-beta1",
+          "date": "2026-09-22T12:05:51Z"
+        }
+      ],
+      "displayTitle": "ibus/ibus · 发布",
+      "lastSampleDate": "2026-09-22T12:03:29Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:51"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法项目",
+      "url": "https://github.com/libpinyin/libpinyin/releases.atom",
+      "checkedAt": "2026-10-13T13:32:46.745539+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/libpinyin/libpinyin/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from libpinyin",
+      "entries": 10,
+      "sha256": "20694080c75857dbf780eba9e5fa50c48342159119cc77a5b5cff6ffa02af9ff",
+      "samples": [
+        {
+          "title": "libpinyin 2.11.92",
+          "date": "2026-09-29T10:53:06Z"
+        },
+        {
+          "title": "libpinyin 2.11.91",
+          "date": "2026-01-04T07:06:00Z"
+        },
+        {
+          "title": "libpinyin 2.10.3",
+          "date": "2025-09-18T09:07:26Z"
+        }
+      ],
+      "displayTitle": "libpinyin/libpinyin · 发布",
+      "lastSampleDate": "2026-09-29T10:53:06Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:48"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法项目",
+      "url": "https://github.com/rime/ibus-rime/releases.atom",
+      "checkedAt": "2026-10-13T13:32:46.745584+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/ibus-rime/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from ibus-rime",
+      "entries": 10,
+      "sha256": "be031e2f159720321200710e6e46515844362e5c188b652c7bb8f305a6672792",
+      "samples": [
+        {
+          "title": "1.6.1",
+          "date": "2026-05-25T04:34:38Z"
+        },
+        {
+          "title": "1.6.0",
+          "date": "2026-01-06T15:37:07Z"
+        },
+        {
+          "title": "1.5.1",
+          "date": "2024-12-29T10:16:27Z"
+        }
+      ],
+      "displayTitle": "rime/ibus-rime · 发布",
+      "lastSampleDate": "2026-05-25T04:34:38Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:50"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "中文输入法项目",
+      "url": "https://github.com/rime/squirrel/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:32:50.056023+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/squirrel/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to squirrel:769ae426f33f500266101a88f694aab0d158e680",
+      "entries": 20,
+      "sha256": "b1b6e22672ff1cacf7f2718ca458f1c34d04e37c43497352169543441152cc9d",
+      "samples": [
+        {
+          "title": "fix(ui): clear stale paging hit-test paths (#1183)",
+          "date": "2026-10-11T00:33:39Z"
+        },
+        {
+          "title": "fix: correct input method installation path in SquirrelApp.appDir",
+          "date": "2026-08-13T04:58:46Z"
+        },
+        {
+          "title": "feat(SquirrelTheme): allow customizing preedit area font",
+          "date": "2026-08-12T06:54:01Z"
+        }
+      ],
+      "displayTitle": "rime/squirrel · 提交",
+      "lastSampleDate": "2026-10-11T00:33:39Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:49"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘与速录",
+      "url": "https://github.com/jtroo/kanata/releases.atom",
+      "checkedAt": "2026-10-13T13:32:51.468281+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/jtroo/kanata/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from kanata",
+      "entries": 10,
+      "sha256": "268e3843536b62b7e57c7fcadce93dfd57d1b1fd82dfa79a93489d51be3485ae",
+      "samples": [
+        {
+          "title": "v1.13.0-prerelease-1",
+          "date": "2026-10-09T10:06:45Z"
+        },
+        {
+          "title": "v1.12.1-prerelease-1",
+          "date": "2026-07-22T13:59:34Z"
+        },
+        {
+          "title": "v1.12.0",
+          "date": "2026-07-05T06:39:27Z"
+        }
+      ],
+      "displayTitle": "jtroo/kanata · 发布",
+      "lastSampleDate": "2026-10-09T10:06:45Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:49"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘与速录",
+      "url": "https://github.com/kmonad/kmonad/releases.atom",
+      "checkedAt": "2026-10-13T13:32:51.590433+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/kmonad/kmonad/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from kmonad",
+      "entries": 9,
+      "sha256": "bc2d6a93d6a6618ce310b2dab30f820102bf2dd98d2b23713ed9381bcc52d975",
+      "samples": [
+        {
+          "title": "0.4.5",
+          "date": "2026-05-03T19:12:59Z"
+        },
+        {
+          "title": "0.4.4",
+          "date": "2025-04-11T05:49:03Z"
+        },
+        {
+          "title": "0.4.3",
+          "date": "2024-09-11T18:41:17Z"
+        }
+      ],
+      "displayTitle": "kmonad/kmonad · 发布",
+      "lastSampleDate": "2026-05-03T19:12:59Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 9,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:49"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘与速录",
+      "url": "https://github.com/openstenoproject/plover/releases.atom",
+      "checkedAt": "2026-10-13T13:32:50.885657+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/opensteno/plover/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from plover",
+      "entries": 10,
+      "sha256": "414b362081fd167d1eb84b08d7c82adc720cab1f593c331e2caac55d45a1c88c",
+      "samples": [
+        {
+          "title": "v5.4.2",
+          "date": "2026-10-11T17:47:06Z"
+        },
+        {
+          "title": "v5.4.1",
+          "date": "2026-08-27T06:40:55Z"
+        },
+        {
+          "title": "v5.4.0",
+          "date": "2026-07-10T06:25:42Z"
+        }
+      ],
+      "displayTitle": "openstenoproject/plover · 发布",
+      "lastSampleDate": "2026-10-11T17:47:06Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:50"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘与速录",
+      "url": "https://github.com/qmk/qmk_firmware/releases.atom",
+      "checkedAt": "2026-10-13T13:32:50.493900+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/qmk/qmk_firmware/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from qmk_firmware",
+      "entries": 10,
+      "sha256": "9d09124d623cb244b5b0b5bef42e9725bf8599c87eb954ce8398a96f7848fa1f",
+      "samples": [
+        {
+          "title": "0.34.6",
+          "date": "2026-09-30T15:42:14Z"
+        },
+        {
+          "title": "0.34.5",
+          "date": "2026-09-26T20:12:22Z"
+        },
+        {
+          "title": "0.34.4",
+          "date": "2026-09-05T16:30:51Z"
+        }
+      ],
+      "displayTitle": "qmk/qmk_firmware · 发布",
+      "lastSampleDate": "2026-09-30T15:42:14Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:49"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘与速录",
+      "url": "https://github.com/the-via/releases/releases.atom",
+      "checkedAt": "2026-10-13T13:32:50.776570+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/the-via/releases/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from releases",
+      "entries": 10,
+      "sha256": "034243789f3e5fac2d43a6b09c3b59ea116087fc51bde379b1e4f310c48b6768",
+      "samples": [
+        {
+          "title": "3.0.0",
+          "date": "2023-03-10T03:39:03Z"
+        },
+        {
+          "title": "2.2.0",
+          "date": "2023-03-02T14:22:51Z"
+        },
+        {
+          "title": "2.1.0",
+          "date": "2023-01-06T17:45:15Z"
+        }
+      ],
+      "displayTitle": "the-via/releases · 发布",
+      "lastSampleDate": "2023-03-10T03:39:03Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:49"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘与速录",
+      "url": "https://github.com/vial-kb/vial-gui/releases.atom",
+      "checkedAt": "2026-10-13T13:32:50.724200+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/vial-kb/vial-gui/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from vial-gui",
+      "entries": 10,
+      "sha256": "04afa694892eb03c2375e5eb3762e50f6d759fb2f95f5f5c60c00c91ea2bac21",
+      "samples": [
+        {
+          "title": "v0.7.5",
+          "date": "2025-08-02T22:21:26Z"
+        },
+        {
+          "title": "v0.7.4",
+          "date": "2025-07-12T23:16:06Z"
+        },
+        {
+          "title": "v0.7.3",
+          "date": "2025-04-02T02:39:14Z"
+        }
+      ],
+      "displayTitle": "vial-kb/vial-gui · 发布",
+      "lastSampleDate": "2025-08-02T22:21:26Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:51"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘与速录",
+      "url": "https://github.com/zmkfirmware/zmk/releases.atom",
+      "checkedAt": "2026-10-13T13:32:50.560872+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/zmkfirmware/zmk/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from zmk",
+      "entries": 7,
+      "sha256": "c18b29d11a66784e868be81525f9d3f499ec0edc304609b474810c48719861da",
+      "samples": [
+        {
+          "title": "v0.3.0",
+          "date": "2025-08-01T22:44:33Z"
+        },
+        {
+          "title": "v0.3",
+          "date": "2025-08-01T22:44:44Z"
+        },
+        {
+          "title": "v0.2.1",
+          "date": "2025-03-02T14:45:28Z"
+        }
+      ],
+      "displayTitle": "zmkfirmware/zmk · 发布",
+      "lastSampleDate": "2025-08-01T22:44:33Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 7,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:51"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘开团与社区",
+      "url": "https://kbdfans.com/blogs/news.atom",
+      "checkedAt": "2026-10-13T13:32:52.864745+00:00",
+      "http": 200,
+      "finalUrl": "https://kbdfans.com/blogs/news.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "KBDfans® Mechanical Keyboards Store - News",
+      "entries": 5,
+      "sha256": "665f86bdd1dec6ad99177c3f624c6a3081d94d91feb86b86d627137c36d97b3f",
+      "samples": [
+        {
+          "title": "Which PBTfans Keycaps Fit My Keyboard?",
+          "date": "2026-10-08T09:21:00+08:00"
+        },
+        {
+          "title": "KBDfans Product Labels, Explained",
+          "date": "2026-10-07T10:22:46+08:00"
+        },
+        {
+          "title": "Mechanical Keyboard Materials & Sound Guide: Plates, Cases, Mounts & Foam",
+          "date": "2026-09-17T19:44:22+08:00"
+        }
+      ],
+      "displayTitle": "KBDfans® Mechanical Keyboards Store - News",
+      "lastSampleDate": "2026-10-08T09:21:00+08:00",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 5,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:51"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘开团与社区",
+      "url": "https://www.keebtalk.com/latest.rss",
+      "checkedAt": "2026-10-13T13:32:51.812922+00:00",
+      "http": 200,
+      "finalUrl": "https://www.keebtalk.com/latest.rss",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "KeebTalk - Latest topics",
+      "entries": 30,
+      "sha256": "b12b60a46759118e0d512a748d1115f32c38c4a0677afdf927d9fe21896f4707",
+      "samples": [
+        {
+          "title": "First impressions of Hexgears/Hyeku e2s Pro 75%",
+          "date": "Mon, 12 Oct 2026 21:04:01 +0000"
+        },
+        {
+          "title": "Resin Keycap Mold recommendations",
+          "date": "Mon, 12 Oct 2026 13:12:26 +0000"
+        },
+        {
+          "title": "Geonworks Strike HE Switch Review",
+          "date": "Sun, 11 Oct 2026 12:48:03 +0000"
+        }
+      ],
+      "displayTitle": "KeebTalk - Latest topics",
+      "lastSampleDate": "Mon, 12 Oct 2026 21:04:01 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 30,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:52"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘开团与社区",
+      "url": "https://www.keychron.com/blogs/news.atom",
+      "checkedAt": "2026-10-13T13:32:53.291639+00:00",
+      "http": 200,
+      "finalUrl": "https://www.keychron.com/blogs/news.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Keychron - News",
+      "entries": 30,
+      "sha256": "9c457dc697b87be7b2ab90ea85a1e75f6e3a2acdfede256827ce82239f4e2464",
+      "samples": [
+        {
+          "title": "Keychron Q6 Max vs Q6 Ultra vs Q6 HE: which full-size board is for you",
+          "date": "2026-10-01T23:22:00+08:00"
+        },
+        {
+          "title": "Is a hall-effect keyboard worth it if you mostly type? K10 HE and K2 HE without the hype",
+          "date": "2026-10-01T23:12:00+08:00"
+        },
+        {
+          "title": "Will these switches or keycaps fit my Keychron? The compatibility check before you buy",
+          "date": "2026-10-01T23:02:00+08:00"
+        }
+      ],
+      "displayTitle": "Keychron - News",
+      "lastSampleDate": "2026-10-01T23:22:00+08:00",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 30,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:51"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘开团与社区",
+      "url": "https://geekhack.org/index.php?action=.xml;type=rss;board=70.0",
+      "checkedAt": "2026-10-13T13:32:51.666605+00:00",
+      "http": 200,
+      "finalUrl": "https://geekhack.org/index.php?action=.xml;type=rss;board=70.0",
+      "contentType": "application/rss+xml; charset=ISO-8859-1",
+      "status": "verified",
+      "format": "rss",
+      "title": "geekhack - Group Buys and Preorders",
+      "entries": 5,
+      "sha256": "b7c8b81441f0bd5a7bdb868a1540fe30a0c2a6fecb45adbf5d4406b03991c40a",
+      "samples": [
+        {
+          "title": "Re: [GB] DCS SMRT R2 - FINAL WEEK!",
+          "date": "Mon, 12 Oct 2026 12:20:33 GMT"
+        },
+        {
+          "title": "Re: [GB] GMK CYL Purple. | Group Buy is live!",
+          "date": "Mon, 12 Oct 2026 10:44:17 GMT"
+        },
+        {
+          "title": "Re: [GB] GMK CYL Purple. | Group Buy is live!",
+          "date": "Sun, 11 Oct 2026 00:16:24 GMT"
+        }
+      ],
+      "displayTitle": "geekhack - Group Buys and Preorders",
+      "lastSampleDate": "Mon, 12 Oct 2026 12:20:33 GMT",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 5,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:51"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘开团与社区",
+      "url": "https://geekhack.org/index.php?action=.xml;type=rss;board=132.0",
+      "checkedAt": "2026-10-13T13:32:51.732799+00:00",
+      "http": 200,
+      "finalUrl": "https://geekhack.org/index.php?action=.xml;type=rss;board=132.0",
+      "contentType": "application/rss+xml; charset=ISO-8859-1",
+      "status": "verified",
+      "format": "rss",
+      "title": "geekhack - Interest Checks",
+      "entries": 5,
+      "sha256": "5ce35893489839c02ba533361c09b168577d9f6127a92d6f50f365ccaa99ef83",
+      "samples": [
+        {
+          "title": "Re: [IC] Constance 60 (Work In Progress",
+          "date": "Tue, 13 Oct 2026 13:31:34 GMT"
+        },
+        {
+          "title": "[IC] Constance 60",
+          "date": "Tue, 13 Oct 2026 13:29:35 GMT"
+        },
+        {
+          "title": "Re: [IC] DCS Nights",
+          "date": "Mon, 12 Oct 2026 22:41:00 GMT"
+        }
+      ],
+      "displayTitle": "geekhack - Interest Checks",
+      "lastSampleDate": "Tue, 13 Oct 2026 13:31:34 GMT",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 5,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:48"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "客制化键盘开团与社区",
+      "url": "https://blog.splitkb.com/rss/",
+      "checkedAt": "2026-10-13T13:32:51.845648+00:00",
+      "http": 200,
+      "finalUrl": "https://blog.splitkb.com/rss/",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "splitkb.com blog",
+      "entries": 15,
+      "sha256": "6bacd70a2fbc007f5db8db1f9457e7a961ee6dcf607ec4f022baefc0717e77b8",
+      "samples": [
+        {
+          "title": "Introducing: Halcyon Wireless",
+          "date": "Wed, 02 Sep 2026 15:08:10 GMT"
+        },
+        {
+          "title": "Delivery and Duties Paid shipping now available",
+          "date": "Thu, 28 May 2026 13:24:11 GMT"
+        },
+        {
+          "title": "Spring 2026",
+          "date": "Wed, 08 Apr 2026 14:19:53 GMT"
+        }
+      ],
+      "displayTitle": "splitkb.com blog",
+      "lastSampleDate": "Wed, 02 Sep 2026 15:08:10 GMT",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 15,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:48"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "灵犀输入法·公开进展",
+      "url": "https://github.com/scholay/rimes/releases.atom",
+      "checkedAt": "2026-10-13T13:36:35.440398+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/scholay/rimes/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from rimes",
+      "entries": 10,
+      "sha256": "9e6b04625fe6c89669877dc90455f3260d1e94ac1cbc9e771defea3a9ce8f54b",
+      "samples": [
+        {
+          "title": "灵犀输入法 Windows 1.1.3",
+          "date": "2026-10-13T09:46:57Z"
+        },
+        {
+          "title": "灵犀输入法 1.1.3 · 全平台方案导入",
+          "date": "2026-10-13T11:35:22Z"
+        },
+        {
+          "title": "灵犀输入法 Android 1.1.3",
+          "date": "2026-10-13T09:30:36Z"
+        }
+      ],
+      "displayTitle": "scholay/rimes · 发布",
+      "lastSampleDate": "2026-10-13T09:46:57Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:48"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "灵犀输入法·公开进展",
+      "url": "https://github.com/scholay/rimes/commits/main.atom",
+      "checkedAt": "2026-10-13T13:36:35.440730+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/scholay/rimes/commits/main.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rimes:main",
+      "entries": 20,
+      "sha256": "df7fab654a4e516ceecfbaa6a353b96f7f4e4ebf337b60fbe10a486e443f64a1",
+      "samples": [
+        {
+          "title": "fix(ios): reduce hidden keyboard work (#131)",
+          "date": "2026-10-13T11:32:22Z"
+        },
+        {
+          "title": "fix(ios): stop hidden keyboard rendering and animations",
+          "date": "2026-10-13T11:06:03Z"
+        },
+        {
+          "title": "Merge pull request #129 from scholay/codex/document-1.1.3-release",
+          "date": "2026-10-13T10:34:28Z"
+        }
+      ],
+      "displayTitle": "scholay/rimes · 提交",
+      "lastSampleDate": "2026-10-13T11:32:22Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:48"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "输入与键盘历史·速录",
+      "url": "https://computerhistory.org/feed/",
+      "checkedAt": "2026-10-13T13:36:35.440887+00:00",
+      "http": 200,
+      "finalUrl": "https://computerhistory.org/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "CHM",
+      "entries": 8,
+      "sha256": "747e80fe20d4bfc831edae4d4480039c47ce4e9bbac696da75261f813bd9b37c",
+      "samples": [
+        {
+          "title": "Sphere: A Pioneering Early Microcomputer, Rediscovered",
+          "date": "Sat, 10 Oct 2026 21:49:00 +0000"
+        },
+        {
+          "title": "Computer History Museum × Meta’s Project Aria: Building an AI-Guided Tour for Everyone",
+          "date": "Thu, 08 Oct 2026 16:50:35 +0000"
+        },
+        {
+          "title": "In Conversation with Boris Cherny, Creator of Claude Code",
+          "date": "Tue, 29 Sep 2026 18:28:22 +0000"
+        }
+      ],
+      "displayTitle": "CHM",
+      "lastSampleDate": "Sat, 10 Oct 2026 21:49:00 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 8,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:48"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "输入法皮肤",
+      "url": "https://github.com/LEOYoon-Tsaw/Squirrel-Designer/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:32:49.866432+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/LEOYoon-Tsaw/Squirrel-Designer/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to Squirrel-Designer:17f44a45fcf99f9b1f93c280135a4dc3049181eb",
+      "entries": 20,
+      "sha256": "92061f992229a7abbedc92b970b55a832ad103cb01e85061259a82ef0dbd1d7f",
+      "samples": [
+        {
+          "title": "Adopts Glass Background instead on MacOS 26+",
+          "date": "2026-06-12T15:39:40Z"
+        },
+        {
+          "title": "Fix a bug that show paging incorrectly used camel naming",
+          "date": "2026-05-15T13:17:01Z"
+        },
+        {
+          "title": "Add Swift test",
+          "date": "2025-10-19T20:24:01Z"
+        }
+      ],
+      "displayTitle": "LEOYoon-Tsaw/Squirrel-Designer · 提交",
+      "lastSampleDate": "2026-06-12T15:39:40Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:48"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "输入法皮肤",
+      "url": "https://github.com/Mintimate/RimeTheme/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:35:19.340466+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/Mintimate/RimeTheme/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to RimeTheme:3ced20a6a43b57022385a8111a07e57ddc07e247",
+      "entries": 5,
+      "sha256": "489e8a42ff9b449cf7dcd9153945f77f3a53a33c1d62bf4e0e1e2975133a7798",
+      "samples": [
+        {
+          "title": "doc: 添加主要说明文档",
+          "date": "2024-03-24T01:17:43Z"
+        },
+        {
+          "title": "feat: 同文输入法适配",
+          "date": "2024-03-24T01:17:19Z"
+        },
+        {
+          "title": "style: 添加效果图",
+          "date": "2024-03-21T14:48:14Z"
+        }
+      ],
+      "displayTitle": "Mintimate/RimeTheme · 提交",
+      "lastSampleDate": "2024-03-24T01:17:43Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 5,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:48"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "输入法皮肤",
+      "url": "https://github.com/catppuccin/fcitx5/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:35:19.913142+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/catppuccin/fcitx5/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to fcitx5:393845cf3ed0e0000bfe57fe1b9ad75748e2547f",
+      "entries": 20,
+      "sha256": "13e5734f465b21e4054b23ae6982bc858e3a381e91c5fa7088426f0d78c8a267",
+      "samples": [
+        {
+          "title": "feat!: Add rounded corner support (#12)",
+          "date": "2025-05-16T19:53:57Z"
+        },
+        {
+          "title": "feat!: new design (#10)",
+          "date": "2025-03-22T14:37:00Z"
+        },
+        {
+          "title": "chore: delete outdated preview image (#7)",
+          "date": "2024-09-01T15:31:31Z"
+        }
+      ],
+      "displayTitle": "catppuccin/fcitx5 · 提交",
+      "lastSampleDate": "2025-05-16T19:53:57Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:49"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "输入法皮肤",
+      "url": "https://github.com/hosxy/Fcitx5-Material-Color/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:35:19.877935+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/hosxy/Fcitx5-Material-Color/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to Fcitx5-Material-Color:2256feeae48dcc87f19a3cfe98f171862f8fcace",
+      "entries": 20,
+      "sha256": "2416afe1b78faa7ae6eadb5a4557541ec198e6224c268570f6773c0634f8a51c",
+      "samples": [
+        {
+          "title": "Update theme-black.conf",
+          "date": "2021-02-21T05:34:44Z"
+        },
+        {
+          "title": "候选框背景不再使用图片，使用fcitx5新特性自行绘制",
+          "date": "2021-02-21T04:49:27Z"
+        },
+        {
+          "title": "update README amd some fix",
+          "date": "2020-12-12T14:42:34Z"
+        }
+      ],
+      "displayTitle": "hosxy/Fcitx5-Material-Color · 提交",
+      "lastSampleDate": "2021-02-21T05:34:44Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:48"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "输入法皮肤",
+      "url": "https://github.com/puddinging/rime-skin/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:35:18.962856+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/puddinging/rime-skin/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-skin:363d06447f0b9cfe2dadba606bf7a4f23e8024d9",
+      "entries": 14,
+      "sha256": "e44da0e246e13ff5e392ec37663c2be445035fb07877f0b4301f8fd9d2f5f0cc",
+      "samples": [
+        {
+          "title": "Update README.md",
+          "date": "2021-12-23T06:02:47Z"
+        },
+        {
+          "title": "Update README.md",
+          "date": "2021-12-23T06:01:44Z"
+        },
+        {
+          "title": "Update README.md",
+          "date": "2021-12-23T05:59:40Z"
+        }
+      ],
+      "displayTitle": "puddinging/rime-skin · 提交",
+      "lastSampleDate": "2021-12-23T06:02:47Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 14,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:49"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "输入法皮肤",
+      "url": "https://github.com/shaochenshi/rime_skin/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:35:20.707760+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/shaochenshi/rime_skin/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime_skin:da90fa2c3f876e25888d2119110cc3c5f22b28ed",
+      "entries": 2,
+      "sha256": "040eec91dc88c1c5de762f844a016200ee47b9fd2dbd091b686da75e1658dbd0",
+      "samples": [
+        {
+          "title": "Update README.md",
+          "date": "2023-06-05T22:51:26Z"
+        },
+        {
+          "title": "Initial commit",
+          "date": "2023-06-05T22:48:47Z"
+        }
+      ],
+      "displayTitle": "shaochenshi/rime_skin · 提交",
+      "lastSampleDate": "2023-06-05T22:51:26Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 2,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:49"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "输入法皮肤",
+      "url": "https://github.com/ssnhd/rime/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:32:50.036728+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/ssnhd/rime/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime:beeec5ca57139661a89a77057bea3c32086c52f9",
+      "entries": 20,
+      "sha256": "1cc0365418db3568b775053d5a5145c17b28e210e5076cd2df87b4cc97482747",
+      "samples": [
+        {
+          "title": "Update README.md",
+          "date": "2026-03-22T12:25:31Z"
+        },
+        {
+          "title": "Update README.md",
+          "date": "2025-08-26T09:02:47Z"
+        },
+        {
+          "title": "Update README.md",
+          "date": "2025-08-26T09:01:38Z"
+        }
+      ],
+      "displayTitle": "ssnhd/rime · 提交",
+      "lastSampleDate": "2026-03-22T12:25:31Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:49"
+      }
+    },
+    {
+      "space": "lingxi",
+      "group": "输入法皮肤",
+      "url": "https://github.com/tom2almighty/rime-theme/commits/HEAD.atom",
+      "checkedAt": "2026-10-13T13:35:18.921959+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/tom2almighty/rime-theme/commits/HEAD.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rime-theme:3d9c215b046eaf3dcb00657527394b4f028e74be",
+      "entries": 6,
+      "sha256": "b1144a16ff23049efb107d9d71d88ddeed79ab4e55b239afc42e77b7f638ca98",
+      "samples": [
+        {
+          "title": "feat(presets): 添加多个新主题预设，包括极简、暮霭、琥珀、松烟和远峰",
+          "date": "2026-08-10T14:00:34Z"
+        },
+        {
+          "title": "chore(deps): 更新依赖项，移除 @types/bun，添加 typescript",
+          "date": "2026-08-10T13:36:56Z"
+        },
+        {
+          "title": "chore(license): 添加版权文件",
+          "date": "2026-08-10T13:33:37Z"
+        }
+      ],
+      "displayTitle": "tom2almighty/rime-theme · 提交",
+      "lastSampleDate": "2026-08-10T14:00:34Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 6,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 13:51:49"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·学术网站项目",
+      "url": "https://www.crossref.org/blog/index.xml",
+      "checkedAt": "2026-10-13T13:35:21.714621+00:00",
+      "http": 200,
+      "finalUrl": "https://www.crossref.org/blog/index.xml",
+      "contentType": "text/xml",
+      "status": "verified",
+      "format": "rss",
+      "title": "Blog on Crossref",
+      "entries": 692,
+      "sha256": "bd3c3c8828439e6ca535cde663f7ff5114175f5a0f1ee0fdb68232f1eda6a36b",
+      "samples": [
+        {
+          "title": "How Grobid uses Crossref metadata to enrich bibliographic information",
+          "date": "Tue, 06 Oct 2026 00:00:00 +0000"
+        },
+        {
+          "title": "2026 board election slate",
+          "date": "Mon, 21 Sep 2026 00:00:00 +0000"
+        },
+        {
+          "title": "July 2026 board meeting summary",
+          "date": "Thu, 17 Sep 2026 00:00:00 +0000"
+        }
+      ],
+      "displayTitle": "Blog on Crossref",
+      "lastSampleDate": "Tue, 06 Oct 2026 00:00:00 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 692,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:50"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·学术网站项目",
+      "url": "https://blog.doaj.org/feed/",
+      "checkedAt": "2026-10-13T13:33:33.746997+00:00",
+      "http": 200,
+      "finalUrl": "https://blog.doaj.org/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "DOAJ Blog",
+      "entries": 10,
+      "sha256": "38ca3feb1e9c87d1dd4da1c68df29a65c760ff1cad6d13d29d77db28e3e378e0",
+      "samples": [
+        {
+          "title": "Paradise Lost, Knowledge Regained: Jan Erik Frantsvåg on reclaiming open access (Part 1)",
+          "date": "Mon, 12 Oct 2026 03:15:31 +0000"
+        },
+        {
+          "title": "Mari Pakai Pre-Assessment Checklist Terbaru Kami: Undangan bagi Jurnal-Jurnal di Meksiko dan Indonesia",
+          "date": "Thu, 08 Oct 2026 22:38:20 +0000"
+        },
+        {
+          "title": "Empowering global researchers with new Think. Check. Submit. resources",
+          "date": "Tue, 06 Oct 2026 03:27:34 +0000"
+        }
+      ],
+      "displayTitle": "DOAJ Blog",
+      "lastSampleDate": "Mon, 12 Oct 2026 03:15:31 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:38"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·学术网站项目",
+      "url": "https://blog.datacite.org/feed/",
+      "checkedAt": "2026-10-13T13:33:35.926987+00:00",
+      "http": 200,
+      "finalUrl": "https://datacite.org/blog/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "DataCite Blog - DataCite",
+      "entries": 10,
+      "sha256": "cef416f98500288adca111935357c5fb71d9518602aac96a8d17cb073ae6b544",
+      "samples": [
+        {
+          "title": "Recognizing Research Software: DataCite Journey of the Helmholtz-Zentrum Dresden-Rossendorf",
+          "date": "Wed, 16 Sep 2026 09:30:39 +0000"
+        },
+        {
+          "title": "Connecting Dissertations to the Global Scholarly Record: Universidade do Porto’s DataCite Journey",
+          "date": "Thu, 27 Aug 2026 11:07:11 +0000"
+        },
+        {
+          "title": "La FCI, organisme canadien de financement de la recherche, renforce l’infrastructure de recherche ouverte : 14 000 dossiers de subvention désormais accessibles dans DataCite.",
+          "date": "Tue, 18 Aug 2026 06:17:44 +0000"
+        }
+      ],
+      "displayTitle": "DataCite Blog - DataCite",
+      "lastSampleDate": "Wed, 16 Sep 2026 09:30:39 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:43"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·学术网站项目",
+      "url": "https://blog.arxiv.org/feed/",
+      "checkedAt": "2026-10-13T13:33:32.229177+00:00",
+      "http": 200,
+      "finalUrl": "https://blog.arxiv.org/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "News from arXiv",
+      "entries": 10,
+      "sha256": "7b821e1b2a8f1f479e94c1ad8d4f2ed285447ad0be8c7ea8278b3bbf459e240c",
+      "samples": [
+        {
+          "title": "Attention authors: temporary change to announcement schedule due to holiday",
+          "date": "Thu, 08 Oct 2026 17:30:00 +0000"
+        },
+        {
+          "title": "Fair Moderation, Equitable Access, and AI: arXiv’s Updated Rate Limit Policy",
+          "date": "Thu, 01 Oct 2026 19:00:00 +0000"
+        },
+        {
+          "title": "arXiv receives Multiyear Philanthropic Commitments to Support Its Launch as an Independent Nonprofit",
+          "date": "Wed, 23 Sep 2026 17:00:00 +0000"
+        }
+      ],
+      "displayTitle": "News from arXiv",
+      "lastSampleDate": "Thu, 08 Oct 2026 17:30:00 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:39"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·学术网站项目",
+      "url": "https://info.orcid.org/feed/",
+      "checkedAt": "2026-10-13T13:35:22.015804+00:00",
+      "http": 200,
+      "finalUrl": "https://info.orcid.org/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "ORCID",
+      "entries": 50,
+      "sha256": "d2a9c5295d9da2d0d83724b8cb6d66b4224506d132a3f2eabd0293f2bea5e1f8",
+      "samples": [
+        {
+          "title": "Securing Priority and Expanding Reach: Key Takeaways from Our African Researcher Showcase",
+          "date": "Tue, 13 Oct 2026 13:05:43 +0000"
+        },
+        {
+          "title": "Connecting the Funding Lifecycle: How ProposalCentral and ORCID are Improving Modern Grant Operations—Plus Insights for GPF Applicants",
+          "date": "Tue, 06 Oct 2026 13:28:23 +0000"
+        },
+        {
+          "title": "Announcing the 2027 Board Slate",
+          "date": "Mon, 05 Oct 2026 14:18:34 +0000"
+        }
+      ],
+      "displayTitle": "ORCID",
+      "lastSampleDate": "Tue, 13 Oct 2026 13:05:43 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 50,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:57"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·学术网站项目",
+      "url": "https://blog.ourresearch.org/feed/",
+      "checkedAt": "2026-10-13T13:33:31.208773+00:00",
+      "http": 200,
+      "finalUrl": "https://blog.ourresearch.org/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "OpenAlex blog",
+      "entries": 10,
+      "sha256": "a7e582641f36fff3192927a078b372b67124ef8ab7fd6cfa12c0032cd6107102",
+      "samples": [
+        {
+          "title": "Same topics, better assignments: a new topic classifier for OpenAlex",
+          "date": "Wed, 07 Oct 2026 06:38:00 +0000"
+        },
+        {
+          "title": "OpenAlex’s SDG tags are now right 7 times in 10, up from 3",
+          "date": "Sun, 04 Oct 2026 21:00:59 +0000"
+        },
+        {
+          "title": "OpenAlex keywords are finally good",
+          "date": "Sat, 03 Oct 2026 06:21:19 +0000"
+        }
+      ],
+      "displayTitle": "OpenAlex blog",
+      "lastSampleDate": "Wed, 07 Oct 2026 06:38:00 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:40"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://quarto.org/docs/blog/index.xml",
+      "checkedAt": "2026-10-13T13:33:29.798192+00:00",
+      "http": 200,
+      "finalUrl": "https://opensource.posit.co/blog/index.xml",
+      "contentType": "application/xml",
+      "status": "verified",
+      "format": "rss",
+      "title": "Blog on Posit Open Source",
+      "entries": 20,
+      "sha256": "e00e2b04a57d6e055cb59e15fa9fa1a15c99b0db013944093bc05cc204f1e135",
+      "samples": [
+        {
+          "title": "rig 0.11.0 part two: R packages",
+          "date": "Mon, 12 Oct 2026 00:00:00 +0000"
+        },
+        {
+          "title": "Correct, transparent, and reproducible data agents",
+          "date": "Fri, 09 Oct 2026 00:00:00 +0000"
+        },
+        {
+          "title": "rig 0.11.0 part one: R installations",
+          "date": "Fri, 09 Oct 2026 00:00:00 +0000"
+        }
+      ],
+      "displayTitle": "Blog on Posit Open Source",
+      "lastSampleDate": "Mon, 12 Oct 2026 00:00:00 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:39"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://obsidian.md/feed.xml",
+      "checkedAt": "2026-10-13T13:33:30.174041+00:00",
+      "http": 200,
+      "finalUrl": "https://obsidian.md/feed.xml",
+      "contentType": "application/xml",
+      "status": "verified",
+      "format": "feed",
+      "title": "Obsidian Blog",
+      "entries": 43,
+      "sha256": "755ed5afcc858325c5c22f7ab9ec986fe0c5ead5f29f819f2ac565f0aeb9d22e",
+      "samples": [
+        {
+          "title": "Obsidian October 2026",
+          "date": "2026-10-01T00:00:00Z"
+        },
+        {
+          "title": "Obsidian Sync audits by Cure53 and Trail of Bits",
+          "date": "2026-05-13T00:00:00Z"
+        },
+        {
+          "title": "The future of Obsidian plugins",
+          "date": "2026-05-12T00:00:00Z"
+        }
+      ],
+      "displayTitle": "Obsidian Blog",
+      "lastSampleDate": "2026-10-01T00:00:00Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 43,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:37"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://www.zotero.org/blog/feed/",
+      "checkedAt": "2026-10-13T13:33:29.796953+00:00",
+      "http": 200,
+      "finalUrl": "https://www.zotero.org/blog/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Zotero",
+      "entries": 10,
+      "sha256": "8b9ed7f561b8f7ec368f08f950755ca437f9096a6085960bc742d16eb9aba816",
+      "samples": [
+        {
+          "title": "Read Aloud on iOS",
+          "date": "Mon, 05 Oct 2026 16:34:57 +0000"
+        },
+        {
+          "title": "Zotero 10",
+          "date": "Mon, 17 Aug 2026 17:45:26 +0000"
+        },
+        {
+          "title": "Zotero 9",
+          "date": "Fri, 10 Apr 2026 20:46:17 +0000"
+        }
+      ],
+      "displayTitle": "Zotero",
+      "lastSampleDate": "Mon, 05 Oct 2026 16:34:57 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:47"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/excalidraw/excalidraw/releases.atom",
+      "checkedAt": "2026-10-13T13:33:29.015977+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/excalidraw/excalidraw/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from excalidraw",
+      "entries": 10,
+      "sha256": "9f019672b3f6401f876236956c43cf5ea75d4ac9b76d438291e245848a869082",
+      "samples": [
+        {
+          "title": "v0.18.1",
+          "date": "2026-04-21T08:43:20Z"
+        },
+        {
+          "title": "v0.18.0 (2025-03-11)",
+          "date": "2025-03-11T21:58:21Z"
+        },
+        {
+          "title": "v0.17.6",
+          "date": "2024-04-17T19:57:47Z"
+        }
+      ],
+      "displayTitle": "excalidraw/excalidraw · 发布",
+      "lastSampleDate": "2026-04-21T08:43:20Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:47"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/jgm/pandoc/releases.atom",
+      "checkedAt": "2026-10-13T13:33:27.454773+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/jgm/pandoc/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from pandoc",
+      "entries": 10,
+      "sha256": "3815c9fba99bd0c9c0c774453fd964f44d9ad6d356cacedf22b816b30c3da588",
+      "samples": [
+        {
+          "title": "pandoc 3.12.1",
+          "date": "2026-10-08T01:48:41Z"
+        },
+        {
+          "title": "pandoc-cli-3.12.1",
+          "date": "2026-10-07T17:34:39Z"
+        },
+        {
+          "title": "pandoc 3.12",
+          "date": "2026-09-29T06:30:47Z"
+        }
+      ],
+      "displayTitle": "jgm/pandoc · 发布",
+      "lastSampleDate": "2026-10-08T01:48:41Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:47"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/jupyterlab/jupyterlab/releases.atom",
+      "checkedAt": "2026-10-13T13:33:28.187252+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/jupyterlab/jupyterlab/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from jupyterlab",
+      "entries": 10,
+      "sha256": "7e43838f7eac435eaf932e019b73ff2796e36e7397348200f51e5685b93aa553",
+      "samples": [
+        {
+          "title": "v4.7.0a2",
+          "date": "2026-09-21T17:15:04Z"
+        },
+        {
+          "title": "v4.6.4",
+          "date": "2026-09-21T15:43:37Z"
+        },
+        {
+          "title": "v4.5.11",
+          "date": "2026-09-21T16:31:27Z"
+        }
+      ],
+      "displayTitle": "jupyterlab/jupyterlab · 发布",
+      "lastSampleDate": "2026-09-21T17:15:04Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:30:54"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/logseq/logseq/releases.atom",
+      "checkedAt": "2026-10-13T13:33:28.695943+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/logseq/logseq/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from logseq",
+      "entries": 10,
+      "sha256": "bd6664fb1b24e9f0dd8d5840cd89603f037a2f93751200470f307b4f0b0eee19",
+      "samples": [
+        {
+          "title": "Desktop app Nightly Release 20261012",
+          "date": "2026-10-12T16:11:11Z"
+        },
+        {
+          "title": "Desktop APP 2.0.2 (Beta Testing)",
+          "date": "2026-10-07T14:42:41Z"
+        },
+        {
+          "title": "Desktop APP 2.0.1 (Beta Testing)",
+          "date": "2026-07-13T16:05:49Z"
+        }
+      ],
+      "displayTitle": "logseq/logseq · 发布",
+      "lastSampleDate": "2026-10-12T16:11:11Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:48"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://github.com/quarto-dev/quarto-cli/releases.atom",
+      "checkedAt": "2026-10-13T13:33:28.083771+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/quarto-dev/quarto-cli/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from quarto-cli",
+      "entries": 10,
+      "sha256": "753d1d9a9bf9f311c0d6575b796cf2e2034f47dd03c537a511d7c0ab03ef4a92",
+      "samples": [
+        {
+          "title": "v1.10.19",
+          "date": "2026-10-06T08:59:49Z"
+        },
+        {
+          "title": "v1.11.5",
+          "date": "2026-09-17T13:00:57Z"
+        },
+        {
+          "title": "v1.11.4",
+          "date": "2026-09-09T15:20:40Z"
+        }
+      ],
+      "displayTitle": "quarto-dev/quarto-cli · 发布",
+      "lastSampleDate": "2026-10-06T08:59:49Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:46"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://sspai.com/feed",
+      "checkedAt": "2026-10-13T13:33:31.098929+00:00",
+      "http": 200,
+      "finalUrl": "https://sspai.com/feed",
+      "contentType": "application/xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "少数派",
+      "entries": 10,
+      "sha256": "8fefa89d96b0e05e3c037d357293616e7548fe7db1cdcb344bc0945e2976d02d",
+      "samples": [
+        {
+          "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
+          "date": "Tue, 13 Oct 2026 17:00:00 +0800"
+        },
+        {
+          "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
+          "date": "Tue, 13 Oct 2026 15:00:00 +0800"
+        },
+        {
+          "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
+          "date": "Tue, 13 Oct 2026 11:30:05 +0800"
+        }
+      ],
+      "displayTitle": "少数派",
+      "lastSampleDate": "Tue, 13 Oct 2026 17:00:00 +0800",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:48"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "分享·开源工具项目",
+      "url": "https://www.ruanyifeng.com/blog/atom.xml",
+      "checkedAt": "2026-10-13T13:33:30.756863+00:00",
+      "http": 200,
+      "finalUrl": "https://www.ruanyifeng.com/blog/atom.xml",
+      "contentType": "application/xml",
+      "status": "verified",
+      "format": "feed",
+      "title": "阮一峰的网络日志",
+      "entries": 3,
+      "sha256": "c8496ed1557a36ab58387f85e48ad82922e3a89aaac86af5f98a768761f3b9b8",
+      "samples": [
+        {
+          "title": "科技爱好者周刊（第 414 期）：Jev 决策模型有什么用",
+          "date": "2026-10-08T15:04:46Z"
+        },
+        {
+          "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
+          "date": "2026-09-18T00:03:02Z"
+        },
+        {
+          "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
+          "date": "2026-09-11T00:11:50Z"
+        }
+      ],
+      "displayTitle": "阮一峰的网络日志",
+      "lastSampleDate": "2026-10-08T15:04:46Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 3,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:49"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "灵犀输入法·公开进展",
+      "url": "https://github.com/scholay/rimes/releases.atom",
+      "checkedAt": "2026-10-13T13:36:35.440798+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/scholay/rimes/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from rimes",
+      "entries": 10,
+      "sha256": "9e6b04625fe6c89669877dc90455f3260d1e94ac1cbc9e771defea3a9ce8f54b",
+      "samples": [
+        {
+          "title": "灵犀输入法 Windows 1.1.3",
+          "date": "2026-10-13T09:46:57Z"
+        },
+        {
+          "title": "灵犀输入法 1.1.3 · 全平台方案导入",
+          "date": "2026-10-13T11:35:22Z"
+        },
+        {
+          "title": "灵犀输入法 Android 1.1.3",
+          "date": "2026-10-13T09:30:36Z"
+        }
+      ],
+      "displayTitle": "scholay/rimes · 发布",
+      "lastSampleDate": "2026-10-13T09:46:57Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:49"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "灵犀输入法·公开进展",
+      "url": "https://github.com/scholay/rimes/commits/main.atom",
+      "checkedAt": "2026-10-13T13:36:35.440843+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/scholay/rimes/commits/main.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Recent Commits to rimes:main",
+      "entries": 20,
+      "sha256": "df7fab654a4e516ceecfbaa6a353b96f7f4e4ebf337b60fbe10a486e443f64a1",
+      "samples": [
+        {
+          "title": "fix(ios): reduce hidden keyboard work (#131)",
+          "date": "2026-10-13T11:32:22Z"
+        },
+        {
+          "title": "fix(ios): stop hidden keyboard rendering and animations",
+          "date": "2026-10-13T11:06:03Z"
+        },
+        {
+          "title": "Merge pull request #129 from scholay/codex/document-1.1.3-release",
+          "date": "2026-10-13T10:34:28Z"
+        }
+      ],
+      "displayTitle": "scholay/rimes · 提交",
+      "lastSampleDate": "2026-10-13T11:32:22Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 20,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:51"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/nginx/nginx/releases.atom",
+      "checkedAt": "2026-10-13T13:33:27.100992+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/nginx/nginx/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from nginx",
+      "entries": 10,
+      "sha256": "55c5ad80635084cd596f00cead81316256143cebfc731a16e67f64bfd38ff058",
+      "samples": [
+        {
+          "title": "release-1.31.6",
+          "date": "2026-09-15T15:34:19Z"
+        },
+        {
+          "title": "release-1.30.5",
+          "date": "2026-09-15T15:37:15Z"
+        },
+        {
+          "title": "release-1.31.5",
+          "date": "2026-09-21T15:08:25Z"
+        }
+      ],
+      "displayTitle": "nginx/nginx · 发布",
+      "lastSampleDate": "2026-09-15T15:34:19Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:51"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/nodejs/node/releases.atom",
+      "checkedAt": "2026-10-13T13:33:26.943409+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/nodejs/node/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from node",
+      "entries": 10,
+      "sha256": "42d990f2187ba248f581fbc5ef8905b4a4152564e1825a1ee2479448f24cb5a7",
+      "samples": [
+        {
+          "title": "2026-10-07, Version 26.11.1 (Current), @aduh95",
+          "date": "2026-10-07T23:55:23Z"
+        },
+        {
+          "title": "2026-10-07, Version 26.11.0 (Current), @aduh95",
+          "date": "2026-10-07T14:43:59Z"
+        },
+        {
+          "title": "2026-09-23, Version 22.23.3 'Jod' (LTS), @aduh95 prepared by @juanarbol",
+          "date": "2026-09-23T18:21:37Z"
+        }
+      ],
+      "displayTitle": "nodejs/node · 发布",
+      "lastSampleDate": "2026-10-07T23:55:23Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:45"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/tauri-apps/tauri/releases.atom",
+      "checkedAt": "2026-10-13T13:33:26.191273+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/tauri-apps/tauri/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from tauri",
+      "entries": 10,
+      "sha256": "8e61a9b0280f8caabe053f7f105aea978ade67447fee5f10ceb1a450cac31da6",
+      "samples": [
+        {
+          "title": "tauri v2.12.3",
+          "date": "2026-10-10T17:47:59Z"
+        },
+        {
+          "title": "tauri-macros v2.7.2",
+          "date": "2026-10-10T17:46:40Z"
+        },
+        {
+          "title": "tauri-macos-sign v2.4.1",
+          "date": "2026-10-10T17:44:38Z"
+        }
+      ],
+      "displayTitle": "tauri-apps/tauri · 发布",
+      "lastSampleDate": "2026-10-10T17:47:59Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:43"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/vercel/next.js/releases.atom",
+      "checkedAt": "2026-10-13T13:33:26.191864+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/vercel/next.js/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from next.js",
+      "entries": 10,
+      "sha256": "299be09a5ebc9382261fa2abc74cd217b44e9b2ea903865a2473494cb755a85f",
+      "samples": [
+        {
+          "title": "v16.5.0-canary.9",
+          "date": "2026-10-12T23:53:03Z"
+        },
+        {
+          "title": "v16.5.0-canary.8",
+          "date": "2026-10-10T23:47:51Z"
+        },
+        {
+          "title": "v16.5.0-canary.7",
+          "date": "2026-10-09T23:48:05Z"
+        }
+      ],
+      "displayTitle": "vercel/next.js · 发布",
+      "lastSampleDate": "2026-10-12T23:53:03Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:42"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/vitejs/vite/releases.atom",
+      "checkedAt": "2026-10-13T13:33:26.472274+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/vitejs/vite/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from vite",
+      "entries": 10,
+      "sha256": "95c50fe7f34e4ef18078e7d0adfdfd177edbf55d55991478e70ab7e795b98822",
+      "samples": [
+        {
+          "title": "v8.3.4",
+          "date": "2026-10-08T12:03:54Z"
+        },
+        {
+          "title": "v8.3.3",
+          "date": "2026-10-06T08:23:01Z"
+        },
+        {
+          "title": "v8.2.4",
+          "date": "2026-10-06T04:42:58Z"
+        }
+      ],
+      "displayTitle": "vitejs/vite · 发布",
+      "lastSampleDate": "2026-10-08T12:03:54Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:43"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "网站服务项目·上游动态",
+      "url": "https://github.com/withastro/astro/releases.atom",
+      "checkedAt": "2026-10-13T13:33:26.518014+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/withastro/astro/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from astro",
+      "entries": 10,
+      "sha256": "fcad30b5f6e61357802bf05da275fc181732317552e4f2761bec8691285e9fa6",
+      "samples": [
+        {
+          "title": "@astrojs/vercel@11.0.14",
+          "date": "2026-10-12T11:54:36Z"
+        },
+        {
+          "title": "create-astro@5.2.6",
+          "date": "2026-10-08T15:38:41Z"
+        },
+        {
+          "title": "@astrojs/vercel@11.0.13",
+          "date": "2026-10-08T15:38:53Z"
+        }
+      ],
+      "displayTitle": "withastro/astro · 发布",
+      "lastSampleDate": "2026-10-12T11:54:36Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:45"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "输入法项目·上游动态",
+      "url": "https://github.com/fcitx/fcitx5/releases.atom",
+      "checkedAt": "2026-10-13T13:33:25.891361+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/fcitx/fcitx5/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from fcitx5",
+      "entries": 10,
+      "sha256": "d24ea5bd44a270192fe7055e3e62318fcaae12b2c7e5663f231fda9b9fc0938e",
+      "samples": [
+        {
+          "title": "5.1.23",
+          "date": "2026-09-24T02:38:03Z"
+        },
+        {
+          "title": "5.1.22",
+          "date": "2026-09-06T02:39:51Z"
+        },
+        {
+          "title": "5.1.21",
+          "date": "2026-06-26T05:00:43Z"
+        }
+      ],
+      "displayTitle": "fcitx/fcitx5 · 发布",
+      "lastSampleDate": "2026-09-24T02:38:03Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:44"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "输入法项目·上游动态",
+      "url": "https://github.com/osfans/trime/releases.atom",
+      "checkedAt": "2026-10-13T13:33:25.539451+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/osfans/trime/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from trime",
+      "entries": 10,
+      "sha256": "506bab22cc497d2c41f96e38ecc8561c157fc0f3fbc0715a4b55dbeff1df7a84",
+      "samples": [
+        {
+          "title": "Nightly Build",
+          "date": "2026-10-12T16:18:06Z"
+        },
+        {
+          "title": "v3.3.12",
+          "date": "2026-09-01T13:05:50Z"
+        },
+        {
+          "title": "v3.3.11",
+          "date": "2026-07-01T15:12:28Z"
+        }
+      ],
+      "displayTitle": "osfans/trime · 发布",
+      "lastSampleDate": "2026-10-12T16:18:06Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:41"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "输入法项目·上游动态",
+      "url": "https://github.com/rime/librime/releases.atom",
+      "checkedAt": "2026-10-13T13:33:24.778602+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/librime/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from librime",
+      "entries": 10,
+      "sha256": "040e2d5d84968dac07d6a52244ed297806463a7e01d5e8c6116a10f6764e8409",
+      "samples": [
+        {
+          "title": "Nightly Build",
+          "date": "2026-10-01T13:00:43Z"
+        },
+        {
+          "title": "librime 1.17.0",
+          "date": "2026-06-06T03:33:02Z"
+        },
+        {
+          "title": "librime 1.16.1",
+          "date": "2026-01-20T00:43:26Z"
+        }
+      ],
+      "displayTitle": "rime/librime · 发布",
+      "lastSampleDate": "2026-10-01T13:00:43Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:45"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "输入法项目·上游动态",
+      "url": "https://github.com/rime/squirrel/releases.atom",
+      "checkedAt": "2026-10-13T13:33:24.905503+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/squirrel/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from squirrel",
+      "entries": 10,
+      "sha256": "c318398b85199a712f2fa70a80393e22fe669fc2185c9ae79089fc87ee650af6",
+      "samples": [
+        {
+          "title": "Nightly build",
+          "date": "2026-10-11T00:37:25Z"
+        },
+        {
+          "title": "1.1.2",
+          "date": "2026-01-14T01:34:33Z"
+        },
+        {
+          "title": "1.1.1",
+          "date": "2026-01-11T11:03:14Z"
+        }
+      ],
+      "displayTitle": "rime/squirrel · 发布",
+      "lastSampleDate": "2026-10-11T00:37:25Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:45"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "输入法项目·上游动态",
+      "url": "https://github.com/rime/weasel/releases.atom",
+      "checkedAt": "2026-10-13T13:33:25.423245+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/rime/weasel/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from weasel",
+      "entries": 10,
+      "sha256": "d6c7cd869bc1acd7c99a1ed2a3c264c28b58cc7760d1c55982d4e27952c86df1",
+      "samples": [
+        {
+          "title": "Nightly Build",
+          "date": "2026-10-12T09:50:53Z"
+        },
+        {
+          "title": "0.17.4",
+          "date": "2025-06-04T05:15:55Z"
+        },
+        {
+          "title": "0.17.3",
+          "date": "2025-05-24T06:24:29Z"
+        }
+      ],
+      "displayTitle": "rime/weasel · 发布",
+      "lastSampleDate": "2026-10-12T09:50:53Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:44"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "键盘项目·上游动态",
+      "url": "https://github.com/openstenoproject/plover/releases.atom",
+      "checkedAt": "2026-10-13T13:33:24.705195+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/opensteno/plover/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from plover",
+      "entries": 10,
+      "sha256": "414b362081fd167d1eb84b08d7c82adc720cab1f593c331e2caac55d45a1c88c",
+      "samples": [
+        {
+          "title": "v5.4.2",
+          "date": "2026-10-11T17:47:06Z"
+        },
+        {
+          "title": "v5.4.1",
+          "date": "2026-08-27T06:40:55Z"
+        },
+        {
+          "title": "v5.4.0",
+          "date": "2026-07-10T06:25:42Z"
+        }
+      ],
+      "displayTitle": "openstenoproject/plover · 发布",
+      "lastSampleDate": "2026-10-11T17:47:06Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:48"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "键盘项目·上游动态",
+      "url": "https://github.com/qmk/qmk_firmware/releases.atom",
+      "checkedAt": "2026-10-13T13:33:23.854759+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/qmk/qmk_firmware/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from qmk_firmware",
+      "entries": 10,
+      "sha256": "9d09124d623cb244b5b0b5bef42e9725bf8599c87eb954ce8398a96f7848fa1f",
+      "samples": [
+        {
+          "title": "0.34.6",
+          "date": "2026-09-30T15:42:14Z"
+        },
+        {
+          "title": "0.34.5",
+          "date": "2026-09-26T20:12:22Z"
+        },
+        {
+          "title": "0.34.4",
+          "date": "2026-09-05T16:30:51Z"
+        }
+      ],
+      "displayTitle": "qmk/qmk_firmware · 发布",
+      "lastSampleDate": "2026-09-30T15:42:14Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:46"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "键盘项目·上游动态",
+      "url": "https://github.com/vial-kb/vial-gui/releases.atom",
+      "checkedAt": "2026-10-13T13:33:23.911286+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/vial-kb/vial-gui/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from vial-gui",
+      "entries": 10,
+      "sha256": "04afa694892eb03c2375e5eb3762e50f6d759fb2f95f5f5c60c00c91ea2bac21",
+      "samples": [
+        {
+          "title": "v0.7.5",
+          "date": "2025-08-02T22:21:26Z"
+        },
+        {
+          "title": "v0.7.4",
+          "date": "2025-07-12T23:16:06Z"
+        },
+        {
+          "title": "v0.7.3",
+          "date": "2025-04-02T02:39:14Z"
+        }
+      ],
+      "displayTitle": "vial-kb/vial-gui · 发布",
+      "lastSampleDate": "2025-08-02T22:21:26Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:46"
+      }
+    },
+    {
+      "space": "personal",
+      "group": "键盘项目·上游动态",
+      "url": "https://github.com/zmkfirmware/zmk/releases.atom",
+      "checkedAt": "2026-10-13T13:33:23.911158+00:00",
+      "http": 200,
+      "finalUrl": "https://github.com/zmkfirmware/zmk/releases.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Release notes from zmk",
+      "entries": 7,
+      "sha256": "c18b29d11a66784e868be81525f9d3f499ec0edc304609b474810c48719861da",
+      "samples": [
+        {
+          "title": "v0.3.0",
+          "date": "2025-08-01T22:44:33Z"
+        },
+        {
+          "title": "v0.3",
+          "date": "2025-08-01T22:44:44Z"
+        },
+        {
+          "title": "v0.2.1",
+          "date": "2025-03-02T14:45:28Z"
+        }
+      ],
+      "displayTitle": "zmkfirmware/zmk · 发布",
+      "lastSampleDate": "2025-08-01T22:44:33Z",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 7,
+        "fetchError": null,
+        "fetchedAt": "2026-10-13 14:00:37"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "宠物资讯",
+      "url": "https://vethelpdirect.com/vetblog/feed/",
+      "checkedAt": "2026-10-13T13:33:48.410187+00:00",
+      "http": 200,
+      "finalUrl": "https://vethelpdirect.com/vetblog/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "All Posts – Vet Help Direct",
+      "entries": 10,
+      "sha256": "7b569fe21ae366d29d0d659f08f56308cdabecd6bbb5ea7ce9c58d51b88dc410",
+      "samples": [
+        {
+          "title": "Arthritis and meningitis in dogs – why do they seem to happen together?",
+          "date": "Mon, 12 Oct 2026 07:00:00 +0000"
+        },
+        {
+          "title": "Are Worm Egg Counts Good for Dogs?",
+          "date": "Fri, 09 Oct 2026 07:00:00 +0000"
+        },
+        {
+          "title": "Why does my cat dig their claws into me?",
+          "date": "Wed, 07 Oct 2026 07:00:00 +0000"
+        }
+      ],
+      "displayTitle": "All Posts – Vet Help Direct",
+      "lastSampleDate": "Mon, 12 Oct 2026 07:00:00 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:05:53"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "宠物资讯",
+      "url": "https://globalpetindustry.com/feed/",
+      "checkedAt": "2026-10-13T13:33:46.558864+00:00",
+      "http": 200,
+      "finalUrl": "https://globalpetindustry.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "GlobalPETS",
+      "entries": 10,
+      "sha256": "02459fe1c550780b789a7db5ca44576da0b09d5e9755915ff816a00306fb0a6b",
+      "samples": [
+        {
+          "title": "Gen Z to Boomers: How each generation is reshaping pet spending habits",
+          "date": "Tue, 13 Oct 2026 10:31:12 +0000"
+        },
+        {
+          "title": "Animal health companies expand into high-growth treatment markets",
+          "date": "Tue, 13 Oct 2026 09:21:05 +0000"
+        },
+        {
+          "title": "Postbiotics move beyond gut and digestive health",
+          "date": "Mon, 12 Oct 2026 09:36:20 +0000"
+        }
+      ],
+      "displayTitle": "GlobalPETS",
+      "lastSampleDate": "Tue, 13 Oct 2026 10:31:12 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:52:18.145921+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:48:33",
+        "refreshIntervalMin": null
+      },
+      "availabilityNote": "2026-10-14: fixed macOS Secure Transport TLS incompatibility using rustls with native certificate roots. Installed app fetched 10 articles and cleared its error; certificate validation remains enabled."
+    },
+    {
+      "space": "pets",
+      "group": "宠物资讯",
+      "url": "https://www.hepper.com/feed/",
+      "checkedAt": "2026-10-13T13:33:51.792314+00:00",
+      "http": 200,
+      "finalUrl": "https://www.hepper.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Hepper",
+      "entries": 10,
+      "sha256": "77efe21e7f5bde8824b7fe86508bc208c7304ec2f9f85ae79fe118e51703ad91",
+      "samples": [
+        {
+          "title": "SiiPet LitterLens Litter Box Camera Review 2026: Our Vet’s Expert Opinion",
+          "date": "Thu, 26 Feb 2026 11:25:11 +0000"
+        },
+        {
+          "title": "Why the SATELLAI Collar Might Be the Smartest Investment for Your Dog’s Safety",
+          "date": "Thu, 04 Dec 2025 12:54:42 +0000"
+        },
+        {
+          "title": "NATPAT Dog Training Aid Stickers Review 2025: The Easiest Way to Get Your Pup to Focus",
+          "date": "Wed, 09 Apr 2025 15:21:29 +0000"
+        }
+      ],
+      "displayTitle": "Hepper",
+      "lastSampleDate": "Thu, 26 Feb 2026 11:25:11 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:05:54"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "宠物资讯",
+      "url": "https://www.petfoodindustry.com/rss",
+      "checkedAt": "2026-10-13T13:33:46.265793+00:00",
+      "http": 200,
+      "finalUrl": "https://www.petfoodindustry.com/rss",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "PetfoodIndustry",
+      "entries": 10,
+      "sha256": "8b65f248e0305712bc476d0afaf1cd7f98d8393d330bf274d97ea213989a1ab1",
+      "samples": [
+        {
+          "title": "New formats push pet supplement innovation",
+          "date": "Sat, 10 Oct 2026 09:04:00 -0500"
+        },
+        {
+          "title": "Latin America’s pet food ingredients must strike a balance",
+          "date": "Fri, 09 Oct 2026 15:44:10 -0500"
+        },
+        {
+          "title": "US, UK pet owners differ in dog diet inquiries; US tops vegan interest",
+          "date": "Fri, 09 Oct 2026 10:44:11 -0500"
+        }
+      ],
+      "displayTitle": "PetfoodIndustry",
+      "lastSampleDate": "Sat, 10 Oct 2026 09:04:00 -0500",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 12,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:05:52"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "宠物赛事·展会·节日",
+      "url": "https://cfa.org/feed/",
+      "checkedAt": "2026-10-13T13:33:52.778416+00:00",
+      "http": 200,
+      "finalUrl": "https://cfa.org/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "The Cat Fanciers' Association",
+      "entries": 10,
+      "sha256": "b025d069cb1b067ae0d36c61fc0e34eb28442ecec991acfb197fe193ce3e713b",
+      "samples": [
+        {
+          "title": "Breed Assistance & Breed Rescue Program",
+          "date": "Thu, 01 Oct 2026 07:28:22 +0000"
+        },
+        {
+          "title": "Club Show Date Request",
+          "date": "Sun, 27 Sep 2026 07:20:39 +0000"
+        },
+        {
+          "title": "Judges Code of Ethics",
+          "date": "Sat, 02 May 2026 11:38:37 +0000"
+        }
+      ],
+      "displayTitle": "The Cat Fanciers' Association",
+      "lastSampleDate": "Thu, 01 Oct 2026 07:28:22 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:05:55"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "宠物赛事·展会·节日",
+      "url": "https://www.westminsterkennelclub.org/feed/",
+      "checkedAt": "2026-10-13T13:33:53.806103+00:00",
+      "http": 200,
+      "finalUrl": "https://www.westminsterkennelclub.org/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "The Westminster Kennel Club",
+      "entries": 10,
+      "sha256": "3f007cc2e854657da549dc8e16c8abd5f754a242a94e3038e2bb35e96d7c5300",
+      "samples": [
+        {
+          "title": "From Screen to Family: How to Choose the Right Breed for You",
+          "date": "Tue, 13 Oct 2026 04:35:05 +0000"
+        },
+        {
+          "title": "Meet the Dedicated Teams Behind the 2026 Westminster Breed Rescue Award Winners",
+          "date": "Fri, 11 Sep 2026 18:50:22 +0000"
+        },
+        {
+          "title": "2026 Veterinarian of the Year: Dr. Wayne Boillat",
+          "date": "Thu, 30 Jul 2026 15:08:38 +0000"
+        }
+      ],
+      "displayTitle": "The Westminster Kennel Club",
+      "lastSampleDate": "Tue, 13 Oct 2026 04:35:05 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:05:54"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "异宠大全",
+      "url": "https://www.aquariumcoop.com/blogs/aquarium.atom",
+      "checkedAt": "2026-10-13T13:33:51.378349+00:00",
+      "http": 200,
+      "finalUrl": "https://www.aquariumcoop.com/blogs/aquarium.atom",
+      "contentType": "application/atom+xml; charset=utf-8",
+      "status": "verified",
+      "format": "feed",
+      "title": "Aquarium Co-Op - Freshwater Aquarium Blog",
+      "entries": 30,
+      "sha256": "8878cd64c0fb852050350bf60ff4b357e1a1cef590b012bb20f48fbfbb8b017d",
+      "samples": [
+        {
+          "title": "Undergravel Filters: Classic Simple Filtration",
+          "date": "2026-08-01T07:07:28-07:00"
+        },
+        {
+          "title": "Selecting The Right Algae Eater For Your Aquarium",
+          "date": "2025-11-10T11:05:47-08:00"
+        },
+        {
+          "title": "Refresh Your Aquarium and Passion for the Hobby",
+          "date": "2025-10-29T09:24:41-07:00"
+        }
+      ],
+      "displayTitle": "Aquarium Co-Op - Freshwater Aquarium Blog",
+      "lastSampleDate": "2026-08-01T07:07:28-07:00",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 30,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:05:53"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "异宠大全",
+      "url": "https://www.exoticdirect.co.uk/feed/",
+      "checkedAt": "2026-10-13T13:33:52.364604+00:00",
+      "http": 200,
+      "finalUrl": "https://exoticdirect.co.uk/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "ExoticDirect",
+      "entries": 10,
+      "sha256": "2db5bdec1dfc296c0c3ef4068d88052f96f1273bcc614440693d8d5b61a6fa82",
+      "samples": [
+        {
+          "title": "Rabbit care guide: Celebrating International Rabbit Day",
+          "date": "Fri, 25 Sep 2026 13:01:11 +0000"
+        },
+        {
+          "title": "Common degu illnesses: Symptoms, causes, and prevention",
+          "date": "Fri, 18 Sep 2026 15:56:38 +0000"
+        },
+        {
+          "title": "A guide to sexing small pet mammals",
+          "date": "Thu, 10 Sep 2026 09:56:35 +0000"
+        }
+      ],
+      "displayTitle": "ExoticDirect",
+      "lastSampleDate": "Fri, 25 Sep 2026 13:01:11 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:05:58"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "异宠大全",
+      "url": "https://rabbit.org/feed/",
+      "checkedAt": "2026-10-13T13:33:50.356063+00:00",
+      "http": 200,
+      "finalUrl": "https://rabbit.org/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Rabbit.org",
+      "entries": 10,
+      "sha256": "25d41cadba067738698ea3e480c8c384bfe7e5006d17be939359b122c83e948c",
+      "samples": [
+        {
+          "title": "Scam Alert: Impersonators Requesting Payment",
+          "date": "Thu, 01 Oct 2026 22:03:47 +0000"
+        },
+        {
+          "title": "兔子不吃東西或不大便？腸胃停滯——沉默的殺手",
+          "date": "Tue, 15 Sep 2026 01:29:16 +0000"
+        },
+        {
+          "title": "兔子吃什麼？健康飲食、安全食物與餵食比例指南",
+          "date": "Tue, 15 Sep 2026 01:15:31 +0000"
+        }
+      ],
+      "displayTitle": "Rabbit.org",
+      "lastSampleDate": "Thu, 01 Oct 2026 22:03:47 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:05:57"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "异宠大全",
+      "url": "https://reptifiles.com/feed/",
+      "checkedAt": "2026-10-13T13:33:49.056508+00:00",
+      "http": 200,
+      "finalUrl": "https://reptifiles.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "ReptiFiles®",
+      "entries": 2,
+      "sha256": "112a41940baca313210eef777ce92e2270be53d0623d06239cfec02623bceb74",
+      "samples": [
+        {
+          "title": "Chronic Dehydration in Pet Reptiles: A Silent Threat",
+          "date": "Thu, 12 Feb 2026 23:18:13 +0000"
+        },
+        {
+          "title": "How Much Space Do Reptiles ACTUALLY Need?",
+          "date": "Thu, 22 Jan 2026 21:13:32 +0000"
+        }
+      ],
+      "displayTitle": "ReptiFiles®",
+      "lastSampleDate": "Thu, 12 Feb 2026 23:18:13 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:52:18.146107+00:00",
+        "imported": true,
+        "cachedArticles": 0,
+        "fetchError": "network error: HTTP status client error (404 Not Found) for url (https://reptifiles.com/feed)",
+        "fetchedAt": "2026-10-14 01:48:35",
+        "refreshIntervalMin": 525600
+      },
+      "availabilityNote": "Still 404. Original record retained; automatic refresh set to Never on 2026-10-14. Reptiles Magazine added independently as replacement coverage, alongside other exotic-pet sources."
+    },
+    {
+      "space": "pets",
+      "group": "每日一狗",
+      "url": "https://www.dogster.com/feed/",
+      "checkedAt": "2026-10-13T13:33:40.730076+00:00",
+      "http": 200,
+      "finalUrl": "https://www.dogster.com/rss.xml",
+      "contentType": "application/xml",
+      "status": "verified",
+      "format": "rss",
+      "title": "Dogster: Dog Care & Health Guides by Veterinarians & Experts",
+      "entries": 30,
+      "sha256": "05466b52fe15bf4abdf8bf1bf9d3d47dc44b184d214a5ee9b683fa489cfc576f",
+      "samples": [
+        {
+          "title": "Dogster’s Weekly Photo Contest Winners: Best Derp Face (October 12, 2026)",
+          "date": "Mon, 12 Oct 2026 17:10:22 GMT"
+        },
+        {
+          "title": "Thinking About Adopting A Dog? Here Are 5 Things To Ask Before Bringing Them Home",
+          "date": "Mon, 12 Oct 2026 16:34:05 GMT"
+        },
+        {
+          "title": "If Life With Dogs Were a Movie, These Would Be the Outtakes",
+          "date": "Thu, 08 Oct 2026 17:06:59 GMT"
+        }
+      ],
+      "displayTitle": "Dogster: Dog Care & Health Guides by Veterinarians & Experts",
+      "lastSampleDate": "Mon, 12 Oct 2026 17:10:22 GMT",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 31,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:05:56"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "每日一狗",
+      "url": "https://www.dogingtonpost.com/feed/",
+      "checkedAt": "2026-10-13T13:33:44.242179+00:00",
+      "http": 200,
+      "finalUrl": "https://www.dogingtonpost.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "The Dogington Post",
+      "entries": 12,
+      "sha256": "7655b55599325016d5d9d4447d586691254d6ba889b3b1c60e5c277760edd2d0",
+      "samples": [
+        {
+          "title": "Dog Welfare News: Updates and Insights for Responsible Owners",
+          "date": "Sat, 14 Feb 2026 06:30:48 +0000"
+        },
+        {
+          "title": "Best Dog Diets 2027: What to Feed Your Pup",
+          "date": "Fri, 13 Feb 2026 06:38:42 +0000"
+        },
+        {
+          "title": "Dog Rescue Success Stories: Incredible Journeys From Rescue to Home",
+          "date": "Thu, 12 Feb 2026 06:26:32 +0000"
+        }
+      ],
+      "displayTitle": "The Dogington Post",
+      "lastSampleDate": "Sat, 14 Feb 2026 06:30:48 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 12,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:05:55"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "每日一狗",
+      "url": "https://www.whole-dog-journal.com/feed/",
+      "checkedAt": "2026-10-13T13:33:42.287066+00:00",
+      "http": 200,
+      "finalUrl": "https://www.whole-dog-journal.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Whole Dog Journal",
+      "entries": 12,
+      "sha256": "3a60e87b9c533ab03b4bdb5f0f8bf48718aacd81d6929be7774b4f058aaa7410",
+      "samples": [
+        {
+          "title": "Dog Vaccines Explained: Core Shots, Boosters, and Titers",
+          "date": "Tue, 13 Oct 2026 13:30:08 +0000"
+        },
+        {
+          "title": "Why Does My Dog Keep Stretching?",
+          "date": "Tue, 13 Oct 2026 11:40:18 +0000"
+        },
+        {
+          "title": "How to Handle a Dog’s Diarrhea at Home",
+          "date": "Mon, 12 Oct 2026 20:35:35 +0000"
+        }
+      ],
+      "displayTitle": "Whole Dog Journal",
+      "lastSampleDate": "Tue, 13 Oct 2026 13:30:08 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 12,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:05:56"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "每日一猫",
+      "url": "https://cats.com/feed",
+      "checkedAt": "2026-10-13T13:33:38.317856+00:00",
+      "http": 200,
+      "finalUrl": "https://cats.com/feed",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Cats.com",
+      "entries": 10,
+      "sha256": "c75eadff9d99c0a32df0834978c59a9e720388d728ea2357d427458a5218dbba",
+      "samples": [
+        {
+          "title": "4 Best Cat Litter Disposal Systems We Tested",
+          "date": "Mon, 12 Oct 2026 11:10:38 +0000"
+        },
+        {
+          "title": "Spoiled Cat Food Review",
+          "date": "Sat, 10 Oct 2026 13:11:41 +0000"
+        },
+        {
+          "title": "Remy’s Kitchen Treats Review",
+          "date": "Thu, 08 Oct 2026 10:38:50 +0000"
+        }
+      ],
+      "displayTitle": "Cats.com",
+      "lastSampleDate": "Mon, 12 Oct 2026 11:10:38 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 10,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:05:56"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "每日一猫",
+      "url": "https://www.catster.com/feed/",
+      "checkedAt": "2026-10-13T13:33:36.533682+00:00",
+      "http": 200,
+      "finalUrl": "https://www.catster.com/rss.xml",
+      "contentType": "application/xml",
+      "status": "verified",
+      "format": "rss",
+      "title": "Catster: Cat Care & Health Guides by Veterinarians & Experts",
+      "entries": 30,
+      "sha256": "999bdabad7f42c66dbf1d030e81a1daf4708f649af1857cb78d4545661b02999",
+      "samples": [
+        {
+          "title": "Catster’s Weekly Photo Contest Winners: Too Cool to Care (October 12, 2026)",
+          "date": "Mon, 12 Oct 2026 17:31:58 GMT"
+        },
+        {
+          "title": "Thinking About Adopting A Cat? Here Are 4 Things To Ask Before Bringing Them Home",
+          "date": "Mon, 12 Oct 2026 16:51:08 GMT"
+        },
+        {
+          "title": "CatCon 2026 – Comic-Con for Cat People",
+          "date": "Fri, 09 Oct 2026 12:11:55 GMT"
+        }
+      ],
+      "displayTitle": "Catster: Cat Care & Health Guides by Veterinarians & Experts",
+      "lastSampleDate": "Mon, 12 Oct 2026 17:31:58 GMT",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 33,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:05:56"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "每日一猫",
+      "url": "https://www.lovemeow.com/feeds/feed.rss",
+      "checkedAt": "2026-10-13T13:33:38.478148+00:00",
+      "http": 200,
+      "finalUrl": "https://www.lovemeow.com/feeds/feed.rss",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "Love Meow",
+      "entries": 30,
+      "sha256": "008073ec62ba9974e57dda929b9687a223b4b6969e6f80ba0e269e19d9f1a11e",
+      "samples": [
+        {
+          "title": "A Rock Slide, a Bridge Ledge, and a Mother Carrying Three BB Pellets: Summer's Hardest Rescues",
+          "date": "Mon, 12 Oct 2026 17:41:01 +0000"
+        },
+        {
+          "title": "Kitten Crying Alone Inside NY Construction Site Started Purring the Second He Was Lifted Into Someone's Arms",
+          "date": "Fri, 09 Oct 2026 18:15:52 +0000"
+        },
+        {
+          "title": "Mama Cat and Her Five Kittens Gravely Ill Behind a Nail Salon Refused to Give Up, and Pulled Through Together",
+          "date": "Wed, 07 Oct 2026 20:07:29 +0000"
+        }
+      ],
+      "displayTitle": "Love Meow",
+      "lastSampleDate": "Mon, 12 Oct 2026 17:41:01 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 31,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:05:56"
+      }
+    },
+    {
+      "space": "pets",
+      "group": "每日一猫",
+      "url": "https://www.thepurringtonpost.com/feed/",
+      "checkedAt": "2026-10-13T13:33:38.780425+00:00",
+      "http": 200,
+      "finalUrl": "https://www.thepurringtonpost.com/feed/",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "status": "verified",
+      "format": "rss",
+      "title": "The Purrington Post",
+      "entries": 15,
+      "sha256": "86291a37c8b99efeb9dd60927df687a9a65cd7940c5f821509c34ccf2710e66f",
+      "samples": [
+        {
+          "title": "WIN a Signed Copy of ‘Your House, Their Rules’ -Your Guide To Being Owned By A Cat!",
+          "date": "Mon, 12 Jan 2026 15:40:27 +0000"
+        },
+        {
+          "title": "Meet Jonesy, TV’s Coolest Cat!",
+          "date": "Tue, 30 Dec 2025 16:51:22 +0000"
+        },
+        {
+          "title": "Sill Life: Portraits of Window Cats",
+          "date": "Sat, 24 May 2025 16:29:17 +0000"
+        }
+      ],
+      "displayTitle": "The Purrington Post",
+      "lastSampleDate": "Mon, 12 Jan 2026 15:40:27 +0000",
+      "clientCheck": {
+        "checkedAt": "2026-10-14T01:34:58.783232+00:00",
+        "imported": true,
+        "cachedArticles": 15,
+        "fetchError": null,
+        "fetchedAt": "2026-10-14 01:05:52"
+      }
+    }
+  ]
+}

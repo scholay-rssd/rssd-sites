@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>今日学术 · 100 个已验证扩增订阅</title>
+    <dateModified>2026-10-16T15:36:26.393080+00:00</dateModified>
+  </head>
+  <body>
+    <outline text="学界犀闻 · 扩增" title="学界犀闻 · 扩增">
+      <outline type="rss" text="DFG | Press Releases (engl.)" title="DFG | Press Releases (engl.)" xmlUrl="https://www.dfg.de/service/rss/en/324778/feed.rss" htmlUrl="https://www.dfg.de/en/service/324778-324778" />
+      <outline type="rss" text="JSTニュース｜トピックス" title="JSTニュース｜トピックス" xmlUrl="https://www.jst.go.jp/rss/topics.xml" htmlUrl="https://www.jst.go.jp/index.html" />
+      <outline type="rss" text="JSTニュース｜プレスリリース" title="JSTニュース｜プレスリリース" xmlUrl="https://www.jst.go.jp/rss/press.xml" htmlUrl="https://www.jst.go.jp/index.html" />
+      <outline type="rss" text="Mind &amp; Brain News -- ScienceDaily" title="Mind &amp; Brain News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain.xml" htmlUrl="https://www.sciencedaily.com/news/mind_brain/" />
+      <outline type="rss" text="NSF News" title="NSF News" xmlUrl="https://www.nsf.gov/rss/rss_www_news.xml" htmlUrl="https://www.nsf.gov/" />
+      <outline type="rss" text="Nature Communications" title="Nature Communications" xmlUrl="https://www.nature.com/ncomms.rss" htmlUrl="http://feeds.nature.com/ncomms/rss/current" />
+      <outline type="rss" text="News – UKRI" title="News – UKRI" xmlUrl="https://www.ukri.org/news/feed/" htmlUrl="https://www.ukri.org" />
+      <outline type="rss" text="Phys.org - latest science and technology news stories" title="Phys.org - latest science and technology news stories" xmlUrl="https://phys.org/rss-feed/" htmlUrl="https://phys.org/" />
+      <outline type="rss" text="Psychology Research News -- ScienceDaily" title="Psychology Research News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/psychology.xml" htmlUrl="https://www.sciencedaily.com/news/mind_brain/psychology/" />
+      <outline type="rss" text="SNF RSS Feed - News - EN" title="SNF RSS Feed - News - EN" xmlUrl="https://www.snf.ch/api/rss/en/news/feed.xml" htmlUrl="https://www.snf.ch" />
+      <outline type="rss" text="SNF RSS Feed - Press release - EN" title="SNF RSS Feed - Press release - EN" xmlUrl="https://www.snf.ch/api/rss/en/press/feed.xml" htmlUrl="https://www.snf.ch" />
+      <outline type="rss" text="ScienceDaily · 科学头条" title="ScienceDaily · 科学头条" xmlUrl="https://www.sciencedaily.com/rss/top.xml" htmlUrl="https://www.sciencedaily.com" />
+      <outline type="rss" text="Scientific Reports" title="Scientific Reports" xmlUrl="https://www.nature.com/srep.rss" htmlUrl="http://feeds.nature.com/srep/rss/current" />
+      <outline type="rss" text="Social Sciences News - Psychology, Sociology" title="Social Sciences News - Psychology, Sociology" xmlUrl="https://phys.org/rss-feed/science-news/social-sciences/" htmlUrl="https://phys.org/science-news/social-sciences/" />
+      <outline type="rss" text="cs.AI updates on arXiv.org" title="cs.AI updates on arXiv.org" xmlUrl="https://rss.arxiv.org/rss/cs.AI" htmlUrl="http://rss.arxiv.org/rss/cs.AI" />
+      <outline type="rss" text="cs.CL updates on arXiv.org" title="cs.CL updates on arXiv.org" xmlUrl="https://rss.arxiv.org/rss/cs.CL" htmlUrl="http://rss.arxiv.org/rss/cs.CL" />
+      <outline type="rss" text="cs.CV updates on arXiv.org" title="cs.CV updates on arXiv.org" xmlUrl="https://rss.arxiv.org/rss/cs.CV" htmlUrl="http://rss.arxiv.org/rss/cs.CV" />
+      <outline type="rss" text="cs.HC updates on arXiv.org" title="cs.HC updates on arXiv.org" xmlUrl="https://rss.arxiv.org/rss/cs.HC" htmlUrl="http://rss.arxiv.org/rss/cs.HC" />
+      <outline type="rss" text="cs.LG updates on arXiv.org" title="cs.LG updates on arXiv.org" xmlUrl="https://rss.arxiv.org/rss/cs.LG" htmlUrl="http://rss.arxiv.org/rss/cs.LG" />
+      <outline type="rss" text="cs.RO updates on arXiv.org" title="cs.RO updates on arXiv.org" xmlUrl="https://rss.arxiv.org/rss/cs.RO" htmlUrl="http://rss.arxiv.org/rss/cs.RO" />
+      <outline type="rss" text="econ updates on arXiv.org" title="econ updates on arXiv.org" xmlUrl="https://rss.arxiv.org/rss/econ" htmlUrl="http://rss.arxiv.org/rss/econ" />
+      <outline type="rss" text="math updates on arXiv.org" title="math updates on arXiv.org" xmlUrl="https://rss.arxiv.org/rss/math" htmlUrl="http://rss.arxiv.org/rss/math" />
+      <outline type="rss" text="q-bio.NC updates on arXiv.org" title="q-bio.NC updates on arXiv.org" xmlUrl="https://rss.arxiv.org/rss/q-bio.NC" htmlUrl="http://rss.arxiv.org/rss/q-bio.NC" />
+      <outline type="rss" text="stat updates on arXiv.org" title="stat updates on arXiv.org" xmlUrl="https://rss.arxiv.org/rss/stat" htmlUrl="http://rss.arxiv.org/rss/stat" />
+      <outline type="rss" text="stat.ML updates on arXiv.org" title="stat.ML updates on arXiv.org" xmlUrl="https://rss.arxiv.org/rss/stat.ML" htmlUrl="http://rss.arxiv.org/rss/stat.ML" />
+    </outline>
+    <outline text="学者观察 · 扩增" title="学者观察 · 扩增">
+      <outline type="rss" text="3ie Impact Evaluation" title="3ie Impact Evaluation" xmlUrl="https://www.3ieimpact.org/rss.xml" htmlUrl="https://www.3ieimpact.org/" />
+      <outline type="rss" text="Bayesian Spectacles" title="Bayesian Spectacles" xmlUrl="https://www.bayesianspectacles.org/feed/" htmlUrl="https://www.bayesianspectacles.org" />
+      <outline type="rss" text="Data School" title="Data School" xmlUrl="https://www.dataschool.io/rss/" htmlUrl="https://www.dataschool.io/" />
+      <outline type="rss" text="Dynamic Ecology" title="Dynamic Ecology" xmlUrl="https://dynamicecology.wordpress.com/feed/" htmlUrl="https://dynamicecology.wordpress.com" />
+      <outline type="rss" text="Editage Insights" title="Editage Insights" xmlUrl="https://www.editage.com/insights/feed" htmlUrl="https://www.editage.com/insights/" />
+      <outline type="rss" text="Galaxy Training!" title="Galaxy Training!" xmlUrl="https://training.galaxyproject.org/training-material/feed.xml" htmlUrl="https://training.galaxyproject.org/training-material/" />
+      <outline type="rss" text="LSE Higher Education" title="LSE Higher Education" xmlUrl="https://blogs.lse.ac.uk/highereducation/feed/" htmlUrl="https://blogs.lse.ac.uk/highereducation" />
+      <outline type="rss" text="LSE Impact" title="LSE Impact" xmlUrl="https://blogs.lse.ac.uk/impactofsocialsciences/feed/" htmlUrl="https://blogs.lse.ac.uk/impactofsocialsciences" />
+      <outline type="rss" text="Methods Blog" title="Methods Blog" xmlUrl="https://methodsblog.com/feed/" htmlUrl="https://methodsblog.com" />
+      <outline type="rss" text="Participatory Methods" title="Participatory Methods" xmlUrl="https://www.participatorymethods.org/feed/" htmlUrl="https://www.participatorymethods.org/" />
+      <outline type="rss" text="Programming Historian" title="Programming Historian" xmlUrl="https://programminghistorian.org/feed.xml" htmlUrl="https://programminghistorian.org" />
+      <outline type="rss" text="QualPage" title="QualPage" xmlUrl="https://qualpage.com/feed/" htmlUrl="https://qualpage.com" />
+      <outline type="rss" text="R-bloggers" title="R-bloggers" xmlUrl="https://www.r-bloggers.com/feed/" htmlUrl="https://www.r-bloggers.com" />
+      <outline type="rss" text="Research Design Review" title="Research Design Review" xmlUrl="https://researchdesignreview.com/feed/" htmlUrl="https://researchdesignreview.com" />
+      <outline type="rss" text="Research on Research Institute" title="Research on Research Institute" xmlUrl="https://researchonresearch.org/feed/" htmlUrl="https://researchonresearch.org" />
+      <outline type="rss" text="SAGE Research Methods Community" title="SAGE Research Methods Community" xmlUrl="https://researchmethodscommunity.sagepub.com/blog?format=rss" htmlUrl="https://researchmethodscommunity.sagepub.com/blog/" />
+      <outline type="rss" text="Small Pond Science" title="Small Pond Science" xmlUrl="https://smallpondscience.com/feed/" htmlUrl="https://smallpondscience.com" />
+      <outline type="rss" text="Social Science Space" title="Social Science Space" xmlUrl="https://www.socialsciencespace.com/feed/" htmlUrl="https://www.socialsciencespace.com" />
+      <outline type="rss" text="Sociological Images" title="Sociological Images" xmlUrl="https://thesocietypages.org/socimages/feed/" htmlUrl="https://thesocietypages.org/socimages" />
+      <outline type="rss" text="Statistical Horizons" title="Statistical Horizons" xmlUrl="https://statisticalhorizons.com/feed/" htmlUrl="https://statisticalhorizons.com/" />
+      <outline type="rss" text="Statistical Modeling, Causal Inference, and Social Science" title="Statistical Modeling, Causal Inference, and Social Science" xmlUrl="https://statmodeling.stat.columbia.edu/feed/" htmlUrl="https://statmodeling.stat.columbia.edu" />
+      <outline type="rss" text="Statology" title="Statology" xmlUrl="https://www.statology.org/feed/" htmlUrl="https://www.statology.org/" />
+      <outline type="rss" text="The Qualitative Report" title="The Qualitative Report" xmlUrl="https://nsuworks.nova.edu/tqr/recent.rss" htmlUrl="https://nsuworks.nova.edu/tqr" />
+      <outline type="rss" text="The Scholarly Kitchen" title="The Scholarly Kitchen" xmlUrl="https://scholarlykitchen.sspnet.org/feed/" htmlUrl="https://scholarlykitchen.sspnet.org/" />
+      <outline type="rss" text="The Stata Blog" title="The Stata Blog" xmlUrl="https://blog.stata.com/feed/" htmlUrl="https://blog.stata.com/" />
+    </outline>
+    <outline text="学术日历 · 扩增" title="学术日历 · 扩增">
+      <outline type="rss" text="Calenda - Appel à contribution" title="Calenda - Appel à contribution" xmlUrl="https://calenda.org/feed.php?type=40" htmlUrl="https://calenda.org/search?primary=ftype&amp;ftype=40" />
+      <outline type="rss" text="Calenda - Bourse, prix et emploi" title="Calenda - Bourse, prix et emploi" xmlUrl="https://calenda.org/feed.php?type=47" htmlUrl="https://calenda.org/search?primary=ftype&amp;ftype=47" />
+      <outline type="rss" text="Calenda - Colloque" title="Calenda - Colloque" xmlUrl="https://calenda.org/feed.php?type=41" htmlUrl="https://calenda.org/search?primary=ftype&amp;ftype=41" />
+      <outline type="rss" text="Calenda - Humanités numériques" title="Calenda - Humanités numériques" xmlUrl="https://calenda.org/feed.php?cat=298" htmlUrl="https://calenda.org/search?primary=fsubject&amp;fsubject=298" />
+      <outline type="rss" text="Calenda - Psychologie" title="Calenda - Psychologie" xmlUrl="https://calenda.org/feed.php?cat=266" htmlUrl="https://calenda.org/search?primary=fsubject&amp;fsubject=266" />
+      <outline type="rss" text="Calenda - Sciences cognitives" title="Calenda - Sciences cognitives" xmlUrl="https://calenda.org/feed.php?cat=263" htmlUrl="https://calenda.org/search?primary=fsubject&amp;fsubject=263" />
+      <outline type="rss" text="Calenda - Éducation" title="Calenda - Éducation" xmlUrl="https://calenda.org/feed.php?cat=283" htmlUrl="https://calenda.org/search?primary=fsubject&amp;fsubject=283" />
+      <outline type="rss" text="Calenda 暑期学校" title="Calenda 暑期学校" xmlUrl="https://calenda.org/feed.php?type=45" htmlUrl="https://calenda.org/search?primary=ftype&amp;ftype=45" />
+      <outline type="rss" text="Calenda 研讨会" title="Calenda 研讨会" xmlUrl="https://calenda.org/feed.php?type=42" htmlUrl="https://calenda.org/search?primary=ftype&amp;ftype=42" />
+      <outline type="rss" text="Calenda 讲座" title="Calenda 讲座" xmlUrl="https://calenda.org/feed.php?type=44" htmlUrl="https://calenda.org/search?primary=ftype&amp;ftype=44" />
+      <outline type="rss" text="Calls Swedish Research Council" title="Calls Swedish Research Council" xmlUrl="https://www.vr.se/4.4f3e672a18df2c1c2d21dbef/12.4f3e672a18df2c1c2d21dbff.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" htmlUrl="https://www.vr.se/english/applying-for-funding/calls-and-decisions/calls-as-rss-feed.html" />
+      <outline type="rss" text="DARIAH-EU: Events" title="DARIAH-EU: Events" xmlUrl="https://www.dariah.eu/feeds/events.xml" htmlUrl="https://www.dariah.eu/events" />
+      <outline type="rss" text="DFG | Informationen für die Wissenschaft" title="DFG | Informationen für die Wissenschaft" xmlUrl="https://www.dfg.de/service/rss/de/323556/feed.rss" htmlUrl="https://www.dfg.de/de/service/323556-323556" />
+      <outline type="rss" text="Events – UKRI" title="Events – UKRI" xmlUrl="https://www.ukri.org/events/feed/" htmlUrl="https://www.ukri.org" />
+      <outline type="rss" text="JSTニュース｜イベント情報" title="JSTニュース｜イベント情報" xmlUrl="https://www.jst.go.jp/rss/event.xml" htmlUrl="https://www.jst.go.jp/index.html" />
+      <outline type="rss" text="JSTニュース｜公募情報" title="JSTニュース｜公募情報" xmlUrl="https://www.jst.go.jp/rss/bosyu.xml" htmlUrl="https://www.jst.go.jp/index.html" />
+      <outline type="rss" text="NCRM · 即将举办的科研方法培训" title="NCRM · 即将举办的科研方法培训" xmlUrl="https://www.ncrm.ac.uk/training/rss/rss.php?id=0c06e0c1146738fc23461a5a45cdfc43" htmlUrl="https://www.ncrm.ac.uk/training/" />
+      <outline type="rss" text="NSF Events" title="NSF Events" xmlUrl="https://www.nsf.gov/rss/rss_www_events.xml" htmlUrl="https://www.nsf.gov/" />
+      <outline type="rss" text="NSF Upcoming Due Dates" title="NSF Upcoming Due Dates" xmlUrl="https://www.nsf.gov/rss/rss_www_funding-upcoming/rss.xml" htmlUrl="https://www.nsf.gov/funding/opportunities" />
+      <outline type="rss" text="Opportunities – UKRI" title="Opportunities – UKRI" xmlUrl="https://www.ukri.org/opportunity/feed/" htmlUrl="https://www.ukri.org" />
+      <outline type="rss" text="SNF RSS Feed - Call - EN" title="SNF RSS Feed - Call - EN" xmlUrl="https://www.snf.ch/api/rss/en/call/feed.xml" htmlUrl="https://www.snf.ch" />
+      <outline type="rss" text="Upcoming events in General Philosophy of Science - PhilEvents" title="Upcoming events in General Philosophy of Science - PhilEvents" xmlUrl="https://philevents.org/search/topic/637?format=rss" htmlUrl="https://philevents.org/search/topic/637" />
+      <outline type="rss" text="Upcoming events in Philosophy of Cognitive Science - PhilEvents" title="Upcoming events in Philosophy of Cognitive Science - PhilEvents" xmlUrl="https://philevents.org/search/topic/599?format=rss" htmlUrl="https://philevents.org/search/topic/599" />
+      <outline type="rss" text="Upcoming events in Philosophy of Computing and Information - PhilEvents" title="Upcoming events in Philosophy of Computing and Information - PhilEvents" xmlUrl="https://philevents.org/search/topic/635?format=rss" htmlUrl="https://philevents.org/search/topic/635" />
+      <outline type="rss" text="Upcoming events in Philosophy of Social Science - PhilEvents" title="Upcoming events in Philosophy of Social Science - PhilEvents" xmlUrl="https://philevents.org/search/topic/595?format=rss" htmlUrl="https://philevents.org/search/topic/595" />
+    </outline>
+    <outline text="学术资源 · 扩增" title="学术资源 · 扩增">
+      <outline type="rss" text="Center for Open Science · 开放科学博客" title="Center for Open Science · 开放科学博客" xmlUrl="https://www.cos.io/blog/rss.xml" htmlUrl="https://www.cos.io/blog" />
+      <outline type="rss" text="Blog on Posit Open Source" title="Blog on Posit Open Source" xmlUrl="https://quarto.org/docs/blog/index.xml" htmlUrl="https://opensource.posit.co/blog/" />
+      <outline type="rss" text="Blog on rOpenSci - open tools for open science" title="Blog on rOpenSci - open tools for open science" xmlUrl="https://ropensci.org/blog/index.xml" htmlUrl="https://ropensci.org/blog/" />
+      <outline type="rss" text="COST" title="COST" xmlUrl="https://www.cost.eu/feed/" htmlUrl="https://www.cost.eu/" />
+      <outline type="rss" text="DARIAH-EU: News" title="DARIAH-EU: News" xmlUrl="https://www.dariah.eu/feeds/news.xml" htmlUrl="https://www.dariah.eu/news" />
+      <outline type="rss" text="Digital Humanities Now" title="Digital Humanities Now" xmlUrl="https://digitalhumanitiesnow.org/feed/" htmlUrl="https://digitalhumanitiesnow.org" />
+      <outline type="rss" text="INOSC" title="INOSC" xmlUrl="https://osc-international.com/feed/" htmlUrl="https://osc-international.com" />
+      <outline type="rss" text="Invest in Open Infrastructure" title="Invest in Open Infrastructure" xmlUrl="https://investinopen.org/rss/" htmlUrl="https://investinopen.org" />
+      <outline type="rss" text="Jupyter Community Forum - Latest topics" title="Jupyter Community Forum - Latest topics" xmlUrl="https://discourse.jupyter.org/latest.rss" htmlUrl="https://discourse.jupyter.org/latest" />
+      <outline type="rss" text="OEGlobal" title="OEGlobal" xmlUrl="https://www.oeglobal.org/feed/" htmlUrl="https://www.oeglobal.org" />
+      <outline type="rss" text="Obsidian Blog" title="Obsidian Blog" xmlUrl="https://obsidian.md/feed.xml" htmlUrl="https://obsidian.md/" />
+      <outline type="rss" text="OpenRefine - Latest topics" title="OpenRefine - Latest topics" xmlUrl="https://forum.openrefine.org/latest.rss" htmlUrl="https://forum.openrefine.org/latest" />
+      <outline type="rss" text="excalidraw/excalidraw · 版本发布" title="excalidraw/excalidraw · 版本发布" xmlUrl="https://github.com/excalidraw/excalidraw/releases.atom" htmlUrl="https://github.com/excalidraw/excalidraw/releases" />
+      <outline type="rss" text="jupyterlab/jupyterlab · 版本发布" title="jupyterlab/jupyterlab · 版本发布" xmlUrl="https://github.com/jupyterlab/jupyterlab/releases.atom" htmlUrl="https://github.com/jupyterlab/jupyterlab/releases" />
+      <outline type="rss" text="logseq/logseq · 版本发布" title="logseq/logseq · 版本发布" xmlUrl="https://github.com/logseq/logseq/releases.atom" htmlUrl="https://github.com/logseq/logseq/releases" />
+      <outline type="rss" text="obsidianmd/obsidian-releases · 版本发布" title="obsidianmd/obsidian-releases · 版本发布" xmlUrl="https://github.com/obsidianmd/obsidian-releases/releases.atom" htmlUrl="https://github.com/obsidianmd/obsidian-releases/releases" />
+      <outline type="rss" text="jgm/pandoc · 版本发布" title="jgm/pandoc · 版本发布" xmlUrl="https://github.com/jgm/pandoc/releases.atom" htmlUrl="https://github.com/jgm/pandoc/releases" />
+      <outline type="rss" text="quarto-dev/quarto-cli · 版本发布" title="quarto-dev/quarto-cli · 版本发布" xmlUrl="https://github.com/quarto-dev/quarto-cli/releases.atom" htmlUrl="https://github.com/quarto-dev/quarto-cli/releases" />
+      <outline type="rss" text="zotero/zotero · 版本发布" title="zotero/zotero · 版本发布" xmlUrl="https://github.com/zotero/zotero/releases.atom" htmlUrl="https://github.com/zotero/zotero/releases" />
+      <outline type="rss" text="ReproducibiliTea" title="ReproducibiliTea" xmlUrl="https://reproducibilitea.org/feed.xml" htmlUrl="https://reproducibilitea.org/" />
+      <outline type="rss" text="SSHOPENCLOUD" title="SSHOPENCLOUD" xmlUrl="https://sshoc.eu/rss.xml" htmlUrl="https://sshoc.eu" />
+      <outline type="rss" text="Sciety" title="Sciety" xmlUrl="https://blog.sciety.org/rss/" htmlUrl="https://blog.sciety.org/" />
+      <outline type="rss" text="Upstream" title="Upstream" xmlUrl="https://upstream.force11.org/latest/rss/" htmlUrl="https://upstream.force11.org/" />
+      <outline type="rss" text="Zotero" title="Zotero" xmlUrl="http://feeds.feedburner.com/zotero/" htmlUrl="https://www.zotero.org/blog" />
+      <outline type="rss" text="rOpenSci - open tools for open science" title="rOpenSci - open tools for open science" xmlUrl="https://ropensci.org/index.xml" htmlUrl="https://ropensci.org/" />
+    </outline>
+  </body>
+</opml>
