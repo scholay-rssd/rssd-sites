@@ -8,7 +8,8 @@
       "description": "AI 时代的法律议题与前沿观察。",
       "includes": [
         "column-1"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "cases",
@@ -16,13 +17,15 @@
       "description": "围绕原始判决与事实的案例记录。",
       "includes": [
         "column-2"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "ip",
       "name": "知识产权",
       "description": "著作权、专利与技术创新。",
-      "includes": []
+      "includes": [],
+      "legacy": false
     },
     {
       "id": "regulations",
@@ -32,7 +35,8 @@
         "column-3",
         "column-4",
         "column-5"
-      ]
+      ],
+      "legacy": false
     }
   ],
   "hubs": [],

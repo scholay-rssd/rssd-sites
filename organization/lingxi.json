@@ -8,7 +8,8 @@
       "description": "安装、配置与日常输入实践。",
       "includes": [
         "column-2"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "development",
@@ -19,7 +20,8 @@
         "column-4",
         "column-5",
         "input-methods"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "input-schemes",
@@ -27,7 +29,8 @@
       "description": "方案介绍、在线试输入与 GitHub 下载。",
       "includes": [
         "column-3"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "input-skins",
@@ -35,7 +38,8 @@
       "description": "皮肤、键盘与输入界面设计。",
       "includes": [
         "custom-keyboards"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "input-methods",

@@ -4,11 +4,12 @@
   "sections": [
     {
       "id": "forums",
-      "name": "学术论坛",
+      "name": "学术社区",
       "description": "学术社区、论坛与讨论入口。",
       "includes": [
         "column-1"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "software",
@@ -17,13 +18,15 @@
       "includes": [
         "column-2",
         "column-3"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "search",
       "name": "学术检索",
       "description": "文献、数据与资料检索入口。",
-      "includes": []
+      "includes": [],
+      "legacy": false
     },
     {
       "id": "courses",
@@ -32,7 +35,8 @@
       "includes": [
         "column-4",
         "column-5"
-      ]
+      ],
+      "legacy": false
     }
   ],
   "hubs": [],

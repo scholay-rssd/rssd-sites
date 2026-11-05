@@ -4,19 +4,21 @@
   "sections": [
     {
       "id": "courses",
-      "name": "免费课程",
+      "name": "课程学习",
       "description": "AI 学习课程与连续学习指南。",
       "includes": [
         "column-1"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "models",
-      "name": "模型排行",
+      "name": "模型前沿",
       "description": "带评价依据和更新日期的模型比较。",
       "includes": [
         "column-2"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "offers",
@@ -25,7 +27,8 @@
       "includes": [
         "column-3",
         "column-4"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "certificates",
@@ -33,7 +36,8 @@
       "description": "证书课程、颁发机构与获取条件。",
       "includes": [
         "column-5"
-      ]
+      ],
+      "legacy": false
     }
   ],
   "hubs": [],

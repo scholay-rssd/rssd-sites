@@ -8,7 +8,8 @@
       "description": "作品与角色系列，以及持续的创作记录。",
       "includes": [
         "column-2"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "design-news",
@@ -18,19 +19,22 @@
         "column-1",
         "column-4",
         "column-5"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "icons",
       "name": "精美图标",
       "description": "图标作品、素材与使用说明。",
-      "includes": []
+      "includes": [],
+      "legacy": false
     },
     {
       "id": "web-design",
       "name": "网页设计",
       "description": "网页作品、界面与交互实践。",
-      "includes": []
+      "includes": [],
+      "legacy": false
     },
     {
       "id": "column-1",

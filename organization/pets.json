@@ -11,19 +11,22 @@
         "column-2",
         "column-4",
         "column-5"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "daily-cat",
       "name": "每日一猫",
       "description": "猫的知识、观察与故事。",
-      "includes": []
+      "includes": [],
+      "legacy": false
     },
     {
       "id": "daily-dog",
       "name": "每日一狗",
       "description": "狗的知识、观察与故事。",
-      "includes": []
+      "includes": [],
+      "legacy": false
     },
     {
       "id": "exotic-pets",
@@ -31,7 +34,8 @@
       "description": "异宠知识与资料。",
       "includes": [
         "column-3"
-      ]
+      ],
+      "legacy": false
     }
   ],
   "hubs": [],
