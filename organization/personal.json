@@ -14,7 +14,8 @@
         "academic-sites",
         "column-3",
         "column-5"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "product-news",
@@ -23,7 +24,8 @@
       "includes": [
         "column-1",
         "column-4"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "reflections",
@@ -31,13 +33,15 @@
       "description": "产品实践、观察与复盘。",
       "includes": [
         "column-2"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "academic-notes",
       "name": "学术札记",
       "description": "研究过程与学习记录。",
-      "includes": []
+      "includes": [],
+      "legacy": false
     },
     {
       "id": "keyboard-projects",

@@ -10,7 +10,8 @@
         "column-1",
         "column-3",
         "column-5"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "statistics",
@@ -18,7 +19,8 @@
       "description": "统计思维、分析与解释。",
       "includes": [
         "column-2"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "experiments",
@@ -26,13 +28,15 @@
       "description": "实验设计、执行与复现。",
       "includes": [
         "column-4"
-      ]
+      ],
+      "legacy": false
     },
     {
       "id": "frontiers",
       "name": "方法前沿",
       "description": "研究方法的新进展与讨论。",
-      "includes": []
+      "includes": [],
+      "legacy": false
     }
   ],
   "hubs": [],
