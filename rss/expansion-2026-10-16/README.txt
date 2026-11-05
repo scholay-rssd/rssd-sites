@@ -37,7 +37,7 @@ today 本地 RSS 扩增完成记录
 
 数据保护：十个数据库的完整性及外键检查通过；原有 feeds、folders、articles、settings、library_archived_feeds 的旧行逐项摘要一致，阅读/收藏/稍后读记录包含在核验内；工作空间注册表未改变。
 导入前备份：C:\开发\.backups\today-rss-20261016\232711
-本地客户端数据：C:\Users\young\AppData\Roaming\com.thomas.papr
+本地客户端数据：%APPDATA%\com.thomas.papr
 
 可重复导入的清单目录：C:\开发\today\sites\rss\expansion-2026-10-16
 每个空间对应一个 <spaceId>.opml；catalog.json 含分类、源地址、发现依据、样本文字、检查时间和本地抓取结果；verification.json 含数量与保全核验。
