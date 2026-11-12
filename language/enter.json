@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "siteId": "enter",
+  "locales": {
+    "en": {
+      "name": "Academic Gateway",
+      "slogan": "A scholar’s guide to life in the intelligent age.",
+      "author": "Academic Gateway",
+      "sections": {
+        "forums": "Academic Communities",
+        "software": "Software and Websites",
+        "search": "Academic Search",
+        "courses": "Courses"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "siteId": "legis",
+  "locales": {
+    "en": {
+      "name": "Xishu Legal",
+      "slogan": "Law is the art of the rules of the game.",
+      "author": "Xishu Legal",
+      "sections": {
+        "frontiers": "Legal Frontiers",
+        "cases": "Cases",
+        "ip": "Intellectual Property",
+        "regulations": "Policy and Regulation"
+      }
+    }
+  }
+}
