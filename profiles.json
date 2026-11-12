@@ -319,7 +319,7 @@
           "enabled": false
         },
         "gallery": {
-          "enabled": true,
+          "enabled": false,
           "columns": 4
         },
         "graph": {
