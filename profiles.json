@@ -2,7 +2,7 @@
   {
     "id": "scholay-today",
     "spaceId": "academic",
-    "name": "今日学术",
+    "name": "Today",
     "languages": [
       "zh-CN",
       "en"
@@ -83,19 +83,15 @@
     },
     "navigation": [
       {
-        "id": "home",
-        "label": "首页",
-        "href": "/",
-        "view": "home"
-      },
-      {
         "id": "year",
         "label": "今日学术",
         "href": "/#/year",
         "view": "calendar",
+        "group": "section",
         "match": [
           "/#/year",
-          "/calendar/"
+          "/calendar/",
+          "/archive/calendar/"
         ]
       },
       {
@@ -103,16 +99,33 @@
         "label": "昔日学术",
         "href": "/#/history",
         "view": "calendar",
+        "group": "section",
         "match": [
           "/#/history",
-          "/history/"
+          "/history/",
+          "/archive/history/"
         ]
       },
       {
+        "id": "section-briefings",
+        "label": "学界犀闻",
+        "href": "/archive/briefings/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-observations",
+        "label": "学者观察",
+        "href": "/archive/observations/",
+        "view": "section",
+        "group": "section"
+      },
+      {
         "id": "feed",
-        "label": "学术新闻",
+        "label": "全部文章",
         "href": "/archive/",
         "view": "feed",
+        "group": "entrance",
         "match": [
           "/archive/",
           "/news/",
@@ -125,7 +138,15 @@
         "label": "留言板",
         "href": "/guestbook/",
         "view": "page",
-        "service": "guestbook"
+        "service": "guestbook",
+        "group": "entrance"
+      },
+      {
+        "id": "about",
+        "label": "关于",
+        "href": "/about/",
+        "view": "about",
+        "group": "entrance"
       }
     ]
   },
