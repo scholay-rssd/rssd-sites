@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "siteId": "personal",
+  "locales": {
+    "en": {
+      "name": "Xueshuhai",
+      "slogan": "Learning has no shore; let principle steer the craft.",
+      "author": "Xueshuhai",
+      "sections": {
+        "works": "Works",
+        "product-news": "Product News",
+        "reflections": "Product Reflections",
+        "academic-notes": "Academic Notes"
+      }
+    }
+  }
+}

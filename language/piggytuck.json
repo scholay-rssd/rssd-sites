@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "siteId": "piggytuck",
+  "locales": {
+    "en": {
+      "name": "Piggytuck",
+      "slogan": "Welcome to my design planet.",
+      "author": "Piggytuck",
+      "sections": {
+        "works": "Works",
+        "design-news": "Design News",
+        "icons": "Icons",
+        "web-design": "Web Design"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "siteId": "pets",
+  "locales": {
+    "en": {
+      "name": "Piggytuck Pets",
+      "slogan": "Welcome to my pet planet.",
+      "author": "Piggytuck Pets",
+      "sections": {
+        "pet-news": "Pet News",
+        "daily-cat": "Cat of the Day",
+        "daily-dog": "Dog of the Day",
+        "exotic-pets": "Exotic Pets"
+      }
+    }
+  }
+}

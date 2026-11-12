@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "siteId": "xsiching",
+  "locales": {
+    "en": {
+      "name": "Xishu Chinese Classics",
+      "slogan": "Insight in mind, craft in words.",
+      "author": "Xishu Chinese Classics",
+      "sections": {
+        "classics": "Classics",
+        "interpretations": "Yijing Interpretations",
+        "applications": "Selected Apps",
+        "courses": "Courses"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "siteId": "study",
+  "locales": {
+    "en": {
+      "name": "Intelligent Academy",
+      "slogan": "Your own academy for the intelligent age.",
+      "author": "Intelligent Academy",
+      "sections": {
+        "courses": "Courses",
+        "models": "Model Frontiers",
+        "offers": "Deals and Free Credits",
+        "certificates": "Certificates"
+      }
+    }
+  }
+}

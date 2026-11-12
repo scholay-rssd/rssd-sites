@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "siteId": "scholay-today",
+  "locales": {
+    "en": {
+      "name": "Scholay Today",
+      "slogan": "Make steady progress, one step a day.",
+      "author": "Scholay Editorial",
+      "sections": {
+        "calendar": "Today in Academia",
+        "history": "This Day in Academic History",
+        "briefings": "Academic Briefings",
+        "observations": "Scholar Observations",
+        "resources": "Academic Resources",
+        "open-source": "Open-Source Scholarship",
+        "collaboration": "Collaboration",
+        "courses": "Courses",
+        "intelligence": "Academic Intelligence"
+      }
+    }
+  }
+}

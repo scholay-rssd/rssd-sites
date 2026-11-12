@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "siteId": "xsime",
+  "locales": {
+    "en": {
+      "name": "Xishu IME",
+      "slogan": "Insight in mind, craft at the keys.",
+      "author": "Xishu IME",
+      "sections": {
+        "tutorials": "Tutorials",
+        "development": "Development Log",
+        "input-schemes": "Input Schemes",
+        "input-skins": "Skins"
+      }
+    }
+  }
+}

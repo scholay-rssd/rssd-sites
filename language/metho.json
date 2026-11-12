@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "siteId": "metho",
+  "locales": {
+    "en": {
+      "name": "Metho · Research Methods",
+      "slogan": "Rituals can be copied. Understanding cannot be faked.",
+      "author": "Metho",
+      "sections": {
+        "methods": "Methods Encyclopedia",
+        "statistics": "The Beauty of Statistics",
+        "experiments": "Experiment Planet",
+        "frontiers": "Methods Frontiers"
+      }
+    }
+  }
+}
