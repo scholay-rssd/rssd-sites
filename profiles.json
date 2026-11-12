@@ -199,22 +199,39 @@
     ],
     "navigation": [
       {
-        "id": "home",
-        "label": "首页",
-        "href": "/",
-        "view": "home"
+        "id": "section-tutorials",
+        "label": "使用教程",
+        "href": "/archive/tutorials/",
+        "view": "section",
+        "group": "section"
       },
       {
-        "id": "product",
-        "label": "产品介绍",
-        "href": "/projects/xsime/",
-        "view": "page"
+        "id": "section-development",
+        "label": "开发日志",
+        "href": "/archive/development/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-input-schemes",
+        "label": "输入方案",
+        "href": "/archive/input-schemes/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-input-skins",
+        "label": "外观设计",
+        "href": "/archive/input-skins/",
+        "view": "section",
+        "group": "section"
       },
       {
         "id": "feed",
-        "label": "使用与记录",
+        "label": "全部文章",
         "href": "/archive/",
         "view": "feed",
+        "group": "entrance",
         "match": [
           "/archive/",
           "/news/",
@@ -223,18 +240,19 @@
         ]
       },
       {
-        "id": "roadmap",
-        "label": "路线图",
-        "href": "/roadmap/",
-        "view": "roadmap",
-        "module": "roadmap"
-      },
-      {
         "id": "guestbook",
         "label": "留言板",
         "href": "/guestbook/",
         "view": "page",
-        "service": "guestbook"
+        "service": "guestbook",
+        "group": "entrance"
+      },
+      {
+        "id": "about",
+        "label": "关于",
+        "href": "/about/",
+        "view": "about",
+        "group": "entrance"
       }
     ],
     "languages": [
@@ -287,7 +305,7 @@
           "enabled": false
         },
         "showcase": {
-          "enabled": true
+          "enabled": false
         },
         "roadmap": {
           "enabled": false
@@ -309,29 +327,43 @@
     },
     "navigation": [
       {
-        "id": "home",
-        "label": "首页",
-        "href": "/",
-        "view": "home"
+        "id": "section-design-news",
+        "label": "设计资讯",
+        "href": "/archive/design-news/",
+        "view": "section",
+        "group": "section"
       },
       {
-        "id": "works",
+        "id": "section-web-design",
+        "label": "网页设计",
+        "href": "/archive/web-design/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-works",
         "label": "作品系列",
         "href": "/works/",
-        "view": "projects"
+        "view": "section",
+        "group": "section",
+        "match": [
+          "/works/",
+          "/archive/works/"
+        ]
       },
       {
-        "id": "gallery",
-        "label": "表情图库",
-        "href": "/gallery/",
-        "view": "gallery",
-        "module": "gallery"
+        "id": "section-icons",
+        "label": "精美图标",
+        "href": "/archive/icons/",
+        "view": "section",
+        "group": "section"
       },
       {
         "id": "feed",
-        "label": "设计手记",
+        "label": "全部文章",
         "href": "/archive/",
         "view": "feed",
+        "group": "entrance",
         "match": [
           "/archive/",
           "/news/",
@@ -340,10 +372,19 @@
         ]
       },
       {
+        "id": "guestbook",
+        "label": "留言板",
+        "href": "/guestbook/",
+        "view": "page",
+        "service": "guestbook",
+        "group": "entrance"
+      },
+      {
         "id": "about",
         "label": "关于",
-        "href": "/#about",
-        "view": "page"
+        "href": "/about/",
+        "view": "about",
+        "group": "entrance"
       }
     ],
     "languages": [
@@ -418,73 +459,108 @@
     },
     "navigation": [
       {
-        "id": "home",
-        "label": "首页",
-        "href": "/",
-        "view": "home",
+        "id": "section-works",
+        "label": "作品系列",
+        "href": "/archive/works/",
+        "view": "section",
+        "group": "section",
         "localize": true,
         "labels": {
-          "en": "Home",
-          "ja": "ホーム",
-          "fr": "Accueil",
-          "es": "Inicio"
+          "en": "Works",
+          "ja": "作品",
+          "fr": "Œuvres",
+          "es": "Obras"
         }
       },
       {
-        "id": "projects",
-        "label": "项目",
-        "href": "/projects/",
-        "view": "projects",
+        "id": "section-product-news",
+        "label": "产品资讯",
+        "href": "/archive/product-news/",
+        "view": "section",
+        "group": "section",
         "localize": true,
         "labels": {
-          "en": "Projects",
-          "ja": "プロジェクト",
-          "fr": "Projets",
-          "es": "Proyectos"
+          "en": "Product news",
+          "ja": "プロダクト情報",
+          "fr": "Actualités produit",
+          "es": "Noticias de producto"
+        }
+      },
+      {
+        "id": "section-reflections",
+        "label": "产品随想",
+        "href": "/archive/reflections/",
+        "view": "section",
+        "group": "section",
+        "localize": true,
+        "labels": {
+          "en": "Product notes",
+          "ja": "プロダクト随想",
+          "fr": "Réflexions produit",
+          "es": "Reflexiones de producto"
+        }
+      },
+      {
+        "id": "section-academic-notes",
+        "label": "学术札记",
+        "href": "/archive/academic-notes/",
+        "view": "section",
+        "group": "section",
+        "localize": true,
+        "labels": {
+          "en": "Academic notes",
+          "ja": "学術ノート",
+          "fr": "Notes académiques",
+          "es": "Notas académicas"
         }
       },
       {
         "id": "feed",
-        "label": "手记",
+        "label": "全部文章",
         "href": "/archive/",
         "view": "feed",
+        "group": "entrance",
         "match": [
           "/archive/",
           "/news/",
           "/journal/",
           "/project-notes/"
         ],
+        "localize": true,
         "labels": {
-          "en": "Journal",
-          "ja": "手記",
-          "fr": "Carnet",
-          "es": "Diario"
+          "en": "All articles",
+          "ja": "すべての記事",
+          "fr": "Tous les articles",
+          "es": "Todos los artículos"
+        }
+      },
+      {
+        "id": "guestbook",
+        "label": "留言板",
+        "href": "/guestbook/",
+        "view": "page",
+        "service": "guestbook",
+        "group": "entrance",
+        "localize": true,
+        "labels": {
+          "en": "Guestbook",
+          "ja": "掲示板",
+          "fr": "Livre d'or",
+          "es": "Libro de visitas"
         }
       },
       {
         "id": "about",
         "label": "关于",
-        "href": "/#about",
-        "view": "page",
+        "href": "/about/",
+        "view": "about",
+        "group": "entrance",
         "localize": true,
         "labels": {
           "en": "About",
           "ja": "自己紹介",
           "fr": "À propos",
           "es": "Sobre mí"
-        }
-      },
-      {
-        "id": "connect",
-        "label": "找到我",
-        "href": "/#connect",
-        "view": "page",
-        "localize": true,
-        "labels": {
-          "en": "Connect",
-          "ja": "つながる",
-          "fr": "Contact",
-          "es": "Contacto"
         }
       }
     ],
@@ -535,10 +611,10 @@
           "columns": 4
         },
         "graph": {
-          "enabled": true
+          "enabled": false
         },
         "showcase": {
-          "enabled": true
+          "enabled": false
         },
         "roadmap": {
           "enabled": false
@@ -560,16 +636,39 @@
     },
     "navigation": [
       {
-        "id": "home",
-        "label": "首页",
-        "href": "/",
-        "view": "home"
+        "id": "section-pet-news",
+        "label": "宠物资讯",
+        "href": "/archive/pet-news/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-daily-cat",
+        "label": "每日一猫",
+        "href": "/archive/daily-cat/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-daily-dog",
+        "label": "每日一狗",
+        "href": "/archive/daily-dog/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-exotic-pets",
+        "label": "异宠大全",
+        "href": "/archive/exotic-pets/",
+        "view": "section",
+        "group": "section"
       },
       {
         "id": "feed",
-        "label": "萌宠手记",
+        "label": "全部文章",
         "href": "/archive/",
         "view": "feed",
+        "group": "entrance",
         "match": [
           "/archive/",
           "/news/",
@@ -578,18 +677,19 @@
         ]
       },
       {
-        "id": "showcase",
-        "label": "内容橱窗",
-        "href": "/showcase/",
-        "view": "showcase",
-        "module": "showcase"
+        "id": "guestbook",
+        "label": "留言板",
+        "href": "/guestbook/",
+        "view": "page",
+        "service": "guestbook",
+        "group": "entrance"
       },
       {
-        "id": "graph",
-        "label": "知识关系图",
-        "href": "/graph/",
-        "view": "graph",
-        "module": "graph"
+        "id": "about",
+        "label": "关于",
+        "href": "/about/",
+        "view": "about",
+        "group": "entrance"
       }
     ],
     "languages": [
@@ -666,22 +766,60 @@
     },
     "navigation": [
       {
-        "id": "home",
-        "label": "首页",
-        "href": "/",
-        "view": "home"
+        "id": "section-frontiers",
+        "label": "法律前沿",
+        "href": "/archive/frontiers/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-cases",
+        "label": "法律案例",
+        "href": "/archive/cases/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-ip",
+        "label": "知识产权",
+        "href": "/archive/ip/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-regulations",
+        "label": "政策法规",
+        "href": "/archive/regulations/",
+        "view": "section",
+        "group": "section"
       },
       {
         "id": "feed",
-        "label": "法律文章",
+        "label": "全部文章",
         "href": "/archive/",
         "view": "feed",
+        "group": "entrance",
         "match": [
           "/archive/",
           "/news/",
           "/journal/",
           "/project-notes/"
         ]
+      },
+      {
+        "id": "guestbook",
+        "label": "留言板",
+        "href": "/guestbook/",
+        "view": "page",
+        "service": "guestbook",
+        "group": "entrance"
+      },
+      {
+        "id": "about",
+        "label": "关于",
+        "href": "/about/",
+        "view": "about",
+        "group": "entrance"
       }
     ]
   },
@@ -745,7 +883,7 @@
           "enabled": false
         },
         "showcase": {
-          "enabled": true
+          "enabled": false
         },
         "roadmap": {
           "enabled": false
@@ -754,16 +892,39 @@
     },
     "navigation": [
       {
-        "id": "home",
-        "label": "首页",
-        "href": "/",
-        "view": "home"
+        "id": "section-methods",
+        "label": "方法百科",
+        "href": "/archive/methods/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-statistics",
+        "label": "统计之美",
+        "href": "/archive/statistics/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-experiments",
+        "label": "实验星球",
+        "href": "/archive/experiments/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-frontiers",
+        "label": "方法前沿",
+        "href": "/archive/frontiers/",
+        "view": "section",
+        "group": "section"
       },
       {
         "id": "feed",
-        "label": "方法文章",
+        "label": "全部文章",
         "href": "/archive/",
         "view": "feed",
+        "group": "entrance",
         "match": [
           "/archive/",
           "/news/",
@@ -772,11 +933,19 @@
         ]
       },
       {
-        "id": "showcase",
-        "label": "内容橱窗",
-        "href": "/showcase/",
-        "view": "showcase",
-        "module": "showcase"
+        "id": "guestbook",
+        "label": "留言板",
+        "href": "/guestbook/",
+        "view": "page",
+        "service": "guestbook",
+        "group": "entrance"
+      },
+      {
+        "id": "about",
+        "label": "关于",
+        "href": "/about/",
+        "view": "about",
+        "group": "entrance"
       }
     ]
   },
@@ -840,7 +1009,7 @@
           "enabled": false
         },
         "showcase": {
-          "enabled": true
+          "enabled": false
         },
         "roadmap": {
           "enabled": false
@@ -849,16 +1018,39 @@
     },
     "navigation": [
       {
-        "id": "home",
-        "label": "首页",
-        "href": "/",
-        "view": "home"
+        "id": "section-forums",
+        "label": "学术社区",
+        "href": "/archive/forums/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-software",
+        "label": "软件网站",
+        "href": "/archive/software/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-search",
+        "label": "学术检索",
+        "href": "/archive/search/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-courses",
+        "label": "课程资源",
+        "href": "/archive/courses/",
+        "view": "section",
+        "group": "section"
       },
       {
         "id": "feed",
-        "label": "发现与指南",
+        "label": "全部文章",
         "href": "/archive/",
         "view": "feed",
+        "group": "entrance",
         "match": [
           "/archive/",
           "/news/",
@@ -867,18 +1059,19 @@
         ]
       },
       {
-        "id": "showcase",
-        "label": "资源橱窗",
-        "href": "/showcase/",
-        "view": "showcase",
-        "module": "showcase"
-      },
-      {
         "id": "guestbook",
         "label": "留言板",
         "href": "/guestbook/",
         "view": "page",
-        "service": "guestbook"
+        "service": "guestbook",
+        "group": "entrance"
+      },
+      {
+        "id": "about",
+        "label": "关于",
+        "href": "/about/",
+        "view": "about",
+        "group": "entrance"
       }
     ]
   },
@@ -942,7 +1135,7 @@
           "enabled": false
         },
         "showcase": {
-          "enabled": true
+          "enabled": false
         },
         "roadmap": {
           "enabled": false
@@ -951,16 +1144,39 @@
     },
     "navigation": [
       {
-        "id": "home",
-        "label": "首页",
-        "href": "/",
-        "view": "home"
+        "id": "section-classics",
+        "label": "国学经典",
+        "href": "/archive/classics/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-interpretations",
+        "label": "易家之言",
+        "href": "/archive/interpretations/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-applications",
+        "label": "精品应用",
+        "href": "/archive/applications/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-courses",
+        "label": "课程资源",
+        "href": "/archive/courses/",
+        "view": "section",
+        "group": "section"
       },
       {
         "id": "feed",
-        "label": "国学文章",
+        "label": "全部文章",
         "href": "/archive/",
         "view": "feed",
+        "group": "entrance",
         "match": [
           "/archive/",
           "/news/",
@@ -969,11 +1185,19 @@
         ]
       },
       {
-        "id": "showcase",
-        "label": "资料橱窗",
-        "href": "/showcase/",
-        "view": "showcase",
-        "module": "showcase"
+        "id": "guestbook",
+        "label": "留言板",
+        "href": "/guestbook/",
+        "view": "page",
+        "service": "guestbook",
+        "group": "entrance"
+      },
+      {
+        "id": "about",
+        "label": "关于",
+        "href": "/about/",
+        "view": "about",
+        "group": "entrance"
       }
     ]
   },
@@ -1037,7 +1261,7 @@
           "enabled": false
         },
         "showcase": {
-          "enabled": true
+          "enabled": false
         },
         "roadmap": {
           "enabled": false
@@ -1046,16 +1270,39 @@
     },
     "navigation": [
       {
-        "id": "home",
-        "label": "首页",
-        "href": "/",
-        "view": "home"
+        "id": "section-courses",
+        "label": "课程学习",
+        "href": "/archive/courses/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-models",
+        "label": "模型前沿",
+        "href": "/archive/models/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-offers",
+        "label": "福利羊毛",
+        "href": "/archive/offers/",
+        "view": "section",
+        "group": "section"
+      },
+      {
+        "id": "section-certificates",
+        "label": "资质证书",
+        "href": "/archive/certificates/",
+        "view": "section",
+        "group": "section"
       },
       {
         "id": "feed",
-        "label": "学习指南",
+        "label": "全部文章",
         "href": "/archive/",
         "view": "feed",
+        "group": "entrance",
         "match": [
           "/archive/",
           "/news/",
@@ -1064,11 +1311,19 @@
         ]
       },
       {
-        "id": "showcase",
-        "label": "资源橱窗",
-        "href": "/showcase/",
-        "view": "showcase",
-        "module": "showcase"
+        "id": "guestbook",
+        "label": "留言板",
+        "href": "/guestbook/",
+        "view": "page",
+        "service": "guestbook",
+        "group": "entrance"
+      },
+      {
+        "id": "about",
+        "label": "关于",
+        "href": "/about/",
+        "view": "about",
+        "group": "entrance"
       }
     ]
   }
