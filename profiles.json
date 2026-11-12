@@ -485,7 +485,6 @@
         "href": "/archive/works/",
         "view": "section",
         "group": "section",
-        "localize": true,
         "labels": {
           "en": "Works",
           "ja": "作品",
@@ -499,7 +498,6 @@
         "href": "/archive/product-news/",
         "view": "section",
         "group": "section",
-        "localize": true,
         "labels": {
           "en": "Product news",
           "ja": "プロダクト情報",
@@ -513,9 +511,8 @@
         "href": "/archive/reflections/",
         "view": "section",
         "group": "section",
-        "localize": true,
         "labels": {
-          "en": "Product notes",
+          "en": "Product reflections",
           "ja": "プロダクト随想",
           "fr": "Réflexions produit",
           "es": "Reflexiones de producto"
@@ -527,7 +524,6 @@
         "href": "/archive/academic-notes/",
         "view": "section",
         "group": "section",
-        "localize": true,
         "labels": {
           "en": "Academic notes",
           "ja": "学術ノート",
@@ -547,7 +543,6 @@
           "/journal/",
           "/project-notes/"
         ],
-        "localize": true,
         "labels": {
           "en": "All articles",
           "ja": "すべての記事",
@@ -562,7 +557,6 @@
         "view": "page",
         "service": "guestbook",
         "group": "entrance",
-        "localize": true,
         "labels": {
           "en": "Guestbook",
           "ja": "掲示板",
