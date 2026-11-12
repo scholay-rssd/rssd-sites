@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "siteId": "lingxi",
+  "siteId": "xsime",
   "sections": [
     {
       "id": "tutorials",
@@ -56,11 +56,11 @@
   ],
   "hubs": [
     {
-      "id": "lingxi",
+      "id": "xsime",
       "name": "犀术 IME",
       "sectionId": "input-methods",
-      "route": "/projects/lingxi/",
-      "summary": "灵犀输入法的长期项目入口，汇集项目介绍和已公开的相关记录。",
+      "route": "/projects/xsime/",
+      "summary": "犀术输入法的长期项目入口，汇集项目介绍和已公开的相关记录。",
       "links": [
         {
           "label": "项目官网",

@@ -91,7 +91,7 @@
     },
     {
       "id": "rimes",
-      "name": "灵犀输入法 · RIMES",
+      "name": "犀术输入法 · RIMES",
       "sectionId": "input-method-projects",
       "route": "/projects/rimes/",
       "summary": "保留现有的输入法介绍、平台入口与输入方案目录。",

@@ -7,7 +7,7 @@
 | 站点 | siteId / spaceId | 数量 | 主要业务范围 |
 | --- | --- | ---: | --- |
 | 今日学术 | `scholay-today` / `academic` | 6 | 学界犀闻、学者观察、学术日历、学术资源 |
-| 犀术 IME | `lingxi` / `lingxi` | 5 | 开发日志、输入方案 |
+| 犀术 IME | `xsime` / `xsime` | 5 | 开发日志、输入方案 |
 | 小猪盖被 | `piggytuck` / `design` | 5 | 设计资讯、作品参考、精美图标、网页设计 |
 | 学术海 | `personal` / `personal` | 6 | 产品随想、产品资讯、项目动态、学术札记 |
 | 小猪萌宠 | `pets` / `pets` | 6 | 宠物资讯、每日一猫、每日一狗、异宠大全 |

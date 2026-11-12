@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <opml version="2.0">
   <head>
-    <title>today · lingxi · RSS 2026-10-13</title>
+    <title>today · xsime · RSS 2026-10-13</title>
   </head>
   <body>
     <outline text="中文输入方案" title="中文输入方案">
@@ -50,7 +50,7 @@
       <outline type="rss" text="geekhack - Interest Checks" title="geekhack - Interest Checks" xmlUrl="https://geekhack.org/index.php?action=.xml;type=rss;board=132.0" />
       <outline type="rss" text="splitkb.com blog" title="splitkb.com blog" xmlUrl="https://blog.splitkb.com/rss/" />
     </outline>
-    <outline text="灵犀输入法·公开进展" title="灵犀输入法·公开进展">
+    <outline text="犀术输入法·公开进展" title="犀术输入法·公开进展">
       <outline type="rss" text="scholay/rimes · 发布" title="scholay/rimes · 发布" xmlUrl="https://github.com/scholay/rimes/releases.atom" />
       <outline type="rss" text="scholay/rimes · 提交" title="scholay/rimes · 提交" xmlUrl="https://github.com/scholay/rimes/commits/main.atom" />
     </outline>

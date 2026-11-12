@@ -130,12 +130,12 @@
     ]
   },
   {
-    "id": "lingxi",
-    "spaceId": "lingxi",
+    "id": "xsime",
+    "spaceId": "xsime",
     "name": "犀术 IME",
     "domain": "输入法与输入体验",
     "origin": "https://xsime.com",
-    "description": "记录灵犀输入法的构建、输入方案与日常使用。",
+    "description": "记录犀术输入法的构建、输入方案与日常使用。",
     "accent": "#42604c",
     "homeMode": "engine",
     "columns": [
@@ -156,7 +156,7 @@
       "开放资源"
     ],
     "version": 1,
-    "author": "灵犀输入法",
+    "author": "犀术输入法",
     "timezone": "Asia/Shanghai",
     "retainLocal": true,
     "themeId": "docs",
@@ -207,7 +207,7 @@
       {
         "id": "product",
         "label": "产品介绍",
-        "href": "/projects/lingxi/",
+        "href": "/projects/xsime/",
         "view": "page"
       },
       {
