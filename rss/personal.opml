@@ -24,7 +24,7 @@
       <outline type="rss" text="少数派" title="少数派" xmlUrl="https://sspai.com/feed" />
       <outline type="rss" text="阮一峰的网络日志" title="阮一峰的网络日志" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml" />
     </outline>
-    <outline text="灵犀输入法·公开进展" title="灵犀输入法·公开进展">
+    <outline text="犀术输入法·公开进展" title="犀术输入法·公开进展">
       <outline type="rss" text="scholay/rimes · 发布" title="scholay/rimes · 发布" xmlUrl="https://github.com/scholay/rimes/releases.atom" />
       <outline type="rss" text="scholay/rimes · 提交" title="scholay/rimes · 提交" xmlUrl="https://github.com/scholay/rimes/commits/main.atom" />
     </outline>

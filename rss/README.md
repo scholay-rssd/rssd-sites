@@ -14,7 +14,7 @@
 | 本地工作区 | 新订阅包 | 原有来源保留 | 主要采编方向 |
 |---|---|---:|---|
 | Scholay Today | [academic.opml](academic.opml) | 191 | 项目合作线索、课程资源、开放科研机构 |
-| 灵犀输入法 | [lingxi.opml](lingxi.opml) | 7 | 输入法、方案、皮肤、键盘、开团、速录、灵犀公开进展 |
+| 犀术输入法 | [xsime.opml](xsime.opml) | 7 | 输入法、方案、皮肤、键盘、开团、速录、犀术公开进展 |
 | 视觉设计 | [design.opml](design.opml) | 0 | 视觉传达、字体排版、设计历史、博物馆及展览 |
 | 学术海 | [personal.opml](personal.opml) | 0 | 键盘、输入法、网站服务上游、开源工具、学术网站 |
 | 萌宠 | [pets.opml](pets.opml) | 5 | 每日一猫、每日一狗、宠物资讯、异宠、赛事展会线索 |
@@ -33,10 +33,10 @@
 
 - 输入法项目、中文方案、皮肤分别收录，键盘上游固件/工具和开团社区分开。
 - Geekhack Group Buys 与 Interest Checks 分开；意向征集不等于正式开团，论坛回复时间也不等于开团日期。
-- 灵犀公开 Release、main 提交流作为已公开进展来源；无私有令牌。提交、测试、平台验收、发布要分开描述。
+- 犀术公开 Release、main 提交流作为已公开进展来源；无私有令牌。提交、测试、平台验收、发布要分开描述。
 - 年度开团日程：只记录核验过的实际年份、开始/结束日期和链接，不自动每年重复。
 - 历史日历：依据原始史料的事件发生日，不用 RSS 发布日推断里程碑。CHM 等历史来源只是检索入口。
-- 灵犀年度进度：已完成项应有发布/验收依据；计划项来自经维护者确认的路线图，不能从提交预测。
+- 犀术年度进度：已完成项应有发布/验收依据；计划项来自经维护者确认的路线图，不能从提交预测。
 
 ### 设计站
 
@@ -48,7 +48,7 @@
 
 目标栏目：维护的键盘项目、输入法项目、网站服务项目，分享的开源工具项目、学术网站项目；前端无需日历。
 
-RSS 中的 QMK、ZMK、Rime、Tauri 等归为“上游动态”，不能表述为作者本人维护的项目。灵犀单列自己的公开进展。其他本人项目需补确切仓库/项目地址后才增加专属动态源；不访问或暴露私有仓库凭证。
+RSS 中的 QMK、ZMK、Rime、Tauri 等归为“上游动态”，不能表述为作者本人维护的项目。犀术单列自己的公开进展。其他本人项目需补确切仓库/项目地址后才增加专属动态源；不访问或暴露私有仓库凭证。
 
 ### 萌宠站
 
@@ -65,7 +65,7 @@ RSS 中的 QMK、ZMK、Rime、Tauri 等归为“上游动态”，不能表述�
 4. 历史年表、个人规划与未来日程不能靠新闻订阅自动获得；需要人工原子化整理和来源审核。
 5. 已剔除空 XML、HTML 页面、403/404、重复评论/子集流和多年停更的一般新闻源。维护型 GitHub 仓库即使很久未发布也可保留作版本/历史资料，不承诺活跃。
 
-公开来源参考：[Geekhack 开团](https://geekhack.org/index.php?board=70.0)、[灵犀公开仓库](https://github.com/scholay/rimes)、[The Carpentries](https://carpentries.org/blog/)、[Statistical Horizons](https://statisticalhorizons.com/)、[DARIAH 合作组](https://www.dariah.eu/network/working-groups)、[Interzoo 新闻与邮件订阅](https://www.interzoo.com/en/news)。
+公开来源参考：[Geekhack 开团](https://geekhack.org/index.php?board=70.0)、[犀术公开仓库](https://github.com/scholay/rimes)、[The Carpentries](https://carpentries.org/blog/)、[Statistical Horizons](https://statisticalhorizons.com/)、[DARIAH 合作组](https://www.dariah.eu/network/working-groups)、[Interzoo 新闻与邮件订阅](https://www.interzoo.com/en/news)。
 
 ## 本地导入验收
 

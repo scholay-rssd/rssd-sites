@@ -4,14 +4,14 @@
     "label": "学术",
     "source": "Root scholay-logo.png; existing Today website mark"
   },
-  "lingxi": {
-    "file": "lingxi-bw-v8.webp",
+  "xsime": {
+    "file": "xsime-bw-v8.webp",
     "label": "犀术 IME",
     "version": "bw-v8-20261017",
     "icons": {
-      "ico": "lingxi-bw-v8.ico",
-      "png32": "lingxi-bw-v8-32.png",
-      "apple": "lingxi-bw-v8-180.png"
+      "ico": "xsime-bw-v8.ico",
+      "png32": "xsime-bw-v8-32.png",
+      "apple": "xsime-bw-v8-180.png"
     },
     "source": "Owner-approved monochrome icon board, 2026-10-17, version 8"
   },
