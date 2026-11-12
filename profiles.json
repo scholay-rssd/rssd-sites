@@ -44,6 +44,7 @@
     ],
     "version": 1,
     "author": "Scholay 编辑部",
+    "cover": "/social-preview.png",
     "timezone": "Asia/Shanghai",
     "retainLocal": false,
     "themeId": "academic",
