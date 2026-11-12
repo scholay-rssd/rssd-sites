@@ -343,7 +343,7 @@
     "layout": "showcase",
     "services": {
       "guestbook": {
-        "enabled": false
+        "enabled": true
       }
     },
     "navigation": [
@@ -475,7 +475,7 @@
     "layout": "articles",
     "services": {
       "guestbook": {
-        "enabled": false
+        "enabled": true
       }
     },
     "navigation": [
@@ -646,7 +646,7 @@
     "layout": "showcase",
     "services": {
       "guestbook": {
-        "enabled": false
+        "enabled": true
       }
     },
     "navigation": [
@@ -755,7 +755,7 @@
     "layout": "articles",
     "services": {
       "guestbook": {
-        "enabled": false
+        "enabled": true
       }
     },
     "display": {
@@ -881,7 +881,7 @@
     "layout": "showcase",
     "services": {
       "guestbook": {
-        "enabled": false
+        "enabled": true
       }
     },
     "display": {
@@ -1133,7 +1133,7 @@
     "layout": "showcase",
     "services": {
       "guestbook": {
-        "enabled": false
+        "enabled": true
       }
     },
     "display": {
@@ -1259,7 +1259,7 @@
     "layout": "showcase",
     "services": {
       "guestbook": {
-        "enabled": false
+        "enabled": true
       }
     },
     "display": {
